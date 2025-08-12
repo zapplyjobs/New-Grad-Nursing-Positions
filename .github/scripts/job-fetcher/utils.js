@@ -179,6 +179,10 @@ function getExperienceLevel(title, description = '') {
 function getJobCategory(title, description = '') {
     const text = `${title} ${description}`.toLowerCase();
 
+    if (text.includes('Data Science') || text.includes('data science') ) {
+        return 'Data Science ';
+    }
+
     if (text.includes('hardware')|| text.includes('Hardware') ) {
         return 'Hardware Engineering';
     }
