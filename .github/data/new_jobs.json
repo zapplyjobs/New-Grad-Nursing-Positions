@@ -1,53 +1,42 @@
 [
   {
-    "job_title": "Delivery Consultant – Data & Analytics, AWS Professional Services",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Delivery Consultant – Data & Analytics, AWS Professional Services at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3059297/delivery-consultant-data-analytics-aws-professional-services",
-    "job_posted_at": "2025-08-13T21:23:10.894Z",
-    "job_posted_at_datetime_utc": "2025-08-13T21:23:10.894Z",
-    "id": "amazon-delivery-consultant-data-analytics-aws-professional-services-arlington"
-  },
-  {
     "employer_name": "Microsoft",
-    "job_title": "Technical Program Manager II",
+    "job_title": "Senior Data Scientist",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Technical Program Manager II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1834452/Technical-Program-Manager-II",
-    "id": "microsoft-technical-program-manager-ii-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Data Scientist",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854516/Senior-Data-Scientist",
+    "id": "microsoft-senior-data-scientist-redmond"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Manager, Data Science - Meraki",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "employer_name": "Microsoft",
+    "job_title": "Data Scientist II",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Manager, Data Science - Meraki - REMOTE at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Manager-Data-Science-Meraki-REMOTE/1448942",
-    "id": "cisco-manager-data-science-meraki-san-jose"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Scientist II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854527/Data-Scientist-II",
+    "id": "microsoft-data-scientist-ii-redmond"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist or AI Engineer",
-    "job_city": "US",
-    "job_state": "CT",
-    "job_posted_at": "11h ago",
-    "job_description": "data science job for the role Data Scientist or AI Engineer at Bristol, CT, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/153902289-data-scientist-or-ai-engineer",
-    "id": "aijobs-data-scientist-or-ai-engineer-us"
+    "employer_name": "Google",
+    "job_title": "Business Analyst Manager",
+    "job_city": "San Bruno",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "20 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Business Analyst Manager, Trust and Safety, YouTube",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/110475110489432774-business-analyst-manager-trust-and-safety-youtube?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-business-analyst-manager-san-bruno"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Applied AI Engineer",
-    "job_city": "US",
-    "job_state": "San Francisco Bay Area",
-    "job_posted_at": "12h ago",
-    "job_description": "data science job for the role Applied AI Engineer at San Francisco Bay Area, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/153902287-applied-ai-engineer",
-    "id": "aijobs-applied-ai-engineer-us"
+    "employer_name": "SIEMENS",
+    "job_title": "Application Support Engineer – Senior",
+    "job_city": "Plano",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Application Support Engineer – Senior at Plano, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-application-support-engineer-senior-plano"
   }
 ]
