@@ -1,322 +1,53 @@
 [
   {
+    "job_title": "Delivery Consultant – Data & Analytics, AWS Professional Services",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Delivery Consultant – Data & Analytics, AWS Professional Services at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3059297/delivery-consultant-data-analytics-aws-professional-services",
+    "job_posted_at": "2025-08-13T21:23:10.894Z",
+    "job_posted_at_datetime_utc": "2025-08-13T21:23:10.894Z",
+    "id": "amazon-delivery-consultant-data-analytics-aws-professional-services-arlington"
+  },
+  {
     "employer_name": "Microsoft",
-    "job_title": "Senior Software Engineer",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "job_title": "Technical Program Manager II",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Software Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859573/Senior-Software-Engineer",
-    "id": "microsoft-senior-software-engineer-multiple-locations"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Data Science Manager",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "0 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Data Science Manager, Workspace Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/85560837623685830-senior-data-science-manager-workspace-platform?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-data-science-manager-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Product Data Scientist",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "5 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Data Scientist, Education Data Science",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115381947416355526-product-data-scientist-education-data-science?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-product-data-scientist-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Staff Data Scientist",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "7 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Staff Data Scientist, Research, Search Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/129337889862361798-senior-staff-data-scientist-research-search-platforms?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-staff-data-scientist-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Customer Engagement",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "8 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Customer Engagement, Staff Data Scientist, Go-To-Market, Metrics",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113570088887427782-customer-engagement-staff-data-scientist-gotomarket-metrics?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-customer-engagement-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Staff Data Scientist",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "9 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Data Scientist, Applied Research, Search Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/135707648216441542-staff-data-scientist-applied-research-search-platforms?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-staff-data-scientist-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Data Scientist Manager",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "11 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Data Scientist Manager, Product, Play Store Apps",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/105846661799912134-senior-data-scientist-manager-product-play-store-apps?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-data-scientist-manager-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Data Scientist",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "12 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Data Scientist, Product",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/98339066214261446-senior-data-scientist-product?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-data-scientist-kirkland"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Staff Data Scientist",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "14 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Staff Data Scientist, Product",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/129580293941011142-senior-staff-data-scientist-product?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-staff-data-scientist-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Data Scientist Manager II",
-    "job_city": "San Bruno",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "15 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Data Scientist Manager II, Research, YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/143434586708157126-data-scientist-manager-ii-research-youtube?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-data-scientist-manager-ii-san-bruno"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Strategy and Operations Analyst",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "19 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Strategy and Operations Analyst, Go-to-Market",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/88201908308583110-strategy-and-operations-analyst-gotomarket?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-strategy-and-operations-analyst-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Quantitative UX Researcher",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "20 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Quantitative UX Researcher, Search Ads",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/95932997886190278-senior-quantitative-ux-researcher-search-ads?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-quantitative-ux-researcher-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Partner Solutions Architect",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_posted_at": "Recently",
-    "job_description": "27 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Partner Solutions Architect, AI/ML, GTM, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/127219341140599494-partner-solutions-architect-aiml-gtm-google-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-partner-solutions-architect-atlanta"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Student Researcher",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "28 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Student Researcher, BS/MS, Fall 2025",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124737151496528582-student-researcher-bsms-fall-2025?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-student-researcher-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Group Product Manager",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "30 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Group Product Manager, Generative AI, Google Cloud AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/73859076819165894-group-product-manager-generative-ai-google-cloud-ai?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-group-product-manager-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Lead Data Scientist",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "31 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Lead Data Scientist, Research, Multimodal Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/79591568326959814-lead-data-scientist-research-multimodal-search?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-lead-data-scientist-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Global Solutions Manager II",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "32 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Global Solutions Manager II, Vertex AI, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115709218824037062-global-solutions-manager-ii-vertex-ai-google-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-global-solutions-manager-ii-austin"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Global Solutions Manager",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "33 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Global Solutions Manager, Vertex AI, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/92687455383102150-global-solutions-manager-vertex-ai-google-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-global-solutions-manager-austin"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Product Manager",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "34 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Manager, Generative AI, Google Cloud AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/78397860818625222-senior-product-manager-generative-ai-google-cloud-ai?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-product-manager-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Engineering Analyst",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "35 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Engineering Analyst, AI Safety, Trust and Safety",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/117779527010001606-senior-engineering-analyst-ai-safety-trust-and-safety?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-engineering-analyst-seattle"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Research Lead",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "36 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Research Lead, Future of Work",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/116192952400650950-research-lead-future-of-work?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-research-lead-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "STS Security Engineer",
-    "job_city": "New York",
-    "job_state": "USA",
-    "job_posted_at": "Recently",
-    "job_description": "37 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: STS Security Engineer, Consultant, Mandiant, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83218014568096454-sts-security-engineer-consultant-mandiant-google-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-sts-security-engineer-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Product Manager",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "38 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Manager, Recommendation Models",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/89640377950053062-senior-product-manager-recommendation-models?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-product-manager-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Mixed Methods UX Researcher",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "39 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Mixed Methods UX Researcher, Google Identity and Engagement",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/132310629733016262-mixed-methods-ux-researcher-google-identity-and-engagement?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-mixed-methods-ux-researcher-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "UX Engineer",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "42 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: UX Engineer, Google Meet",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/134842130701918918-ux-engineer-google-meet?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-ux-engineer-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Staff Software Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "43 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Software Engineer, AI Data Generation",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113197457524826822-staff-software-engineer-ai-data-generation?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-staff-software-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineering Manager II",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "48 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Software Engineering Manager II, Experimentation and Instrumentation",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74774116917224134-software-engineering-manager-ii-experimentation-and-instrumentation?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-software-engineering-manager-ii-sunnyvale"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Technical Program Manager II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1834452/Technical-Program-Manager-II",
+    "id": "microsoft-technical-program-manager-ii-redmond"
   },
   {
     "employer_name": "CISCO",
-    "job_title": "Software Engineer I (Intern) United States",
+    "job_title": "Manager, Data Science - Meraki",
     "job_city": "San Jose",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer I (Intern) United States at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1448534",
-    "id": "cisco-software-engineer-i-intern-united-states-san-jose"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Embedded Engineer-(Linux)",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Embedded Engineer-(Linux) at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Embedded-Engineer-Linux/1444964",
-    "id": "cisco-embedded-engineer-linux-san-jose"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Solutions Engineer - Artificial Intelligence (AI)",
-    "job_city": "Offsite",
-    "job_state": "New York",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Solutions Engineer - Artificial Intelligence (AI) at Offsite, New York, New York, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Solutions-Engineer-Artificial-Intelligence-AI/1448300",
-    "id": "cisco-solutions-engineer-artificial-intelligence-ai-offsite"
+    "job_description": "Data Science job for the role Senior Manager, Data Science - Meraki - REMOTE at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Manager-Data-Science-Meraki-REMOTE/1448942",
+    "id": "cisco-manager-data-science-meraki-san-jose"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Analytics Engineer, Executive Reporting",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Analytics Engineer, Executive Reporting at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153355222-analytics-engineer-executive-reporting",
-    "id": "aijobs-analytics-engineer-executive-reporting-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI / Machine Learning Engineer",
+    "job_title": "Data Scientist or AI Engineer",
     "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "4d ago",
-    "job_description": "data science job for the role AI / Machine Learning Engineer at Santa Monica, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/153703932-ai-machine-learning-engineer",
-    "id": "aijobs-ai-machine-learning-engineer-us"
+    "job_state": "CT",
+    "job_posted_at": "11h ago",
+    "job_description": "data science job for the role Data Scientist or AI Engineer at Bristol, CT, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/153902289-data-scientist-or-ai-engineer",
+    "id": "aijobs-data-scientist-or-ai-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Applied AI Engineer",
+    "job_city": "US",
+    "job_state": "San Francisco Bay Area",
+    "job_posted_at": "12h ago",
+    "job_description": "data science job for the role Applied AI Engineer at San Francisco Bay Area, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/153902287-applied-ai-engineer",
+    "id": "aijobs-applied-ai-engineer-us"
   }
 ]
