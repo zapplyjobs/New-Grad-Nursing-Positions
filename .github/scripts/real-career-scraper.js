@@ -1,11 +1,5 @@
 const fs = require("fs");
 const { generateJobId } = require("./job-fetcher/utils");
-// const scrapeAmazonJobs = require('../../jobboard/src/backend/platforms/amazon/amazonScraper');
-// const googleScraper = require('../../jobboard/src/backend/platforms/google/googleScraper');
-// const scrapeMetaJobs = require('../../jobboard/src/backend/platforms/meta/metaScraper');
-// const microsoftScraper = require('../../jobboard/src/backend/platforms/microsoft/microsoftScraper');
-// const scrapeUberJobs = require('../../jobboard/src/backend/platforms/uber/uberScraper');
-// const scrapeSlackJobs = require('../../jobboard/src/backend/platforms/slack/slackScraper');
 const scrapeAmazonJobs = require("../../jobboard/src/backend/platforms/amazon/amazonScraper");
 const googleScraper = require("../../jobboard/src/backend/platforms/google/googleScraper");
 const scrapeMetaJobs = require("../../jobboard/src/backend/platforms/meta/metaScraper");
@@ -22,6 +16,10 @@ const siemensScraper = require("../../jobboard/src/backend/platforms/siemen/siem
 const analogScraper = require("../../jobboard/src/backend/platforms/analog/analogScraper");
 const MarvelScraper = require("../../jobboard/src/backend/platforms/marvel/marvelScraper");
 const aijobsScraper = require("../../jobboard/src/backend/platforms/ai/aijobsScraper");
+const waymoScraper = require("../../jobboard/src/backend/platforms/waymo/waymoScraper");
+const appliedMaterialsScraper = require("../../jobboard/src/backend/platforms/appliedMaterials/appliedMaterialsScraper");
+const synopsysScraper = require("../../jobboard/src/backend/platforms/synopsys/synopsysScraper");
+const illuminaScraper = require("../../jobboard/src/backend/platforms/illumina/illuminaScraper");
 
 // Load company database
 const companies = JSON.parse(
@@ -478,118 +476,142 @@ async function fetchAllRealJobs() {
   console.log("🚀 Starting REAL career page scraping...");
 
   const allJobs = [];
-  // const [amazonJobs, metaJobs, microsoftJobs, googleJobs, uberJobs, slackJobs] = await Promise.all([
-  //     scrapeAmazonJobs().catch(err => { console.error('❌ Amazon scraper failed:', err.message); return []; }),
-  //     scrapeMetaJobs().catch(err => { console.error('❌ Meta scraper failed:', err.message); return []; }),
-  //     microsoftScraper().catch(err => { console.error('❌ Microsoft scraper failed:', err.message); return []; }),
-  //     googleScraper().catch(err => { console.error('❌ Google scraper failed:', err.message); return []; }),
-  //     scrapeUberJobs().catch(err => { console.error('❌ Uber scraper failed:', err.message); return []; }),
-  //     scrapeSlackJobs().catch(err => { console.error('❌ Slack scraper failed:', err.message); return []; }),
-  // ]);
-
-  // allJobs.push(...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs, ...uberJobs, ...slackJobs);
-  // const [
-  //   amazon_Hardware,
-  //   meta_Hardware,
-  //   microsoft_Hardware,
-  //   google_Hardware,
-  //   arm_Hardware,
-  //   micron_Hardware,
-  //   ibm_Hardware,
-  //   abb_Hardware,
-  //   infineon_Hardware,
-  //   texas_Hardware,
-  //   cisco_Hardware,
-  //   siemens_Hardware,
-  //   analog_Hardware,
-  //   Marvel_Hardware,
-  //   aijobs_Hardware,
-  // ] = await Promise.all([
-  //   scrapeAmazonJobs("hardware engineering").catch(err => { console.error('❌ Amazon scraper failed:', err.message); return []; }),
-  //   scrapeMetaJobs("hardware engineering").catch(err => { console.error('❌ Meta scraper failed:', err.message); return []; }),
-  //   microsoftScraper("hardware engineering").catch(err => { console.error('❌ Microsoft scraper failed:', err.message); return []; }),
-  //   googleScraper("Hardware Engineering").catch(err => { console.error('❌ Google scraper failed:', err.message); return []; }),
-  //   armScraper("Hardware Engineering").catch(err => { console.error('❌ ARM scraper failed:', err.message); return []; }),
-  //   micronScraper("hardware engineering").catch(err => { console.error('❌ Micron scraper failed:', err.message); return []; }),
-  //   ibmScraper("Hardware Engineering").catch(err => { console.error('❌ IBM scraper failed:', err.message); return []; }) ,
-  //   abbScraper("hardware engineering").catch(err => { console.error('❌ ABB scraper failed:', err.message); return []; }),
-  //   infineonScraper("hardware engineering").catch(err => { console.error('❌ Infineon scraper failed:', err.message); return []; }),
-  //   texasScraper("hardware engineering").catch(err => { console.error('❌ Texas Instruments scraper failed:', err.message); return []; }),
-  //   ciscoScraper("hardware engineering").catch(err => { console.error('❌ Cisco scraper failed:', err.message); return []; }),
-  //   siemensScraper("hardware engineering").catch(err => { console.error('❌ Siemens scraper failed:', err.message); return []; }),
-  //   analogScraper("hardware engineering").catch(err => { console.error('❌ Analog Devices scraper failed:', err.message); return []; }),
-  //   MarvelScraper("hardware engineering").catch(err => { console.error('❌ Marvel scraper failed:', err.message); return []; }),
-  //   aijobsScraper("hardware engineering").catch(err => { console.error('❌ AI Jobs scraper failed:', err.message); return []; }),
-  // ]);
-
-  // allJobs.push(
-  //   ...amazon_Hardware,
-  //   ...meta_Hardware,
-  //   ...microsoft_Hardware,
-  //   ...google_Hardware,
-  //   ...arm_Hardware,
-  //   ...micron_Hardware,
-  //   ...ibm_Hardware,
-  //   ...abb_Hardware,
-  //   ...infineon_Hardware,
-  //   ...texas_Hardware,
-  //   ...cisco_Hardware,
-  //   ...siemens_Hardware,
-  //   ...analog_Hardware,
-  //   ...Marvel_Hardware,
-  //   ...aijobs_Hardware
-  // );
-
   const [
-      amazon_DataScience,
-      meta_DataScience,
-      microsoft_DataScience,
-      google_DataScience,
-      arm_DataScience,
-      micron_DataScience,
-      ibm_DataScience,
-      abb_DataScience,
-      infineon_DataScience,
-      texas_DataScience,
-      cisco_DataScience,
-      siemens_DataScience,
-      analog_DataScience,
-      Marvel_DataScience,
-      aijobs_DataScience,
-    ] = await Promise.all([
-      scrapeAmazonJobs("Data Science"),
-      scrapeMetaJobs("Data Science"),
-      microsoftScraper("data science"),
-      googleScraper("Data Science"),
-      armScraper("Data Science"),
-      micronScraper("Data Science"),
-      ibmScraper("Data Science"),
-      abbScraper("Data Science"),
-      infineonScraper("Data Science"),
-      texasScraper("Data Science"), 
-      ciscoScraper("Data Science"),
-      siemensScraper("Data Science"),
-      analogScraper("Data Science"),
-      MarvelScraper("Data Science"),
-      aijobsScraper("data science")
-    ]);
-    allJobs.push(
-      ...amazon_DataScience,
-      ...meta_DataScience,
-      ...microsoft_DataScience,
-      ...google_DataScience,
-      ...arm_DataScience,
-      ...micron_DataScience,
-      ...ibm_DataScience,
-      ...abb_DataScience,
-      ...infineon_DataScience,
-      ...texas_DataScience,
-      ...cisco_DataScience,
-      ...siemens_DataScience,
-      ...analog_DataScience,
-      ...Marvel_DataScience,
-      ...aijobs_DataScience
-    );
+    amazon_DataScience,
+    meta_DataScience,
+    microsoft_DataScience,
+    google_DataScience,
+    arm_DataScience,
+    micron_DataScience,
+    ibm_DataScience,
+    abb_DataScience,
+    infineon_DataScience,
+    texas_DataScience,
+    cisco_DataScience,
+    siemens_DataScience,
+    analog_DataScience,
+    Marvel_DataScience,
+    aijobs_DataScience,
+    waymo_DataScience,
+    appliedMaterials_DataScience,
+    synopsys_DataScience,
+    illumina_DataScience,
+  ] = await Promise.all([
+    scrapeAmazonJobs("Data Science").catch((err) => {
+      console.error("❌ Amazon scraper failed:", err.message);
+      return [];
+    }),
+
+    scrapeMetaJobs("Data Science").catch((err) => {
+      console.error("❌ Meta scraper failed:", err.message);
+      return [];
+    }),
+
+    microsoftScraper("data science").catch((err) => {
+      console.error("❌ Microsoft scraper failed:", err.message);
+      return [];
+    }),
+
+    googleScraper("Data Science").catch((err) => {
+      console.error("❌ Google scraper failed:", err.message);
+      return [];
+    }),
+
+    armScraper("Data Science").catch((err) => {
+      console.error("❌ ARM scraper failed:", err.message);
+      return [];
+    }),
+
+    micronScraper("Data Science").catch((err) => {
+      console.error("❌ Micron scraper failed:", err.message);
+      return [];
+    }),
+
+    ibmScraper("Data Science").catch((err) => {
+      console.error("❌ IBM scraper failed:", err.message);
+      return [];
+    }),
+
+    abbScraper("Data Science").catch((err) => {
+      console.error("❌ ABB scraper failed:", err.message);
+      return [];
+    }),
+
+    infineonScraper("Data Science").catch((err) => {
+      console.error("❌ Infineon scraper failed:", err.message);
+      return [];
+    }),
+
+    texasScraper("Data Science").catch((err) => {
+      console.error("❌ Texas Instruments scraper failed:", err.message);
+      return [];
+    }),
+
+    ciscoScraper("Data Science").catch((err) => {
+      console.error("❌ Cisco scraper failed:", err.message);
+      return [];
+    }),
+
+    siemensScraper("Data Science").catch((err) => {
+      console.error("❌ Siemens scraper failed:", err.message);
+      return [];
+    }),
+
+    analogScraper("Data Science").catch((err) => {
+      console.error("❌ Analog Devices scraper failed:", err.message);
+      return [];
+    }),
+
+    MarvelScraper("Data Science").catch((err) => {
+      console.error("❌ Marvel scraper failed:", err.message);
+      return [];
+    }),
+
+    aijobsScraper("data science").catch((err) => {
+      console.error("❌ AI Jobs scraper failed:", err.message);
+      return [];
+    }),
+    waymoScraper("Data Science").catch((err) => {
+      console.error("❌ Waymo scraper failed:", err.message);
+      return [];
+    }),
+
+    appliedMaterialsScraper("Data Science").catch((err) => {
+      console.error("❌ Applied Materials scraper failed:", err.message);
+      return [];
+    }),
+    synopsysScraper("Data Science").catch((err) => {
+      console.error("❌ Synopsys scraper failed:", err.message);
+      return [];
+    }),
+
+    illuminaScraper("Data Science").catch((err) => {
+      console.error("❌ Illumina scraper failed:", err.message);
+      return [];
+    }),
+  ]);
+
+  allJobs.push(
+    ...amazon_DataScience,
+    ...meta_DataScience,
+    ...microsoft_DataScience,
+    ...google_DataScience,
+    ...arm_DataScience,
+    ...micron_DataScience,
+    ...ibm_DataScience,
+    ...abb_DataScience,
+    ...infineon_DataScience,
+    ...texas_DataScience,
+    ...cisco_DataScience,
+    ...siemens_DataScience,
+    ...analog_DataScience,
+    ...Marvel_DataScience,
+    ...aijobs_DataScience,
+    ...waymo_DataScience,
+    ...appliedMaterials_DataScience,
+    ...synopsys_DataScience,
+    ...illumina_DataScience
+  );
 
   const companiesWithAPIs = Object.keys(CAREER_APIS);
 
@@ -622,7 +644,7 @@ async function fetchAllRealJobs() {
   console.log(`📊 Total jobs collected: ${allJobs.length}`);
   console.log(`🧹 After deduplication: ${uniqueJobs.length}`);
   console.log(`🏢 Companies with real API data: ${companiesWithAPIs.length}`);
-//   console.log(`📡 External job sources: ${externalJobs.length}`);
+  //   console.log(`📡 External job sources: ${externalJobs.length}`);
   console.log(`✅ REAL JOBS ONLY - No fake data!`);
 
   return uniqueJobs;
