@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "SENIOR APPLIED SCIENTIST",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "Arm",
+    "job_title": "Manager, Segment Marketing – Consumer Computing",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - SENIOR APPLIED SCIENTIST",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1829561/SENIOR-APPLIED-SCIENTIST",
-    "id": "microsoft-senior-applied-scientist-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Security Research Lead",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Security Research Lead",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1803172/Senior-Security-Research-Lead",
-    "id": "microsoft-senior-security-research-lead-multiple-locations"
+    "job_description": "Data Science job for the role Senior Manager, Segment Marketing – Consumer Computing at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/senior-manager-segment-marketing-consumer-computing/33099/82964257168",
+    "id": "arm-manager-segment-marketing-consumer-computing-taipei"
   }
 ]
