@@ -131,7 +131,7 @@ function convertDateToRelative(dateStr) {
   }
 }
 
-async function jpmcScraper(searchQuery, maxPages = 10) {
+async function honeywellScraper(searchQuery, maxPages = 10) {
   const browser = await puppeteer.launch({
     headless: true, // Set to true for production
     args: ['--no-sandbox', '--disable-setuid-sandbox']
@@ -143,10 +143,11 @@ async function jpmcScraper(searchQuery, maxPages = 10) {
   await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
   
   const allJobs = [];
-  const baseUrl = 'https://jpmc.fa.oraclecloud.com';
+  const baseUrl = 'https://careers.honeywell.com';
+
   try {
     // Construct URL with search query (no pagination)
-    const searchUrl = `${baseUrl}/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?keyword=${encodeURIComponent(searchQuery)}&location=United+States&locationId=300000000469866&locationLevel=country&mode=location`;
+    const searchUrl = `${baseUrl}/en/sites/Honeywell/jobs?keyword=${encodeURIComponent(searchQuery)}&location=United+States&locationId=300000000469866&locationLevel=country&mode=location`;
     
     console.log(`Searching for: "${searchQuery}"`);
     console.log(`Navigating to: ${searchUrl}`);
@@ -260,7 +261,7 @@ async function jpmcScraper(searchQuery, maxPages = 10) {
         
         // Format the job data
         const formattedJob = {
-          employer_name: "JP Morgan Chase",
+          employer_name: "HONEYWELL",
           job_title: cleanJobTitle(jobData.title),
           job_city: city,
           job_state: state,
@@ -306,16 +307,16 @@ async function main() {
     
     if (!searchQuery) {
       console.log('Please provide a search query!');
-      console.log('Usage: node jpmc Scraper.js hardware engineering');
-      console.log('Usage: node jpmc Scraper.js software');
-      console.log('Usage: node jpmc Scraper.js "data science"');
-      console.log('Or with quotes: node jpmc Scraper.js "machine learning"');
+      console.log('Usage: node honeywellScraper.js hardware engineering');
+      console.log('Usage: node honeywellScraper.js software');
+      console.log('Usage: node honeywellScraper.js "data science"');
+      console.log('Or with quotes: node honeywellScraper.js "machine learning"');
       console.log('Note: maxPages parameter controls number of pages to scrape');
       return;
     }
     
-    console.log(`=== Scraping jpmcScraper Careers for: "${searchQuery}" (10 pages max) ===`);
-    const jobs = await jpmcScraper(searchQuery, 10);
+    console.log(`=== Scraping Honeywell Careers for: "${searchQuery}" (10 pages max) ===`);
+    const jobs = await honeywellScraper(searchQuery, 10);
     console.log(`\n🎉 Scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`);
     
     // Display all scraped jobs
@@ -348,7 +349,7 @@ async function main() {
 }
 
 // Export the scraper function
-module.exports = jpmcScraper;
+module.exports = honeywellScraper;
 
 // Run if this file is executed directly
 

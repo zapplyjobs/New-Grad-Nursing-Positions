@@ -17,14 +17,13 @@ const analogScraper = require("../../jobboard/src/backend/platforms/analog/analo
 const MarvelScraper = require("../../jobboard/src/backend/platforms/marvel/marvelScraper");
 const aijobsScraper = require("../../jobboard/src/backend/platforms/ai/aijobsScraper");
 const waymoScraper = require("../../jobboard/src/backend/platforms/waymo/waymoScraper");
-const appliedMaterialsScraper = require("../../jobboard/src/backend/platforms/appliedMaterials/appliedMaterialsScraper");
-const synopsysScraper = require("../../jobboard/src/backend/platforms/synopsys/synopsysScraper");
 const illuminaScraper = require("../../jobboard/src/backend/platforms/illumina/illuminaScraper");
-const cloudflareScraper =require('../../jobboard/src/backend/platforms/cloudflare/cloudflareScraper');
-const genomicsScraper=require('../../jobboard/src/backend/platforms/genomics/genomicsScraper');
-const rivianScraper=require('../../jobboard/src/backend/platforms/rivian/rivianScraper');
-const jpmcScraper=require('../../jobboard/src/backend/platforms/jpmc/jpmcScraper');
-const cruiseJobsScraper=require('../../jobboard/src/backend/platforms/cruise/cruiseScraper')
+const synopsysScraper = require("../../jobboard/src/backend/platforms/synopsys/synopsysScraper");
+const appliedMaterialsScraper = require("../../jobboard/src/backend/platforms/appliedMaterials/appliedMaterialsScraper");
+const genomicsScraper = require("../../jobboard/src/backend/platforms/genomics/genomicsScraper");
+const rivianScraper = require("../../jobboard/src/backend/platforms/rivian/rivianScraper");
+const jpmcScraper = require("../../jobboard/src/backend/platforms/jpmc/jpmcScraper");
+const honeywellScraper = require("../../jobboard/src/backend/platforms/honeywell/honeywellScraper");
 // Load company database
 const companies = JSON.parse(
   fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
@@ -500,6 +499,11 @@ async function fetchAllRealJobs() {
     appliedMaterials_DataScience,
     synopsys_DataScience,
     illumina_DataScience,
+    genomics_DataScience,
+    rivian_DataScience,
+    jpmc_DataScience,
+    honeywell_DataScience,
+
   ] = await Promise.all([
     scrapeAmazonJobs("Data Science").catch((err) => {
       console.error("❌ Amazon scraper failed:", err.message);
@@ -593,10 +597,7 @@ async function fetchAllRealJobs() {
       console.error("❌ Illumina scraper failed:", err.message);
       return [];
     }),
-    cloudflareScraper("Data Science").catch((err) => {
-      console.error("❌ Cloudflare scraper failed:", err.message);
-      return [];
-    }),
+   
     genomicsScraper('Data Science').catch((err) => {
       console.error("❌ Genomics scraper failed:", err.message);
       return [];
@@ -609,10 +610,7 @@ async function fetchAllRealJobs() {
       console.error("❌ JPMorgan Chase scraper failed:", err.message);
       return [];
     }),
-    cruiseJobsScraper('Data Science').catch((err) => {
-      console.error("❌ Cruise scraper failed:", err.message);
-      return [];
-    })
+   
   ]);
 
   allJobs.push(
@@ -634,7 +632,11 @@ async function fetchAllRealJobs() {
     ...waymo_DataScience,
     ...appliedMaterials_DataScience,
     ...synopsys_DataScience,
-    ...illumina_DataScience
+    ...illumina_DataScience,
+    ...genomics_DataScience,
+    ...rivian_DataScience,
+    ...jpmc_DataScience,
+    ...honeywell_DataScience,
   );
 
   const companiesWithAPIs = Object.keys(CAREER_APIS);
