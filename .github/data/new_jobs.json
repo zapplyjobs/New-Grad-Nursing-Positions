@@ -1,82 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Senior/Staff/Principal Verification Engineer - Video",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior/Staff/Principal Verification Engineer - Video at Manchester, United Kingdom, Cambridge, United Kingdom, Bristol, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/senior-staff-principal-verification-engineer-video/33099/84401268624",
-    "id": "arm-senior-staff-principal-verification-engineer-video-manchester"
+    "employer_name": "AiJobs",
+    "job_title": "AI/ML Engineer - Fulltime - New Jersey",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "1w ago",
+    "job_description": "data science job for the role AI/ML Engineer - Fulltime - New Jersey at New Jersey, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/152831683-ai-ml-engineer-fulltime-new-jersey",
+    "id": "aijobs-ai-ml-engineer-fulltime-new-jersey-us"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Designer - AI Incubation",
-    "job_city": "New York",
+    "employer_name": "Apple",
+    "job_title": "BIM Systems Engineer, Data Center",
+    "job_city": "Sunnyvale",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Designer - AI Incubation at ProfessionalNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53262&source=WEB_Search_NA",
-    "id": "ibm-designer-ai-incubation-new-york"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Retail Pricing",
-    "job_city": "US",
-    "job_state": "FL",
-    "job_posted_at": "23h ago",
-    "job_description": "data science job for the role Data Scientist - Retail Pricing at Orlando, FL, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/155116525-data-scientist-retail-pricing",
-    "id": "aijobs-data-scientist-retail-pricing-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist (Fraud)",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "9h ago",
-    "job_description": "data science job for the role Data Scientist (Fraud) at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/155116520-data-scientist-fraud",
-    "id": "aijobs-data-scientist-fraud-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Automotive Data Scientist",
-    "job_city": "US",
-    "job_state": "MI",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Automotive Data Scientist at Saline, MI, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/155116524-automotive-data-scientist",
-    "id": "aijobs-automotive-data-scientist-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning (ML) Applications Engineer- Chemical Engineering",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "17h ago",
-    "job_description": "data science job for the role Machine Learning (ML) Applications Engineer- Chemical Engineering at Somerville, MA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/155116522-machine-learning-ml-applications-engineer-chemical-engineering",
-    "id": "aijobs-machine-learning-ml-applications-engineer-chemical-engineering-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "data scientist, Staffing- Data & Analytics (Seattle)",
-    "job_city": "US",
-    "job_state": "WA",
-    "job_posted_at": "23h ago",
-    "job_description": "data science job for the role data scientist, Staffing- Data & Analytics (Seattle) at Seattle, WA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/155116521-data-scientist-staffing-data-analytics-seattle",
-    "id": "aijobs-data-scientist-staffing-data-analytics-seattle-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Machine Learning (Multiple Levels) - Slack",
-    "job_city": "US",
-    "job_state": "WA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Software Engineer, Machine Learning (Multiple Levels) - Slack at Seattle, WA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/154519265-software-engineer-machine-learning-multiple-levels-slack",
-    "id": "aijobs-software-engineer-machine-learning-multiple-levels-slack-us"
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role BIM Systems Engineer, Data Center at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200600186-3956/bim-systems-engineer-data-center?team=HRDWR",
+    "id": "apple-bim-systems-engineer-data-center-sunnyvale"
   }
 ]
