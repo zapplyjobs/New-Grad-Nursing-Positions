@@ -1,1 +1,1360 @@
-[]
+[
+  {
+    "job_title": "Data Science Manager, Analytics",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +8 locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/1230546830998535",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-manager-analytics-sunnyvale"
+  },
+  {
+    "job_title": "Data Science Manager",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +3 locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/1225262605751030",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-manager-bellevue"
+  },
+  {
+    "job_title": "Data Science Director, Care",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/1771488720246891",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-director-care-menlo-park"
+  },
+  {
+    "job_title": "Data Science Manager",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/474695495645655",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-manager-multiple"
+  },
+  {
+    "job_title": "Data Science Manager, Monetization",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +5 locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/1229417152165739",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-manager-monetization-sunnyvale"
+  },
+  {
+    "job_title": "Data Science Manager, Demand Planning and Forecasting",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +3 locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/1099947622003204",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-manager-demand-planning-and-forecasting-bellevue"
+  },
+  {
+    "job_title": "Data Science Director",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +3 locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/3489873754638185",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-director-bellevue"
+  },
+  {
+    "job_title": "Financial Integrity Data Science Manager",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/1035682588090621",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-financial-integrity-data-science-manager-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Research Science Engineering",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Staff Engineer, Research Science Engineering at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Staff-Engineer--Research-Science-Engineering_R253611?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-research-science-engineering-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Market Strategy Lead – Life Sciences",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Market Strategy Lead – Life Sciences at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Pharma-Market-Discovery-Lead_R252017?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-market-strategy-lead-life-sciences-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Principal Engineer, Research Science Engineering",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Senior Principal Engineer, Research Science Engineering at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Principal-Engineer--Research-Science-Engineering_R251832?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-principal-engineer-research-science-engineering-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Advanced Photonics Leader",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Advanced Photonics Leader at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Advanced-Photonics-Leader_R251005?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-advanced-photonics-leader-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "BMS Algorithm Development Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role BMS Algorithm Development Engineer at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/BMS-Algorithm-Development-Engineer_R251646-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-bms-algorithm-development-engineer-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Global Account Manager",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Global Account Manager at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Diego-Avenue-of-Science/Global-Account-Manager_R253930?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-global-account-manager-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Director Finance, Analytics",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 24 Days Ago",
+    "job_description": "Data Science job for the role Director Finance, Analytics at 4 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Director-Finance--Analytics_R253402?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-director-finance-analytics-4-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Segment Market Analyst -  Automotive Insights",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Senior Segment Market Analyst -  Automotive Insights at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Segment-Market-Analyst----Automotive-Insights_R253132-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-segment-market-analyst-automotive-insights-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Sales Ops Analyst",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Sales Ops Analyst at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Sales-Ops-Analyst_R253631?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-sales-ops-analyst-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Manager, DevOps & AI/MLOps",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 9 Days Ago",
+    "job_description": "Data Science job for the role Senior Manager, DevOps & AI/MLOps at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Senior-Manager--DevOps---AI-MLOps_R254285?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-manager-devops-ai-mlops-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analyst, Information Technology",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted 25 Days Ago",
+    "job_description": "Data Science job for the role Senior Analyst, Information Technology at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Senior-Analyst--Information-Technology_R254044?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analyst-information-technology-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analyst, Supply Chain Planning",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Senior Analyst, Supply Chain Planning at US, CA, San Jose, Rio Robles",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Senior-Analyst--Supply-Chain-Planning_R251013?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analyst-supply-chain-planning-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Process/ Device  Engineer - Semiconductor",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Senior Process/ Device  Engineer - Semiconductor at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Process--Device--Engineer---Semiconductor_R254122?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-process-device-engineer-semiconductor-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Device Technologist",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 13 Days Ago",
+    "job_description": "Data Science job for the role Principal Device Technologist at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Principal-Device-Technologist_R254004?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-device-technologist-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Equipment Engineering",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Senior Engineer, Equipment Engineering at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Senior-Engineer--Equipment-Engineering_R242541?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-equipment-engineering-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Process Sustaining Engineering",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Engineer, Process Sustaining Engineering at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Engineer--Process-Sustaining-Engineering_R251918?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-process-sustaining-engineering-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Photolithography Senior Engineer, Equipment",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Photolithography Senior Engineer, Equipment at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Photolithography-Senior-Engineer--Equipment_R251968?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-photolithography-senior-engineer-equipment-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analyst, Supply Chain Planning (multiple openings)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Senior Analyst, Supply Chain Planning (multiple openings) at US, CA, San Jose, Rio Robles",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Senior-Analyst--Supply-Chain-Planning--multiple-openings-_R253272?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analyst-supply-chain-planning-multiple-openings-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Inspector, Quality Control (3rd Shift)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 25 Days Ago",
+    "job_description": "Data Science job for the role Lead Inspector, Quality Control (3rd Shift) at US, MA, Chelmsford, Alpha",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Lead-Inspector--Quality-Control--3rd-Shift-_R253911-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-inspector-quality-control-3rd-shift-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Associate Engineer, Process Sustaining Engineer",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted 20 Days Ago",
+    "job_description": "Data Science job for the role Associate Engineer, Process Sustaining Engineer at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Photolithography-Process-Engineer_R250996?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-associate-engineer-process-sustaining-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Quality Systems Engineering",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Quality Systems Engineering at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Quality-Systems-Engineering_R253012?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-quality-systems-engineering-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Manufacturing Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Manufacturing Engineer at US, MA, Chelmsford, Alpha",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Manufacturing-Engineer_R252696?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-manufacturing-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Semi Packaging Engineering",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Engineer, Semi Packaging Engineering at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Engineer--Semi-Packaging-Engineering_R252542?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-semi-packaging-engineering-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "- Principal Packaging Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Staff - Principal Packaging Engineer at US, CA, San Jose, Rio Robles",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Principal-Packaging-Engineer_R250721?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-principal-packaging-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Product Engineering (Prod Dev)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 25 Days Ago",
+    "job_description": "Data Science job for the role Senior Engineer, Product Engineering (Prod Dev) at US, CA, San Jose, Rio Robles",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Senior-Engineer--Product-Engineering--Prod-Dev-_R253905?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-product-engineering-prod-dev-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Designer, CAD Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Designer, CAD Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-CAD-Engineer_R251647?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-designer-cad-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Supply Chain Management Process/Systems Director",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Supply Chain Management Process/Systems Director at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Business-Process-Director_R252941?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-supply-chain-management-process-systems-director-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "2nd Shift Process Sustaining Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role 2nd Shift Process Sustaining Engineer at US, MA, Chelmsford, Alpha",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Engineer--Process-Sustaining-Engineering_R242025?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-2nd-shift-process-sustaining-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Equipment Engineering (Epitaxy)",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted 16 Days Ago",
+    "job_description": "Data Science job for the role Engineer, Equipment Engineering (Epitaxy) at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Engineer--Equipment-Engineering--Epitaxy-_R254185?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-equipment-engineering-epitaxy-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "B2B Delivery Lead / Sr. Manager",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role B2B Delivery Lead / Sr. Manager at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/B2B-Delivery-Lead---Sr-Manager_R252214?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-b2b-delivery-lead-sr-manager-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "IT Director – Strategy, Portfolio and Performance.",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role IT Director – Strategy, Portfolio and Performance. at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/IT-Director---Strategy--Portfolio-and-Performance_R251957?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-it-director-strategy-portfolio-and-performance-us"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Regional Compensation Leader",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Regional Compensation Leader at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Regional-Compensation-Leader_2501755?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-regional-compensation-leader-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Engineer, Architecture ASIC / System",
+    "job_city": "8 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 27 Days Ago",
+    "job_description": "Data Science job for the role Senior Principal Engineer, Architecture ASIC / System at 8 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Principal-Engineer--Architecture-ASIC---System_2501559?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-engineer-architecture-asic-system-8-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Verification Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "Data Science job for the role Principal Verification Engineer at Austin, TX",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Austin-TX/Principal-Verification-Engineer_2501493?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-verification-engineer-austin"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Digital IC Design Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "Data Science job for the role Senior Principal Digital IC Design Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Digital-IC-Design-Engineer_2501309?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-digital-ic-design-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Analog Mixed-Signal IC Design Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 3 Days Ago",
+    "job_description": "Data Science job for the role Senior Principal Analog Mixed-Signal IC Design Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Analog-Mixed-Signal-IC-Design-Engineer_2501562?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-analog-mixed-signal-ic-design-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Physical Design Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 4 Days Ago",
+    "job_description": "Data Science job for the role Senior Staff Physical Design Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Physical-Design-Engineer_2501299?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-physical-design-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Engineer - AI/Firmware Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 4 Days Ago",
+    "job_description": "Data Science job for the role Senior Principal Engineer - AI/Firmware Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Engineer---Firmware-Engineer_2501009?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-engineer-ai-firmware-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Advanced Packaging Thermal Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 5 Days Ago",
+    "job_description": "Data Science job for the role Advanced Packaging Thermal Engineer at Austin, TX",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Austin-TX/Advanced-Packaging-Thermal-Engineer_2500931?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-advanced-packaging-thermal-engineer-austin"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Director, SOC Design",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 5 Days Ago",
+    "job_description": "Data Science job for the role Director, SOC Design at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director--SOC-Design_2500430-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-director-soc-design-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Verification Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 5 Days Ago",
+    "job_description": "Data Science job for the role Principal Verification Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Verification-Engineer_2501494?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-verification-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Advanced Package Technology Engineer, Senior Staff",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 5 Days Ago",
+    "job_description": "Data Science job for the role Advanced Package Technology Engineer, Senior Staff at Austin, TX",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Austin-TX/Advanced-Package-Technology-Principal-Engineer_2500918?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-advanced-package-technology-engineer-senior-staff-austin"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Applications Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 6 Days Ago",
+    "job_description": "Data Science job for the role Staff Applications Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-Applications-Engineer_2501671?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-applications-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Physical Design Engineer",
+    "job_city": "Burlington",
+    "job_state": "VT",
+    "job_posted_at": "Posted 6 Days Ago",
+    "job_description": "Data Science job for the role Senior Staff Physical Design Engineer at Burlington, VT",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Senior-Staff-Physical-Design-Engineer_2501480?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-physical-design-engineer-burlington"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr. Staff Design Verification Engineer",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "Posted 10 Days Ago",
+    "job_description": "Data Science job for the role Sr. Staff Design Verification Engineer at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Sr-Staff-Design-Verification-Engineer_2501804-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-staff-design-verification-engineer-westborough"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Static Timing Analysis (STA) Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 10 Days Ago",
+    "job_description": "Data Science job for the role Principal Static Timing Analysis (STA) Engineer at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Static-Timing-Analysis--STA--Engineer_2501363?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-static-timing-analysis-sta-engineer-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Product Marketing Director",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 10 Days Ago",
+    "job_description": "Data Science job for the role Product Marketing Director at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Product-Marketing-Director_2501738?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-product-marketing-director-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Professional – Oracle EBS / Oracle Cloud Supply Chain (Technical, AI, and High-Tech Industry Expertise)",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 11 Days Ago",
+    "job_description": "Data Science job for the role Principal Professional – Oracle EBS / Oracle Cloud Supply Chain (Technical, AI, and High-Tech Industry Expertise) at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Professional---Oracle-EBS---Oracle-Cloud-Supply-Chain--Technical--AI--and-High-Tech-Industry-Expertise-_2501700?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-professional-oracle-ebs-oracle-cloud-supply-chain-technical-ai-and-high-tech-industry-expertise-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Application Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 11 Days Ago",
+    "job_description": "Data Science job for the role Senior Staff Application Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Application-Engineer_2501552?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-application-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Application Engineering",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Staff Engineer, Application Engineering at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-Engineer--Application-Engineering_2501683?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-application-engineering-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Analog IC Design Engineer",
+    "job_city": "Minnetonka",
+    "job_state": "MN",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Principal Analog IC Design Engineer at Minnetonka, MN",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Minnetonka-MN/Principal-Analog-IC-Design-Engineer_2501446?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-analog-ic-design-engineer-minnetonka"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Verification Engineer, Senior Staff",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Verification Engineer, Senior Staff at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Verification-Engineer--Senior-Staff_2501698?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-verification-engineer-senior-staff-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Enterprise Security Architect",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Enterprise Security Architect at 3 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Enterprise-Security-Architect_2501759?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-enterprise-security-architect-3-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Design Verification Staff Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Design Verification Staff Engineer at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Design-Verification-Staff-Engineer_2501795?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-design-verification-staff-engineer-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Digital IC Design Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Principal Digital IC Design Engineer at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Principal-Digital-IC-Design-Engineer_2501752?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-digital-ic-design-engineer-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Technical Program Manager",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 17 Days Ago",
+    "job_description": "Data Science job for the role Senior Principal Technical Program Manager at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Engineering-Program-Manager_2501676?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-technical-program-manager-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Hyperscale Global Account Manager",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 19 Days Ago",
+    "job_description": "Data Science job for the role Hyperscale Global Account Manager at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Hyperscale-Global-Account-Manager_2501758?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-hyperscale-global-account-manager-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Design Verification",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 23 Days Ago",
+    "job_description": "Data Science job for the role Principal Engineer, Design Verification at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Morrisville-NC/Principal-Engineer--Design-Verification_2501673?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-design-verification-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Design Verification Senior Staff Engineer",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "Posted 23 Days Ago",
+    "job_description": "Data Science job for the role Design Verification Senior Staff Engineer at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Design-Verification-Senior-Staff-Engineer_2501695?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-design-verification-senior-staff-engineer-westborough"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Package Development, Signal Integrity and Power Integrity Engineer, Senior Staff",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 23 Days Ago",
+    "job_description": "Data Science job for the role Package Development, Signal Integrity and Power Integrity Engineer, Senior Staff at Austin, TX",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Austin-TX/Package-Development--Signal-Integrity-and-Power-Integrity-Engineer--Senior-Staff_2501654-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-package-development-signal-integrity-and-power-integrity-engineer-senior-staff-austin"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer - Design For Test (DFT)",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 24 Days Ago",
+    "job_description": "Data Science job for the role Principal Engineer - Design For Test (DFT) at 3 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Morrisville-NC/Principal-Engineer---Design-For-Test--DFT-_2501669?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-design-for-test-dft-3-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Software Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 24 Days Ago",
+    "job_description": "Data Science job for the role Senior Staff Software Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Software-Engineer_2501061?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-software-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr Staff Physical Design Engineer - Static Timing Analysis",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "Posted 27 Days Ago",
+    "job_description": "Data Science job for the role Sr Staff Physical Design Engineer - Static Timing Analysis at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Sr-Staff-Physical-Design-Engineer---Static-Timing-Analysis_2501621?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-staff-physical-design-engineer-static-timing-analysis-westborough"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Verification Engineer",
+    "job_city": "US - ID - Boise",
+    "job_state": "",
+    "job_posted_at": "Posted 27 Days Ago",
+    "job_description": "Data Science job for the role Principal Verification Engineer at US - ID - Boise",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US---ID---Boise/Principal-Verification-Engineer_2501499?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-verification-engineer-us-id-boise"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Verification Engineer",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "Posted 27 Days Ago",
+    "job_description": "Data Science job for the role Senior Staff Verification Engineer at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Staff-Verification-Engineer_2501495?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-verification-engineer-westborough"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Demand Planner",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 27 Days Ago",
+    "job_description": "Data Science job for the role Demand Planner at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Demand-Planner_2501607?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-demand-planner-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Design For Test",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "Posted 30 Days Ago",
+    "job_description": "Data Science job for the role Principal Engineer, Design For Test at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Principal-Engineer--Design-For-Test_2501513?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-design-for-test-westborough"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Design Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Principal Design Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Design-Engineer_2501269?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-design-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Cloud Custom Silicon Senior Director of Program Management",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Cloud Custom Silicon Senior Director of Program Management at 3 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Cloud-Custom-Silicon-Senior-Director-of-Program-Management_2501609?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-cloud-custom-silicon-senior-director-of-program-management-3-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Insider Threat Program Lead",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Insider Threat Program Lead at 3 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Insider-Threat-Program-Lead_2500450-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-insider-threat-program-lead-3-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Product Management Director",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Product Management Director at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Product-Management-Director_2501573?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-product-management-director-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Distinguished Engineer, Switch Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Distinguished Engineer, Switch Architect at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Switch-Architect_2500949?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-distinguished-engineer-switch-architect-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Engineer - Applications Engineering",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Senior Staff Engineer - Applications Engineering at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Applications-Engineering---Staff_2501475?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-engineer-applications-engineering-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "SaaS and Cloud Access Security Platform Engineer",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role SaaS and Cloud Access Security Platform Engineer at 3 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/SaaS-and-Cloud-Access-Security-Platform-Engineer_2500068?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-saas-and-cloud-access-security-platform-engineer-3-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Package Development, Signal Integrity and Power Integrity Engineer, Staff",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Package Development, Signal Integrity and Power Integrity Engineer, Staff at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Package-Development--Signal-Integrity-and-Power-Integrity-Engineer--Staff_2501004?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-package-development-signal-integrity-and-power-integrity-engineer-staff-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Design Verification",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Principal Engineer, Design Verification at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Principal-Engineer--Design-Verification_2501550?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-design-verification-westborough"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Engineer, Physical Design",
+    "job_city": "Morrisville",
+    "job_state": "NC",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Senior Staff Engineer, Physical Design at Morrisville, NC",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Morrisville-NC/Senior-Staff-Engineer--Physical-Design_2501365?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-engineer-physical-design-morrisville"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Director AI Enablement Lead",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Senior Director AI Enablement Lead at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Director-AI-Enablement-Lead_2500947?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-director-ai-enablement-lead-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Physical Design",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Staff Engineer, Physical Design at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-Engineer--Physical-Design_2501366?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-physical-design-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Analog IC Design Engineer, Senior Staff",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Analog IC Design Engineer, Senior Staff at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Analog-IC-Design-Engineer--Principal_2402217?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-analog-ic-design-engineer-senior-staff-irvine"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Application Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Application Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Application-Engineer_2501314?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-application-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Design Verification Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Senior Principal Design Verification Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Design-Verification-Engineer_2501284?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-design-verification-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Design Verification Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Principal Design Verification Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Design-Verification-Engineer_2501283?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-design-verification-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Design Verification Engineer, Senior Staff",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Design Verification Engineer, Senior Staff at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Engineer--Senior-Staff_2501199?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-design-verification-engineer-senior-staff-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Engineer - Design For Test (DFT)",
+    "job_city": "Morrisville",
+    "job_state": "NC",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Senior Principal Engineer - Design For Test (DFT) at Morrisville, NC",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Morrisville-NC/Senior-Principal-Engineer---Design-For-Test--DFT-_2500638?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-engineer-design-for-test-dft-morrisville"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Analog IC Design Engineer, Principal",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Analog IC Design Engineer, Principal at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Analog-IC-Design-Engineer--Principal_2402472?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-analog-ic-design-engineer-principal-irvine"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr. Principal Custom Memory Architect",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Sr. Principal Custom Memory Architect at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Sr-Principal-Custom-Memory-Architect_2500813?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-principal-custom-memory-architect-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Analog Mixed Signal IC Design Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Principal Analog Mixed Signal IC Design Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Analog-Mixed-Signal-IC-Design-Engineer_2500692?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-analog-mixed-signal-ic-design-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr. Principal Package Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Sr. Principal Package Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Sr-Principal-Package-Engineer_2500618?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-principal-package-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "DSP Systems Architect",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role DSP Systems Architect at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US---CA---Santa-Clara---Marvell-Park/DSP-Systems-Architect_2401990?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-dsp-systems-architect-2-locations"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr. Director, Global Commercial FP&A, Business Insights & Data Science (San Diego/Hybrid)",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "Data Science job for the role Sr. Director, Global Commercial FP&A, Business Insights & Data Science (San Diego/Hybrid) at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Sr-Director--Global-Commercial-FP-A--Business-Insights---Data-Science--San-Diego-Hybrid-_41191-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-director-global-commercial-fp-a-business-insights-data-science-san-diego-hybrid-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Director, SAP Data & Analytics",
+    "job_city": "US - California - San Diego - HQ",
+    "job_state": "",
+    "job_posted_at": "Posted 9 Days Ago",
+    "job_description": "Data Science job for the role Director, SAP Data & Analytics at US - California - San Diego - HQ",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego---HQ/Director--SAP-Data---Analytics_41161-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-director-sap-data-analytics-us-california-san-diego-hq"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Staff, Global Operations Reporting SME (SAP HANA)",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Staff, Global Operations Reporting SME (SAP HANA) at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Staff--Global-Operations-Reporting-SME--SAP-HANA-_40638-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-staff-global-operations-reporting-sme-sap-hana-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Informatics Sales Specialist - South",
+    "job_city": "8 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Senior Informatics Sales Specialist - South at 8 Locations",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---North-Carolina---Remote/Senior-Informatics-Sales-Specialist---South_40561-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-informatics-sales-specialist-south-8-locations"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr. Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote)",
+    "job_city": "7 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 10 Days Ago",
+    "job_description": "Data Science job for the role Sr. Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote) at 7 Locations",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego---HQ/Senior-Deep-Learning-AI-Engineer_40197-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-deep-learning-ai-engineer-machine-learning-hybrid-or-remote-7-locations"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Software Signal Processing Engineer/Scientist",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Staff Software Signal Processing Engineer/Scientist at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Staff-Bioinformatics-Signal-Processing-Engineer-Scientist_40105-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-software-signal-processing-engineer-scientist-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Manager Sales Specialists",
+    "job_city": "US - Remote",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Manager Sales Specialists at US - Remote",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Remote/Manager-Sales-Specialists_40629-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-manager-sales-specialists-us-remote"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Staff Program Manager - Sequencing Platforms",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Senior Staff Program Manager - Sequencing Platforms at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Senior-Staff-Program-Manager---Sequencing-Platforms_40319-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-staff-program-manager-sequencing-platforms-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Engineer 2 / Senior Engineer - Process Development",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 20 Days Ago",
+    "job_description": "Data Science job for the role Engineer 2 / Senior Engineer - Process Development at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Engineer-2---Senior-Engineer---Process-Development_41046-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-engineer-2-senior-engineer-process-development-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Director, Product Management – Multiomics & NGS Applications",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Director, Product Management – Multiomics & NGS Applications at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Director--Product-Management---Multiomics---NGS-Applications_40998-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-director-product-management-multiomics-ngs-applications-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr. District Sales Manager",
+    "job_city": "US - Tennessee - Remote",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Sr. District Sales Manager at US - Tennessee - Remote",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Tennessee---Remote/Sr-District-Sales-Manager_40659-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-district-sales-manager-us-tennessee-remote"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Engineer 2 - Process Development",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 20 Days Ago",
+    "job_description": "Data Science job for the role Engineer 2 - Process Development at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Engineer-2---Process-Development_40893-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-engineer-2-process-development-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Manufacturing Equipment Engineer (E2/Sr)",
+    "job_city": "US - Wisconsin - Madison",
+    "job_state": "",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Manufacturing Equipment Engineer (E2/Sr) at US - Wisconsin - Madison",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Wisconsin---Madison/Manufacturing-Equipment-Engineer--E2-Sr-_41105-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-manufacturing-equipment-engineer-e2-sr-us-wisconsin-madison"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr Project Manager - Technical, New Product Introduction (NPI)",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 20 Days Ago",
+    "job_description": "Data Science job for the role Sr Project Manager - Technical, New Product Introduction (NPI) at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Sr-Project-Manager---Technical--New-Product-Introduction--NPI-_41041-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-project-manager-technical-new-product-introduction-npi-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr Territory Account Manager - Raleigh",
+    "job_city": "US - North Carolina - Remote",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Sr Territory Account Manager - Raleigh at US - North Carolina - Remote",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---North-Carolina---Remote/Sr-Territory-Account-Manager---NC-Coast_39674-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-territory-account-manager-raleigh-us-north-carolina-remote"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Territory Account Manager - Healthcare",
+    "job_city": "US - Ohio - Remote",
+    "job_state": "",
+    "job_posted_at": "Posted 11 Days Ago",
+    "job_description": "Data Science job for the role Senior Territory Account Manager - Healthcare at US - Ohio - Remote",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Ohio---Remote/Senior-Territory-Account-Manager---Healthcare_40558-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-territory-account-manager-healthcare-us-ohio-remote"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Territory Account Manager, Healthcare - Texas",
+    "job_city": "US - Remote",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Senior Territory Account Manager, Healthcare - Texas at US - Remote",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Remote/Senior-Territory-Account-Manager--Healthcare---Texas_40976-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-territory-account-manager-healthcare-texas-us-remote"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Territory Account Manager, Healthcare - GA/AL",
+    "job_city": "US - Georgia - Remote",
+    "job_state": "",
+    "job_posted_at": "Posted 5 Days Ago",
+    "job_description": "Data Science job for the role Senior Territory Account Manager, Healthcare - GA/AL at US - Georgia - Remote",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Georgia---Remote/Senior-Territory-Account-Manager--Healthcare---GA-AL_41097-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-territory-account-manager-healthcare-ga-al-us-georgia-remote"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Contract Lifecycle Management Capability Owner",
+    "job_city": "US - California - Southern - Remote",
+    "job_state": "",
+    "job_posted_at": "Posted 20 Days Ago",
+    "job_description": "Data Science job for the role Contract Lifecycle Management Capability Owner at US - California - Southern - Remote",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---Southern---Remote/Contract-Lifecycle-Management-Capability-Owner_40487-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-contract-lifecycle-management-capability-owner-us-california-southern-remote"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr. Software Quality Engineer (Cybersecurity)",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 20 Days Ago",
+    "job_description": "Data Science job for the role Sr. Software Quality Engineer (Cybersecurity) at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Sr-Software-Quality-Engineer--Cybersecurity-_41037-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-software-quality-engineer-cybersecurity-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Executive Healthcare Territory Account Manager - Los Angeles",
+    "job_city": "US - California - Southern - Remote",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Executive Healthcare Territory Account Manager - Los Angeles at US - California - Southern - Remote",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---Southern---Remote/Executive-Healthcare-Territory-Account-Manager---Los-Angeles_40436-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-executive-healthcare-territory-account-manager-los-angeles-us-california-southern-remote"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Territory Account Manager",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 25 Days Ago",
+    "job_description": "Data Science job for the role Senior Territory Account Manager at 2 Locations",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Kansas---Remote/Senior-Territory-Account-Manager_41058-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-territory-account-manager-2-locations"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Genomics Sales Representative (Inside Sales – Greater Boston Remote)",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 17 Days Ago",
+    "job_description": "Data Science job for the role Genomics Sales Representative (Inside Sales – Greater Boston Remote) at 2 Locations",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Massachusetts---Remote/Genomics-Sales-Representative--Inside-Sales---Greater-Boston-Remote-_41042-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-genomics-sales-representative-inside-sales-greater-boston-remote-2-locations"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr Product Security Engineer",
+    "job_city": "US - California - San Diego - HQ",
+    "job_state": "",
+    "job_posted_at": "Posted 18 Days Ago",
+    "job_description": "Data Science job for the role Sr Product Security Engineer at US - California - San Diego - HQ",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego---HQ/Sr-Product-Security-Engineer_40756-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-product-security-engineer-us-california-san-diego-hq"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Product Security Architect/Sr Architect",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 6 Days Ago",
+    "job_description": "Data Science job for the role Product Security Architect/Sr Architect at 2 Locations",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego---HQ/Product-Security-Architect-Sr-Architect_41139-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-product-security-architect-sr-architect-2-locations"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Project Manager, Technical",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 16 Days Ago",
+    "job_description": "Data Science job for the role Senior Project Manager, Technical at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Senior-Project-Manager--Technical_40921-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-project-manager-technical-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr. Manager, Customer Experience",
+    "job_city": "US - California - Southern - Remote",
+    "job_state": "",
+    "job_posted_at": "Posted 25 Days Ago",
+    "job_description": "Data Science job for the role Sr. Manager, Customer Experience at US - California - Southern - Remote",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---Southern---Remote/Sr-Manager--Customer-Experience_40825-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-manager-customer-experience-us-california-southern-remote"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr. Product Manager, High Throughput NGS Systems",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Sr. Product Manager, High Throughput NGS Systems at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Sr-Product-Manager--High-Throughput-NGS-Systems_40624-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-product-manager-high-throughput-ngs-systems-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Vice President of Global Quality",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 17 Days Ago",
+    "job_description": "Data Science job for the role Vice President of Global Quality at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Vice-President-of-Global-Quality_41123-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-vice-president-of-global-quality-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Customer Care Specialist",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 16 Days Ago",
+    "job_description": "Data Science job for the role Customer Care Specialist II at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Customer-Care-Specialist-II_40991-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-customer-care-specialist-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Field Marketing Lead - US West & Central",
+    "job_city": "8 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 25 Days Ago",
+    "job_description": "Data Science job for the role Field Marketing Lead - US West & Central at 8 Locations",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---Southern---Remote/Sr-Staff-Sub-Regional-Marketing-Business-Partner---US1---West---Central_40480-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-field-marketing-lead-us-west-central-8-locations"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Field Marketing Lead - US Northeast & South",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 25 Days Ago",
+    "job_description": "Data Science job for the role Field Marketing Lead - US Northeast & South at 6 Locations",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---New-York---Remote/Sr-Staff-Sub-Regional-Marketing-Business-Partner---US1---Northeast---South_40481-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-field-marketing-lead-us-northeast-south-6-locations"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "VP, Product and Segment Marketing",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role VP, Product and Segment Marketing at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/VP--Product-and-Segment-Marketing_40454-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-vp-product-and-segment-marketing-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr Staff Sourcing Manager (CMO and Partnerships)",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Sr Staff Sourcing Manager (CMO and Partnerships) at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Sr-Staff-Sourcing-Manager--CMO-and-Partnerships-_40314-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-staff-sourcing-manager-cmo-and-partnerships-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr Staff Strategic Sourcing Manager",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 10 Days Ago",
+    "job_description": "Data Science job for the role Sr Staff Strategic Sourcing Manager at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Sr-Staff-Strategic-Sourcing-Manager_41115-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-staff-strategic-sourcing-manager-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr Manager, Design and Construction (Lab Facilities)",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "Data Science job for the role Sr Manager, Design and Construction (Lab Facilities) at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Sr-Manager--Design-and-Construction--Lab-Facilities-_40705-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-manager-design-and-construction-lab-facilities-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr. Director, Workflow Marketing",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 18 Days Ago",
+    "job_description": "Data Science job for the role Sr. Director, Workflow Marketing at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Sr-Director--Workflow-Marketing_40985-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-director-workflow-marketing-us-california-san-diego"
+  }
+]
