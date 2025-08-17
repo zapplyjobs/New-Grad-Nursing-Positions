@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Product, Play Data Science and Analytics",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role Data Scientist, Product, Play Data Science and Analytics at Mountain View, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/155510225-data-scientist-product-play-data-science-and-analytics",
-    "id": "aijobs-data-scientist-product-play-data-science-and-analytics-us"
+    "employer_name": "Arm",
+    "job_title": "DevOps and SRE Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior DevOps and SRE Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-devops-and-sre-engineer/33099/83568179056",
+    "id": "arm-devops-and-sre-engineer-cambridge"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Privacy - TikTok",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "15h ago",
-    "job_description": "data science job for the role Data Scientist, Privacy - TikTok at San Jose, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/155510226-data-scientist-privacy-tiktok",
-    "id": "aijobs-data-scientist-privacy-tiktok-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Research, YouTube Ads",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Data Scientist, Research, YouTube Ads at Mountain View, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/155510228-data-scientist-research-youtube-ads",
-    "id": "aijobs-data-scientist-research-youtube-ads-us"
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff/Principal Design Engineer - Video",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior/Staff/Principal Design Engineer - Video at Manchester, United Kingdom, Cambridge, United Kingdom, Bristol, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/senior-staff-principal-design-engineer-video/33099/84401269216",
+    "id": "arm-senior-staff-principal-design-engineer-video-manchester"
   }
 ]
