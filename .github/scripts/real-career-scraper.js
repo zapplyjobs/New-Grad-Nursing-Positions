@@ -28,6 +28,18 @@ const amdScraper = require("../../jobboard/src/backend/platforms/amd/amdScraper"
 const nvidiaScraper = require("../../jobboard/src/backend/platforms/nvidia/nvidiaScraper");
 const appleScraper = require("../../jobboard/src/backend/platforms/apple/appleScraper");
 const intelScraper = require("../../jobboard/src/backend/platforms/intel/intelScraper");
+const adobeScraper = require("../../jobboard/src/backend/platforms/adobe/adobeScraper");
+const boozallenScraper = require("../../jobboard/src/backend/platforms/boozallen/boozallenScraper");
+const broadcomScraper = require("../../jobboard/src/backend/platforms/broadcom/broadcomScraper");
+const dellScraper = require("../../jobboard/src/backend/platforms/dell/dellScraper");
+const gditScraper = require("../../jobboard/src/backend/platforms/gdit/gditScraper");
+const guidehouseScraper = require("../../jobboard/src/backend/platforms/guidehouse/guidehouseScraper");
+const hpeScraper = require("../../jobboard/src/backend/platforms/hpe/hpeScraper");
+const magnaScraper = require("../../jobboard/src/backend/platforms/magna/magnaScraper");
+const salesforceScraper = require("../../jobboard/src/backend/platforms/salesforce/salesforceScraper");
+const verizonScraper = require("../../jobboard/src/backend/platforms/verizon/verizonScraper");
+const workdayScraper = require("../../jobboard/src/backend/platforms/workday/workdayScraper");
+
 // Load company database
 const companies = JSON.parse(
   fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
@@ -511,6 +523,16 @@ async function fetchAllRealJobs() {
     nvidia_DataScience,
     apple_DataScience,
     intel_DataScience,
+    boozallen_DataScience,
+    broadcom_DataScience,
+    dell_DataScience,
+    gdit_DataScience,
+    guidehouse_DataScience,
+    hpe_DataScience,
+    magna_DataScience,
+    salesforce_DataScience,
+    verizon_DataScience,
+    workday_DataScience,
   ] = await Promise.all([
     scrapeAmazonJobs("Data Science").catch((err) => {
       console.error("❌ Amazon scraper failed:", err.message);
@@ -637,6 +659,46 @@ async function fetchAllRealJobs() {
       console.error("❌ Intel scraper failed:", err.message);
       return [];
     }),
+    boozallenScraper('Data Science').catch((err) => {
+      console.error("❌ Booz Allen Hamilton scraper failed:", err.message);
+      return [];
+    }),
+    broadcomScraper('Data Science').catch((err) => {
+      console.error("❌ Broadcom scraper failed:", err.message);
+      return [];
+    }),
+    dellScraper('Data Science').catch((err) => {
+      console.error("❌ Dell scraper failed:", err.message);
+      return [];
+    }),
+    gditScraper('Data Science').catch((err) => {
+      console.error("❌ GDIT scraper failed:", err.message);
+      return [];
+    }),
+    guidehouseScraper('Data Science').catch((err) => {
+      console.error("❌ Guidehouse scraper failed:", err.message);
+      return [];
+    }),
+    hpeScraper('Data Science').catch((err) => {
+      console.error("❌ HPE scraper failed:", err.message);
+      return [];
+    }),
+    magnaScraper('Data Science').catch((err) => {
+      console.error("❌ Magna scraper failed:", err.message);
+      return [];
+    }),
+    salesforceScraper('Data Science').catch((err) => {
+      console.error("❌ Salesforce scraper failed:", err.message);
+      return [];
+    }),
+    verizonScraper('Data Science').catch((err) => {
+      console.error("❌ Verizon scraper failed:", err.message);
+      return [];
+    }),
+    workdayScraper('Data Science').catch((err) => {
+      console.error("❌ Workday scraper failed:", err.message);
+      return [];
+    }),
   ]);
 
   allJobs.push(
@@ -667,6 +729,16 @@ async function fetchAllRealJobs() {
     ...nvidia_DataScience,
     ...apple_DataScience,
     ...intel_DataScience,
+    ...boozallen_DataScience,
+    ...broadcom_DataScience,
+    ...dell_DataScience,
+    ...gdit_DataScience,
+    ...guidehouse_DataScience,
+    ...hpe_DataScience,
+    ...magna_DataScience,
+    ...salesforce_DataScience,
+    ...verizon_DataScience,
+    ...workday_DataScience,
   );
 
   console.log(allJobs);
