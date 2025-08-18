@@ -1,112 +1,112 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Product Security Systems Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Security Systems Architect at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/product-security-systems-architect/33099/85172733696",
-    "id": "arm-product-security-systems-architect-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer, Standard Cell",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Engineer, Standard Cell at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-standard-cell/33099/85172733312",
-    "id": "arm-engineer-standard-cell-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "SoC Architect",
+    "employer_name": "CISCO",
+    "job_title": "Software Engineer, Silicon One Engineering",
     "job_city": "San Jose",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SoC Architect at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/soc-architect/33099/79414120512",
-    "id": "arm-soc-architect-san-jose"
-  },
-  {
-    "employer_name": "WAYMO",
-    "job_title": "Fleet Health Manager",
-    "job_city": "Los Angeles",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Fleet Health Manager at Los Angeles, California",
-    "job_apply_link": "https://careers.withwaymo.com/jobs/fleet-health-manager-los-angeles-california-united-states",
-    "id": "waymo-fleet-health-manager-los-angeles"
-  },
-  {
-    "employer_name": "10x Genomics",
-    "job_title": "Field Application Scientist - Tokyo",
-    "job_city": "Remote",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science position at 10x Genomics - Field Application Scientist - Tokyo",
-    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171828496278",
-    "id": "10x-genomics-field-application-scientist-tokyo-remote"
-  },
-  {
-    "employer_name": "10x Genomics",
-    "job_title": "Director of Product Management, Single Cell Platforms",
-    "job_city": "Pleasanton",
-    "job_state": "California",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science position at 10x Genomics - Director of Product Management, Single Cell Platforms",
-    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171826756915",
-    "id": "10x-genomics-director-of-product-management-single-cell-platforms-pleasanton"
-  },
-  {
-    "employer_name": "10x Genomics",
-    "job_title": "Mechanical Engineer",
-    "job_city": "Singapore Office",
-    "job_state": "California",
-    "job_posted_at": "8 months ago",
-    "job_description": "Data Science position at 10x Genomics - Staff Mechanical Engineer",
-    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171825005728",
-    "id": "10x-genomics-mechanical-engineer-singapore-office"
+    "job_description": "Data Science job for the role Software Engineer, Silicon One Engineering at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Silicon-One-Engineering/1441276",
+    "id": "cisco-software-engineer-silicon-one-engineering-san-jose"
   },
   {
     "employer_name": "JP Morgan Chase",
-    "job_title": "Salesforce Marketing Cloud Builder-Senior Associate",
+    "job_title": "Data Management - Data Governance - Sr. Associate",
     "job_city": "Newark",
     "job_state": "DE",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Salesforce Marketing Cloud Builder-Senior Associate at Newark, DE, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658103/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-salesforce-marketing-cloud-builder-senior-associate-newark"
+    "job_description": "Data Science job for the role Data Management - Data Governance - Sr. Associate at Newark, DE, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210637459/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-data-management-data-governance-sr-associate-newark"
   },
   {
-    "employer_name": "INTEL",
-    "job_title": "Director, Module Development Engineering",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Director, Module Development Engineering at 2 Locations",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Module-Development-Engineering-Director_JR0276800?q=Data+Science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-director-module-development-engineering-2-locations"
+    "employer_name": "HONEYWELL",
+    "job_title": "Director Software Engineering",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director Software Engineering at Atlanta, GA, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/114680/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-director-software-engineering-atlanta"
   },
   {
-    "employer_name": "INTEL",
-    "job_title": "SoC Design Verification Engineer",
-    "job_city": "3 Locations",
-    "job_state": "",
+    "employer_name": "AMD",
+    "job_title": "Sr. Product Manager",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr. Product Manager at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/66963/login",
+    "id": "amd-sr-product-manager-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Research Scientist - Trustworthy AI",
+    "job_city": "US",
+    "job_state": "NY",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role SoC Design Verification Engineer at 3 Locations",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0276719-1?q=Data+Science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-soc-design-verification-engineer-3-locations"
+    "job_description": "Data Science job for the role Research Scientist - Trustworthy AI at US, NY, Remote",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NY-Remote/Research-Scientist---Trustworthy-AI_JR2001990-1?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-research-scientist-trustworthy-ai-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Product Manager, Apple TV App Experimentation",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Senior Product Manager, Apple TV App Experimentation at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200603698-0836/senior-product-manager-apple-tv-app-experimentation?team=SFTWR",
+    "id": "apple-product-manager-apple-tv-app-experimentation-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Analyst, Process Analytics Reporting & Technology (PART)",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Senior Analyst, Process Analytics Reporting & Technology (PART) at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200600919-0836/senior-analyst-process-analytics-reporting-technology-part?team=CORSV",
+    "id": "apple-analyst-process-analytics-reporting-technology-part-cupertino"
   },
   {
     "employer_name": "Booz Allen ",
-    "job_title": "MS&A SaaS Tool Cyber Operations Lead",
-    "job_city": "Eglin AFB",
-    "job_state": "FL",
+    "job_title": "Training Research Scientist",
+    "job_city": "Fargo",
+    "job_state": "ND",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role MS&A SaaS Tool Cyber Operations Lead at Eglin AFB, FL",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Eglin-AFB-FL/MS-A-SaaS-Tool-Cyber-Operations-Lead_R0224460?q=Data+Science",
-    "id": "booz-allen-ms-a-saas-tool-cyber-operations-lead-eglin-afb"
+    "job_description": "Data Science job for the role Training Research Scientist at Fargo, ND",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fargo-ND/Training-Research-Scientist_R0223424-1?q=Data+Science",
+    "id": "booz-allen-training-research-scientist-fargo"
+  },
+  {
+    "employer_name": "Booz Allen ",
+    "job_title": "Data Engineer",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Data Engineer at Atlanta, GA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Data-Engineer_R0224572?q=Data+Science",
+    "id": "booz-allen-data-engineer-atlanta"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Sr. Software Engineer, iOS Infrastructure",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr. Software Engineer, iOS Infrastructure in Software Engineering. Available in 3 location(s): California - San Francisco, Washington - Seattle, Washington - Bellevue",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr295896/sr-software-engineer-ios-infrastructure/",
+    "id": "salesforce-sr-software-engineer-ios-infrastructure-california-san-francisco"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Training Research Scientist",
+    "job_city": "Fargo",
+    "job_state": "ND",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Training Research Scientist at Fargo, ND",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fargo-ND/Training-Research-Scientist_R0223424-1?q=Data+Science",
+    "id": "verizon-training-research-scientist-fargo"
   }
 ]
