@@ -94,7 +94,7 @@ function generateJobTable(jobs) {
         console.log(`  - ${company}: ${jobsByCompany[company].length} jobs`);
       });
       
-      output += `## ${categoryData.emoji} **${categoryData.title}** (${totalJobs} positions)\n\n`;
+      output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} positions)\n\n`;
 
       // First handle companies with more than 10 jobs - each gets its own table/section
       const bigCompanies = companiesWithJobs.filter(
@@ -107,9 +107,9 @@ function generateJobTable(jobs) {
         
         if (companyJobs.length > 50) {
           output += `<details>\n`;
-          output += `<summary><h3>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h3></summary>\n\n`;
+          output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h4></summary>\n\n`;
         } else {
-          output += `### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
+          output += `#### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
         }
         
         output += `| Role | Location | Posted | Level | Category | Apply |\n`;
@@ -213,7 +213,7 @@ ${internshipData.companyPrograms
 ${internshipData.sources
   .map(
     (source) =>
-      `| **${source.name}** | ${source.type} | ${source.description} | [Visit](${source.url}) |`
+      `| **${source.emoji} ${source.name}** | ${source.type} | ${source.description} | [Visit](${source.url}) |`
   )
   .join("\n")}
 
@@ -270,9 +270,12 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 **🛠 Help us grow! Submit new jobs via an issue. Check the [contributing guide](#contributing-guide) for steps.**
 
+---
+
 ## Join Our Community
 **🤗 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq)** - Connect with job seekers, get career advice, share experiences, and stay updated on opportunities. Join 1000+ analytics students and data enthusiasts on their career journey!
 
+---
 ## Apply Faster with Zapply
 ⚡ Apply to 50 jobs in the time it takes to do 5. Use Zapply’s extension to instantly submit applications across Tesla, Amazon, NVIDIA, and 500+ other data-focused employers.  
 [Download Zapply Extension](#)
@@ -287,9 +290,10 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: ${archivedJobs.length} (older than 1 week)
 
----
+
 
 ${internshipData ? generateInternshipSection(internshipData) : ""}
+
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
@@ -297,23 +301,23 @@ ${generateJobTable(currentJobs)}
 
 ---
 
-# Current Job Insights
+## Current Job Insights
 
-## 🏢 Top Companies
+### 🏢 Top Companies
 
-### 🌟 FAANG+ (${companies.faang_plus.length} companies)
+#### 🌟 FAANG+ (${companies.faang_plus.length} companies)
 ${companies.faang_plus.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-### 🦄 Unicorn Startups (${companies.unicorn_startups.length} companies)
+#### 🦄 Unicorn Startups (${companies.unicorn_startups.length} companies)
 ${companies.unicorn_startups.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-### 💰 Fintech Leaders (${companies.fintech.length} companies)
+#### 💰 Fintech Leaders (${companies.fintech.length} companies)
 ${companies.fintech.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-### 🎮 Gaming & Entertainment (${[...companies.gaming, ...companies.media_entertainment].length} companies)
+#### 🎮 Gaming & Entertainment (${[...companies.gaming, ...companies.media_entertainment].length} companies)
 ${[...companies.gaming, ...companies.media_entertainment].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-### ☁️ Enterprise & Cloud (${[...companies.top_tech, ...companies.enterprise_saas].length} companies)
+#### ☁️ Enterprise & Cloud (${[...companies.top_tech, ...companies.enterprise_saas].length} companies)
 ${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
 ---
@@ -418,36 +422,36 @@ ${topCompanies
 ## 🤝 **Become a Contributor**
 Add new jobs! See the [contributing guide](#contributing-guide).
 
-## Contributing Guide
-### 🎯 Roles We Accept
+### Contributing Guide
+#### 🎯 Roles We Accept
 - Located in the US, Canada, or Remote.
 - Not already in our database.
 - Currently accepting applications.
 
-### 🚀 How to Add Jobs
+#### 🚀 How to Add Jobs
 1. Create a new issue.
 2. Select the "New Job" template.
 3. Fill out and submit the form.
    > Submit separate issues for each position, even from the same company.
 
-### ✏️ How to Update Jobs
+#### ✏️ How to Update Jobs
 1. Copy the job URL to edit.
 2. Create a new issue.
 3. Select the "Edit Job" template.
 4. Paste the URL and describe changes.
 
-### ⚡ What Happens Next
+#### ⚡ What Happens Next
 - Our team reviews within 24-48 hours.
 - Approved jobs are added to the main list.
 - The README updates automatically via script.
 - Contributions go live at the next daily refresh (9 AM UTC).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
----
+
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : "No archived jobs available."}
 
----
+
 
 <div align="center">
 
