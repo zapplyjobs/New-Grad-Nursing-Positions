@@ -1,82 +1,223 @@
 [
   {
-    "employer_name": "INFINEON",
-    "job_title": "Graduate - Senior Engineer Digital IC Design",
-    "job_city": "San Jose",
-    "job_state": "US",
+    "job_title": "Data Engineer, WW Ops Finance S&A",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer, WW Ops Finance S&A at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3061545/data-engineer-ww-ops-finance-s-a",
+    "job_posted_at": "2025-08-19T00:49:47.314Z",
+    "job_posted_at_datetime_utc": "2025-08-19T00:49:47.314Z",
+    "id": "amazon-data-engineer-ww-ops-finance-s-a-bellevue"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "1444353 - Software Engineer",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate - Senior Engineer Digital IC Design at San Jose",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-graduate-senior-engineer-digital-ic-design-san-jose"
+    "job_description": "Data Science job for the role 1444353 - Software Engineer at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1444353-Software-Engineer/1444353",
+    "id": "cisco-1444353-software-engineer-rtp"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Security Systems Senior Sales Executive",
-    "job_city": "Cypress",
-    "job_state": "United States of America",
+    "employer_name": "CISCO",
+    "job_title": "1444346 - Software Engineer (Golang)",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Security Systems Senior Sales Executive at Cypress, California, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-security-systems-senior-sales-executive-cypress"
+    "job_description": "Data Science job for the role 1444346 - Software Engineer (Golang) at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1444346-Software-Engineer-Golang/1444346",
+    "id": "cisco-1444346-software-engineer-golang-rtp"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Silicon Senior Principal Engineering Program Manager (Cloud Data Center)",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Silicon Senior Principal Engineering Program Manager (Cloud Data Center) at 3 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Silicon-Senior-Principal-Engineering-Program-Manager--Cloud-Data-Center-_2501927-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-silicon-senior-principal-engineering-program-manager-cloud-data-center-3-locations"
+    "employer_name": "CISCO",
+    "job_title": "1444345 - Software Engineer (Python)",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 1444345 - Software Engineer (Python) at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1444345-Software-Engineer-Python/1444345",
+    "id": "cisco-1444345-software-engineer-python-rtp"
   },
   {
-    "employer_name": "NVIDIA",
+    "employer_name": "AiJobs",
+    "job_title": "Math Libraries Engineer - Sparsity in AI",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Math Libraries Engineer - Sparsity in AI at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230403-senior-math-libraries-engineer-sparsity-in-ai",
+    "id": "aijobs-math-libraries-engineer-sparsity-in-ai-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
     "job_title": "Software Applications Engineer, Datacenter Products",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Software Applications Engineer, Datacenter Products at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230396-software-applications-engineer-datacenter-products",
+    "id": "aijobs-software-applications-engineer-datacenter-products-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "SRE Engineer - Air Platform Team",
+    "job_city": "Durham",
+    "job_state": "NC",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role SRE Engineer - Air Platform Team at US, NC, Durham",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230405-sre-engineer-air-platform-team",
+    "id": "aijobs-sre-engineer-air-platform-team-durham"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer / Scientist - Multimodal, Future of Computing",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "46min ago",
+    "job_description": "data science job for the role Senior Research Engineer / Scientist - Multimodal, Future of Computing at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156265732-senior-research-engineer-scientist-multimodal-future-of-computing",
+    "id": "aijobs-research-engineer-scientist-multimodal-future-of-computing-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Staff Software Engineer - Full Stack",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Staff Software Engineer - Full Stack at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230401-senior-staff-software-engineer-full-stack",
+    "id": "aijobs-staff-software-engineer-full-stack-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Sourcer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Technical Sourcer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156265735-technical-sourcer",
+    "id": "aijobs-technical-sourcer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Staff Business System Analyst",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Staff Business System Analyst at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230400-senior-staff-business-system-analyst",
+    "id": "aijobs-staff-business-system-analyst-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Prediction and Planning Engineer, VLM - Autonomous Vehicles",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Prediction and Planning Engineer, VLM - Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230402-senior-prediction-and-planning-engineer-vlm-autonomous-vehicles",
+    "id": "aijobs-prediction-and-planning-engineer-vlm-autonomous-vehicles-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Security Development Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Security Development Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230399-security-development-engineer",
+    "id": "aijobs-security-development-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager - Manufacturing",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Technical Program Manager - Manufacturing at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230397-senior-technical-program-manager-manufacturing",
+    "id": "aijobs-technical-program-manager-manufacturing-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Architecture Energy Modeling Engineer - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Architecture Energy Modeling Engineer - New College Grad 2026 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230393-architecture-energy-modeling-engineer-new-college-grad-2026",
+    "id": "aijobs-architecture-energy-modeling-engineer-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Network Deployment Engineer, Software Automation - DGX Cloud",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Network Deployment Engineer, Software Automation - DGX Cloud at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230392-senior-network-deployment-engineer-software-automation-dgx-cloud",
+    "id": "aijobs-network-deployment-engineer-software-automation-dgx-cloud-santa-clara"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Cloud Administrator",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Software Applications Engineer, Datacenter Products at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Applications-Engineer--Datacenter-Products_JR2002203?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-software-applications-engineer-datacenter-products-us"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Cloud Administrator at US,CA,San Jose\n2100 Logic Drive\nSan Jose, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67074/login",
+    "id": "amd-cloud-administrator-us"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "Solutions Architect, AI Infrastructure",
-    "job_city": "5 Locations",
+    "job_title": "Math Libraries Engineer - Sparsity in AI",
+    "job_city": "2 Locations",
     "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Solutions Architect, AI Infrastructure at 5 Locations",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--AI-Infrastructure_JR2000607?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-solutions-architect-ai-infrastructure-5-locations"
+    "job_description": "Data Science job for the role Senior Math Libraries Engineer - Sparsity in AI at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---Sparsity-in-AI_JR2001319-1?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-math-libraries-engineer-sparsity-in-ai-2-locations"
   },
   {
-    "employer_name": "Booz Allen ",
-    "job_title": "Data Scientist",
-    "job_city": "Tampa",
-    "job_state": "FL",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Data Scientist at Tampa, FL",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Data-Scientist_R0224579?q=Data+Science",
-    "id": "booz-allen-data-scientist-tampa"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Data Scientist",
-    "job_city": "Tampa",
-    "job_state": "FL",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Data Scientist at Tampa, FL",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Data-Scientist_R0224579?q=Data+Science",
-    "id": "verizon-data-scientist-tampa"
-  },
-  {
-    "employer_name": " workday",
-    "job_title": "Machine Learning Engineer/Machine Learning Engineer",
-    "job_city": "7 Locations",
+    "employer_name": "GDIT",
+    "job_title": "Project Coordinator",
+    "job_city": "Any Location / Remote",
     "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Machine Learning Engineer/Machine Learning Engineer III at 7 Locations",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Machine-Learning-Engineer-Machine-Learning-Engineer-III_JR-0098887?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-machine-learning-engineer-machine-learning-engineer-7-locations"
+    "job_description": "Data Science job for the role Project Coordinator at Any Location / Remote",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Project-Coordinator_RQ205728?q=Data+Science",
+    "id": "gdit-project-coordinator-any-location-remote"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Product Security Principal",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Security Principal in Product. Available in 1 location(s): California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr305078/product-security-principal/",
+    "id": "salesforce-product-security-principal-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineer, LMTS",
+    "job_city": "Massachusetts - Burlington",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer, LMTS in Software Engineering. Available in 3 location(s): Massachusetts - Burlington, California - Palo Alto, California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr296235/software-engineer-lmts/",
+    "id": "salesforce-software-engineer-lmts-massachusetts-burlington"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Sr. Systems Specialist (Production Support)",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr. Systems Specialist (Production Support) in Enterprise Technology & Infrastructure. Available in 2 location(s): Indiana - Indianapolis, Texas - Dallas",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307189/sr-systems-specialist-production-support/",
+    "id": "salesforce-sr-systems-specialist-production-support-indiana-indianapolis"
   }
 ]
