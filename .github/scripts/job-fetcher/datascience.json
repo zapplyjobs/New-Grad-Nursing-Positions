@@ -1,0 +1,57 @@
+{
+  "faang_plus": {
+    "companies": ["Amazon", "Microsoft", "Meta", "Google", "Apple"],
+    "emoji": "🏢",
+    "title": "FAANG+"
+  },
+  "top_tech": {
+    "companies": ["MARVELL", "SYNOPSYS", "NVIDIA", "INTEL", "AMD", "Salesforce", "ADOBE"],
+    "emoji": "🏢",
+    "title": "Top Tech"
+  },
+  "enterprise": {
+    "companies": ["IBM", "CISCO", "Hewlett Packard Enterprise", "DELL", "Broadcom", "Verizon", "Workday"],
+    "emoji": "💻",
+    "title": "Enterprise Software"
+  },
+  "startups": {
+    "companies": ["Booz Allen", "Guide house", "GDIT"],
+    "emoji": "🚀",
+    "title": "Startups & Growth"
+  },
+  "consumer": {
+    "companies": ["Rivian"],
+    "emoji": "🛒",
+    "title": "Consumer & E-Commerce"
+  },
+  "fintech": {
+    "companies": ["JP Morgan Chase"],
+    "emoji": "💰",
+    "title": "Financial & Fintech"
+  },
+  "defense": {
+    "companies": ["WAYMO"],
+    "emoji": "🛡️",
+    "title": "Defense & Aerospace"
+  },
+  "healthcare": {
+    "companies": ["ILLUMINA", "10x Genomics"],
+    "emoji": "🏥",
+    "title": "Healthcare & Life Sciences"
+  },
+  "manufacturing": {
+    "companies": ["APPLIED MATERIALS", "ARM", "Micron", "ABB", "INFINEON", "TEXAS INSTRUMENTS", "SIEMENS", "ANALOG DEVICES", "HONEYWELL", "MAGNA"],
+    "emoji": "🏭",
+    "title": "Manufacturing & Industrial"
+  },
+  "analytics": {
+    "companies": [],
+    "emoji": "📊",
+    "title": "Analytics & EdTech"
+  },
+  "ai_emerging": {
+    "companies": ["AiJobs"],
+    "emoji": "🤖",
+    "title": "AI & Emerging Tech"
+  }
+}

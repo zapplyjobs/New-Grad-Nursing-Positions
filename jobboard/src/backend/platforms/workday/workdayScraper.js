@@ -185,7 +185,7 @@ async function workdayScraper(searchQuery, maxPages = 10) {
           
           // Format the job data
           const formattedJob = {
-            employer_name: " workday",
+            employer_name: "workday",
             job_title: cleanJobTitle(jobData.title),
             job_city: city,
             job_state: state,

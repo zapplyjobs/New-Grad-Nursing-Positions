@@ -194,7 +194,7 @@ async function DELLScraper(searchQuery, maxPages = 10) {
           
           // Format the job data
           const formattedJob = {
-            employer_name: " DELL",
+            employer_name: "DELL",
             job_title: cleanJobTitle(jobData.title),
             job_city: city,
             job_state: state,

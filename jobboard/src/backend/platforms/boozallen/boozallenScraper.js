@@ -189,7 +189,7 @@ async function boozallenScraper(searchQuery, maxPages = 30) {
           
           // Format the job data
           const formattedJob = {
-            employer_name: "Booz Allen ",
+            employer_name: "Booz Allen",
             job_title: cleanJobTitle(jobData.title),
             job_city: city,
             job_state: state,

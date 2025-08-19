@@ -28,7 +28,6 @@ const amdScraper = require("../../jobboard/src/backend/platforms/amd/amdScraper"
 const nvidiaScraper = require("../../jobboard/src/backend/platforms/nvidia/nvidiaScraper");
 const appleScraper = require("../../jobboard/src/backend/platforms/apple/appleScraper");
 const intelScraper = require("../../jobboard/src/backend/platforms/intel/intelScraper");
-const adobeScraper = require("../../jobboard/src/backend/platforms/adobe/adobeScraper");
 const boozallenScraper = require("../../jobboard/src/backend/platforms/boozallen/boozallenScraper");
 const broadcomScraper = require("../../jobboard/src/backend/platforms/broadcom/broadcomScraper");
 const dellScraper = require("../../jobboard/src/backend/platforms/dell/dellScraper");
@@ -39,6 +38,7 @@ const magnaScraper = require("../../jobboard/src/backend/platforms/magna/magnaSc
 const salesforceScraper = require("../../jobboard/src/backend/platforms/salesforce/salesforceScraper");
 const verizonScraper = require("../../jobboard/src/backend/platforms/verizon/verizonScraper");
 const workdayScraper = require("../../jobboard/src/backend/platforms/workday/workdayScraper");
+const adobeScraper = require("../../jobboard/src/backend/platforms/adobe/adobeScraper");
 
 // Batch processing configuration
 const BATCH_CONFIG = {
@@ -548,7 +548,7 @@ async function fetchAllRealJobs() {
   const scraperConfigs = [
     { name: 'Amazon', scraper: scrapeAmazonJobs, query: 'Data Science' },
     { name: 'Meta', scraper: scrapeMetaJobs, query: 'Data Science' },
-    { name: 'Microsoft', scraper: microsoftScraper, query: 'data science' },
+    // { name: 'Microsoft', scraper: microsoftScraper, query: 'data science' },
     { name: 'Google', scraper: googleScraper, query: 'Data Science' },
     { name: 'ARM', scraper: armScraper, query: 'Data Science' },
     { name: 'Micron', scraper: micronScraper, query: 'Data Science' },
@@ -582,7 +582,8 @@ async function fetchAllRealJobs() {
     { name: 'Magna', scraper: magnaScraper, query: 'Data Science' },
     { name: 'Salesforce', scraper: salesforceScraper, query: 'Data Science' },
     { name: 'Verizon', scraper: verizonScraper, query: 'Data Science' },
-    { name: 'Workday', scraper: workdayScraper, query: 'Data Science' }
+    { name: 'Workday', scraper: workdayScraper, query: 'Data Science' },
+    { name: 'Adobe', scraper: adobeScraper, query: 'Data Science' }
   ];
 
   // Enhanced batch processing function with retry logic and configuration
@@ -747,6 +748,7 @@ async function fetchAllRealJobs() {
     salesforce_DataScience,
     verizon_DataScience,
     workday_DataScience,
+    adobe_DataScience
   ] = batchResults.map(result => result.jobs);
 
   // Add all jobs to the results array
@@ -788,9 +790,12 @@ async function fetchAllRealJobs() {
     ...salesforce_DataScience,
     ...verizon_DataScience,
     ...workday_DataScience,
+    ...adobe_DataScience
   );
 
-  console.log(allJobs);
+  // console.log(allJobs);
+
+  allJobs.push()
 
   const companiesWithAPIs = Object.keys(CAREER_APIS);
 
