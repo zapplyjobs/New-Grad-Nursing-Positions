@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "job_title": "Data Scientist II - AMZ26521.1",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Data Scientist II - AMZ26521.1 at Sunnyvale, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3060117/data-scientist-ii-amz26521-1",
+    "job_posted_at": "2025-08-15T14:24:18.364Z",
+    "job_posted_at_datetime_utc": "2025-08-15T14:24:18.364Z",
+    "id": "amazon-data-scientist-ii-amz26521-1-sunnyvale"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Electrical Services Specialist",
+    "job_city": "Baton Rouge",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Electrical Services Specialist at Baton Rouge, Louisiana, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-electrical-services-specialist-baton-rouge"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer - Analytics and Data Privacy",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Senior Software Engineer - Analytics and Data Privacy at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200603921-0836/senior-software-engineer-analytics-and-data-privacy?team=SFTWR",
+    "id": "apple-software-engineer-analytics-and-data-privacy-cupertino"
+  },
+  {
+    "employer_name": "Booz Allen",
+    "job_title": "Space Systems Engineer",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Space Systems Engineer at El Segundo, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Space-Systems-Engineer_R0224760?q=Data+Science",
+    "id": "booz-allen-space-systems-engineer-el-segundo"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Director, Business Value Consulting (Jakarta or Bangkok based)",
+    "job_city": "Indonesia - Jakarta",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director, Business Value Consulting (Jakarta or Bangkok based) in Sales. Available in 1 location(s): Indonesia - Jakarta",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr305233/director-business-value-consulting-jakarta-or-bangkok-based/",
+    "id": "salesforce-director-business-value-consulting-jakarta-or-bangkok-based-indonesia-jakarta"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Manager, Enterprise Onboarding",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Manager, Enterprise Onboarding in Employee Success. Available in 1 location(s): California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr303308/manager-enterprise-onboarding/",
+    "id": "salesforce-manager-enterprise-onboarding-california-san-francisco"
+  }
+]
