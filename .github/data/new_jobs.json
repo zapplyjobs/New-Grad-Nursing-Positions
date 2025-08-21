@@ -1,52 +1,132 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Partner Technical Specialist - Data",
-    "job_city": "New York",
+    "job_title": "Sr. Technical Escalation Manager",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Partner Technical Specialist - Data at Entry LevelNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46386&source=WEB_Search_NA",
-    "id": "ibm-partner-technical-specialist-data-new-york"
+    "job_description": "Data Science job for the role Sr. Technical Escalation Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53169&source=WEB_Search_NA",
+    "id": "ibm-sr-technical-escalation-manager-multiple-cities"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Machine Learning Researcher – Systematic Trading",
+    "job_title": "Machine Learning (ML) Engineer",
     "job_city": "US",
-    "job_state": "United States",
-    "job_posted_at": "17h ago",
-    "job_description": "data science job for the role Machine Learning Researcher – Systematic Trading at New York, United States, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156873293-machine-learning-researcher-systematic-trading",
-    "id": "aijobs-machine-learning-researcher-systematic-trading-us"
+    "job_state": "VA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Machine Learning (ML) Engineer at Chantilly, VA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156873395-machine-learning-ml-engineer",
+    "id": "aijobs-machine-learning-ml-engineer-us"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Finite Element Analysis (FEA) Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Finite Element Analysis (FEA) Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156868847-finite-element-analysis-fea-engineer",
-    "id": "aijobs-finite-element-analysis-fea-engineer-united-states"
+    "job_title": "Machine Learning Engineer - Disney+",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "3h ago",
+    "job_description": "data science job for the role Senior Machine Learning Engineer - Disney+ at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156873394-senior-machine-learning-engineer-disney+",
+    "id": "aijobs-machine-learning-engineer-disney-us"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Machine Learning Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Machine Learning Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200616307-0836/machine-learning-engineer?team=SFTWR",
-    "id": "apple-machine-learning-engineer-cupertino"
+    "employer_name": "NVIDIA",
+    "job_title": "Silicon System Level Test Development Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Silicon System Level Test Development Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Solutions-Test-Development-Engineer_JR1994584?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-silicon-system-level-test-development-engineer-us"
   },
   {
-    "employer_name": "Booz Allen",
-    "job_title": "Cost Analyst",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Cost Analyst at Washington, DC",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Cost-Analyst_R0224828-1?q=Data+Science",
-    "id": "booz-allen-cost-analyst-washington"
+    "employer_name": "NVIDIA",
+    "job_title": "Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Principal Engineer at US, CA, Remote",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Principal-Engineer_JR1995285?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Accelerated Computing GPU Product Manager",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Senior Accelerated Computing GPU Product Manager at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Accelerated-Computing-GPU-Product-Manager_JR1996264?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-accelerated-computing-gpu-product-manager-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "High-Performance LLM Training Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Senior High-Performance LLM Training Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-High-Performance-LLM-Training-Engineer_JR1996426?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-high-performance-llm-training-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Systems Software Engineer - Autonomous Vehicles",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Senior Systems Software Engineer - Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles_JR1997276?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-systems-software-engineer-autonomous-vehicles-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "HSIO Validation Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Senior HSIO Validation Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HSIO-Validation-Engineer_JR1997908?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-hsio-validation-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Manager, Technical Product Marketing - AI Platform Software",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Manager, Technical Product Marketing - AI Platform Software at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Technical-Product-Marketing---AI-Platform-Software_JR1999571?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-manager-technical-product-marketing-ai-platform-software-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software QA Test Development Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 26 Days Ago",
+    "job_description": "Data Science job for the role Senior Software QA Test Development Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-QA-Test-Development-Engineer_JR1999972-1?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-qa-test-development-engineer-us"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Lead, Marketing & Engagement Manager",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Lead, Marketing & Engagement Manager in User Experience. Available in 2 location(s): California - San Francisco, Washington - Seattle",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr298984/lead-marketing-engagement-manager/",
+    "id": "salesforce-lead-marketing-engagement-manager-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "SMTS, Software Engineering - Workday Benefits & Compensation",
+    "job_city": "Texas - Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SMTS, Software Engineering - Workday Benefits & Compensation in Software Engineering. Available in 3 location(s): Texas - Dallas, Georgia - Atlanta, Indiana - Indianapolis",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr304063/smts-software-engineering-workday-benefits-compensation/",
+    "id": "salesforce-smts-software-engineering-workday-benefits-compensation-texas-dallas"
   }
 ]
