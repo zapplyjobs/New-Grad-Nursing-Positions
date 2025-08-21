@@ -1,13 +1,102 @@
 [
   {
-    "job_title": "Research Scientist, Design and Simulation, AWS Center for Quantum Computing",
-    "employer_name": "Amazon",
-    "job_city": "San Francisco",
+    "employer_name": "ILLUMINA",
+    "job_title": "Associate Project Manager - Technical",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Associate Project Manager - Technical at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Associate-Project-Manager---Technical_40975-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-associate-project-manager-technical-us-california-san-diego"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Research Scientist, Generative AI for Physical AI - PhD New College Grad",
+    "job_city": "US",
     "job_state": "CA",
-    "job_description": "Data Science job for the role Research Scientist, Design and Simulation, AWS Center for Quantum Computing at San Francisco, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3064003/research-scientist-design-and-simulation-aws-center-for-quantum-computing",
-    "job_posted_at": "2025-08-21T21:23:17.006Z",
-    "job_posted_at_datetime_utc": "2025-08-21T21:23:17.006Z",
-    "id": "amazon-research-scientist-design-and-simulation-aws-center-for-quantum-computing-san-francisco"
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Research Scientist, Generative AI for Physical AI - PhD New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2025_JR2002274?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-research-scientist-generative-ai-for-physical-ai-phd-new-college-grad-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Logistics Technician, Data Center",
+    "job_city": "Prineville",
+    "job_state": "US",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Logistics Technician, Data Center at Prineville",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617373-2228/logistics-technician-data-center?team=SFTWR",
+    "id": "apple-logistics-technician-data-center-prineville"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Siri AI Data & Privacy Quality Engineering",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Senior Software Engineer, Siri AI Data & Privacy Quality Engineering at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200616911-0836/senior-software-engineer-siri-ai-data-privacy-quality-engineering?team=MLAI",
+    "id": "apple-software-engineer-siri-ai-data-privacy-quality-engineering-cupertino"
+  },
+  {
+    "employer_name": "MAGNA",
+    "job_title": "Controls/Automation Engineer",
+    "job_city": "Troy",
+    "job_state": "Michigan",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Controls/Automation Engineer at Troy, Michigan, US",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Controls-Automation-Engineer_R00203332-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-controls-automation-engineer-troy"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Sales Development Representative",
+    "job_city": "Brazil - Sao Paulo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sales Development Representative in Sales. Available in 1 location(s): Brazil - Sao Paulo",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr299492/sales-development-representative/",
+    "id": "salesforce-sales-development-representative-brazil-sao-paulo"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Manager, Sales - MidWest",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Manager, Sales - MidWest in Sales. Available in 1 location(s): Illinois - Chicago",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr212094/manager-sales-midwest/",
+    "id": "salesforce-manager-sales-midwest-illinois-chicago"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Sales Development Representative",
+    "job_city": "Mexico - Mexico City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sales Development Representative in Sales. Available in 1 location(s): Mexico - Mexico City",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr296138/sales-development-representative/",
+    "id": "salesforce-sales-development-representative-mexico-mexico-city"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "RVP, Sales",
+    "job_city": "Brazil - Sao Paulo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role RVP, Sales in Sales. Available in 1 location(s): Brazil - Sao Paulo",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307179/rvp-sales/",
+    "id": "salesforce-rvp-sales-brazil-sao-paulo"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "AI and ML Engineer, Lead",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role AI and ML Engineer, Lead at Fort Meade, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-and-ML-Engineer--Lead_R0224878?q=Data+Science",
+    "id": "verizon-ai-and-ml-engineer-lead-fort-meade"
   }
 ]
