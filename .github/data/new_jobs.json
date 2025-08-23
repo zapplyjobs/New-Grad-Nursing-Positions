@@ -1,22 +1,102 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Artificial Intelligence Applications Engineer",
-    "job_city": "US",
-    "job_state": "TX",
+    "job_title": "Product Finance Manager, Foundations",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Artificial Intelligence Applications Engineer at Plano, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/157278920-artificial-intelligence-applications-engineer",
-    "id": "aijobs-artificial-intelligence-applications-engineer-us"
+    "job_description": "data science job for the role Product Finance Manager, Foundations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/157303128-product-finance-manager-foundations",
+    "id": "aijobs-product-finance-manager-foundations-united-states"
   },
   {
-    "employer_name": "WAYMO",
-    "job_title": "Machine Learning Engineer - Labeled Data",
-    "job_city": "Mountain View",
+    "employer_name": "AiJobs",
+    "job_title": "Growth & GTM Strategy - B2B Monetization",
+    "job_city": "United States",
     "job_state": "California",
+    "job_posted_at": "19min ago",
+    "job_description": "data science job for the role Growth & GTM Strategy - B2B Monetization at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/157303136-growth-gtm-strategy-b2b-monetization",
+    "id": "aijobs-growth-gtm-strategy-b2b-monetization-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Developer Programs",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Data Scientist, Developer Programs at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157297392-senior-data-scientist-developer-programs",
+    "id": "aijobs-data-scientist-developer-programs-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, Human-Centered AI",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "20min ago",
+    "job_description": "data science job for the role Research Engineer, Human-Centered AI at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/157303122-research-engineer-human-centered-ai",
+    "id": "aijobs-research-engineer-human-centered-ai-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer, GPU Development Tools",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role System Software Engineer, GPU Development Tools at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157297379-system-software-engineer-gpu-development-tools",
+    "id": "aijobs-system-software-engineer-gpu-development-tools-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "GPU Kernels Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "20min ago",
+    "job_description": "data science job for the role GPU Kernels Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/157303130-gpu-kernels-engineer",
+    "id": "aijobs-gpu-kernels-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Software Engineer - AI and Cloud",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Systems Software Engineer - AI and Cloud at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157297378-systems-software-engineer-ai-and-cloud",
+    "id": "aijobs-systems-software-engineer-ai-and-cloud-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Employee Productivity",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Software Engineer - Employee Productivity at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157297390-senior-software-engineer-employee-productivity",
+    "id": "aijobs-software-engineer-employee-productivity-santa-clara"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Backend Senior and Staff Software Engineer, Slackforce",
+    "job_city": "Georgia - Atlanta",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Machine Learning Engineer - Labeled Data at Mountain View, California",
-    "job_apply_link": "https://careers.withwaymo.com/jobs/machine-learning-engineer-labeled-data-mountain-view-california-united-states-824d7fff-842a-482d-96fe-62357cfbb7fa",
-    "id": "waymo-machine-learning-engineer-labeled-data-mountain-view"
+    "job_description": "Data Science job for the role Backend Senior and Staff Software Engineer, Slackforce in Software Engineering. Available in 1 location(s): Georgia - Atlanta",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308795/backend-senior-and-staff-software-engineer-slackforce/",
+    "id": "salesforce-backend-senior-and-staff-software-engineer-slackforce-georgia-atlanta"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Manager, Marketing Strategy and Performance",
+    "job_city": "Washington - Seattle",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Manager, Marketing Strategy and Performance in Marketing & Communications. Available in 1 location(s): Washington - Seattle",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308264/senior-manager-marketing-strategy-and-performance/",
+    "id": "salesforce-manager-marketing-strategy-and-performance-washington-seattle"
   }
 ]
