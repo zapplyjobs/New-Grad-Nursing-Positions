@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Director - Software Engineering - GCP",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director - Software Engineering - GCP in Software Engineering. Available in 3 location(s): California - San Francisco, Washington - Seattle, Washington - Bellevue",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr304530/director-software-engineering-gcp/",
+    "id": "salesforce-director-software-engineering-gcp-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Manager/Sr. Manager - Software Engineering",
+    "job_city": "Washington - Seattle",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Manager/Sr. Manager - Software Engineering in Software Engineering. Available in 4 location(s): Washington - Seattle, California - Palo Alto, Washington - Bellevue, California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr252146/managersr-manager-software-engineering/",
+    "id": "salesforce-manager-sr-manager-software-engineering-washington-seattle"
+  }
+]
