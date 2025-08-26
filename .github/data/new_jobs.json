@@ -1,165 +1,102 @@
 [
   {
-    "job_title": "Data Engineer Co-op Internship - 2026 (US)",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer Co-op Internship - 2026 (US) at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3066648/data-engineer-co-op-internship-2026-us",
-    "job_posted_at": "2025-08-26T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-08-26T00:00:00.000Z",
-    "id": "amazon-data-engineer-co-op-internship-2026-us-seattle"
-  },
-  {
-    "job_title": "Data Engineer Internship - 2026 (US)",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer Internship - 2026 (US) at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3066625/data-engineer-internship-2026-us",
-    "job_posted_at": "2025-08-26T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-08-26T00:00:00.000Z",
-    "id": "amazon-data-engineer-internship-2026-us-seattle"
-  },
-  {
-    "job_title": "Business Intelligence Engineer Co-Op – 2026 (US)",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Business Intelligence Engineer Co-Op – 2026 (US) at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3066646/business-intelligence-engineer-co-op-2026-us",
-    "job_posted_at": "2025-08-26T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-08-26T00:00:00.000Z",
-    "id": "amazon-business-intelligence-engineer-co-op-2026-us-seattle"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "InfoSphere Optim Technical Support Professional",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role InfoSphere Optim Technical Support Professional at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53293&source=WEB_Search_NA",
-    "id": "ibm-infosphere-optim-technical-support-professional-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "EPM Senior Consultant",
+    "job_title": "IBV - Editorial Lead",
     "job_city": "Chicago",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role EPM Senior Consultant at ProfessionalChicago, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55286&source=WEB_Search_NA",
-    "id": "ibm-epm-senior-consultant-chicago"
+    "job_description": "Data Science job for the role IBV - Editorial Lead at ProfessionalChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54122&source=WEB_Search_NA",
+    "id": "ibm-ibv-editorial-lead-chicago"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Sr Consultant I - Architecture",
+    "job_title": "Designer Intern",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr Consultant I - Architecture at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55379&source=WEB_Search_NA",
-    "id": "ibm-sr-consultant-i-architecture-multiple-cities"
+    "job_description": "Data Science job for the role Designer Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54784&source=WEB_Search_NA",
+    "id": "ibm-designer-intern-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Sr. Consultant, Engagement Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Consultant, Engagement Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55120&source=WEB_Search_NA",
-    "id": "ibm-sr-consultant-engagement-manager-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr. Support Engineer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Support Engineer at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53168&source=WEB_Search_NA",
-    "id": "ibm-sr-support-engineer-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Veeva Technical Architect (Quality Cloud Expert)",
+    "job_title": "Private Equity Industry Program Manager",
     "job_city": "New York",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Veeva Technical Architect (Quality Cloud Expert) at ProfessionalNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54854&source=WEB_Search_NA",
-    "id": "ibm-veeva-technical-architect-quality-cloud-expert-new-york"
+    "job_description": "Data Science job for the role Private Equity Industry Program Manager at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55138&source=WEB_Search_NA",
+    "id": "ibm-private-equity-industry-program-manager-new-york"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Billing Platform Engineering Manager",
+    "job_title": "Brand Technical Specialist Storage Hybrid Cloud & AI",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Billing Platform Engineering Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53152&source=WEB_Search_NA",
-    "id": "ibm-billing-platform-engineering-manager-multiple-cities"
+    "job_description": "Data Science job for the role Brand Technical Specialist Storage Hybrid Cloud & AI at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55172&source=WEB_Search_NA",
+    "id": "ibm-brand-technical-specialist-storage-hybrid-cloud-ai-multiple-cities"
   },
   {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "EDA R&D Engineer with Emphasis on Simulation, Modeling, and Software Development",
+    "job_title": "Edge AI/ML Scientist",
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role EDA R&D Engineer with Emphasis on Simulation, Modeling, and Software Development at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/EDA-R-D-Engineer-with-Emphasis-on-Simulation--Modeling--and-Software-Development_R254720?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-eda-r-d-engineer-with-emphasis-on-simulation-modeling-and-software-development-us"
+    "job_description": "Data Science job for the role Staff Edge AI/ML Scientist at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Edge-AI-ML-Scientist_R254972?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-edge-ai-ml-scientist-us"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "AI Frameworks - Tech Lead HW/SW Codesign",
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analog AI Compute System Engineer",
     "job_city": "US",
     "job_state": "MA",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI Frameworks - Tech Lead HW/SW Codesign at US,MA,Home Office\nMassachusetts\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68111/login",
-    "id": "amd-ai-frameworks-tech-lead-hw-sw-codesign-us"
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Staff Analog AI Compute System Engineer at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Analog-AI-Compute-System-Engineer_R254971?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analog-ai-compute-system-engineer-us"
   },
   {
-    "employer_name": "Booz Allen",
-    "job_title": "CNO Developer",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
+    "employer_name": "NVIDIA",
+    "job_title": "Technical Product Manager – AI Agents",
+    "job_city": "US",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role CNO Developer at Annapolis Junction, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/CNO-Developer_R0219616?q=Data+Science",
-    "id": "booz-allen-cno-developer-annapolis-junction"
+    "job_description": "Data Science job for the role Senior Technical Product Manager – AI Agents at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Product-Manager---AI-Agents_JR2002852-1?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-technical-product-manager-ai-agents-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Data Operations Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Data Operations Engineer at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617969-3956/data-operations-engineer?team=DESGN",
+    "id": "apple-data-operations-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "/ Staff Data Infrastructure Engineer for Lakehouse, Apple Data Platform",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "1 month ago",
+    "job_description": "Data Science job for the role Senior / Staff Data Infrastructure Engineer for Lakehouse, Apple Data Platform at Seattle",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200612739-3337/senior-staff-data-infrastructure-engineer-for-lakehouse-apple-data-platform?team=SFTWR",
+    "id": "apple-staff-data-infrastructure-engineer-for-lakehouse-apple-data-platform-seattle"
   },
   {
     "employer_name": "GDIT",
-    "job_title": "ServiceNow Principal - Top Secret/SCI - Arlington, VA",
-    "job_city": "USA VA Arlington",
+    "job_title": "Data Engineer SME",
+    "job_city": "Any Location / Remote",
     "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role ServiceNow Principal - Top Secret/SCI - Arlington, VA at USA VA Arlington",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/ServiceNow-Principal---Top-Secret-SCI---Arlington--VA_RQ206179?q=Data+Science",
-    "id": "gdit-servicenow-principal-top-secret-sci-arlington-va-usa-va-arlington"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Manufacturing Engineer",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Manufacturing Engineer at Huntsville, AL",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Manufacturing-Engineer_R0225023?q=Data+Science",
-    "id": "verizon-manufacturing-engineer-huntsville"
-  },
-  {
-    "employer_name": "workday",
-    "job_title": "Software Development Engineer (US Federal)",
-    "job_city": "USA",
-    "job_state": "GA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Software Development Engineer (US Federal) at USA, GA, Atlanta",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Software-Development-Engineer--US-Federal-_JR-0097434?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-software-development-engineer-us-federal-usa"
+    "job_description": "Data Science job for the role Data Engineer SME at Any Location / Remote",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Data-Engineer-SME_RQ206233-1?q=Data+Science",
+    "id": "gdit-data-engineer-sme-any-location-remote"
   }
 ]
