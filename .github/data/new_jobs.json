@@ -1,42 +1,72 @@
 [
   {
-    "employer_name": "HONEYWELL",
-    "job_title": "Sr Test Engineer - Design Validation",
-    "job_city": "Lincolnshire",
-    "job_state": "IL",
+    "employer_name": "Arm",
+    "job_title": "SoC CAD Flow and EDA Automation Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr Test Engineer - Design Validation at Lincolnshire, IL, United States",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115239/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-sr-test-engineer-design-validation-lincolnshire"
+    "job_description": "Data Science job for the role SoC CAD Flow and EDA Automation Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/soc-cad-flow-and-eda-automation-engineer/33099/85467074560",
+    "id": "arm-soc-cad-flow-and-eda-automation-engineer-san-diego"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "GPU Verification Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior GPU Verification Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158183169-senior-gpu-verification-architect",
+    "id": "aijobs-gpu-verification-architect-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "NVLINK Fusion Partner and Ecosystem Development Manager",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role NVLINK Fusion Partner and Ecosystem Development Manager at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158183181-nvlink-fusion-partner-and-ecosystem-development-manager",
+    "id": "aijobs-nvlink-fusion-partner-and-ecosystem-development-manager-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Traffic and Networking",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Software Engineer - Traffic and Networking at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158183173-senior-software-engineer-traffic-and-networking",
+    "id": "aijobs-software-engineer-traffic-and-networking-santa-clara"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Lead Cloud Platform Engineer",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Lead Cloud Platform Engineer at Jersey City, NJ, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210585034/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-lead-cloud-platform-engineer-jersey-city"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "GPU Verification Architect",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior GPU Verification Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-Verification-Engineer_JR2002863?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-gpu-verification-architect-us"
   },
   {
     "employer_name": "GDIT",
-    "job_title": "WMD Counterproliferation Expert",
-    "job_city": "Any Location / Remote",
+    "job_title": "IT Operations Manager",
+    "job_city": "USA DC Washington",
     "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role WMD Counterproliferation Expert at Any Location / Remote",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/WMD-Counterproliferation-Expert_RQ206217-1?q=Data+Science",
-    "id": "gdit-wmd-counterproliferation-expert-any-location-remote"
-  },
-  {
-    "employer_name": "GDIT",
-    "job_title": "Project Manager",
-    "job_city": "USA VA Arlington",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Project Manager at USA VA Arlington",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Project-Manager_RQ206227-1?q=Data+Science",
-    "id": "gdit-project-manager-usa-va-arlington"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Manager/Senior Manager of Strategic Planning and Data Analytics",
-    "job_city": "New York - New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Manager/Senior Manager of Strategic Planning and Data Analytics in Customer Success. Available in 2 location(s): New York - New York, Indiana - Indianapolis",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309167/managersenior-manager-of-strategic-planning-and-data-analytics/",
-    "id": "salesforce-manager-senior-manager-of-strategic-planning-and-data-analytics-new-york-new-york"
+    "job_description": "Data Science job for the role IT Operations Manager at USA DC Washington",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/IT-Operations-Manager_RQ206241?q=Data+Science",
+    "id": "gdit-it-operations-manager-usa-dc-washington"
   }
 ]
