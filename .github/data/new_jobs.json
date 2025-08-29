@@ -1,72 +1,102 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Data Analytics Engineer, Embedded Business Unit",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Data Analytics Engineer, Embedded Business Unit at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30948526",
-    "id": "micron-data-analytics-engineer-embedded-business-unit-san-jose"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Building Automation Solutions Sales Internship",
-    "job_city": "Plano",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Building Automation Solutions Sales Internship at Plano, Texas, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-solutions-sales-internship-plano"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Senior/Lead Forward Deployed Engineer (FDE), Public Sector",
-    "job_city": "Virginia - Herndon",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior/Lead Forward Deployed Engineer (FDE), Public Sector in Software Engineering. Available in 1 location(s): Virginia - Herndon",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309445/seniorlead-forward-deployed-engineer-fde-public-sector/",
-    "id": "salesforce-senior-lead-forward-deployed-engineer-fde-public-sector-virginia-herndon"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Associate Forward Deployed Engineer (FDE), Public Sector",
-    "job_city": "Virginia - Herndon",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Associate Forward Deployed Engineer (FDE), Public Sector in Software Engineering. Available in 1 location(s): Virginia - Herndon",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309444/associate-forward-deployed-engineer-fde-public-sector/",
-    "id": "salesforce-associate-forward-deployed-engineer-fde-public-sector-virginia-herndon"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Product Manager, MuleSoft Platform Identity & Access Management",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Product Manager, MuleSoft Platform Identity & Access Management in Product. Available in 1 location(s): California - San Francisco",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr305944/senior-product-manager-mulesoft-platform-identity-access-management/",
-    "id": "salesforce-product-manager-mulesoft-platform-identity-access-management-california-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineer, iOS Infrastructure",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Software Engineer, iOS Infrastructure in Software Engineering. Available in 3 location(s): California - San Francisco, Washington - Seattle, Washington - Bellevue",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr295896/staff-software-engineer-ios-infrastructure/",
-    "id": "salesforce-software-engineer-ios-infrastructure-california-san-francisco"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Systems Engineer",
-    "job_city": "China Lake",
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - Autonomous Vehicles Platform",
+    "job_city": "Santa Clara",
     "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior System Software Engineer - Autonomous Vehicles Platform at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158626962-senior-system-software-engineer-autonomous-vehicles-platform",
+    "id": "aijobs-system-software-engineer-autonomous-vehicles-platform-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Applied Machine Learning Engineer - Circuit Design",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Applied Machine Learning Engineer - Circuit Design at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158626967-applied-machine-learning-engineer-circuit-design",
+    "id": "aijobs-applied-machine-learning-engineer-circuit-design-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Marketing Insights Research Manager",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "1w ago",
+    "job_description": "data science job for the role Marketing Insights Research Manager at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/158626733-marketing-insights-research-manager",
+    "id": "aijobs-marketing-insights-research-manager-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI System Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior AI System Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158626955-senior-ai-system-engineer",
+    "id": "aijobs-ai-system-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Marketing Engineer - Edge AI and Robotics",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Technical Marketing Engineer - Edge AI and Robotics at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158626963-technical-marketing-engineer-edge-ai-and-robotics",
+    "id": "aijobs-technical-marketing-engineer-edge-ai-and-robotics-santa-clara"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Material Handler Kitting- Kit Prep 2nd Shift",
+    "job_city": "Chippewa Falls",
+    "job_state": "Wisconsin",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Systems Engineer at China Lake, CA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/China-Lake-CA/Systems-Engineer_R0225353?q=Data+Science",
-    "id": "verizon-systems-engineer-china-lake"
+    "job_description": "Data Science job for the role Material Handler Kitting- Kit Prep 2nd Shift at Chippewa Falls, Wisconsin, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Material-Handler-Kitting--Kit-Prep-2nd-Shift_1190649-1?q=Data+Science",
+    "id": "hewlett-packard-enterprise-material-handler-kitting-kit-prep-2nd-shift-chippewa-falls"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Material Handler",
+    "job_city": "Chippewa Falls",
+    "job_state": "Wisconsin",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Material Handler at Chippewa Falls, Wisconsin, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Material-Handler_1190000-1?q=Data+Science",
+    "id": "hewlett-packard-enterprise-material-handler-chippewa-falls"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Electronic Assembly  1st Shift",
+    "job_city": "Chippewa Falls",
+    "job_state": "Wisconsin",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Electronic Assembly  1st Shift at Chippewa Falls, Wisconsin, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electronic-Assembly--1st-Shift_1190713-1?q=Data+Science",
+    "id": "hewlett-packard-enterprise-electronic-assembly-1st-shift-chippewa-falls"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "High Performance Computing Technical Support Consultant  - DOE Q Clearance, On-Site, Livermore, CA",
+    "job_city": "All",
+    "job_state": "California",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role High Performance Computing Technical Support Consultant  - DOE Q Clearance, On-Site, Livermore, CA at All, California, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/All-California-United-States-of-America/High-Performance-Computing-Technical-Support-Consultant----DOE-Q-Clearance--On-Site--Livermore--CA_1182851-1?q=Data+Science",
+    "id": "hewlett-packard-enterprise-high-performance-computing-technical-support-consultant-doe-q-clearance-on-site-livermore-ca-all"
+  },
+  {
+    "employer_name": "ADOBE",
+    "job_title": "Sr. Director, Product Marketing - Market Insights & Strategy",
+    "job_city": "Remote",
+    "job_state": "Remote",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Sr. Director, Product Marketing - Market Insights & Strategy at ",
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R157635/Sr-Director-Product-Marketing-Market-Insights-Strategy",
+    "id": "adobe-sr-director-product-marketing-market-insights-strategy-remote"
   }
 ]
