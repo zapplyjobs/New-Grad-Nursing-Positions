@@ -1,72 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Principal Program Manager",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Principal Program Manager at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-program-manager/33099/85290288432",
-    "id": "arm-principal-program-manager-multiple"
-  },
-  {
     "employer_name": "Micron",
-    "job_title": "Intern - Product Architecture",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_title": "HBM Memory Design Engineer",
+    "job_city": "Richardson",
+    "job_state": "Texas",
     "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Intern - Product Architecture at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30954197",
-    "id": "micron-intern-product-architecture-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr. Technology Expert Labs Services Seller",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Technology Expert Labs Services Seller at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54111&source=WEB_Search_NA",
-    "id": "ibm-sr-technology-expert-labs-services-seller-multiple-cities"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Marketing",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "40min ago",
-    "job_description": "data science job for the role Data Scientist, Marketing at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158629614-data-scientist-marketing",
-    "id": "aijobs-data-scientist-marketing-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Business Systems, Core Financials",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "41min ago",
-    "job_description": "data science job for the role Business Systems, Core Financials at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158629613-business-systems-core-financials",
-    "id": "aijobs-business-systems-core-financials-united-states"
-  },
-  {
-    "employer_name": "APPLIED MATERIALS",
-    "job_title": "Manufacturing Technician II (T2) 1st Shift",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Manufacturing Technician II (T2) 1st Shift at Austin,TX",
-    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790304576671?domain=appliedmaterials.com&triggerGoButton=false",
-    "id": "applied-materials-manufacturing-technician-ii-t2-1st-shift-austin"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "System Software Engineer - Autonomous Vehicles Platform",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior System Software Engineer - Autonomous Vehicles Platform at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Autonomous-Vehicles-Platform_JR2002566?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-system-software-engineer-autonomous-vehicles-platform-us"
+    "job_description": "Data Science job for the role HBM Memory Design Engineer at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30955690",
+    "id": "micron-hbm-memory-design-engineer-richardson"
   }
 ]
