@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist and Analyst",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "18h ago",
+    "job_description": "data science job for the role Data Scientist and Analyst at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/158701496-data-scientist-and-analyst",
+    "id": "aijobs-data-scientist-and-analyst-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Research, Ads Insights Platform, Measurement",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Data Scientist, Research, Ads Insights Platform, Measurement at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/158701500-data-scientist-research-ads-insights-platform-measurement",
+    "id": "aijobs-data-scientist-research-ads-insights-platform-measurement-us"
+  }
+]
