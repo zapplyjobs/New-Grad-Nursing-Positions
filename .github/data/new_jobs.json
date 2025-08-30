@@ -1,42 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Research Engineer, Robotics Systems",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Research Engineer, Robotics Systems at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/158834205-senior-research-engineer-robotics-systems",
-    "id": "aijobs-research-engineer-robotics-systems-santa-clara"
+    "employer_name": "IBM",
+    "job_title": "Strategy and Partnerships Lead",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Strategy and Partnerships Lead at ProfessionalWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55805&source=WEB_Search_NA",
+    "id": "ibm-strategy-and-partnerships-lead-washington"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager, EDA Chip Infrastructure",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Technical Program Manager, EDA Chip Infrastructure at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/158834196-senior-technical-program-manager-eda-chip-infrastructure",
-    "id": "aijobs-technical-program-manager-eda-chip-infrastructure-santa-clara"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Research Engineer, Robotics Systems",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Research Engineer, Robotics Systems at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer--Robotics-Systems_JR1992364?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-research-engineer-robotics-systems-us"
-  },
-  {
-    "employer_name": "Booz Allen",
-    "job_title": "Advanced Data Scientist & Researcher, Lead",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Advanced Data Scientist & Researcher, Lead at McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Advanced-Data-Scientist---Researcher--Lead_R0224757?q=Data+Science",
-    "id": "booz-allen-advanced-data-scientist-researcher-lead-mclean"
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant-SAP Billing & Digital Subscription",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Managing Consultant-SAP Billing & Digital Subscription at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56009&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-sap-billing-digital-subscription-no-city"
   }
 ]
