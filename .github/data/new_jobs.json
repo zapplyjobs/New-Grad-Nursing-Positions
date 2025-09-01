@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern - Technical Program Manager, Program Management Office (PMO)",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 34 mins ago",
+    "job_description": "Data Science job for the role Intern - Technical Program Manager, Program Management Office (PMO) at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30954501",
+    "id": "micron-intern-technical-program-manager-program-management-office-pmo-boise"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Fire/Life Safety Service Technician",
+    "job_city": "Norcross",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Fire/Life Safety Service Technician at Norcross, Georgia, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-fire-life-safety-service-technician-norcross"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Senior Sales Account Executive",
+    "job_city": "Austin",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Building Automation Senior Sales Account Executive at Austin, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-senior-sales-account-executive-austin"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Project Manager, Electrical Products",
+    "job_city": "Peachtree Corners",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Project Manager, Electrical Products at Peachtree Corners, Georgia, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-project-manager-electrical-products-peachtree-corners"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Mechanical Service Senior Sales Executive",
+    "job_city": "Jacksonville",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Mechanical Service Senior Sales Executive at Jacksonville, Florida, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-mechanical-service-senior-sales-executive-jacksonville"
+  }
+]

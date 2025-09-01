@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs & Internships 2025-2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 36+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 2507+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 36+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 2512+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -24,13 +24,13 @@ Use Zapply's extension to instantly submit applications across Tesla, Amazon, NV
 
 ## 📊 Live Stats
 
-🔥 **Current Positions:** 2507 hot data-focused jobs
+🔥 **Current Positions:** 2512 hot data-focused jobs
 
 🏢 **Top Companies:** 36 elite tech including Tesla, NVIDIA, Raytheon
 
-⭐ **FAANG+ Jobs & Internships:** 261 premium opportunities
+⭐ **FAANG+ Jobs & Internships:** 262 premium opportunities
 
-📅 **Last Updated:** August 31, 2025
+📅 **Last Updated:** September 1, 2025
 
 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
@@ -74,14 +74,15 @@ Top internships for students in data science, statistics, analytics, and related
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (under 1 week)
 
-### 🏢 **FAANG+** (261 positions)
+### 🏢 **FAANG+** (262 positions)
 
 #### 📦 **Amazon** (30 positions)
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
-| Applied Scientist, Buyer Abuse Prevention ML, Buyer Abuse Prevention Machine Learning team | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3069845/applied-scientist-buyer-abuse-prevention-ml-buyer-abuse-prevention-machine-learning-team) | 8h ago |
-| Business Intelligence Engineer, WHS Data | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/jobs/3069838/business-intelligence-engineer-whs-data) | 11h ago |
+| Applied Scientist, Buyer Abuse Prevention ML, Buyer Abuse Prevention Machine Learning team | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3069845/applied-scientist-buyer-abuse-prevention-ml-buyer-abuse-prevention-machine-learning-team) | 9h ago |
+| Business Intelligence Engineer, WHS Data | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/jobs/3069838/business-intelligence-engineer-whs-data) | 12h ago |
+| Detection Program Risk Manager, Product Quality | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/2948197/detection-program-risk-manager-product-quality) | 2d ago |
 | Technical Infrastructure Program Manager, AFT - External Fulfillment | Austin, TX | [Apply](https://amazon.jobs/en-gb/jobs/3013712/technical-infrastructure-program-manager-aft-external-fulfillment) | 2d ago |
 | Data Scientist II, AWS Managed Operations Data Science (MODS) | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/2940547/data-scientist-ii-aws-managed-operations-data-science-mods) | 2d ago |
 | Applied Scientist II, AWS Q for Business | Santa Clara, CA | [Apply](https://amazon.jobs/en-gb/jobs/3001477/applied-scientist-ii-aws-q-for-business) | 2d ago |
@@ -91,15 +92,14 @@ Top internships for students in data science, statistics, analytics, and related
 | Program Specialist , Customer Service | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3061382/program-specialist-customer-service) | 2d ago |
 | Program Specialist (D2C2), Customer Service | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3027003/program-specialist-d2c2-customer-service) | 2d ago |
 | Risk Manager II, RISC | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/2876678/risk-manager-ii-risc) | 2d ago |
-| Detection Program Risk Manager, Product Quality | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/2948197/detection-program-risk-manager-product-quality) | 2d ago |
+| Risk Manager, RISC | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/2883571/risk-manager-risc) | 3d ago |
+| Business Analyst, WW Fulfillment by Amazon - Product & Tech Finance | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/jobs/3052886/business-analyst-ww-fulfillment-by-amazon-product-tech-finance) | 3d ago |
 | Business Intelligence Engineer II, AWS Analytics and Data Solutions (ADS) | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/2978459/business-intelligence-engineer-ii-aws-analytics-and-data-solutions-ads) | 3d ago |
 | Applied Scientist, Agentic AI for Data Analytics and Science, Speed Analytics and Science | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/jobs/3068893/applied-scientist-agentic-ai-for-data-analytics-and-science-speed-analytics-and-science) | 3d ago |
 | Threat Detection AI ML Data Scientist II, SIRT | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/3051737/threat-detection-ai-ml-data-scientist-ii-sirt) | 3d ago |
 | Business Intelligence Engineer, AWS Compliance & Security Assurance | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3023132/business-intelligence-engineer-aws-compliance-security-assurance) | 3d ago |
 | Business Analyst II, Customer Partner Trust | Tempe, AZ | [Apply](https://amazon.jobs/en-gb/jobs/2999527/business-analyst-ii-customer-partner-trust) | 3d ago |
 | Machine Learning Research Engineer, WW Sustainability | New York, NY | [Apply](https://amazon.jobs/en-gb/jobs/3059330/machine-learning-research-engineer-ww-sustainability) | 3d ago |
-| Risk Manager, RISC | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/2883571/risk-manager-risc) | 3d ago |
-| Business Analyst, WW Fulfillment by Amazon - Product & Tech Finance | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/jobs/3052886/business-analyst-ww-fulfillment-by-amazon-product-tech-finance) | 3d ago |
 | Delivery Data Science Technical Product Manager , Robotics Operations Data Solutions | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3067115/delivery-data-science-technical-product-manager-robotics-operations-data-solutions) | 4d ago |
 | Data Engineer, SPS Finance Insights & Analytics | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3067661/data-engineer-sps-finance-insights-analytics) | 4d ago |
 | Data Engineer II, Foundational People Data Services | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3039727/data-engineer-ii-foundational-people-data-services) | 4d ago |
@@ -154,7 +154,7 @@ Top internships for students in data science, statistics, analytics, and related
 | Product Strategy and Operations | New York, NY | [Apply](https://www.google.com/about/careers/applications/jobs/results/137164647152132806-product-strategy-and-operations-ads-and-commerce?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3) | Recently |
 
 <details>
-<summary><h4>🍎 <strong>Apple</strong> (186 positions)</h4></summary>
+<summary><h4>🍎 <strong>Apple</strong> (187 positions)</h4></summary>
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
@@ -170,26 +170,26 @@ Top internships for students in data science, statistics, analytics, and related
 | Data Scientist - Strategic Data Solutions | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200613654-0157/data-scientist-strategic-data-solutions?team=OPMFG) | Recently |
 | AIML - Data Scientist, Data Operations | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200609424-3337/aiml-data-scientist-data-operations?team=MLAI) | Recently |
 | WW Sales BPR Data Engineer, Data Quality | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200593149-0157/ww-sales-bpr-data-engineer-data-quality?team=SLDEV) | Recently |
-| Data Operations Engineer | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200616129-3543/data-operations-engineer?team=HRDWR) | Recently |
-| Data Engineer | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200595736-0836/senior-data-engineer?team=SFTWR) | Recently |
 | Software Data Architect | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200608350-3337/software-data-architect?team=SFTWR) | Recently |
 | Data Platform SRE | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200609731-0157/data-platform-sre?team=SFTWR) | Recently |
+| Data Operations Engineer | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200616129-3543/data-operations-engineer?team=HRDWR) | Recently |
+| Data Engineer | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200595736-0836/senior-data-engineer?team=SFTWR) | Recently |
 | Data Application Engineer | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200587071-0836/data-application-engineer?team=HRDWR) | Recently |
 | Data Center Engineer | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200615255-0836/data-center-engineer?team=SFTWR) | Recently |
 | AI Data Scientist | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200612099-0836/ai-data-scientist?team=SLDEV) | Recently |
 | Data Scientist Manager | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200617087-0836/data-scientist-manager?team=OPMFG) | Recently |
 | Data Scientist, ASE iCloud Data Organization [Product] | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200581992-3337/senior-data-scientist-ase-icloud-data-organization-product?team=SFTWR) | Recently |
 | SWE - Siri Data Scientist / Data Engineering Lead | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200607554-0836/swe-siri-data-scientist-data-engineering-lead?team=MLAI) | Recently |
-| Marketing Data Scientist | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200607626-0836/senior-marketing-data-scientist?team=SFTWR) | Recently |
-| Logistics Technician, Data Center | Prineville, US | [Apply](https://jobs.apple.com/en-us/details/200617373-2228/logistics-technician-data-center?team=SFTWR) | Recently |
-| Data Center Network Architect | Sunnyvale, US | [Apply](https://jobs.apple.com/en-us/details/200617052-3956/data-center-network-architect?team=SFTWR) | Recently |
-| Sr. Data Scientist, Experimentation | Culver City, US | [Apply](https://jobs.apple.com/en-us/details/200617039-0670/sr-data-scientist-experimentation?team=SFTWR) | Recently |
-| AI Data Integration Engineer | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200618528-0836/ai-data-integration-engineer?team=SLDEV) | Recently |
 | Machine Learning Data Scientist | Sunnyvale, US | [Apply](https://jobs.apple.com/en-us/details/200609910-3956/machine-learning-data-scientist?team=HRDWR) | Recently |
 | Data Studies Policy Engineer | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200575909-0836/data-studies-policy-engineer?team=HRDWR) | Recently |
 | Data Security Engineer, AiDP | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200607643-0157/data-security-engineer-aidp?team=CORSV) | Recently |
 | ML Data Operations Lead | New York City, US | [Apply](https://jobs.apple.com/en-us/details/200611130-2459/ml-data-operations-lead?team=SFTWR) | Recently |
 | Sr. Data Engineer, iCloud | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200593892-3337/sr-data-engineer-icloud?team=SFTWR) | Recently |
+| Marketing Data Scientist | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200607626-0836/senior-marketing-data-scientist?team=SFTWR) | Recently |
+| Logistics Technician, Data Center | Prineville, US | [Apply](https://jobs.apple.com/en-us/details/200617373-2228/logistics-technician-data-center?team=SFTWR) | Recently |
+| Data Center Network Architect | Sunnyvale, US | [Apply](https://jobs.apple.com/en-us/details/200617052-3956/data-center-network-architect?team=SFTWR) | Recently |
+| Sr. Data Scientist, Experimentation | Culver City, US | [Apply](https://jobs.apple.com/en-us/details/200617039-0670/sr-data-scientist-experimentation?team=SFTWR) | Recently |
+| AI Data Integration Engineer | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200618528-0836/ai-data-integration-engineer?team=SLDEV) | Recently |
 | Data Platform SRE Manager | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200599876-0836/data-platform-sre-manager?team=SFTWR) | Recently |
 | Software Engineer - Data | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200607290-3543/software-engineer-data?team=SFTWR) | Recently |
 | Sr. Data Scientist, Experimentation | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200617039-3543/sr-data-scientist-experimentation?team=SFTWR) | Recently |
@@ -236,14 +236,12 @@ Top internships for students in data science, statistics, analytics, and related
 | Data Engineer - Health Sensing | Sunnyvale, US | [Apply](https://jobs.apple.com/en-us/details/200602168-3956/data-engineer-health-sensing?team=HRDWR) | Recently |
 | Data Scientist - Business Process Re-Engineering | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200613277-0157/data-scientist-business-process-re-engineering?team=OPMFG) | Recently |
 | AI Evaluation Data Scientist - Health | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200615369-0836/ai-evaluation-data-scientist-health?team=HRDWR) | Recently |
+| AI Architect, Apple Data Platform | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200616673-0836/senior-ai-architect-apple-data-platform?team=SFTWR) | Recently |
+| AIML - Financial Analyst, Data Operations | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200618353-0836/aiml-financial-analyst-data-operations?team=CORSV) | Recently |
 | Data ML Program Manager- Product Operations | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200609818-0836/data-ml-program-manager-product-operations?team=OPMFG) | Recently |
 | Product Data Scientist, Media Services | Culver City, US | [Apply](https://jobs.apple.com/en-us/details/200613089-0670/senior-product-data-scientist-media-services?team=SFTWR) | Recently |
 | Reliability Engineer, Ai & Data Platforms | Sunnyvale, US | [Apply](https://jobs.apple.com/en-us/details/200617570-3956/reliability-engineer-ai-data-platforms?team=SFTWR) | Recently |
 | Data Scientist,  Apple Pay  Analytics | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200618511-0836/staff-data-scientist-apple-pay-analytics?team=SFTWR) | Recently |
-| Commerce Data Engineer, Apple Services Engineering | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200603300-0836/commerce-data-engineer-apple-services-engineering?team=SFTWR) | Recently |
-| Data Center Physical Architect & Pathfinding | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200582454-0157/data-center-physical-architect-pathfinding?team=HRDWR) | Recently |
-| AI Architect, Apple Data Platform | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200616673-0836/senior-ai-architect-apple-data-platform?team=SFTWR) | Recently |
-| AIML - Financial Analyst, Data Operations | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200618353-0836/aiml-financial-analyst-data-operations?team=CORSV) | Recently |
 | Software Engineer - Strategic Data Solutions | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200613862-0157/software-engineer-strategic-data-solutions?team=SFTWR) | Recently |
 | ML Data Scientist - Apple Ads | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200601254-0836/ml-data-scientist-apple-ads?team=SFTWR) | Recently |
 | Operations Critical Facilities Supervisor, Data Center | Mesa, US | [Apply](https://jobs.apple.com/en-us/details/200614790-2903/operations-critical-facilities-supervisor-data-center?team=SFTWR) | Recently |
@@ -290,11 +288,12 @@ Top internships for students in data science, statistics, analytics, and related
 | AIML - Sr. Data Scientist, Apple Intelligence | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200583968-0836/aiml-sr-data-scientist-apple-intelligence?team=MLAI) | Recently |
 | AIML - EPM Manager, Foundation Model Data | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200616433-0836/aiml-epm-manager-foundation-model-data?team=MLAI) | Recently |
 | Business Intelligence / Data Visualization Engineer | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200606461-0836/senior-business-intelligence-data-visualization-engineer?team=MLAI) | Recently |
-| Data Collection Lead - Apple Vision Pro | Sunnyvale, US | [Apply](https://jobs.apple.com/en-us/details/200614018-3956/senior-data-collection-lead-apple-vision-pro?team=HRDWR) | Recently |
 | SWE - Machine Learning Technical Lead, Data Engineering | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200583182-0836/swe-machine-learning-technical-lead-data-engineering?team=MLAI) | Recently |
 | Machine Learning Engineer, Apple Intelligence Data Platform | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200610298-3337/senior-machine-learning-engineer-apple-intelligence-data-platform?team=MLAI) | Recently |
 | ML Data Scientist - Product Analytics, Apple Ads | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200601258-0157/ml-data-scientist-product-analytics-apple-ads?team=SFTWR) | Recently |
+| Machine Learning  Data Scientist - Semantics, Apple Ads | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200601261-0157/machine-learning-data-scientist-semantics-apple-ads?team=SFTWR) | Recently |
 | Technical Program Manager – Strategic Data Solutions | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200610997-0157/senior-technical-program-manager-strategic-data-solutions?team=SFTWR) | Recently |
+| Data Collection Lead - Apple Vision Pro | Sunnyvale, US | [Apply](https://jobs.apple.com/en-us/details/200605326-3956/senior-data-collection-lead-apple-vision-pro?team=HRDWR) | Recently |
 | ML Data Scientist - Research Analytics, Apple Ads | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200614080-0836/ml-data-scientist-research-analytics-apple-ads?team=SFTWR) | Recently |
 | Software Engineering - Data Products Engineering, Apple Ads | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200601036-0157/software-engineering-data-products-engineering-apple-ads?team=SFTWR) | Recently |
 | Software Engineer (Data Solutions), Ai & Data Platforms | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200612841-0157/software-engineer-data-solutions-ai-data-platforms?team=SFTWR) | Recently |
@@ -306,9 +305,11 @@ Top internships for students in data science, statistics, analytics, and related
 | SW Engineer - Data Services for GenAI, AiDP | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200613321-0157/sw-engineer-data-services-for-genai-aidp?team=CORSV) | Recently |
 | Software Engineer (UI Design), Ai & Data Platforms | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200615866-0157/software-engineer-ui-design-ai-data-platforms?team=SFTWR) | Recently |
 | WW CSO - Machine Learning Engineer, Data Modeling | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200613604-0836/ww-cso-machine-learning-engineer-data-modeling?team=MLAI) | Recently |
+| Software Engineer (BI Tools Platform), Ai & Data Platforms | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200561513-0157/software-engineer-bi-tools-platform-ai-data-platforms?team=SFTWR) | Recently |
+| Data Programs Project Manager: People Planning Operations Shared Solutions | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200612708-0836/data-programs-project-manager-people-planning-operations-shared-solutions?team=CORSV) | Recently |
+| Data Programs Project Manager: People Planning Operations Shared Solutions | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200609046-0157/data-programs-project-manager-people-planning-operations-shared-solutions?team=CORSV) | Recently |
+| / Staff Software Engineer - Apple Data Platform | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200616686-0836/senior-staff-software-engineer-apple-data-platform?team=SFTWR) | Recently |
 | AIML - Machine Learning Engineer, Data and ML Innovation | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200586634-3337/aiml-machine-learning-engineer-data-and-ml-innovation?team=MLAI) | Recently |
-| Machine Learning Data Scientist Manager - Apple Ads | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200601255-0836/senior-machine-learning-data-scientist-manager-apple-ads?team=SFTWR) | Recently |
-| Retail Technical Fraud Analyst Manager - Strategic Data Solutions | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200614174-0157/retail-technical-fraud-analyst-manager-strategic-data-solutions?team=OPMFG) | Recently |
 | AIML - Annotations Account & Program Manager, Data Operations | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200594550-3337/aiml-annotations-account-program-manager-data-operations?team=MLAI) | Recently |
 | AIML - Annotations Account & Program Manager, Data Operations | New York City, US | [Apply](https://jobs.apple.com/en-us/details/200613810-2459/aiml-annotations-account-program-manager-data-operations?team=MLAI) | Recently |
 | Site Reliability Engineer (SRE), Data Platform – Apple Maps | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200603050-0836/site-reliability-engineer-sre-data-platform-apple-maps?team=SFTWR) | Recently |
@@ -318,22 +319,22 @@ Top internships for students in data science, statistics, analytics, and related
 | Software Engineer - AI Governance, Apple Data Platform | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200592531-3337/staff-software-engineer-ai-governance-apple-data-platform?team=SFTWR) | Recently |
 | AIML - Machine Learning Researcher, Data and ML Innovation | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200591371-3337/aiml-machine-learning-researcher-data-and-ml-innovation?team=MLAI) | Recently |
 | Full Stack Software Engineer - Strategic Data Solutions | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200609617-0157/senior-full-stack-software-engineer-strategic-data-solutions?team=SFTWR) | Recently |
-| / Staff Machine Learning Engineer, Apple ML Data Platform | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200616107-0836/senior-staff-machine-learning-engineer-apple-ml-data-platform?team=SFTWR) | Recently |
-| Software Engineer, Siri AI Data & Privacy Quality Engineering | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200616911-0836/senior-software-engineer-siri-ai-data-privacy-quality-engineering?team=MLAI) | Recently |
 | Sr. Manager, Data Platform Engineering Programs - Apple Services Engineering | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200594626-3337/sr-manager-data-platform-engineering-programs-apple-services-engineering?team=SFTWR) | Recently |
 | ML Software Engineer - Large Scale Spatial/Temporal Data Processing | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200605844-0836/senior-ml-software-engineer-large-scale-spatial-temporal-data-processing?team=SFTWR) | Recently |
 | / Staff Software Engineer (MLOps) - Apple Data Platform | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200618269-3337/senior-staff-software-engineer-mlops-apple-data-platform?team=MLAI) | Recently |
+| / Staff Machine Learning Engineer, Apple ML Data Platform | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200616107-0836/senior-staff-machine-learning-engineer-apple-ml-data-platform?team=SFTWR) | Recently |
+| Software Engineer, Siri AI Data & Privacy Quality Engineering | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200616911-0836/senior-software-engineer-siri-ai-data-privacy-quality-engineering?team=MLAI) | Recently |
 | Sr Software Engineer (Framework - Java), Ai & Data Platforms | Sunnyvale, US | [Apply](https://jobs.apple.com/en-us/details/200590143-3956/sr-software-engineer-framework-java-ai-data-platforms?team=SFTWR) | Recently |
+| / Principal Software Engineer (Spark Kafka, Iceberg), Apple Data Platform | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200594359-3337/staff-principal-software-engineer-spark-kafka-iceberg-apple-data-platform?team=SFTWR) | Recently |
 | AIML - Sr Machine Learning Engineer - Data and ML Innovation | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200613134-3337/aiml-sr-machine-learning-engineer-data-and-ml-innovation?team=MLAI) | Recently |
 | Embedded 5G/4G Cellular Physical Layer Data Path Signal Processing Firmware Engineer | Sunnyvale, US | [Apply](https://jobs.apple.com/en-us/details/200583081-3956/embedded-5g-4g-cellular-physical-layer-data-path-signal-processing-firmware-engineer?team=HRDWR) | Recently |
 | AIML - Sr Responsible AI Research Manager, Data & ML Innovation | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200536602-3337/aiml-sr-responsible-ai-research-manager-data-ml-innovation?team=MLAI) | Recently |
 | AIML - Sr Responsible AI Research Manager, Data & ML Innovation | Pittsburgh, US | [Apply](https://jobs.apple.com/en-us/details/200536602-2926/aiml-sr-responsible-ai-research-manager-data-ml-innovation?team=MLAI) | Recently |
-| / Principal Software Engineer (Spark Kafka, Iceberg), Apple Data Platform | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200594359-3337/staff-principal-software-engineer-spark-kafka-iceberg-apple-data-platform?team=SFTWR) | Recently |
-| Embedded 5G/4G Cellular Physical Layer Data Path Signal Processing Firmware Engineer | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200583077-3543/embedded-5g-4g-cellular-physical-layer-data-path-signal-processing-firmware-engineer?team=HRDWR) | Recently |
+| Embedded 5G/4G Cellular Physical Layer Data Path Signal Processing Firmware Engineer | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200574747-3543/embedded-5g-4g-cellular-physical-layer-data-path-signal-processing-firmware-engineer?team=HRDWR) | Recently |
 | SWE - Sr ML Infrastructure Engineer, Siri User Experience Metrics and Data | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200616320-0836/swe-sr-ml-infrastructure-engineer-siri-user-experience-metrics-and-data?team=SFTWR) | Recently |
 | Machine Learning Engineer (Lead), AI Agents | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200610922-0836/senior-machine-learning-engineer-lead-ai-agents?team=SFTWR) | Recently |
-| Product Manager, TV App Personalization | Culver City, US | [Apply](https://jobs.apple.com/en-us/details/200615543-0670/senior-product-manager-tv-app-personalization?team=SFTWR) | Recently |
 | Americas Retail Fulfillment Operations-Business Analyst | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200605705-0157/americas-retail-fulfillment-operations-business-analyst?team=OPMFG) | Recently |
+| Product Manager, TV App Personalization | Culver City, US | [Apply](https://jobs.apple.com/en-us/details/200615543-0670/senior-product-manager-tv-app-personalization?team=SFTWR) | Recently |
 | Americas Central Logistics-Business Analyst | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200616021-0157/americas-central-logistics-business-analyst?team=OPMFG) | Recently |
 | AIML - Engineering Manager, Search and Knowledge Quality | Santa Clara, California | [Apply](https://jobs.apple.com/en-us/details/200614792-3760/aiml-engineering-manager-search-and-knowledge-quality?team=MLAI) | Recently |
 | Product Manager, Apple Ads Experimentation | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200616912-0836/product-manager-apple-ads-experimentation?team=SFTWR) | Recently |
@@ -341,8 +342,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Software Engineer (Tech Lead), AI Agents | Austin, Texas | [Apply](https://jobs.apple.com/en-us/details/200614973-0157/senior-software-engineer-tech-lead-ai-agents?team=SFTWR) | Recently |
 | Trust & Safety Intelligence Engineer | Cupertino, California | [Apply](https://jobs.apple.com/en-us/details/200614002-0836/lead-trust-safety-intelligence-engineer?team=SFTWR) | Recently |
 | Product Manager, Apple Ads Predictions | New York City, US | [Apply](https://jobs.apple.com/en-us/details/200602646-2459/product-manager-apple-ads-predictions?team=SFTWR) | Recently |
-| Applied Scientist - System Intelligence and Machine Learning, ISE | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200584334-3337/senior-applied-scientist-system-intelligence-and-machine-learning-ise?team=SFTWR) | Recently |
 | Product Manager, Apple Ads Experimentation | New York City, US | [Apply](https://jobs.apple.com/en-us/details/200616912-2459/product-manager-apple-ads-experimentation?team=SFTWR) | Recently |
+| Applied Scientist - System Intelligence and Machine Learning, ISE | Seattle, Washington | [Apply](https://jobs.apple.com/en-us/details/200584334-3337/senior-applied-scientist-system-intelligence-and-machine-learning-ise?team=SFTWR) | Recently |
 | Product Manager, Apple Ads Auctions | New York City, US | [Apply](https://jobs.apple.com/en-us/details/200610142-2459/product-manager-apple-ads-auctions?team=SFTWR) | Recently |
 
 </details>
@@ -358,7 +359,7 @@ Top internships for students in data science, statistics, analytics, and related
 | 🔵 **Meta** | Data Science Director | Bellevue, WA +3 locations | [Apply](https://www.metacareers.com/jobs/3489873754638185) | NaNmo ago |
 | 🔵 **Meta** | Financial Integrity Data Science Manager | Multiple, Locations | [Apply](https://www.metacareers.com/jobs/1035682588090621) | NaNmo ago |
 
-### 🏢 **Top Tech** (522 positions)
+### 🏢 **Top Tech** (526 positions)
 
 <details>
 <summary><h4>🏢 <strong>MARVELL</strong> (63 positions)</h4></summary>
@@ -432,7 +433,7 @@ Top internships for students in data science, statistics, analytics, and related
 </details>
 
 <details>
-<summary><h4>🎮 <strong>NVIDIA</strong> (85 positions)</h4></summary>
+<summary><h4>🎮 <strong>NVIDIA</strong> (87 positions)</h4></summary>
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
@@ -443,8 +444,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Distinguished Engineer – Integrated Data Center Systems Architecture 🏠 | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer---Integrated-Data-Center-Systems-Architecture_JR2002438?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
 | Distinguished Engineer – Data Center System Software Architect | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Engineer---Data-Center-System-Software-Architect_JR1973423?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
 | Architect, Datacenter SoC Product | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architect--Datacenter-SoC-Product_JR1992450?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
-| Datacenter Partner Enablement Engineer | US, OR | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Datacenter-Partner-Enablement-Engineer_JR2002351?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
 | Software Engineering Manager - Image and Data Compression Libraries 🏠 | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
+| Datacenter Partner Enablement Engineer | US, OR | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Datacenter-Partner-Enablement-Engineer_JR2002351?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
 | Software Applications Engineer, Datacenter Products | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Applications-Engineer--Datacenter-Products_JR2002203?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
 | Manager, Software Technical Program Management - Datacenter Systems | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Software-Technical-Program-Management---Datacenter-Systems_JR1985620?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
 | Deep Learning Systems Engineer, Datacenters | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Systems-Engineer--Datacenters_JR2000694?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
@@ -497,6 +498,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Software Engineer - GeForce NOW Video Streaming Technology | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---GeForce-NOW-Video-Streaming-Technology_JR2001262?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
 | Technical Program Manager, IT Network Infrastructure | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager--IT-Network-Infrastructure_JR1999572?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
 | GPU Verification Architect | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-Verification-Engineer_JR2002863?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
+| Developer Relationship Manager - Automotive Vehicles | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relationship-Manager---Automotive-Vehicles_JR1999784?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
+| Solutions Architect, Autonomous Driving - GenAI | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Autonomous-Driving---GenAI_JR2000235?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
 | Distinguished Software Architect - Deep Learning and HPC Communications | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Software-Architect---Deep-Learning-and-HPC-Communications_JR1980127?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
 | Software Engineer – CSP Engagements | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer---CSP-Engagements_JR1998405?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
 | Product Manager - Autonomous Vehicles | US, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---Autonomous-Vehicles_JR2002860?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Recently |
@@ -525,7 +528,7 @@ Top internships for students in data science, statistics, analytics, and related
 </details>
 
 <details>
-<summary><h4>🔶 <strong>AMD</strong> (96 positions)</h4></summary>
+<summary><h4>🔶 <strong>AMD</strong> (97 positions)</h4></summary>
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
@@ -597,6 +600,7 @@ Top internships for students in data science, statistics, analytics, and related
 | Sr. Manager, EPYC AI Platform Planning | US, CA | [Apply](https://careers-amd.icims.com/jobs/65505/login) | Recently |
 | Server Product Architect | US, TX | [Apply](https://careers-amd.icims.com/jobs/66597/login) | Recently |
 | System on Chip Security Architect | US, CA | [Apply](https://careers-amd.icims.com/jobs/66066/login) | Recently |
+| Research Associate - PhD | US, CA | [Apply](https://careers-amd.icims.com/jobs/63057/login) | Recently |
 | Product Manager - Network Infrastructure | US, CA | [Apply](https://careers-amd.icims.com/jobs/69275/login) | Recently |
 | Software Development Engineer - AI/ML frameworks, C/C++/Python | US, CA | [Apply](https://careers-amd.icims.com/jobs/62936/login) | Recently |
 | Silicon RTL Design Engineer | US, TX | [Apply](https://careers-amd.icims.com/jobs/66611/login) | Recently |
@@ -629,7 +633,7 @@ Top internships for students in data science, statistics, analytics, and related
 </details>
 
 <details>
-<summary><h4>☁️ <strong>Salesforce</strong> (188 positions)</h4></summary>
+<summary><h4>☁️ <strong>Salesforce</strong> (189 positions)</h4></summary>
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
@@ -642,11 +646,11 @@ Top internships for students in data science, statistics, analytics, and related
 | Software Engineer - Slack, Data Engineering | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr306410/senior-software-engineer-slack-data-engineering/) | Recently |
 | Data Engineer, PMTS 🏠 | Washington - Seattle Metro - Remote, US | [Apply](https://careers.salesforce.com/en/jobs/jr299729/data-engineer-pmts/) | Recently |
 | Sr./Lead Data Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr306050/srlead-data-engineer/) | Recently |
-| Architect, Data Strategy | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr302103/principal-architect-data-strategy/) | Recently |
 | Lead/Principal Responsible AI Research Scientist | California - Palo Alto, US | [Apply](https://careers.salesforce.com/en/jobs/jr298047/leadprincipal-responsible-ai-research-scientist/) | Recently |
+| Architect, Data Strategy | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr302103/principal-architect-data-strategy/) | Recently |
 | Manager/Senior Manager of Strategic Planning and Data Analytics | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr309167/managersenior-manager-of-strategic-planning-and-data-analytics/) | Recently |
-| Director of Product -  RAG, Retrieval and Unstructured Data | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr302205/senior-director-of-product-rag-retrieval-and-unstructured-data/) | Recently |
 | Research Scientist - Salesforce AI Research | California - Palo Alto, US | [Apply](https://careers.salesforce.com/en/jobs/jr214107/research-scientist-salesforce-ai-research/) | Recently |
+| Director of Product -  RAG, Retrieval and Unstructured Data | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr302205/senior-director-of-product-rag-retrieval-and-unstructured-data/) | Recently |
 | Distributed Systems/Data Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr300958/lead-distributed-systemsdata-engineer/) | Recently |
 | C360 Data Automation, Senior Product Manager | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr308292/c360-data-automation-senior-product-manager/) | Recently |
 | SVP, Sales - Data Cloud - AMER & EMEA | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr279027/svp-sales-data-cloud-amer-emea/) | Recently |
@@ -655,21 +659,21 @@ Top internships for students in data science, statistics, analytics, and related
 | Enterprise Account Executive, Data Cloud | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr297587/enterprise-account-executive-data-cloud/) | Recently |
 | Director of Engineering - Enterprise Data Platform | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307632/senior-director-of-engineering-enterprise-data-platform/) | Recently |
 | Adoption & Enablement CX Specialist – Data Cloud | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304763/lead-adoption-enablement-cx-specialist-data-cloud/) | Recently |
-| Software Engineer, Data Engineering | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304374/staff-software-engineer-data-engineering/) | Recently |
 | Developer Documentation Specialist – Data Cloud | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303021/lead-developer-documentation-specialist-data-cloud/) | Recently |
+| Software Engineer, Data Engineering | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304374/staff-software-engineer-data-engineering/) | Recently |
 | Success Sales GTM Senior Manager | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr308930/success-sales-gtm-senior-manager/) | Recently |
-| Sr. Data Engineer, Admin & Trust - Slack | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr305962/sr-data-engineer-admin-trust-slack/) | Recently |
 | Director, Sales Programs | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr308453/director-sales-programs/) | Recently |
 | Manager, Product Management – Public Sector Data Strategy | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr307660/senior-manager-product-management-public-sector-data-strategy/) | Recently |
 | Director, Product Design- Slack Growth | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303895/senior-director-product-design-slack-growth/) | Recently |
-| Senior/Lead/Principal Data Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304107/seniorleadprincipal-data-engineer/) | Recently |
+| Sr. Data Engineer, Admin & Trust - Slack | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr305962/sr-data-engineer-admin-trust-slack/) | Recently |
 | Product Management Director, Common Services AI | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr300749/product-management-director-common-services-ai/) | Recently |
-| Software Engineer (Big Data) -Lead/Principal | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr304406/software-engineer-big-data-leadprincipal/) | Recently |
+| Senior/Lead/Principal Data Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304107/seniorleadprincipal-data-engineer/) | Recently |
 | Director, Product Manager & Operations, Data Cloud | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304435/senior-director-product-manager-operations-data-cloud/) | Recently |
 | Customer Success Manager, Data Cloud (Multiple Levels) | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr308584/senior-customer-success-manager-data-cloud-multiple-levels/) | Recently |
-| Software Engineer Data Platform-Slack (Sr Staff/Staff) | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr297827/software-engineer-data-platform-slack-sr-staffstaff/) | Recently |
+| Software Engineer (Big Data) -Lead/Principal | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr304406/software-engineer-big-data-leadprincipal/) | Recently |
 | Software Engineer, Data Platform-Slack  (Senior SWE/Staff SWE) | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr297790/software-engineer-data-platform-slack-senior-swestaff-swe/) | Recently |
 | Software Engineering MTS | Texas - Dallas, US | [Apply](https://careers.salesforce.com/en/jobs/jr302281/software-engineering-mts/) | Recently |
+| Software Engineer Data Platform-Slack (Sr Staff/Staff) | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr297827/software-engineer-data-platform-slack-sr-staffstaff/) | Recently |
 | Enterprise & Technical Architect (Pre-Sales) 🏠 | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr280888/enterprise-technical-architect-pre-sales/) | Recently |
 | Commercial/Enterprise Account Executive - Slack/Tableau - Tech & Media/Consumer Business Services 🏠 | Illinois - Chicago, US | [Apply](https://careers.salesforce.com/en/jobs/jr298335/commercialenterprise-account-executive-slacktableau-tech-mediaconsumer-business-services/) | Recently |
 | Commercial/Enterprise Specialists Account Executive - Financial Services/Healthcare & Life Sciences 🏠 | Illinois - Chicago, US | [Apply](https://careers.salesforce.com/en/jobs/jr298333/commercialenterprise-specialists-account-executive-financial-serviceshealthcare-life-sciences/) | Recently |
@@ -679,18 +683,18 @@ Top internships for students in data science, statistics, analytics, and related
 | BISO, Product Security 🏠 | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307139/biso-product-security/) | Recently |
 | Senior/Lead Software Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr289047/seniorlead-software-engineer/) | Recently |
 | AI Forward Deployed Engineer (Senior/Lead/Principal) 🏠 | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr305198/ai-forward-deployed-engineer-seniorleadprincipal/) | Recently |
-| Software Engineering MTS/SMTS | Massachusetts - Burlington, US | [Apply](https://careers.salesforce.com/en/jobs/jr303169/software-engineering-mtssmts/) | Recently |
 | Agile Delivery Coach, Senior Manager | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr306145/agile-delivery-coach-senior-manager/) | Recently |
-| Technical Architect Director | District of Columbia - Washington, US | [Apply](https://careers.salesforce.com/en/jobs/jr289199/technical-architect-director/) | Recently |
+| Software Engineering MTS/SMTS | Massachusetts - Burlington, US | [Apply](https://careers.salesforce.com/en/jobs/jr303169/software-engineering-mtssmts/) | Recently |
 | Product Security Principal | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr305078/product-security-principal/) | Recently |
+| Technical Architect Director | District of Columbia - Washington, US | [Apply](https://careers.salesforce.com/en/jobs/jr289199/technical-architect-director/) | Recently |
 | Program Management Senior Lead | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303086/program-management-senior-lead/) | Recently |
 | Software Engineer, Security Infrastructure | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307670/senior-software-engineer-security-infrastructure/) | Recently |
 | Software Engineer, Infrastructure | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr308576/staff-software-engineer-infrastructure/) | Recently |
 | Technical Program Management Director, Security | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307705/technical-program-management-director-security/) | Recently |
+| Associate Forward Deployed Engineer (FDE), Public Sector 🏠 | Virginia - Herndon, US | [Apply](https://careers.salesforce.com/en/jobs/jr309444/associate-forward-deployed-engineer-fde-public-sector/) | Recently |
 | Software Engineer, Backend (Staff & SWE II) - Slack | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr290567/software-engineer-backend-staff-swe-ii-slack/) | Recently |
 | Software Engineering LMTS | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303725/software-engineering-lmts/) | Recently |
 | LMTS Backend Software Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303884/lmts-backend-software-engineer/) | Recently |
-| Associate Forward Deployed Engineer (FDE), Public Sector 🏠 | Virginia - Herndon, US | [Apply](https://careers.salesforce.com/en/jobs/jr309444/associate-forward-deployed-engineer-fde-public-sector/) | Recently |
 | Director/Senior Director - Product Strategy, Communications Cloud | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303618/directorsenior-director-product-strategy-communications-cloud/) | Recently |
 | Senior/Lead Search Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr294147/seniorlead-search-engineer/) | Recently |
 | Compliance Architect | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr301550/compliance-architect/) | Recently |
@@ -709,12 +713,13 @@ Top internships for students in data science, statistics, analytics, and related
 | Manager/Sr. Manager - Software Engineering | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr252146/managersr-manager-software-engineering/) | Recently |
 | Backend Senior and Staff Software Engineer, Slackforce | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr308795/backend-senior-and-staff-software-engineer-slackforce/) | Recently |
 | Analyst, Headcount Strategy & Operations | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr308325/analyst-headcount-strategy-operations/) | Recently |
-| Sr. Software Engineer - AI Agents | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr301631/sr-software-engineer-ai-agents/) | Recently |
 | Systems Engineering Lead with TS/SCI clearance 🏠 | Virginia - Washington DC Metro - Remote, US | [Apply](https://careers.salesforce.com/en/jobs/jr292427/systems-engineering-lead-with-tssci-clearance/) | Recently |
+| Sr. Software Engineer - AI Agents | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr301631/sr-software-engineer-ai-agents/) | Recently |
+| Full Stack Software Engineer: Lead and Principal | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr289437/full-stack-software-engineer-lead-and-principal/) | Recently |
 | IT Product Management Senior Manager | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr306288/it-product-management-senior-manager/) | Recently |
 | Analyst, Field Activation | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr308062/senior-analyst-field-activation/) | Recently |
-| Success Architect (Portuguese Speaking) | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr307716/success-architect-portuguese-speaking/) | Recently |
 | VP Product, Admin & Trust - Slack | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr299134/vp-product-admin-trust-slack/) | Recently |
+| Success Architect (Portuguese Speaking) | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr307716/success-architect-portuguese-speaking/) | Recently |
 | Technical Program Manager - Product Development/Slack First Programs | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr301808/staff-technical-program-manager-product-developmentslack-first-programs/) | Recently |
 | Software Engineering LMTS | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr289802/software-engineering-lmts/) | Recently |
 | Director/ Director, Human-AI Collaboration & Workforce Transformation | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr293612/senior-director-director-human-ai-collaboration-workforce-transformation/) | Recently |
@@ -724,97 +729,97 @@ Top internships for students in data science, statistics, analytics, and related
 | Backend Engineer - Terraform | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr293440/senior-backend-engineer-terraform/) | Recently |
 | Financial Analyst | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr309315/senior-financial-analyst/) | Recently |
 | Analyst, Paid Search | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr308018/senior-analyst-paid-search/) | Recently |
-| Attrition Programs Team - Program Strategy Sr. Director | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr308890/attrition-programs-team-program-strategy-sr-director/) | Recently |
 | Software Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303591/lead-software-engineer/) | Recently |
 | AI Architect 🏠 | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr304855/principal-ai-architect/) | Recently |
+| Attrition Programs Team - Program Strategy Sr. Director | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr308890/attrition-programs-team-program-strategy-sr-director/) | Recently |
 | Marketing Security Lead | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303317/marketing-security-lead/) | Recently |
-| Manager/Senior Manager, Renewals Strategy | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr304196/managersenior-manager-renewals-strategy/) | Recently |
 | Manager, Field Activation | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr308787/manager-field-activation/) | Recently |
-| Summer 2026 Intern - Product Growth | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307642/summer-2026-intern-product-growth/) | Recently |
+| Software Engineer - Infrastructure | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303958/senior-software-engineer-infrastructure/) | Recently |
 | Agentic Integration Specialist (Multiple Levels) 🏠 | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr308936/agentic-integration-specialist-multiple-levels/) | Recently |
 | Software Engineering SMTS | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr300917/software-engineering-smts/) | Recently |
+| Manager/Senior Manager, Renewals Strategy | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr304196/managersenior-manager-renewals-strategy/) | Recently |
 | Solution Engineer (Pre-Sales)- Small, Medium & Growth Business | Illinois - Chicago, US | [Apply](https://careers.salesforce.com/en/jobs/jr282134/solution-engineer-pre-sales-small-medium-growth-business/) | Recently |
 | Director of Product Management, Salesforce Flow Platform | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304188/director-of-product-management-salesforce-flow-platform/) | Recently |
 | Solution Engineer, MuleSoft, Salesforce National Security | Virginia - Herndon, US | [Apply](https://careers.salesforce.com/en/jobs/jr300097/solution-engineer-mulesoft-salesforce-national-security/) | Recently |
-| Developer Relations, Lead Developer Advocate | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr308880/developer-relations-lead-developer-advocate/) | Recently |
-| Manager, Media Analytics | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr301571/manager-media-analytics/) | Recently |
+| Summer 2026 Intern - Product Growth | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307642/summer-2026-intern-product-growth/) | Recently |
 | Solution Engineer (Pre-Sales) - All Levels 🏠 | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr282101/solution-engineer-pre-sales-all-levels/) | Recently |
+| Developer Relations, Lead Developer Advocate | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr308880/developer-relations-lead-developer-advocate/) | Recently |
 | Product Manager, MuleSoft Platform Identity & Access Management | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr305944/senior-product-manager-mulesoft-platform-identity-access-management/) | Recently |
 | Sr. Manager/ Manager, CSG Sales Programs & Strategy 🏠 | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr308959/sr-manager-manager-csg-sales-programs-strategy/) | Recently |
+| Manager, Media Analytics | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr301571/manager-media-analytics/) | Recently |
+| Director of Product Management - Sales Productivity & AI Agents | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303157/director-of-product-management-sales-productivity-ai-agents/) | Recently |
 | Sales Strategy Manager | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr307824/sales-strategy-manager/) | Recently |
 | Backend Engineer - GovCloud | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr308715/backend-engineer-govcloud/) | Recently |
-| Director of Product Management - Sales Productivity & AI Agents | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303157/director-of-product-management-sales-productivity-ai-agents/) | Recently |
-| Deployment Strategist, Public Sector 🏠 | Virginia - Herndon, US | [Apply](https://careers.salesforce.com/en/jobs/jr309447/deployment-strategist-public-sector/) | Recently |
-| Sr. Director of Product, Performance & Reliability- Slack | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr301280/sr-director-of-product-performance-reliability-slack/) | Recently |
-| Global Incentive Compensation Analyst/Sr. Analyst | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr302303/global-incentive-compensation-analystsr-analyst/) | Recently |
 | Director, Strategy and Planning | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr308820/senior-director-strategy-and-planning/) | Recently |
+| Deployment Strategist, Public Sector 🏠 | Virginia - Herndon, US | [Apply](https://careers.salesforce.com/en/jobs/jr309447/deployment-strategist-public-sector/) | Recently |
+| Global Incentive Compensation Analyst/Sr. Analyst | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr302303/global-incentive-compensation-analystsr-analyst/) | Recently |
+| Sr. Director of Product, Performance & Reliability- Slack | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr301280/sr-director-of-product-performance-reliability-slack/) | Recently |
 | Manager, Competitive Intelligence | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr308467/senior-manager-competitive-intelligence/) | Recently |
 | Agentforce/AI Deployment Strategist (Multiple Levels) 🏠 | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr305206/agentforceai-deployment-strategist-multiple-levels/) | Recently |
 | Manager, Business Development | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr305053/manager-business-development/) | Recently |
 | Salesforce Developer | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr307788/senior-salesforce-developer/) | Recently |
 | Manager, Marketing Strategy and Performance | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr308264/senior-manager-marketing-strategy-and-performance/) | Recently |
-| Software Quality Engineering PMTS | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307142/software-quality-engineering-pmts/) | Recently |
 | Solution Architect | Texas - Dallas, US | [Apply](https://careers.salesforce.com/en/jobs/jr299277/solution-architect/) | Recently |
+| Software Quality Engineering PMTS | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307142/software-quality-engineering-pmts/) | Recently |
 | Director, Product Marketing, IT Service | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304205/director-product-marketing-it-service/) | Recently |
-| Backend Software Development Engineer - Mid/Senior/Lead/Principal | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr249832/backend-software-development-engineer-midseniorleadprincipal/) | Recently |
-| Cloud Account Executive, Platform Sales | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr295496/cloud-account-executive-platform-sales/) | Recently |
-| Proposal Manager - Life Sciences | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr309436/senior-proposal-manager-life-sciences/) | Recently |
-| Director, Customer Success Management | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr308587/director-customer-success-management/) | Recently |
 | Principal, Enterprise Architect 🏠 | Illinois - Chicago Metro - Remote, US | [Apply](https://careers.salesforce.com/en/jobs/jr303405/principal-enterprise-architect/) | Recently |
+| Cloud Account Executive, Platform Sales | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr295496/cloud-account-executive-platform-sales/) | Recently |
+| Backend Software Development Engineer - Mid/Senior/Lead/Principal | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr249832/backend-software-development-engineer-midseniorleadprincipal/) | Recently |
+| Proposal Manager - Life Sciences | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr309436/senior-proposal-manager-life-sciences/) | Recently |
 | Sr. Systems Specialist (Production Support) | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr307189/sr-systems-specialist-production-support/) | Recently |
+| Director, Customer Success Management | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr308587/director-customer-success-management/) | Recently |
 | Program Manager, Lead to Cash PMO | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr304192/senior-program-manager-lead-to-cash-pmo/) | Recently |
 | CMO, Service Cloud | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr293084/cmo-service-cloud/) | Recently |
-| Analyst, Product Growth Strategy, Apps & Industries | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr308120/analyst-product-growth-strategy-apps-industries/) | Recently |
 | Software Engineering LMTS (Service Mesh, Ingress Gateway) | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304216/software-engineering-lmts-service-mesh-ingress-gateway/) | Recently |
+| Analyst, Product Growth Strategy, Apps & Industries | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr308120/analyst-product-growth-strategy-apps-industries/) | Recently |
 | Global Credit Lead | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr308551/global-credit-lead/) | Recently |
+| Director, Product Marketing, Salesforce Platform (ISV & OEM Partners) | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr302420/director-product-marketing-salesforce-platform-isv-oem-partners/) | Recently |
 | Named Account Executive, Non-Profit: Enterprise 🏠 | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr305001/named-account-executive-non-profit-enterprise/) | Recently |
-| Signature Success, Sales Executive | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr308482/signature-success-sales-executive/) | Recently |
 | Vice President, Solution Engineering - Digital | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr303589/vice-president-solution-engineering-digital/) | Recently |
 | Full Stack, Software Engineering (Slack) | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304432/staff-full-stack-software-engineering-slack/) | Recently |
 | Software Engineering Architect, AppExchange | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr306234/software-engineering-architect-appexchange/) | Recently |
-| Director, Product Marketing, Salesforce Platform (ISV & OEM Partners) | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr302420/director-product-marketing-salesforce-platform-isv-oem-partners/) | Recently |
+| Signature Success, Sales Executive | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr308482/signature-success-sales-executive/) | Recently |
 | Product Manager, AI & Intelligent Solutions | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr308660/senior-product-manager-ai-intelligent-solutions/) | Recently |
 | Sr. Software Engineer, Full-Stack - Slack | North Carolina - Raleigh, US | [Apply](https://careers.salesforce.com/en/jobs/jr306408/sr-software-engineer-full-stack-slack/) | Recently |
 | Security Engineer | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr308558/lead-security-engineer/) | Recently |
+| Analyst, Finance & Strategy | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr308818/analyst-finance-strategy/) | Recently |
 | Software Engineer - LMTS/PMTS - Networking | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304306/software-engineer-lmtspmts-networking/) | Recently |
 | Business Development Senior Manager | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr300963/business-development-senior-manager/) | Recently |
-| Analyst, Finance & Strategy | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr308818/analyst-finance-strategy/) | Recently |
 | Named Account Executive, Non-Profit: Enterprise 🏠 | New York - New York City Metro - Remote, US | [Apply](https://careers.salesforce.com/en/jobs/jr308034/named-account-executive-non-profit-enterprise/) | Recently |
 | Tableau Senior Success Architect (TS/SCI Poly) | Virginia - Mclean, US | [Apply](https://careers.salesforce.com/en/jobs/jr308511/tableau-senior-success-architect-tssci-poly/) | Recently |
 | Mid/Senior/Lead Backend Software Engineer, | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303819/midseniorlead-backend-software-engineer/) | Recently |
 | Customer Success Manager, Director (Enterprise Life Sciences) | Texas - Dallas, US | [Apply](https://careers.salesforce.com/en/jobs/jr308336/customer-success-manager-director-enterprise-life-sciences/) | Recently |
-| Agentic Experience Specialist, Salesforce Platform (Multiple Levels) 🏠 | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr308941/agentic-experience-specialist-salesforce-platform-multiple-levels/) | Recently |
 | Distributed Systems Software Engineer - Public Cloud (Mid/Senior/Lead/Principal) | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr249834/distributed-systems-software-engineer-public-cloud-midseniorleadprincipal/) | Recently |
-| Fullstack Engineer/Site Reliability Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr300706/lead-fullstack-engineersite-reliability-engineer/) | Recently |
 | Customer Success Manager - Tableau | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr301525/customer-success-manager-tableau/) | Recently |
 | Front End UI Engineer, Agentic Commerce | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr302425/lead-front-end-ui-engineer-agentic-commerce/) | Recently |
+| Fullstack Engineer/Site Reliability Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr300706/lead-fullstack-engineersite-reliability-engineer/) | Recently |
+| DIrector, Customer Success Management | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr309309/director-customer-success-management/) | Recently |
 | GTM Product Marketing Manager | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr306271/gtm-product-marketing-manager/) | Recently |
 | Manager, M&A Innovation & AI Transformation | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr308378/senior-manager-ma-innovation-ai-transformation/) | Recently |
-| DIrector, Customer Success Management | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr309309/director-customer-success-management/) | Recently |
 | Product Marketing Manager | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr307314/senior-product-marketing-manager/) | Recently |
 | Senior/Lead Fullstack Developer - Platform Services | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr300620/seniorlead-fullstack-developer-platform-services/) | Recently |
 | Sr. Director, Marketing Cloud GTM Sales and Partner Success | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr306107/sr-director-marketing-cloud-gtm-sales-and-partner-success/) | Recently |
-| Product Designer, Slack Growth (with UX writing focus) | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303898/senior-product-designer-slack-growth-with-ux-writing-focus/) | Recently |
 | Director/Senior Director, Research & Insights | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307312/directorsenior-director-research-insights/) | Recently |
+| Product Designer, Slack Growth (with UX writing focus) | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303898/senior-product-designer-slack-growth-with-ux-writing-focus/) | Recently |
 | Software Engineer, Observability Platform (SMTS, LMTS) | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr300816/software-engineer-observability-platform-smts-lmts/) | Recently |
 | Technical Project Manager | Illinois - Chicago, US | [Apply](https://careers.salesforce.com/en/jobs/jr308652/technical-project-manager/) | Recently |
 | Sr. Director of Product Management, AI & Intelligent Solutions | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr308379/sr-director-of-product-management-ai-intelligent-solutions/) | Recently |
+| Mobile Software Engineering, LMTS- Commerce Cloud | California - Palo Alto, US | [Apply](https://careers.salesforce.com/en/jobs/jr303258/mobile-software-engineering-lmts-commerce-cloud/) | Recently |
+| Sr. Director, Sales and Partner Technologies | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303457/sr-director-sales-and-partner-technologies/) | Recently |
 | Software Engineer - Identity Platform Services | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr300714/senior-software-engineer-identity-platform-services/) | Recently |
 | User Interface/User Experience Architect | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307298/user-interfaceuser-experience-architect/) | Recently |
 | Renewals Manager | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr308035/renewals-manager/) | Recently |
-| Mobile Software Engineering, LMTS- Commerce Cloud | California - Palo Alto, US | [Apply](https://careers.salesforce.com/en/jobs/jr303258/mobile-software-engineering-lmts-commerce-cloud/) | Recently |
-| Sr. Director, Sales and Partner Technologies | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303457/sr-director-sales-and-partner-technologies/) | Recently |
 | Lead, Marketing & Engagement Manager | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr298984/lead-marketing-engagement-manager/) | Recently |
 | SMTS, Software Engineering - Workday Benefits & Compensation | Texas - Dallas, US | [Apply](https://careers.salesforce.com/en/jobs/jr304063/smts-software-engineering-workday-benefits-compensation/) | Recently |
 | Solution Architect (Public Sector) 🏠 | Virginia - Washington DC Metro - Remote, US | [Apply](https://careers.salesforce.com/en/jobs/jr303520/senior-solution-architect-public-sector/) | Recently |
 | Director, Customer Success Management (Public Sector) 🏠 | Virginia - Mclean, US | [Apply](https://careers.salesforce.com/en/jobs/jr307641/director-customer-success-management-public-sector/) | Recently |
 | Software Engineering Architect - Search & Commerce Platform | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr285744/software-engineering-architect-search-commerce-platform/) | Recently |
 | Revenue Accountant | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr308151/senior-revenue-accountant/) | Recently |
-| Product Management Director, Salesforce Success Plans for Acquisitions | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303420/product-management-director-salesforce-success-plans-for-acquisitions/) | Recently |
 | Manager / Sr. Manager, Business Value Services (CBS) | Texas - Austin, US | [Apply](https://careers.salesforce.com/en/jobs/jr303382/manager-sr-manager-business-value-services-cbs/) | Recently |
 | Security GRC Manager | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr303462/security-grc-manager/) | Recently |
-| Cloud Security Architect | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr288974/cloud-security-architect/) | Recently |
+| Product Management Director, Salesforce Success Plans for Acquisitions | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303420/product-management-director-salesforce-success-plans-for-acquisitions/) | Recently |
 | Accountant | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr308241/senior-accountant/) | Recently |
+| Cloud Security Architect | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr288974/cloud-security-architect/) | Recently |
 | Director, Vendor Management | Illinois - Chicago, US | [Apply](https://careers.salesforce.com/en/jobs/jr297345/director-vendor-management/) | Recently |
 | International Tax Manager | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307052/international-tax-manager/) | Recently |
 | Solution Engineering - Manager/Sr Manager, Director, Senior Director | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr280107/solution-engineering-managersr-manager-director-senior-director/) | Recently |
@@ -832,7 +837,7 @@ Top internships for students in data science, statistics, analytics, and related
 | Data Science Engineer | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R158320/Data-Science-Engineer) | Recently |
 | Senior Manager, Data Science | San Jose, California | [Apply](https://careers.adobe.com/us/en/job/R157882/Senior-Manager-Data-Science) | Recently |
 | Senior Data Science Engineer, Adobe Stock | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R157489/Senior-Data-Science-Engineer-Adobe-Stock) | Recently |
-| Senior Data Scientist | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R158034/Senior-Data-Scientist ) | Recently |
+| Senior Data Scientist | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R158154/Senior-Data-Scientist) | Recently |
 | Principal Data Scientist | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R158181/Principal-Data-Scientist) | Recently |
 | Finance Data Engineer | San Jose, California | [Apply](https://careers.adobe.com/us/en/job/R156296/Finance-Data-Engineer) | Recently |
 | Senior Data Scientist Engineer | San Jose, California | [Apply](https://careers.adobe.com/us/en/job/R157877/Senior-Data-Scientist-Engineer) | Recently |
@@ -872,11 +877,11 @@ Top internships for students in data science, statistics, analytics, and related
 | Lead Machine Learning Engineer - Marketing Mix Modeling | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R154855/Lead-Machine-Learning-Engineer-Marketing-Mix-Modeling) | Recently |
 | Senior Product Manager, Analytics | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R158038/Senior-Product-Manager-Analytics) | Recently |
 | Information Retrieval Engineer | San Jose, California | [Apply](https://careers.adobe.com/us/en/job/R158293/Information-Retrieval-Engineer) | Recently |
-| 2026 University Graduate - Machine Learning Engineer | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R158682/2026-University-Graduate-Machine-Learning-Engineer) | Recently |
 | Senior Software Development Engineer | Lehi, Utah | [Apply](https://careers.adobe.com/us/en/job/R158221/Senior-Software-Development-Engineer) | Recently |
-| Audio AI Research Engineer | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R152966/Audio-AI-Research-Engineer) | Recently |
+| 2026 University Graduate - Machine Learning Engineer | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R158682/2026-University-Graduate-Machine-Learning-Engineer) | Recently |
 | Category Analytics Lead | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R156285/Category-Analytics-Lead) | Recently |
 | Software Development Engineer | Lehi, Utah | [Apply](https://careers.adobe.com/us/en/job/R158780/Software-Development-Engineer) | Recently |
+| Audio AI Research Engineer | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R152966/Audio-AI-Research-Engineer) | Recently |
 | ML Ops Engineer | San Jose, California | [Apply](https://careers.adobe.com/us/en/job/R158294/ML-Ops-Engineer) | Recently |
 | Talent Strategy & Analytics, Global TA Operations | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R157099/Talent-Strategy-Analytics-Global-TA-Operations) | Recently |
 | Senior Software Development Engineer - AI/ML | San Jose, California | [Apply](https://careers.adobe.com/us/en/job/R157472/Senior-Software-Development-Engineer-AI-ML) | Recently |
@@ -893,8 +898,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Applied Scientist, AI/ML | San Jose, California | [Apply](https://careers.adobe.com/us/en/job/R158404/Applied-Scientist-AI-ML) | Recently |
 | Sr Applied Scientist, AI/ML | San Jose, California | [Apply](https://careers.adobe.com/us/en/job/R158405/Sr-Applied-Scientist-AI-ML) | Recently |
 | Sr. Product Manager Acrobat Mobile | San Jose, California | [Apply](https://careers.adobe.com/us/en/job/R157157/Sr-Product-Manager-Acrobat-Mobile) | Recently |
-| Sr. Revenue Systems Analyst | San Jose, California | [Apply](https://careers.adobe.com/us/en/job/R157456/Sr-Revenue-Systems-Analyst) | Recently |
 | Senior Marketing Planning and Operations Manager | San Francisco, California | [Apply](https://careers.adobe.com/us/en/job/R156593/Senior-Marketing-Planning-and-Operations-Manager) | Recently |
+| Sr. Revenue Systems Analyst | San Jose, California | [Apply](https://careers.adobe.com/us/en/job/R157456/Sr-Revenue-Systems-Analyst) | Recently |
 | Senior Machine Learning Engineer - Acrobat | San Jose, California | [Apply](https://careers.adobe.com/us/en/job/R157452/Senior-Machine-Learning-Engineer-Acrobat) | Recently |
 | Senior Applied Researcher, AI Foundations- Adobe Express | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R156463/Senior-Applied-Researcher-AI-Foundations-Adobe-Express) | Recently |
 | Lead Applied Researcher, AI Foundations – Adobe Express | Remote 🏠 | [Apply](https://careers.adobe.com/us/en/job/R156462/Lead-Applied-Researcher-AI-Foundations-Adobe-Express) | Recently |
@@ -962,23 +967,23 @@ Top internships for students in data science, statistics, analytics, and related
 | Plasma Etch Process Development | Albany, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52619&source=WEB_Search_NA) | Recently |
 | Back-End Developer | Cambridge, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54829&source=WEB_Search_NA) | Recently |
 | Customer Success Manager -Brand Specialist – Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53149&source=WEB_Search_NA) | Recently |
-| Application Developer | Armonk, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54827&source=WEB_Search_NA) | Recently |
 | InfoSphere Optim Technical Support Professional | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53293&source=WEB_Search_NA) | Recently |
+| Application Developer | Armonk, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54827&source=WEB_Search_NA) | Recently |
 | InfoSphere Optim Software Developer Support Engineer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53286&source=WEB_Search_NA) | Recently |
 | Plasma etch engineer | Albany, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=33446&source=WEB_Search_NA) | Recently |
-| Technical Support Engineer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52137&source=WEB_Search_NA) | Recently |
 | Consultant - AI Engineering | New York, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53320&source=WEB_Search_NA) | Recently |
+| Technical Support Engineer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52137&source=WEB_Search_NA) | Recently |
 | Customer Success Technical Specialist (Mainframe-z/OS) | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55137&source=WEB_Search_NA) | Recently |
 | Digital Technical Specialist – Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53593&source=WEB_Search_NA) | Recently |
 | Network Support Engineer | Dallas, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55083&source=WEB_Search_NA) | Recently |
 | Digital Technical Specialist Intern – Entry Level Sales  Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53607&source=WEB_Search_NA) | Recently |
 | Customer Success Manager- Brand Specialist Intern – Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53150&source=WEB_Search_NA) | Recently |
 | Brand Technical Specialist Intern – Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52919&source=WEB_Search_NA) | Recently |
-| Brand Technical Specialist– Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52904&source=WEB_Search_NA) | Recently |
 | Entry Level Firmware Developer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54837&source=WEB_Search_NA) | Recently |
+| Brand Technical Specialist– Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52904&source=WEB_Search_NA) | Recently |
 | Support Engineer | HERNDON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54436&source=WEB_Search_NA) | Recently |
-| Sr Consultant I - Architecture | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55379&source=WEB_Search_NA) | Recently |
 | Guardium Delivery Consultant - IGDC & G4AI | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=41346&source=WEB_Search_NA) | Recently |
+| Sr Consultant I - Architecture | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55379&source=WEB_Search_NA) | Recently |
 | Consultant - Architecture | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55536&source=WEB_Search_NA) | Recently |
 | Package Consultant | San Francisco, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52881&source=WEB_Search_NA) | Recently |
 | Sr User Experience Researcher - AI | BELLEVUE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=40926&source=WEB_Search_NA) | Recently |
@@ -987,8 +992,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Hardware Developer Intern | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55106&source=WEB_Search_NA) | Recently |
 | Entry Level Hardware Developer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54841&source=WEB_Search_NA) | Recently |
 | AI Engineer Intern– Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53118&source=WEB_Search_NA) | Recently |
-| Software Engineer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54542&source=WEB_Search_NA) | Recently |
 | Sr. Consultant, Engagement Manager | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55120&source=WEB_Search_NA) | Recently |
+| Software Engineer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54542&source=WEB_Search_NA) | Recently |
 | Managing Consultant | Armonk, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52897&source=WEB_Search_NA) | Recently |
 | React Frontend Engineer- Kubecost | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51184&source=WEB_Search_NA) | Recently |
 | TS/SCI Systems Engineer Senior | Chantilly, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49881&source=WEB_Search_NA) | Recently |
@@ -999,30 +1004,30 @@ Top internships for students in data science, statistics, analytics, and related
 | Entry Level Software Developer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54839&source=WEB_Search_NA) | Recently |
 | Software Developer Intern: | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54845&source=WEB_Search_NA) | Recently |
 | Outbound Tech Evangelist Product Manager in Business Automation | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48245&source=WEB_Search_NA) | Recently |
-| Maximo Application Technical Architect | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=37214&source=WEB_Search_NA) | Recently |
 | Product Marketing Manager, IBM Software | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49597&source=WEB_Search_NA) | Recently |
+| Maximo Application Technical Architect | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=37214&source=WEB_Search_NA) | Recently |
+| Global Demand Strategy Leader | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52333&source=WEB_Search_NA) | Recently |
 | Federal Associate Technical Specialist | WASHINGTON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54850&source=WEB_Search_NA) | Recently |
 | Director, Sales Strategy | San Francisco, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47941&source=WEB_Search_NA) | Recently |
-| Global Demand Strategy Leader | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52333&source=WEB_Search_NA) | Recently |
 | Firmware Developer | ROCHESTER, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52293&source=WEB_Search_NA) | Recently |
-| Navy Business Development Leader SD | COSTA MESA, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49290&source=WEB_Search_NA) | Recently |
 | Cloudability MSP Technical Account Manager | RESEARCH TRIANGLE PARK, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54552&source=WEB_Search_NA) | Recently |
-| Business Development Leader USMC | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49287&source=WEB_Search_NA) | Recently |
+| Navy Business Development Leader SD | COSTA MESA, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49290&source=WEB_Search_NA) | Recently |
 | Partner Technical Sales - Storage | COSTA MESA, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51921&source=WEB_Search_NA) | Recently |
+| Business Development Leader USMC | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49287&source=WEB_Search_NA) | Recently |
 | Partner Technical Specialist- Territory (Storage) | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51114&source=WEB_Search_NA) | Recently |
 | Content Manager OnDemand Software Developer Support Engineer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53271&source=WEB_Search_NA) | Recently |
 | Brand Sales Specialist Intern – Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53555&source=WEB_Search_NA) | Recently |
 | Sr. Salesforce Test Automation Engineer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53897&source=WEB_Search_NA) | Recently |
 | Sr. Support Engineer | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53168&source=WEB_Search_NA) | Recently |
 | Brand Sales Specialist– Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53111&source=WEB_Search_NA) | Recently |
-| Platform Engineer – Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53131&source=WEB_Search_NA) | Recently |
 | Solutions Engineer | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53093&source=WEB_Search_NA) | Recently |
-| Sr. Product Designer | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50238&source=WEB_Search_NA) | Recently |
+| Platform Engineer – Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53131&source=WEB_Search_NA) | Recently |
 | Sr. Product Designer | San Francisco, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50236&source=WEB_Search_NA) | Recently |
+| Sr. Product Designer | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50238&source=WEB_Search_NA) | Recently |
 | Platform Engineer Intern – Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53603&source=WEB_Search_NA) | Recently |
 | Director, Storage Design | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=36888&source=WEB_Search_NA) | Recently |
 | Consultant - Automotive | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52622&source=WEB_Search_NA) | Recently |
-| Spark developer (San Jose/CA) | San Jose, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52151&source=WEB_Search_NA) | Recently |
+| Spark developer (San Jose/CA) | San Jose, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52150&source=WEB_Search_NA) | Recently |
 | Product Analyst II, R&D Portfolio Strategy | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53145&source=WEB_Search_NA) | Recently |
 | Global Real Estate TRIRIGA Architect | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50737&source=WEB_Search_NA) | Recently |
 | Cloud Sales Leader | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48494&source=WEB_Search_NA) | Recently |
@@ -1043,11 +1048,11 @@ Top internships for students in data science, statistics, analytics, and related
 | CSR Manager for Impact Measurement and Engagement | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48713&source=WEB_Search_NA) | Recently |
 | International Tax Analyst | Armonk, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=30025&source=WEB_Search_NA) | Recently |
 | watsonx BI - Cognos: Delivery Consultant | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=42059&source=WEB_Search_NA) | Recently |
-| Customer/1 Billing Developer/Designer | Syracuse, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=37253&source=WEB_Search_NA) | Recently |
 | Client Sales Leader SAP - MidWest Market Unit | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44613&source=WEB_Search_NA) | Recently |
+| Customer/1 Billing Developer/Designer | Syracuse, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=37253&source=WEB_Search_NA) | Recently |
 | Strategy Consultant | New York, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51503&source=WEB_Search_NA) | Recently |
-| IBM CISO - Cybersecurity Forensic Analyst | Armonk, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44665&source=WEB_Search_NA) | Recently |
 | Web Strategist | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48764&source=WEB_Search_NA) | Recently |
+| IBM CISO - Cybersecurity Forensic Analyst | Armonk, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44665&source=WEB_Search_NA) | Recently |
 | IT Lab Tech - Physical Failure Analysis Apprentice | ROCHESTER, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48739&source=WEB_Search_NA) | Recently |
 | Consultant | San Jose, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47769&source=WEB_Search_NA) | Recently |
 | Software Engineer - Database | San Jose, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45020&source=WEB_Search_NA) | Recently |
@@ -1071,9 +1076,9 @@ Top internships for students in data science, statistics, analytics, and related
 | Consulting Field Marketing Manager | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52932&source=WEB_Search_NA) | Recently |
 | Sr. Engineer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53606&source=WEB_Search_NA) | Recently |
 | Americas Marketing Events Leader | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=43373&source=WEB_Search_NA) | Recently |
+| Full Stack Developer-Network Services | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53348&source=WEB_Search_NA) | Recently |
 | Electrical Engineer & Facilities Program Manager – Austin, TX | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48696&source=WEB_Search_NA) | Recently |
 | Americas TLS US Renewal Sales Specialist | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=34743&source=WEB_Search_NA) | Recently |
-| Full Stack Developer-Network Services | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53348&source=WEB_Search_NA) | Recently |
 | Federal Associate Security Consultant | WASHINGTON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54851&source=WEB_Search_NA) | Recently |
 | Engineer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53242&source=WEB_Search_NA) | Recently |
 | Digital Sales Specialist - Cloud Platform | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45799&source=WEB_Search_NA) | Recently |
@@ -1088,15 +1093,15 @@ Top internships for students in data science, statistics, analytics, and related
 | Sr. Technology Expert Labs Services Seller | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54111&source=WEB_Search_NA) | Recently |
 | Sales Development Representative | RESEARCH TRIANGLE PARK, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46363&source=WEB_Search_NA) | Recently |
 | Systems Support Apprentice | ROCHESTER, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=22032&source=WEB_Search_NA) | Recently |
+| Manager, Security | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53130&source=WEB_Search_NA) | Recently |
 | IBM Consulting Eminence | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52286&source=WEB_Search_NA) | Recently |
 | Systems Support Apprentice | TUCSON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=43112&source=WEB_Search_NA) | Recently |
 | Appian Developer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48260&source=WEB_Search_NA) | Recently |
 | Managing Consultant - SAP MM | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55548&source=WEB_Search_NA) | Recently |
 | Managing Consultant-SAP Billing & Digital Subscription | No City, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56009&source=WEB_Search_NA) | Recently |
-| Manager, Security | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53130&source=WEB_Search_NA) | Recently |
-| Growth Marketing Manager | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53099&source=WEB_Search_NA) | Recently |
 | Technology Sales Leader - Northeast - PwC | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52670&source=WEB_Search_NA) | Recently |
 | Brand Technical Specialist Storage Hybrid Cloud & AI | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55172&source=WEB_Search_NA) | Recently |
+| Growth Marketing Manager | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53099&source=WEB_Search_NA) | Recently |
 | Technology Sales Leader - Northeast - Estee Lauder | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53625&source=WEB_Search_NA) | Recently |
 | Associate Package Consultant | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54504&source=WEB_Search_NA) | Recently |
 | Sr. Technical Escalation Manager | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53169&source=WEB_Search_NA) | Recently |
@@ -1111,10 +1116,10 @@ Top internships for students in data science, statistics, analytics, and related
 | Hardware Compliance Lab Technician Apprentice | ROCHESTER, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=19595&source=WEB_Search_NA) | Recently |
 | Business Value Services Director | San Jose, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48119&source=WEB_Search_NA) | Recently |
 | Global Real Estate Portfolio Leader - US MHV | Armonk, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47777&source=WEB_Search_NA) | Recently |
-| Federal Associate Developer | WASHINGTON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54779&source=WEB_Search_NA) | Recently |
 | Account Technical Leader- Federal Systems Integrators | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52858&source=WEB_Search_NA) | Recently |
-| Federal Associate Developer (Rocket Center, WV) | Rocket Center, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54769&source=WEB_Search_NA) | Recently |
+| Federal Associate Developer | WASHINGTON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54779&source=WEB_Search_NA) | Recently |
 | Federal Associate Consultant | WASHINGTON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54763&source=WEB_Search_NA) | Recently |
+| Federal Associate Developer (Rocket Center, WV) | Rocket Center, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54769&source=WEB_Search_NA) | Recently |
 | Digital Seller Intern– Entry Level Sales Program | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53587&source=WEB_Search_NA) | Recently |
 | Federal Associate Package Consultant | WASHINGTON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54781&source=WEB_Search_NA) | Recently |
 | Staff Engineer | Multiple Cities, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53267&source=WEB_Search_NA) | Recently |
@@ -1325,8 +1330,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Technical Product Manager | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Senior-Technical-Product-Manager_R0224811?q=Data+Science) | Recently |
 | Full Stack Software and Data Engineer | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Software-and-Data-Engineer_R0220393-1?q=Data+Science) | Recently |
 | Cost Analyst | San Diego, CA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Cost-Analyst_R0225026-1?q=Data+Science) | Recently |
-| AI and ML Engineer, Lead | Fort Meade, MD | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-and-ML-Engineer--Lead_R0224878?q=Data+Science) | Recently |
 | Knowledge Management Manager | Arlington, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Knowledge-Management-Manager_R0224156?q=Data+Science) | Recently |
+| AI and ML Engineer, Lead | Fort Meade, MD | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-and-ML-Engineer--Lead_R0224878?q=Data+Science) | Recently |
 | Nuclear Engineer | Clearfield, UT | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Clearfield-UT/Nuclear-Engineer_R0221690?q=Data+Science) | Recently |
 | Software Engineer, Senior | Herndon, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Software-Engineer--Senior_R0223921?q=Data+Science) | Recently |
 | Cost Analyst | Washington, DC | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Cost-Analyst_R0224828-1?q=Data+Science) | Recently |
@@ -1548,7 +1553,7 @@ Top internships for students in data science, statistics, analytics, and related
 | 🏢 **DELL** | Federal Technical Staff, Systems Development Engineering - DOE | Round Rock, Texas | [Apply](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock-Texas-United-States/Federal-Technical-Staff--Systems-Development-Engineering---DOE_R273436?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | Recently |
 | 🏢 **DELL** | Technical Staff-Network Architect | Santa Clara, California | [Apply](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Santa-Clara-California-United-States/Technical-Staff-Network-Architect-_R266477-1?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | Recently |
 
-### 🚀 **Startups & Growth** (366 positions)
+### 🚀 **Startups & Growth** (365 positions)
 
 <details>
 <summary><h4>🏢 <strong>Booz Allen</strong> (249 positions)</h4></summary>
@@ -1613,8 +1618,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Technical Product Manager | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Senior-Technical-Product-Manager_R0224811?q=Data+Science) | Recently |
 | Full Stack Software and Data Engineer | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Software-and-Data-Engineer_R0220393-1?q=Data+Science) | Recently |
 | Cost Analyst | San Diego, CA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Cost-Analyst_R0225026-1?q=Data+Science) | Recently |
-| AI and ML Engineer, Lead | Fort Meade, MD | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-and-ML-Engineer--Lead_R0224878?q=Data+Science) | Recently |
 | Knowledge Management Manager | Arlington, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Knowledge-Management-Manager_R0224156?q=Data+Science) | Recently |
+| AI and ML Engineer, Lead | Fort Meade, MD | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-and-ML-Engineer--Lead_R0224878?q=Data+Science) | Recently |
 | Nuclear Engineer | Clearfield, UT | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Clearfield-UT/Nuclear-Engineer_R0221690?q=Data+Science) | Recently |
 | Software Engineer, Senior | Herndon, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Software-Engineer--Senior_R0223921?q=Data+Science) | Recently |
 | Cost Analyst | Washington, DC | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Cost-Analyst_R0224828-1?q=Data+Science) | Recently |
@@ -1661,13 +1666,13 @@ Top internships for students in data science, statistics, analytics, and related
 | Counterintelligence Requirements Officer | Springfield, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Counterintelligence-Requirements-Officer_R0221537?q=Data+Science) | Recently |
 | Information Systems Security Engineer | Warner Robins, GA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Information-Systems-Security-Engineer_R0221231?q=Data+Science) | Recently |
 | Remote Sensing Scientist 🏠 | Beavercreek, OH | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Remote-Sensing-Scientist_R0220222?q=Data+Science) | Recently |
-| Ocean Systems Engineer, Senior Manager | Port Hueneme, CA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Port-Hueneme-CA/Ocean-Systems-Engineer--Senior-Manager_R0223274?q=Data+Science) | Recently |
 | Software Defined Network Engineer, Lead | San Diego, CA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Software-Defined-Network-Engineer--Lead_R0225275?q=Data+Science) | Recently |
+| Ocean Systems Engineer, Senior Manager | Port Hueneme, CA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Port-Hueneme-CA/Ocean-Systems-Engineer--Senior-Manager_R0223274?q=Data+Science) | Recently |
 | Information Systems Security Engineer | Lorton, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Information-Systems-Security-Engineer_R0223478?q=Data+Science) | Recently |
 | MS&A SaaS Tool Cyber Operations Lead | Eglin AFB, FL | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Eglin-AFB-FL/MS-A-SaaS-Tool-Cyber-Operations-Lead_R0224460?q=Data+Science) | Recently |
 | Counterintelligence Cyber Threat Analyst | Springfield, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Counterintelligence-Cyber-Threat-Analyst_R0221063?q=Data+Science) | Recently |
-| Cybersecurity Automation Engineer | Langley AFB, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Cybersecurity-Automation-Engineer_R0223710?q=Data+Science) | Recently |
 | CNO Developer | Annapolis Junction, MD | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/CNO-Developer_R0219616?q=Data+Science) | Recently |
+| Cybersecurity Automation Engineer | Langley AFB, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Cybersecurity-Automation-Engineer_R0223710?q=Data+Science) | Recently |
 | Surface Mission Integration Lead | Arlington, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Surface-Mission-Integration-Lead_R0222942-1?q=Data+Science) | Recently |
 | Counterintelligence Officer | Springfield, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Counterintelligence-Officer_R0223579?q=Data+Science) | Recently |
 | Elastic Engineer SME | Langley AFB, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Elastic-Engineer-SME_R0223709?q=Data+Science) | Recently |
@@ -1679,13 +1684,13 @@ Top internships for students in data science, statistics, analytics, and related
 | CI Cyber Threat Technical Analyst | Springfield, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/CI-Cyber-Threat-Technical-Analyst_R0221339?q=Data+Science) | Recently |
 | Open Source Intelligence Analyst, Mid | Charlottesville, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Open-Source-Intelligence-Analyst--Mid_R0224140?q=Data+Science) | Recently |
 | Chief Solutions Architect | Annapolis Junction, MD | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Chief-Solutions-Architect_R0224383?q=Data+Science) | Recently |
+| Platform Engineer and Golang SME | Chantilly, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Platform-Engineer-and-Golang-SME_R0220497?q=Data+Science) | Recently |
 | F-35 Test and Evaluation Technical Analyst | Arlington, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/F-35-Test-and-Evaluation-Technical-Analyst_R0222886?q=Data+Science) | Recently |
 | F-35 Electronic Warfare Engineer | Wright Patterson AFB, OH | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wright-Patterson-AFB-OH/F-35-Electronic-Warfare-Engineer_R0225210?q=Data+Science) | Recently |
-| Platform Engineer and Golang SME | Chantilly, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Platform-Engineer-and-Golang-SME_R0220497?q=Data+Science) | Recently |
 | In-Place Monitoring System Lead | Springfield, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/In-Place-Monitoring-System-Lead_R0223440?q=Data+Science) | Recently |
+| Systems Architect | Chantilly, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Systems-Architect_R0223611?q=Data+Science) | Recently |
 | Governance and Working Group Coordinator | Alexandria, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Governance-and-Working-Group-Coordinator_R0224875?q=Data+Science) | Recently |
 | Cybersecurity Analyst, Senior | Alexandria, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Cybersecurity-Analyst--Senior_R0224880?q=Data+Science) | Recently |
-| Systems Architect | Chantilly, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Systems-Architect_R0223611?q=Data+Science) | Recently |
 | Cyberspace Strategic Planning and Policy Analyst | Fort Meade, MD | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cyberspace-Strategic-Planning-and-Policy-Analyst_R0223409?q=Data+Science) | Recently |
 | RF Analysis Engineer, Lead | Laurel, MD | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Laurel-MD/RF-Analysis-Engineer--Lead_R0225320?q=Data+Science) | Recently |
 | Information Assurance Analyst, Mid | San Diego, CA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Information-Assurance-Analyst--Mid_R0224834?q=Data+Science) | Recently |
@@ -1834,7 +1839,7 @@ Top internships for students in data science, statistics, analytics, and related
 | CLS, Quality Assurance Specialist | US - MD, Bethesda | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/CLS--Quality-Assurance-Specialist_30913?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | Recently |
 
 <details>
-<summary><h4>🏢 <strong>GDIT</strong> (96 positions)</h4></summary>
+<summary><h4>🏢 <strong>GDIT</strong> (95 positions)</h4></summary>
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
@@ -1911,7 +1916,7 @@ Top internships for students in data science, statistics, analytics, and related
 | G2 SharePoint Application Tester | Active Top Secret clearance 🏠 | Any Location / Remote | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/G2-SharePoint-Application-Tester---Active-Top-Secret-clearance_RQ206096-2?q=Data+Science) | Recently |
 | Operations Analyst (Mid Level) | USA DC Washington | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Operations-Analyst--Mid-Level-_RQ200033-1?q=Data+Science) | Recently |
 | MCTSP Support Team Lead (HST Lead) 🏠 | Any Location / Remote | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/MCTSP-Support-Team-Lead--HST-Lead-_RQ202862-1?q=Data+Science) | Recently |
-| Physical Technical Certification Officer (PTCO) TS/SCI w/Poly | USA CO Aurora | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Aurora/Physical-Technical-Certification-Officer--PTCO--TS-SCI-w-Poly_RQ206183?q=Data+Science) | Recently |
+| Physical Technical Certification Officer (PTCO) TS/SCI w/Poly | USA CO Aurora | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Aurora/Physical-Technical-Certification-Officer--PTCO--TS-SCI-w-Poly_RQ204301-1?q=Data+Science) | Recently |
 | Maximo App. Suit (MAS) System Admin. 🏠 | Any Location / Remote | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/MAXIMO-Application-Suite--MAS--Systems-Admin_RQ202696-1?q=Data+Science) | Recently |
 | Project Manager | USA VA Arlington | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Project-Manager_RQ206227-1?q=Data+Science) | Recently |
 | Web Developer, Software, Senior 🏠 | Any Location / Remote | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Web-Developer--Software--Senior_RQ206180?q=Data+Science) | Recently |
@@ -1919,7 +1924,6 @@ Top internships for students in data science, statistics, analytics, and related
 | SharePoint Developer- Springfield, VA | USA VA Springfield | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/SharePoint-Developer--Springfield--VA_RQ204736-2?q=Data+Science) | Recently |
 | Systems Administrator - Network Monitoring - Active Top Secret clearance required | USA DC Washington | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Systems-Administrator---Network-Monitoring---Active-Top-Secret-clearance-required_RQ203966-1?q=Data+Science) | Recently |
 | Information Systems Senior Manager | USA DC Washington | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/IT-Systems-Manager_RQ204363-1?q=Data+Science) | Recently |
-| LINUX Systems Administrator - Active Top Secret Required | USA DC Washington | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/LINUX-Systems-Administrator---Active-Top-Secret-Required_RQ204512-1?q=Data+Science) | Recently |
 | Cybersecurity Architect Principal 🏠 | Any Location / Remote | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Application-Architect_RQ204670?q=Data+Science) | Recently |
 | Field Tech | USA DC Washington | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Field-Tech-1st-Shift_RQ202429?q=Data+Science) | Recently |
 | Software Developer - Active Top Secret required | USA DC Washington | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Software-Developer_RQ204620-1?q=Data+Science) | Recently |
@@ -1937,10 +1941,10 @@ Top internships for students in data science, statistics, analytics, and related
 
 </details>
 
-### 💰 **Financial & Fintech** (163 positions)
+### 💰 **Financial & Fintech** (162 positions)
 
 <details>
-<summary><h4>🏢 <strong>JP Morgan Chase</strong> (163 positions)</h4></summary>
+<summary><h4>🏢 <strong>JP Morgan Chase</strong> (162 positions)</h4></summary>
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
@@ -1950,67 +1954,62 @@ Top internships for students in data science, statistics, analytics, and related
 | Financial Analysis, Data Science Center of Excellence - Vice President | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210644214/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Head of Financial Analysis, Data Science Center of Excellence - Executive Director | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210638123/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Semantic Data Scientist | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210656594/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Compliance - Technology Operational Risk Management - Data Scientist - Associate | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210652456/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Data Scientist (ML)-Senior Associate | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210639679/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Applied AIML Vice President | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662151/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Compliance - Technology Operational Risk Management - Data Scientist - Associate | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210652456/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | AI & ML Lead – Global Investment Bank Digital (GIBD) | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210612865/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Applied Artificial Intelligence Machine Learning, Vice President | Dallas, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210647067/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Applied Artificial Intelligence Machine Learning , Sr Associate | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210647072/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Applied AIML Data Scientist - Senior Associate | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210587673/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Applied AIML Data Scientist Lead-Vice President | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210623397/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Data Scientist Director | Brooklyn, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210656401/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Applied AI ML Lead | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662199/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Applied AI ML Engineer-Sr. Associate | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657671/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Applied AI ML Engineer-Vice President | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657673/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Associate Data Scientist | Brooklyn, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661980/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Associate Data Scientist – Marketing Test Design | OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660851/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Machine Learning Data Scientist-Vice President | Columbus, OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210640473/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | 2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649056/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Risk Management - Compliance Anti-Money Laundering and KYC  - Model Risk Program Associate | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658392/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Commercial and Investment Bank - Data Modeler Senior Associate | Brooklyn, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661889/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Product Director Workflow Automation & Intelligence | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657487/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Commercial and Investment Bank - Data Modeler Lead | Brooklyn, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661890/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Data Governance Product Lead - Vice President | Chicago, IL | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661051/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Vice President-Data Owner Lead | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210655289/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Data Owner Lead | Brooklyn, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661979/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Director of Software Engineering (Data Platforms) | Palo Alto, CA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660194/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| 2026 Quantitative Finance Summer Analyst & Associate Program | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658044/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Software Engineer | BOURNEMOUTH, DORSET | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649331/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Employee Experience Researcher, Senior Associate | OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210631079/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Software Engineer [Multiple Positions Available] | Tampa, FL | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210652311/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Cybersecurity Architect, Offensive/Defensive Security | Unknown, US | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660122/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Risk Management - Business Banking Risk Reporting & Analytics - Associate | Columbus, OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659692/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Applied AI ML Lead | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662199/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Sr. Lead Software Engineer | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661088/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Sr Lead Software Engineer - Java & Micro Services | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210653958/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Applied AI ML , Sr Associate | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662230/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Applied AIML, Sr Associate | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662231/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Client Success Manager | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662145/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Associate Data Scientist – Marketing Test Design | OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660851/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Software Engineer - Java, Full Stack, Cloud/AWS | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661676/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Product Director - AI/ML Infrastructure Platforms | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210656234/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Business Analyst- Portfolio Performance Analysis Group | Brooklyn, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210654346/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Applied AI/ML Engineer | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210642158/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Product Associate, Global Technical Security | Columbus, OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662277/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Software Engineer - Backend Technical Lead | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662055/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Quant Analytics Lead-Vice President | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660535/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Risk Management - Compliance Anti-Money Laundering and KYC  - Model Risk Program Associate | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658392/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Commercial and Investment Bank - Data Modeler Senior Associate | Brooklyn, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661889/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Product Director Workflow Automation & Intelligence | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657487/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Analytics Solutions [Multiple Positions Available] | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659333/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Commercial and Investment Bank - Data Modeler Lead | Brooklyn, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661890/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Internal Strategy and Process Consulting Lead | Columbus, OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648436/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Applied AI ML Senior Associate, GenAI and LLM | Seattle, WA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210638722/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Compliance - Data Scientist - Vice President | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210654151/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Software Engineer [Multiple Positions Available] | Tampa, FL | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660039/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Data Governance Product Lead - Vice President | Chicago, IL | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661051/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Data Owner Lead | Brooklyn, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661979/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Director of Software Engineering (Data Platforms) | Palo Alto, CA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660194/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| 2026 Quantitative Finance Summer Analyst & Associate Program | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658044/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Software Engineer [Multiple Positions Available] | Wilmington, DE | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660323/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Infrastructure Engineer [Multiple Positions Available] | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660057/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Software Engineer | BOURNEMOUTH, DORSET | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649331/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Process Improvement Associate II - Business Transformation & Process Intelligence | Columbus, OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648380/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Software Engineering [Multiple Positions Available] | Wilmington, DE | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659437/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Software Engineer [Multiple Positions Available] | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659977/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Digital Products Director (Multiple Positions Available) | Palo Alto, CA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658372/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Employee Experience Researcher, Senior Associate | OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210631079/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Software Engineering [Multiple Positions Available] | Tampa, FL | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659370/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Data Scientist Lead - Payments - Vice President | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661171/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Data Owner Lead | Wilmington, DE | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660103/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Cybersecurity Architect, Offensive/Defensive Security | Unknown, US | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660122/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | AI Research Scientist - Senior Associate | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210629713/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Risk Management - Business Banking Risk Reporting & Analytics - Associate | Columbus, OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659692/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Risk Management - Structural Interest Rate Risk Management - Associate | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210645058/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Risk Management - Data Strategy Team Senior Associate | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210652912/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Risk Management - Data Strategy Team Analyst | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210652915/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Lead Software Engineer - Lead Java Developer | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210634760/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | GenAI Engineering Lead - Private Bank | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660629/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Applied AI ML, Sr Associate | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661000/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Risk Management - Business Banking Risk Reporting & Analytics  - Vice President | OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658684/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Lead Software Engineer - Android, Sr Lead | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659154/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Software Engineer III - JAVA, React, AWS | Austin, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659542/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
@@ -2019,6 +2018,7 @@ Top internships for students in data science, statistics, analytics, and related
 | Software Engineer III - Java, Spark, AWS | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210636842/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Application Support Engineer | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210646964/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Global Banking - Client Service Account Manager - Analyst | Unknown, US | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660632/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Applied AIML, Sr Associate | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662231/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Software Engineer - AWS, Python, Terraform, and Machine Learning | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210638727/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Product Associate [Multiple Positions Available] | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659024/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | KDB - Senior Lead eSoftware Engineer | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659453/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
@@ -2032,6 +2032,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Home Lending - Correspondent Finance & Business Management - Vice President | Jacksonville, FL | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210642244/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Fraud Risk Product Manager - Vice President | Wilmington, DE | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659831/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Implementation Manager Vice President | Charlotte, NC | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661684/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Product Associate, Global Technical Security | Columbus, OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662277/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Software Engineer - Backend Technical Lead | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662055/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Implementation Manager | Charlotte, NC | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661680/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | WFP Lead Data Scientist - Vice President | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649065/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Artificial Intelligence & Machine Learning - Vice President | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210655612/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
@@ -2041,7 +2043,9 @@ Top internships for students in data science, statistics, analytics, and related
 | Risk Management - Wholesale Credit - Generative AI Data Scientist, Senior Associate | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658636/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Software Engineer [Multiple Positions Available] | Columbus, OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210656711/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Quant Analytics VP - Digital Enablement | Wilmington, DE | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210655863/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Quant Analytics Lead-Vice President | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660535/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Risk Management - Wholesale Credit - Generative AI Data Scientist, Vice President | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658631/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Compliance - Data Scientist - Vice President | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210654151/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Applied AI ML Lead, GenAI and LLM | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658679/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Quant Analytics Manager, Network Initiatives, Vice President | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210656141/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Solutions Analyst | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210655000/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
@@ -2057,8 +2061,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Software Engineer | Houston, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657527/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Data Management - Data Governance - Sr. Associate | Newark, DE | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210637459/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Payments Data & Analytics Product Owner | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210621118/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Software Engineer [Multiple Positions Available] | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210654554/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Software Engineer - Databricks/Terraform | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210654253/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Software Engineer [Multiple Positions Available] | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210654554/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Manager of Software Engineering - Java/Python and Cloud | Houston, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210653808/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Machine Learning Engineer - Vice President | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659695/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Solutions Analyst, Payments Technology | Unknown, US | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210656444/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
@@ -2086,21 +2090,20 @@ Top internships for students in data science, statistics, analytics, and related
 | Internal Audit Associate | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210650846/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Internal Audit Associate - Model Risk | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210655118/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Data Owner Lead -  Data Management Operations | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210609822/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Gen AI Engineer-Vice President | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210641821/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Finance Business Modeling - Applied AI ML Lead | Columbus, OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210495293/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Gen AI Engineer-Vice President | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210641821/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Quantitative Research - Securities Services - Custody and Fund Services - Associate | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649959/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Manager Software Engineering - AI/ML Solutions | Palo Alto, CA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648048/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Employee Insights Data Analyst-Sr. Associate | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210656749/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Information Systems and Data Consultant | Columbus, OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210615000/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Applied AI/ML, Senior Associate - Gen AI & LLM | Jacksonville, FL | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210636010/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Infrastructure Engineer III, Network | Unknown, US | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210652599/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Payments- Instrumentation & Metrics - Analytics Associate | Unknown, US | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648233/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Marketing Business Modeling - Applied AI ML Lead | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648581/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | AI/ML Engineer - COSMIC | Palo Alto, CA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210646367/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Manager of Software Engineering - Data | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210652765/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Data Scientist, Vice President | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210655238/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Internal Audit AI Model Risk – Associate | Unknown, US | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210634682/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Manager of Software Engineering - Data | Plano, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210652765/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Securities Services - Depositary Product Data Architect - Vice President | BOURNEMOUTH, DORSET | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210645789/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Internal Audit AI Model Risk – Associate | Unknown, US | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210634682/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | AI Research Scientist-Sr. Associate | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210652712/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Quant Analytics Senior Associate - Credit Card Analytics | Wilmington, DE | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210651291/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Data Engineer - AWS & Python | Columbus, OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210651366/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
@@ -2126,8 +2129,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Software Engineer - Labeled Data | Mountain View, California | [Apply](https://careers.withwaymo.com/jobs/software-engineer-labeled-data-mountain-view-california-united-states) | Recently |
 | Software Engineer, Data & Evaluation - Mapping | Mountain View, California | [Apply](https://careers.withwaymo.com/jobs/software-engineer-data-evaluation-mapping-mountain-view-california-united-states) | Recently |
 | Group Product Manager, Perception Data | Mountain View, California | [Apply](https://careers.withwaymo.com/jobs/group-product-manager-perception-data-mountain-view-california-united-states-san-francisco) | Recently |
-| Senior Software Engineer, Data Tooling | Mountain View, California | [Apply](https://careers.withwaymo.com/jobs/senior-software-engineer-data-tooling-mountain-view-california-united-states) | Recently |
 | Software Engineer, ML Data Infrastructure | Mountain View, California | [Apply](https://careers.withwaymo.com/jobs/software-engineer-ml-data-infrastructure-mountain-view-california-united-states) | Recently |
+| Senior Software Engineer, Data Tooling | Mountain View, California | [Apply](https://careers.withwaymo.com/jobs/senior-software-engineer-data-tooling-mountain-view-california-united-states) | Recently |
 | Staff Software Engineer, Quantitative Evaluation | Mountain View, California | [Apply](https://careers.withwaymo.com/jobs/staff-software-engineer-quantitative-evaluation-mountain-view-california-united-states-e6d6b532-cb5a-4a09-be74-b0833cff89cf) | Recently |
 | Senior Staff TLM, ML Data Infra | Mountain View, California | [Apply](https://careers.withwaymo.com/jobs/senior-staff-tlm-ml-data-infra-mountain-view-california-united-states) | Recently |
 | Fleet Health Manager | Los Angeles, California | [Apply](https://careers.withwaymo.com/jobs/fleet-health-manager-los-angeles-california-united-states) | Recently |
@@ -2191,7 +2194,7 @@ Top internships for students in data science, statistics, analytics, and related
 | Mechanical Engineer (Contractor) (P-4757) | Pleasanton, California | [Apply](https://careers.10xgenomics.com/careers/job/171829474401) | Recently |
 | Software Engineer, Visualization | Remote 🏠 | [Apply](https://careers.10xgenomics.com/careers/job/171829205543) | Recently |
 
-### 🏭 **Manufacturing & Industrial** (392 positions)
+### 🏭 **Manufacturing & Industrial** (391 positions)
 
 #### 🏢 **ARM** (19 positions)
 
@@ -2223,8 +2226,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
 | MTS, Data Science Agentic Platforms | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30687259) | Recently |
-| Data Scientist | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30514881) | Recently |
 | Data Scientist | Manassas, Virginia | [Apply](https://careers.micron.com/careers/job/30542609) | Recently |
+| Data Scientist | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30514881) | Recently |
 | Data Engineer | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30028440) | Recently |
 | Data Analytics Engineer, Embedded Business Unit | San Jose, California | [Apply](https://careers.micron.com/careers/job/30948526) | Recently |
 | Advanced Modeling Principal Engineer | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/24392966) | Recently |
@@ -2233,6 +2236,7 @@ Top internships for students in data science, statistics, analytics, and related
 | AI Market Analyst | San Jose, California | [Apply](https://careers.micron.com/careers/job/30880080) | Recently |
 | Intern - Product Yield Analysis and Analytics (Research) | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30954496) | Recently |
 | Photomask Wet Process Engineer | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30539926) | Recently |
+| Intern - Technical Program Manager, Program Management Office (PMO) | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30954501) | Recently |
 | Digital Marketing Analyst | Meridian, Idaho | [Apply](https://careers.micron.com/careers/job/29941922) | Recently |
 | Business Analyst | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30029056) | Recently |
 | CMP Equipment Engineer | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/27402426) | Recently |
@@ -2310,13 +2314,12 @@ Top internships for students in data science, statistics, analytics, and related
 | Embedded Software Engineer | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30444735) | Recently |
 | HBM Memory Design Engineer | Richardson, Texas | [Apply](https://careers.micron.com/careers/job/30955690) | Recently |
 | Fab Support Equipment Maintenance Technician | Manassas, Virginia | [Apply](https://careers.micron.com/careers/job/30287833) | Recently |
-| Intern - Systems Software | Austin, Texas | [Apply](https://careers.micron.com/careers/job/30894294) | Recently |
 | Sr Manager, Advanced Packaging | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30684264) | Recently |
+| Intern - Systems Software | Austin, Texas | [Apply](https://careers.micron.com/careers/job/30894294) | Recently |
 | Semiconductor Design Engineer | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30683736) | Recently |
 | Equipment Maintenance Technician | Manassas, Virginia | [Apply](https://careers.micron.com/careers/job/27454445) | Recently |
-| CMOS Device Integration Engineer, SMTS | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/26772551) | Recently |
 | Facility Water Services Technician | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/28192257) | Recently |
-| Process Integration Engineer | APTD | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30031352) | Recently |
+| CMOS Device Integration Engineer, SMTS | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/26772551) | Recently |
 
 </details>
 
@@ -2324,18 +2327,18 @@ Top internships for students in data science, statistics, analytics, and related
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
-| QCS Systems Engineer | Multiple, Various | [Apply](https://careers.abb/global/en/job/96186349/QCS-Systems-Engineer) | Recently |
+| R&D Electrical Engineer | Multiple, Various | [Apply](https://careers.abb/global/en/job/JR00008005/R-D-Electrical-Engineer) | Recently |
+| Business Functional Analyst | Mebane, North Carolina | [Apply](https://careers.abb/global/en/job/96937752/Business-Functional-Analyst) | Recently |
 | Industry Solutions Architect – Life Sciences Automation | Multiple, Various | [Apply](https://careers.abb/global/en/job/JR00007665/Industry-Solutions-Architect-Life-Sciences-Automation) | Recently |
 | Vice President – Pharma & Life Sciences | Multiple, Various | [Apply](https://careers.abb/global/en/job/JR00006523/Vice-President-Pharma-Life-Sciences) | Recently |
 | Front End Developer | Multiple, Various | [Apply](https://careers.abb/global/en/job/JR00001806/Front-End-Developer) | Recently |
+| Robotics Intern at Raleigh Research Center - Fall | Raleigh, North Carolina | [Apply](https://careers.abb/global/en/job/96729857/Robotics-Intern-at-Raleigh-Research-Center-Fall-2025) | Recently |
+| IS Department Manager, PMO, North America Countries | Cary, North Carolina | [Apply](https://careers.abb/global/en/job/JR00005432/IS-Department-Manager-PMO-North-America-Countries) | Recently |
+| QCS Systems Engineer | Multiple, Various | [Apply](https://careers.abb/global/en/job/96186349/QCS-Systems-Engineer) | Recently |
 | Software Engineer - Process automation & reporting | Senatobia, Mississippi | [Apply](https://careers.abb/global/en/job/JR00006952/Software-Engineer-Process-automation-reporting) | Recently |
+| Demand - Senior Field Service Technician | Multiple, Various | [Apply](https://careers.abb/global/en/job/96693047/Demand-Senior-Field-Service-Technician) | Recently |
 | Senior Engineer - Signal Processing | Bartlesville, Oklahoma | [Apply](https://careers.abb/global/en/job/96074892/Senior-Engineer-Signal-Processing) | Recently |
 | Principal R&D SW Engineer | Bartlesville, Oklahoma | [Apply](https://careers.abb/global/en/job/95656521/Principal-R-D-SW-Engineer) | Recently |
-| R&D Electrical Engineer | Multiple, Various | [Apply](https://careers.abb/global/en/job/JR00008005/R-D-Electrical-Engineer) | Recently |
-| Business Functional Analyst | Mebane, North Carolina | [Apply](https://careers.abb/global/en/job/96937752/Business-Functional-Analyst) | Recently |
-| IS Department Manager, PMO, North America Countries | Cary, North Carolina | [Apply](https://careers.abb/global/en/job/JR00005432/IS-Department-Manager-PMO-North-America-Countries) | Recently |
-| Robotics Intern at Raleigh Research Center - Fall | Raleigh, North Carolina | [Apply](https://careers.abb/global/en/job/96729857/Robotics-Intern-at-Raleigh-Research-Center-Fall-2025) | Recently |
-| Demand - Senior Field Service Technician | Multiple, Various | [Apply](https://careers.abb/global/en/job/96693047/Demand-Senior-Field-Service-Technician) | Recently |
 | IT Operations Support Analyst | Phoenix, Arizona | [Apply](https://careers.abb/global/en/job/JR00004589/IT-Operations-Support-Analyst) | Recently |
 
 #### 🏢 **INFINEON** (13 positions)
@@ -2357,12 +2360,11 @@ Top internships for students in data science, statistics, analytics, and related
 | Internship - Sustaining Product Engineer | Leominster, US | [Apply](https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance) | Recently |
 
 <details>
-<summary><h4>🏢 <strong>SIEMENS</strong> (100 positions)</h4></summary>
+<summary><h4>🏢 <strong>SIEMENS</strong> (99 positions)</h4></summary>
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
 | Regional Account Manager - Smart Infrastructure / Data Centers (Remote) 🏠 | Fremont, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
-| Business Development Manager – Data Center & Semiconductor | Los Angeles, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Senior Software Engineer - C/C++, QT, design patterns, data structures | Austin, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Finance Leadership Development Program Internship | Atlanta, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Senior/Principal Architect- AI/ML/Agentic AI/LLM | Austin, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
@@ -2386,7 +2388,6 @@ Top internships for students in data science, statistics, analytics, and related
 | Senior Building Automation Service Specialist | Canton, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Building Automation Service Specialist | Raleigh, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Building Automation Service Specialist | Worthington, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
-| Building Automation Service Specialist | Harleysville, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Sales Support Professional- Rail Infrastructure | Louisville, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Senior Building Automation Service Specialist | Beltsville, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Senior Building Automation Service Specialist | Norcross, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
@@ -2412,7 +2413,6 @@ Top internships for students in data science, statistics, analytics, and related
 | Quality Engineering Internship- Rail Infrastructure (Summer 2026) | Homestead, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Senior Financial Analyst | Peachtree Corners, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Security Systems Senior Sales Executive | St. Louis, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
-| Warehouse Assistant | Southaven, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Senior/ Strategic Sales Development Representative | Raleigh, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Commercial Project Manager - Factory- Rolling Stock- Sacramento, CA | Sacramento, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Building Automation Service Senior Sales Executive | Nashville, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
@@ -2424,7 +2424,6 @@ Top internships for students in data science, statistics, analytics, and related
 | Building Automation Service Senior Sales Executive | Baltimore, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Building Automation Service Senior Sales Executive | Cypress, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Building Automation Service Senior Sales Executive | Shoreview, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
-| Building Automation Site Installation Technician | Milwaukee, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | DevOps Cloud Engineer Principal | Wilsonville, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Mechanical Desk Engineer DE - Mobility Customer Service | New Castle, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Production Manager | Wendell, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
@@ -2443,16 +2442,10 @@ Top internships for students in data science, statistics, analytics, and related
 | Building Automation Systems Specialist | Albuquerque, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Building Automation Systems Specialist | Winter Park, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Senior Electrical Services Specialist | Baton Rouge, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
-| Senior Electrical Services Specialist | Irving, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
-| Senior Electrical Services Specialist | Las Vegas, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Building Automation Systems Specialist | Rolling Meadows, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
-| Senior Electrical Services Specialist | Morristown, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
-| Senior Electrical Services Specialist | Beltsville, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Building Automation Service Specialist | Pasco, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Sales Building Automation HVAC Service Account Executive | Lakewood, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Quality Assurance, Inspector | Sacramento, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
-| Project Manager - Locomotive and Coach Services Sacramento/Oceanside CA Mobility Customer Service | Sacramento, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
-| Project Manager Communications-Based Train Control (CBTC) Maintenance Mobility Customer Service | New York City, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Building Automation Service Account Executive | Pelham, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Building Automation Service Specialist | Portland, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Smart Buildings Sales Internship | Pelham, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
@@ -2461,6 +2454,15 @@ Top internships for students in data science, statistics, analytics, and related
 | Building Automation Service Specialist | Garfield Heights, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Building Automation Service Specialist | Louisville, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 | Senior Building Automation Engineer | Buffalo Grove, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
+| Maintenance Supervisor - 2nd Shift | Grand Prairie, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
+| Application Support Engineer – Senior | Plano, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
+| Fire/Life Safety Service Technician | Norcross, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
+| Building Automation Senior Sales Account Executive | Austin, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
+| Assurance – Audit Associate (Software & Technology) | Plano, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
+| Project Manager, Electrical Products | Peachtree Corners, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
+| Panel Fabrication Specialist / Digital Deployment Specialist | Rockaway, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
+| Mechanical Service Senior Sales Executive | Jacksonville, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
+| Building Automation Systems Specialist | Rancho Cordova, United States of America | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) | Recently |
 
 </details>
 
@@ -2530,10 +2532,10 @@ Top internships for students in data science, statistics, analytics, and related
 | Sr R&D Manager | Buffalo, NY | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/107033/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Sr Advanced Data Scientist | Pittsburgh, PA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/req481371/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | AI Manager | Morris Plains, NJ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/109871/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| ISC Analytics Lead | Charlotte, NC | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116521/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Director Data Analytics | Atlanta, GA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115974/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Sr Product Manager | Hamilton, NJ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111981/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | ISC Analytics Specialist | El Paso, TX | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/114300/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| ISC Analytics Lead | Charlotte, NC | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116521/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Artificial Intelligence/Machine Learning - Recent Grad/Full Time | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113569/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Artificial Intelligence/Machine Learning - Summer 2026 Intern | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113564/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | V&V Engineer | Pittsford, NY | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113502/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
@@ -2546,15 +2548,15 @@ Top internships for students in data science, statistics, analytics, and related
 | Data Engineering Manager | Morris Plains, NJ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115605/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Advanced Electrical Design Engineer | Redmond, WA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115851/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Research Technician | Buffalo, NY | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113050/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Advanced Hardware Engineer | Lincolnshire, IL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115219/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Sr Software Quality Specialist | Alpharetta, GA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116515/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Electrical Engineer | Mason, OH | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115724/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Sr Advanced Software Engineer | Fort Mill, SC | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/108811/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Enterprise Architect | Atlanta, GA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111409/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Sr Advanced Software Engineer | Fort Mill, SC | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/108811/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Sr Test Engineer - Hardware Design Validation | Lincolnshire, IL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115239/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Advanced Systems Engineer | Clearwater, FL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115683/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Advanced Manufacturing Engineer I - Circuit Card Manufacturing | Olathe, KS | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111256/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Sr Software Quality Specialist | Alpharetta, GA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116515/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Advanced Hardware Engineer | Lincolnshire, IL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115219/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Chemical Operator - Level | Chickasaw, AL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116681/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Electrical Engineer | Mason, OH | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115724/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Export Classifier-Sr. Advanced Systems Engineer | Plymouth, MN | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/112690/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Sr Advanced Test Engr | Richmond, VA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115407/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Director Software Engineering | Atlanta, GA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/114680/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
@@ -2562,22 +2564,22 @@ Top internships for students in data science, statistics, analytics, and related
 | Sales Representative (Cyber - Operational Technology) | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/109940/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Advanced Manufacturing Engineer II - Circuit Card Manufacturing | Olathe, KS | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111260/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Materials Mgmt Analyst | Acton, MA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116016/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Software Architect | Lincolnshire, IL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/106269/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Sr. Advanced Manufacturing Engineer - Circuit Card Manufacturing | Olathe, KS | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111262/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Sr Engineering Program Manager | Atlanta, GA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111924/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Software Architect | Lincolnshire, IL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/106269/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Enterprise OT Cybersecurity Leader | Houston, TX | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/108101/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | IT Enterprise Systems Architect | Morris Plains, NJ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111169/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Sr. Embedded Software Developer (Aviation/Aerospace) | Minneapolis, MN | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/106239/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Software Engineer | Phoenix, AZ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111406/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Test Engineer | Clearwater, FL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111725/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Sr. Embedded Software Developer (Aviation/Aerospace) | Minneapolis, MN | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/106239/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | R&D Engr/Scientist II - Packaging Technology | Pottsville, PA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/110143/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Control Systems Integration Engineer | Tempe, AZ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116522/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Electrical Engineer | Phoenix, AZ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115013/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Sr Advanced Systems Engineer | Clearwater, FL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/112908/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Electrical Engineer | Phoenix, AZ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115013/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Embedded Software Engineer | Fort Washington, PA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/100648/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Quality Engineer II -Semiconductor Manufacturing | Spokane Valley, WA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/109470/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Advanced Software Engineer | Mason, OH | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111367/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Sr Embedded Software Engineer | Phoenix, AZ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/112911/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
+| Control Systems Integration Engineer | Tempe, AZ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116522/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Sr IT Analyst - Lead Technical Product Owner – Marketing | Atlanta, GA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/108336/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Advanced Manufacturing Engineer | Redmond, WA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/112906/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Scientist - Electronics Thermal Management | Buffalo, NY | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116211/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
@@ -2637,10 +2639,10 @@ Top internships for students in data science, statistics, analytics, and related
 | 🏢 **TEXAS INSTRUMENTS** | DFM Engineer | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25001944/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | Recently |
 | 🏢 **TEXAS INSTRUMENTS** | Principle Architect – Customer Experience & AI Systems | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25006686/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | Recently |
 
-### 🤖 **AI & Emerging Tech** (162 positions)
+### 🤖 **AI & Emerging Tech** (165 positions)
 
 <details>
-<summary><h4>🏢 <strong>AiJobs</strong> (162 positions)</h4></summary>
+<summary><h4>🏢 <strong>AiJobs</strong> (165 positions)</h4></summary>
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
@@ -2648,51 +2650,53 @@ Top internships for students in data science, statistics, analytics, and related
 | Data Science Internship | US, MA | [Apply](https://www.aijobs.com/jobs/158256315-data-science-internship) | Recently |
 | Graduate Intern, Data Scientist (Spring, 2025) | US, GA | [Apply](https://www.aijobs.com/jobs/158456724-graduate-intern-data-scientist-spring-2025) | Recently |
 | Data Scientist | Unknown, US | [Apply](https://www.aijobs.com/jobs/158456734-staff-data-scientist) | Recently |
-| Machine Learning Engineer | US, CA | [Apply](https://www.aijobs.com/jobs/155399577-machine-learning-engineer-2) | Recently |
 | Data Scientist Intern | US, FL | [Apply](https://www.aijobs.com/jobs/157159236-data-scientist-intern) | Recently |
+| Machine Learning Engineer | US, CA | [Apply](https://www.aijobs.com/jobs/155399577-machine-learning-engineer-2) | Recently |
 | Decision Scientist- Retail Media | US, ID | [Apply](https://www.aijobs.com/jobs/156963139-decision-scientist-retail-media) | Recently |
-| Data Scientist, Data & AI Team | US, NY | [Apply](https://www.aijobs.com/jobs/156646070-data-scientist-data-ai-team) | Recently |
 | AI Engineer | US, IL | [Apply](https://www.aijobs.com/jobs/156562338-ai-engineer) | Recently |
 | Associate Data Scientist | US, CA | [Apply](https://www.aijobs.com/jobs/158883742-associate-data-scientist) | Recently |
-| Data Scientist, Data & Insights - Responsible AI | US, TX | [Apply](https://www.aijobs.com/jobs/157379850-data-scientist-data-insights-responsible-ai) | Recently |
+| Data Scientist, Data & AI Team | US, NY | [Apply](https://www.aijobs.com/jobs/156646070-data-scientist-data-ai-team) | Recently |
+| Data Scientist - Supply Chain Optimization | Unknown, US | [Apply](https://www.aijobs.com/jobs/156963141-data-scientist-supply-chain-optimization) | Recently |
 | Data Scientist (Remote) 🏠 | Unknown, US | [Apply](https://www.aijobs.com/jobs/148949068-data-scientist-remote) | Recently |
 | Data Scientist (ML & GCP) | US, MI | [Apply](https://www.aijobs.com/jobs/158256319-data-scientist-ml-gcp) | Recently |
 | Quantitative AI Researcher | US, CA | [Apply](https://www.aijobs.com/jobs/158640576-quantitative-ai-researcher) | Recently |
+| Data Scientist, Data & Insights - Responsible AI | US, TX | [Apply](https://www.aijobs.com/jobs/157379850-data-scientist-data-insights-responsible-ai) | Recently |
 | Data Scientist, ML - Recommendations | US, CA | [Apply](https://www.aijobs.com/jobs/150961156-senior-data-scientist-ml-recommendations) | Recently |
 | Machine Learning and Artificial Intelligence Engineer | US, NY | [Apply](https://www.aijobs.com/jobs/153975767-machine-learning-and-artificial-intelligence-engineer) | Recently |
+| Robotics/Computer Vision engineer | US, MI | [Apply](https://www.aijobs.com/jobs/158198861-robotics-computer-vision-engineer) | Recently |
 | Research Scientist | US, TX | [Apply](https://www.aijobs.com/jobs/157323360-research-scientist-i) | Recently |
 | Data Scientist, EGI | CA, Palo Alto | [Apply](https://www.aijobs.com/jobs/158332825-senior-data-scientist-egi) | Recently |
 | Technical Program Manager - Rapids | Unknown, US | [Apply](https://www.aijobs.com/jobs/158834207-technical-program-manager-rapids) | Recently |
 | Senior/Staff Applied Scientist | Palo Alto, US | [Apply](https://www.aijobs.com/jobs/158332827-senior-staff-applied-scientist) | Recently |
 | Data Scientist (ID:46984) | US, MN | [Apply](https://www.aijobs.com/jobs/156963147-senior-data-scientist-id-46984) | Recently |
 | Data Scientist III, Product | US, CA | [Apply](https://www.aijobs.com/jobs/156963136-data-scientist-iii-product) | Recently |
-| Robotics/Computer Vision engineer | US, MI | [Apply](https://www.aijobs.com/jobs/158198861-robotics-computer-vision-engineer) | Recently |
 | Software Engineer, AI Tooling | US, CA | [Apply](https://www.aijobs.com/jobs/159316563-software-engineer-ai-tooling) | Recently |
-| Data Scientist and Analyst | Unknown, US | [Apply](https://www.aijobs.com/jobs/158701496-data-scientist-and-analyst) | Recently |
-| Artificial Intelligence (AI) Engineer | US, VA | [Apply](https://www.aijobs.com/jobs/156826882-artificial-intelligence-ai-engineer) | Recently |
+| Machine Learning (ML) Engineer | US, VA | [Apply](https://www.aijobs.com/jobs/156873395-machine-learning-ml-engineer) | Recently |
+| Data Scientist and Analyst | US, Dallas-Fort Worth Metroplex | [Apply](https://www.aijobs.com/jobs/158701496-data-scientist-and-analyst) | Recently |
 | Data Scientist - Materials | US, MA | [Apply](https://www.aijobs.com/jobs/153233057-data-scientist-materials) | Recently |
 | Machine Learning Data Scientist, Forecasting | US, CA | [Apply](https://www.aijobs.com/jobs/159227456-machine-learning-data-scientist-forecasting) | Recently |
 | Data Scientist - Music | US, NY | [Apply](https://www.aijobs.com/jobs/157543261-data-scientist-music) | Recently |
-| Data Scientist, Marketing | United States, California | [Apply](https://www.aijobs.com/jobs/158629614-data-scientist-marketing) | Recently |
-| Data Scientist / Data Engineer | US, FL | [Apply](https://www.aijobs.com/jobs/157159239-senior-data-scientist-data-engineer) | Recently |
+| Artificial Intelligence (AI) Engineer | US, VA | [Apply](https://www.aijobs.com/jobs/156826882-artificial-intelligence-ai-engineer) | Recently |
 | Senior/Staff Data Scientist, Core Product | Palo Alto, US | [Apply](https://www.aijobs.com/jobs/158332814-senior-staff-data-scientist-core-product) | Recently |
 | Data Scientist, Decisions - Risk Solutions | US, CA | [Apply](https://www.aijobs.com/jobs/158456726-data-scientist-decisions-risk-solutions) | Recently |
 | Data Scientist, Time Series Forecasting | United States, California | [Apply](https://www.aijobs.com/jobs/158186447-data-scientist-time-series-forecasting) | Recently |
 | Biotech Data Scientist | US, CA | [Apply](https://www.aijobs.com/jobs/159227454-biotech-data-scientist) | Recently |
+| Data Scientist, Marketing | United States, California | [Apply](https://www.aijobs.com/jobs/158629614-data-scientist-marketing) | Recently |
+| Data Scientist / Data Engineer | US, FL | [Apply](https://www.aijobs.com/jobs/157159239-senior-data-scientist-data-engineer) | Recently |
 | 2025 Fall Intern - Data Scientist | US, CA | [Apply](https://www.aijobs.com/jobs/156963146-2025-fall-intern-data-scientist) | Recently |
 | Applied AI Engineer | US, CA | [Apply](https://www.aijobs.com/jobs/156826880-applied-ai-engineer) | Recently |
 | Data Scientist, Marketing AI Agents | US, San Francisco Bay Area | [Apply](https://www.aijobs.com/jobs/158456731-data-scientist-marketing-ai-agents) | Recently |
 | Product Operations Lead | Palo Alto, US | [Apply](https://www.aijobs.com/jobs/158337459-product-operations-lead) | Recently |
-| AI Engineer | Unknown, US | [Apply](https://www.aijobs.com/jobs/158303362-senior-ai-engineer) | Recently |
-| AI/ML Scientist/Developer | US, MD | [Apply](https://www.aijobs.com/jobs/158256320-ai-ml-scientist-developer) | Recently |
 | Data Scientist, Analytics | US, NY | [Apply](https://www.aijobs.com/jobs/157906882-data-scientist-analytics) | Recently |
+| AI Engineer | Unknown, US | [Apply](https://www.aijobs.com/jobs/158303362-senior-ai-engineer) | Recently |
 | ML/AI Engineer | Unknown, US | [Apply](https://www.aijobs.com/jobs/156147606-ml-ai-engineer) | Recently |
+| AI/ML Scientist/Developer | US, MD | [Apply](https://www.aijobs.com/jobs/158256320-ai-ml-scientist-developer) | Recently |
 | Data Analyst, User Operations | United States, California | [Apply](https://www.aijobs.com/jobs/159014047-data-analyst-user-operations) | Recently |
 | Software Engineer, Machine Learning – Engineering Systems and AI Research | US, CA | [Apply](https://www.aijobs.com/jobs/157738998-software-engineer-machine-learning-engineering-systems-and-ai-research) | Recently |
 | Data Scientist, Research, Ads Insights Platform, Measurement | US, NY | [Apply](https://www.aijobs.com/jobs/158701500-data-scientist-research-ads-insights-platform-measurement) | Recently |
 | AI Engineer – SiPhox AI Platform | US, MA | [Apply](https://www.aijobs.com/jobs/156147607-ai-engineer-siphox-ai-platform) | Recently |
-| Data Scientist, GivingTuesday | Unknown, US | [Apply](https://www.aijobs.com/jobs/156460945-data-scientist-givingtuesday) | Recently |
 | Data Scientist (New York) | US, United States | [Apply](https://www.aijobs.com/jobs/156963144-data-scientist-new-york) | Recently |
+| Data Scientist, GivingTuesday | Unknown, US | [Apply](https://www.aijobs.com/jobs/156460945-data-scientist-givingtuesday) | Recently |
 | Data Scientist, Data & Analytics – Customer, Loyalty & Marketing | US, NC | [Apply](https://www.aijobs.com/jobs/158456723-data-scientist-data-analytics-customer-loyalty-marketing) | Recently |
 | Data Scientist II, CNN Digital Products & Services | US, NY | [Apply](https://www.aijobs.com/jobs/157543260-data-scientist-ii-cnn-digital-products-services) | Recently |
 | AI Engineer(remote) 🏠 | US, TX | [Apply](https://www.aijobs.com/jobs/157472573-principal-ai-engineer-remote) | Recently |
@@ -2700,44 +2704,45 @@ Top internships for students in data science, statistics, analytics, and related
 | Machine Learning Engineer - Disney+ | US, NY | [Apply](https://www.aijobs.com/jobs/156873394-senior-machine-learning-engineer-disney+) | Recently |
 | Data Scientist 4 - R10204883 | US, CA | [Apply](https://www.aijobs.com/jobs/156963143-data-scientist-4-r10204883) | Recently |
 | Data Scientist / Statistician | US, DC | [Apply](https://www.aijobs.com/jobs/157906884-data-scientist-statistician) | Recently |
+| Data Scientist – Generosity | US, NJ | [Apply](https://www.aijobs.com/jobs/150961165-senior-data-scientist-generosity) | Recently |
 | Data Scientist, Product | US, CA | [Apply](https://www.aijobs.com/jobs/158456722-data-scientist-product) | Recently |
-| DGX Cloud AI Infrastructure Software Engineer | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157098859-senior-dgx-cloud-ai-infrastructure-software-engineer) | Recently |
 | Data Scientist, Finance | US, CA | [Apply](https://www.aijobs.com/jobs/157906880-data-scientist-finance) | Recently |
+| DGX Cloud AI Infrastructure Software Engineer | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157098859-senior-dgx-cloud-ai-infrastructure-software-engineer) | Recently |
 | Enterprise Account Executive | United States, New York | [Apply](https://www.aijobs.com/jobs/158308261-enterprise-account-executive) | Recently |
 | DGX AI Cloud Performance Analysis Tools Engineer | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157098858-senior-dgx-ai-cloud-performance-analysis-tools-engineer) | Recently |
-| AI/ML Platform Engineer | US, DC | [Apply](https://www.aijobs.com/jobs/156460948-ai-ml-platform-engineer) | Recently |
 | Software Engineer, NLP/Machine Learning | US, CA | [Apply](https://www.aijobs.com/jobs/156608326-software-engineer-nlp-machine-learning) | Recently |
-| Machine Learning Researchers (Reinforcement Learning) - Open Level | US, MA | [Apply](https://www.aijobs.com/jobs/156608328-machine-learning-researchers-reinforcement-learning-open-level) | Recently |
-| Software Engineer (Artificial Intelligence / Machine Learning) | US, TX | [Apply](https://www.aijobs.com/jobs/156345599-software-engineer-artificial-intelligence-machine-learning) | Recently |
+| AI/ML Platform Engineer | US, DC | [Apply](https://www.aijobs.com/jobs/156460948-ai-ml-platform-engineer) | Recently |
 | Research Scientist / Engineer, Agentic Learning (Horizons) | CA, San Francisco | [Apply](https://www.aijobs.com/jobs/158389480-research-scientist-engineer-agentic-learning-horizons) | Recently |
 | Computer Vision Engineer | US, TN | [Apply](https://www.aijobs.com/jobs/156344586-computer-vision-engineer) | Recently |
+| Machine Learning Researchers (Reinforcement Learning) - Open Level | US, MA | [Apply](https://www.aijobs.com/jobs/156608328-machine-learning-researchers-reinforcement-learning-open-level) | Recently |
 | AI/ML Engineer | US, OH | [Apply](https://www.aijobs.com/jobs/158382403-ai-ml-engineer) | Recently |
 | Data Scientist (Commodity) | Unknown, US | [Apply](https://www.aijobs.com/jobs/156460954-data-scientist-commodity) | Recently |
-| Product Finance Manager, Foundations | United States, California | [Apply](https://www.aijobs.com/jobs/157303128-product-finance-manager-foundations) | Recently |
+| Software Engineer (Artificial Intelligence / Machine Learning) | US, TX | [Apply](https://www.aijobs.com/jobs/156345599-software-engineer-artificial-intelligence-machine-learning) | Recently |
 | Quantitative Researcher - Early Career (USA) | US, CT | [Apply](https://www.aijobs.com/jobs/153204189-quantitative-researcher-early-career-usa) | Recently |
-| AI Lead | US, TX | [Apply](https://www.aijobs.com/jobs/157844203-ai-lead) | Recently |
-| Machine Learning Quantitative Researcher | US, United States | [Apply](https://www.aijobs.com/jobs/156333504-machine-learning-quantitative-researcher) | Recently |
 | Product Marketing Manager (Growth) | CA, Palo Alto | [Apply](https://www.aijobs.com/jobs/158332810-product-marketing-manager-growth) | Recently |
 | Software Engineer - Data Center System Bringup | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/159010617-senior-software-engineer-data-center-system-bringup) | Recently |
+| Product Finance Manager, Foundations | United States, California | [Apply](https://www.aijobs.com/jobs/157303128-product-finance-manager-foundations) | Recently |
+| Machine Learning Quantitative Researcher | US, United States | [Apply](https://www.aijobs.com/jobs/156333504-machine-learning-quantitative-researcher) | Recently |
+| AI Lead | US, TX | [Apply](https://www.aijobs.com/jobs/157844203-ai-lead) | Recently |
+| Machine Learning Researcher – Systematic Trading | US, United States | [Apply](https://www.aijobs.com/jobs/156873293-machine-learning-researcher-systematic-trading) | Recently |
 | ML Research Scientist Intern (Fall 2025) | US, CA | [Apply](https://www.aijobs.com/jobs/158256314-ml-research-scientist-intern-fall-2025) | Recently |
-| Economist | United States, California | [Apply](https://www.aijobs.com/jobs/158186451-senior-economist) | Recently |
-| Python AI Engineer | US, CA | [Apply](https://www.aijobs.com/jobs/158829180-python-ai-engineer) | Recently |
+| Applied Data Scientist | US, VA | [Apply](https://www.aijobs.com/jobs/158456733-applied-data-scientist) | Recently |
+| Business Systems Analyst, SAP - IBP and APO | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/158390308-senior-business-systems-analyst-sap-ibp-and-apo) | Recently |
 | GPU Verification Architect | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/158183169-senior-gpu-verification-architect) | Recently |
+| Python AI Engineer | US, CA | [Apply](https://www.aijobs.com/jobs/158829180-python-ai-engineer) | Recently |
+| Data Scientist - Innovation | US, NJ | [Apply](https://www.aijobs.com/jobs/158883743-data-scientist-innovation) | Recently |
 | Research Engineer, Autonomy | US, CA | [Apply](https://www.aijobs.com/jobs/159316559-research-engineer-autonomy) | Recently |
 | Research Engineer, Robotics Systems | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/158834205-senior-research-engineer-robotics-systems) | Recently |
-| Data Scientist - Innovation | US, NJ | [Apply](https://www.aijobs.com/jobs/158883743-data-scientist-innovation) | Recently |
-| Applied Data Scientist | US, VA | [Apply](https://www.aijobs.com/jobs/158456733-applied-data-scientist) | Recently |
-| Machine Learning Researcher – Systematic Trading | US, FL | [Apply](https://www.aijobs.com/jobs/156873292-machine-learning-researcher-systematic-trading) | Recently |
 | Business Systems Analyst, SAP Manufacturing Supply Chain | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/156867213-senior-business-systems-analyst-sap-manufacturing-supply-chain) | Recently |
 | Computational Scientist - Artificial Intelligence & Machine Learning | US, IL | [Apply](https://www.aijobs.com/jobs/156608325-computational-scientist-artificial-intelligence-machine-learning) | Recently |
 | Growth & GTM Strategy - B2B Monetization | United States, California | [Apply](https://www.aijobs.com/jobs/157303136-growth-gtm-strategy-b2b-monetization) | Recently |
 | Data Scientist, Developer Programs | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157297392-senior-data-scientist-developer-programs) | Recently |
-| Artificial Intelligence Applications Engineer | US, TX | [Apply](https://www.aijobs.com/jobs/157278920-artificial-intelligence-applications-engineer) | Recently |
 | Math Libraries Engineer, Post Quantum Cryptography | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157098855-senior-math-libraries-engineer-post-quantum-cryptography) | Recently |
+| Artificial Intelligence Applications Engineer | US, TX | [Apply](https://www.aijobs.com/jobs/157278920-artificial-intelligence-applications-engineer) | Recently |
+| Data Scientist III, Research, Play | US, NY | [Apply](https://www.aijobs.com/jobs/156460950-data-scientist-iii-research-play) | Recently |
 | Artificial Intelligence Engineer | Unknown, US | [Apply](https://www.aijobs.com/jobs/158382405-artificial-intelligence-engineer) | Recently |
 | Software Engineer, Distributed Systems Engineer - DGX Cloud | Austin, TX | [Apply](https://www.aijobs.com/jobs/153353702-senior-software-engineer-distributed-systems-engineer-dgx-cloud) | Recently |
 | Sr. Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote) 🏠 | US, CA | [Apply](https://www.aijobs.com/jobs/158883741-sr-deep-learning-ai-engineer-machine-learning-hybrid-or-remote) | Recently |
-| Data Scientist III, Research, Play | US, NY | [Apply](https://www.aijobs.com/jobs/156460950-data-scientist-iii-research-play) | Recently |
 | Machine Learning Engineer, Reinforcement Learning | US, PA | [Apply](https://www.aijobs.com/jobs/157739000-machine-learning-engineer-reinforcement-learning) | Recently |
 | Data Scientist, Product Analytics | US, CA | [Apply](https://www.aijobs.com/jobs/157159240-data-scientist-product-analytics) | Recently |
 | New Grads 2025 - Software Engineer - Computer Vision/Deep Learning | US, CA | [Apply](https://www.aijobs.com/jobs/157112959-new-grads-2025-software-engineer-computer-vision-deep-learning) | Recently |
@@ -2748,40 +2753,40 @@ Top internships for students in data science, statistics, analytics, and related
 | Research Engineer/Scientist - Sensing, Future of Computing | United States, California | [Apply](https://www.aijobs.com/jobs/156576634-senior-research-engineer-scientist-sensing-future-of-computing) | Recently |
 | Software Engineer, Simulation | US, CA | [Apply](https://www.aijobs.com/jobs/157275794-software-engineer-simulation) | Recently |
 | ML Engineer | US, NY | [Apply](https://www.aijobs.com/jobs/157379849-ml-engineer) | Recently |
+| Staff Site Reliability Engineer | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/156867212-principal-staff-site-reliability-engineer) | Recently |
 | System Software Engineer - Autonomous Vehicles Platform | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/158626962-senior-system-software-engineer-autonomous-vehicles-platform) | Recently |
 | Applied Machine Learning Engineer - Circuit Design | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/158626967-applied-machine-learning-engineer-circuit-design) | Recently |
-| Staff Site Reliability Engineer | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/156867212-principal-staff-site-reliability-engineer) | Recently |
 | Artificial Intelligence Engineer | US, MO | [Apply](https://www.aijobs.com/jobs/156826884-artificial-intelligence-engineer) | Recently |
-| Software Engineer – CSP Engagements | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157490346-principal-software-engineer-csp-engagements) | Recently |
-| data scientist, Staffing - Data & Analytics (Seattle) | US, WA | [Apply](https://www.aijobs.com/jobs/156646075-senior-data-scientist-staffing-data-analytics-seattle) | Recently |
 | Finite Element Analysis (FEA) Engineer | United States, California | [Apply](https://www.aijobs.com/jobs/156868847-finite-element-analysis-fea-engineer) | Recently |
+| data scientist, Staffing - Data & Analytics (Seattle) | US, WA | [Apply](https://www.aijobs.com/jobs/156646075-senior-data-scientist-staffing-data-analytics-seattle) | Recently |
+| Software Engineer – CSP Engagements | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157490346-principal-software-engineer-csp-engagements) | Recently |
 | Business Systems, Core Financials | United States, California | [Apply](https://www.aijobs.com/jobs/158629613-business-systems-core-financials) | Recently |
 | Research Engineer, Human-Centered AI | United States, California | [Apply](https://www.aijobs.com/jobs/157303122-research-engineer-human-centered-ai) | Recently |
+| Computer Vision Engineer | Unknown, US | [Apply](https://www.aijobs.com/jobs/157503004-computer-vision-engineer) | Recently |
 | AI and ML Infra Software Engineer, GPU Clusters | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/158183174-principal-ai-and-ml-infra-software-engineer-gpu-clusters) | Recently |
 | Marketing Insights Research Manager | CA, San Francisco | [Apply](https://www.aijobs.com/jobs/158626733-marketing-insights-research-manager) | Recently |
 | GenAI Framework Engineer | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/156571491-senior-genai-framework-engineer) | Recently |
-| Computer Vision Engineer | Unknown, US | [Apply](https://www.aijobs.com/jobs/157503004-computer-vision-engineer) | Recently |
 | Software Engineer - Traffic and Networking | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/158183173-senior-software-engineer-traffic-and-networking) | Recently |
 | Compiler Engineer - Backend | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157845698-senior-compiler-engineer-backend) | Recently |
 | Research Engineer / Scientist - Multimodal, Future of Computing | United States, California | [Apply](https://www.aijobs.com/jobs/156265732-senior-research-engineer-scientist-multimodal-future-of-computing) | Recently |
 | Security Researcher, Security Products | United States, California | [Apply](https://www.aijobs.com/jobs/158186446-security-researcher-security-products) | Recently |
 | AI System Engineer | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/158626955-senior-ai-system-engineer) | Recently |
-| Engineer, Agentic System Architecture | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/156867199-principal-engineer-agentic-system-architecture) | Recently |
-| Product Manager, Safety Systems | United States, California | [Apply](https://www.aijobs.com/jobs/156868830-product-manager-safety-systems) | Recently |
 | Technical Recruiter | United States, California | [Apply](https://www.aijobs.com/jobs/156868834-senior-technical-recruiter) | Recently |
-| AI Engineer, Agentic AI | US, CA | [Apply](https://www.aijobs.com/jobs/156562340-senior-ai-engineer-agentic-ai) | Recently |
+| Product Manager, Safety Systems | United States, California | [Apply](https://www.aijobs.com/jobs/156868830-product-manager-safety-systems) | Recently |
 | System Software Engineer, GPU Development Tools | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157297379-system-software-engineer-gpu-development-tools) | Recently |
+| Engineer, Agentic System Architecture | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/156867199-principal-engineer-agentic-system-architecture) | Recently |
+| AI Engineer, Agentic AI | US, CA | [Apply](https://www.aijobs.com/jobs/156562340-senior-ai-engineer-agentic-ai) | Recently |
 | AI System Engineer – New College Grad | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/156867208-ai-system-engineer-new-college-grad-2025) | Recently |
 | Software Engineer, Recipe Pathfinding | Redmond, WA | [Apply](https://www.aijobs.com/jobs/158390310-senior-software-engineer-recipe-pathfinding) | Recently |
 | Technical Marketing Engineer - Edge AI and Robotics | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/158626963-technical-marketing-engineer-edge-ai-and-robotics) | Recently |
 | Software Engineer, Backend | CA, Palo Alto | [Apply](https://www.aijobs.com/jobs/158332812-software-engineer-backend) | Recently |
 | Software Engineer - DGX Cloud | Seattle, WA | [Apply](https://www.aijobs.com/jobs/156571500-software-engineer-dgx-cloud) | Recently |
 | Machine Learning Engineer, AI Safety - LLM MLOps | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157845689-machine-learning-engineer-ai-safety-llm-mlops) | Recently |
-| Site Reliability Engineer, AI Infrastructure | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/158390312-senior-site-reliability-engineer-ai-infrastructure) | Recently |
 | SWQA Tools Development Engineer | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157845694-swqa-tools-development-engineer) | Recently |
 | GPU Kernels Engineer | United States, California | [Apply](https://www.aijobs.com/jobs/157303130-gpu-kernels-engineer) | Recently |
 | Software Engineer, Product Backend | CA, Palo Alto | [Apply](https://www.aijobs.com/jobs/158332795-software-engineer-product-backend) | Recently |
 | Machine Learning Compiler Engineer | Austin, TX | [Apply](https://www.aijobs.com/jobs/157678209-senior-machine-learning-compiler-engineer) | Recently |
+| Site Reliability Engineer, AI Infrastructure | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/158390312-senior-site-reliability-engineer-ai-infrastructure) | Recently |
 | Product Manager, Scaled Abuse | United States, California | [Apply](https://www.aijobs.com/jobs/157685612-product-manager-scaled-abuse) | Recently |
 | Software Program Manager | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157845696-senior-software-program-manager) | Recently |
 | Silicon Solutions Test Development Engineer | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/157098851-silicon-solutions-test-development-engineer) | Recently |
@@ -2847,33 +2852,33 @@ Updated list of enterprise companies.
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 162 | 6% | No or minimal experience. |
+| 🟢 Entry Level & New Grad | 165 | 7% | No or minimal experience. |
 | 🟡 Beginner & Early Career | 1310 | 52% | 1-2 years of experience. |
-| 🔴 Manager | 1035 | 41% | 2+ years of experience. |
+| 🔴 Manager | 1037 | 41% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
-- **US, CA**: 159 positions
+- **US, CA**: 162 positions
 - **Multiple Cities, US**: 107 positions
-- **California - San Francisco, US**: 85 positions
-- **Santa Clara, CA**: 80 positions
+- **California - San Francisco, US**: 87 positions
+- **Santa Clara, CA**: 81 positions
 - **San Jose, California**: 76 positions
 - **Cupertino, California**: 63 positions
 - **Boise, Idaho**: 57 positions
-- **Austin, Texas**: 54 positions
+- **Austin, Texas**: 55 positions
 
 ### 👨‍💻 Top Data Fields
 
-#### 💻 Data Science  (2507 positions)
+#### 💻 Data Science  (2512 positions)
 📦 Amazon
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 2507+ verified roles for data analysts and scientists from 36 elite tech companies.
+✅ **100% Real Jobs:** 2512+ verified roles for data analysts and scientists from 36 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -2996,11 +3001,11 @@ Either still hiring or useful for research.
 |------|----------|-----------|-------|
 | Delivery Consultant- GenAI/ML & Data Science, AWS, Industries | Austin, TX | [Apply](https://amazon.jobs/en-gb/jobs/3054940/delivery-consultant-genai-ml-data-science-aws-industries) | 1w ago |
 | Applied Scientist, Amazon Connect | New York, NY | [Apply](https://amazon.jobs/en-gb/jobs/3052442/applied-scientist-amazon-connect) | 1w ago |
+| Data Scientist II - AMZ9674189 | Santa Clara, CA | [Apply](https://amazon.jobs/en-gb/jobs/3051416/data-scientist-ii-amz9674189) | 1w ago |
 | Fashion & Fitness Data Science, Engineering Analytics Research and Science (EARS) | New York, NY | [Apply](https://amazon.jobs/en-gb/jobs/3063923/fashion-fitness-data-science-engineering-analytics-research-and-science-ears) | 1w ago |
 | Research Scientist, Design and Simulation, AWS Center for Quantum Computing | San Francisco, CA | [Apply](https://amazon.jobs/en-gb/jobs/3064003/research-scientist-design-and-simulation-aws-center-for-quantum-computing) | 1w ago |
 | Business Intel Engineer II, ORBIT | Austin, TX | [Apply](https://amazon.jobs/en-gb/jobs/3063780/business-intel-engineer-ii-orbit) | 1w ago |
 | Data Scientist II - AMZ26521.1 | Sunnyvale, CA | [Apply](https://amazon.jobs/en-gb/jobs/3060117/data-scientist-ii-amz26521-1) | 1w ago |
-| Data Scientist II - AMZ9674189 | Santa Clara, CA | [Apply](https://amazon.jobs/en-gb/jobs/3051416/data-scientist-ii-amz9674189) | 1w ago |
 | Data Scientist, Amazon Advertising | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/3035697/data-scientist-amazon-advertising) | 1w ago |
 | Data Scientist, Project Dawn | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3052959/data-scientist-project-dawn) | 1w ago |
 | Data Engineer, Amazon Last Mile, Amazon Last Mile - Routing and Planning - DE | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/jobs/3061197/data-engineer-amazon-last-mile-amazon-last-mile-routing-and-planning-de) | 1w ago |
@@ -3012,23 +3017,25 @@ Either still hiring or useful for research.
 | Data Engineer, WWSO SA Field Initiatives | New York, NY | [Apply](https://amazon.jobs/en-gb/jobs/3051998/data-engineer-wwso-sa-field-initiatives) | 2w ago |
 | Applied Scientist II, Amazon Connect | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/2909912/applied-scientist-ii-amazon-connect) | 2w ago |
 | Applied Scientist, BRP Payment Risk ML | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/2929674/applied-scientist-brp-payment-risk-ml) | 2w ago |
+| Data Scientist II - AMZ9085098 | San Diego, CA | [Apply](https://amazon.jobs/en-gb/jobs/3041987/data-scientist-ii-amz9085098) | 2w ago |
+| Applied Scientist II, Special Projects | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3056666/applied-scientist-ii-special-projects) | 2w ago |
 | Language Engineer, Artificial General Intelligence - Data Services | Boston, MA | [Apply](https://amazon.jobs/en-gb/jobs/3020566/language-engineer-artificial-general-intelligence-data-services) | 2w ago |
 | Data Scientist, Data and Machine Learning, WWPS US Federal | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/3054868/data-scientist-data-and-machine-learning-wwps-us-federal) | 2w ago |
 | Data Scientist II - AMZ24246.1 | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3049311/data-scientist-ii-amz24246-1) | 2w ago |
 | Data Scientist II - AMZ24724.1 | New York, NY | [Apply](https://amazon.jobs/en-gb/jobs/3054396/data-scientist-ii-amz24724-1) | 2w ago |
-| Data Scientist II - AMZ9085098 | San Diego, CA | [Apply](https://amazon.jobs/en-gb/jobs/3041987/data-scientist-ii-amz9085098) | 2w ago |
-| Applied Scientist II, Special Projects | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3056666/applied-scientist-ii-special-projects) | 2w ago |
-| Delivery Consultant- GenAI/ML & Data Science, Prosessional Services, AWS Industries | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/3054297/delivery-consultant-genai-ml-data-science-prosessional-services-aws-industries) | 3w ago |
-| Delivery Consultant- GenAI/ML, AWS, Industries | Atlanta, GA | [Apply](https://amazon.jobs/en-gb/jobs/3048005/delivery-consultant-genai-ml-aws-industries) | 3w ago |
 | Data Scientist II - AMZ9084921 | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3041563/data-scientist-ii-amz9084921) | 3w ago |
 | Data Scientist II - AMZ8839670 | New York, NY | [Apply](https://amazon.jobs/en-gb/jobs/3042654/data-scientist-ii-amz8839670) | 3w ago |
 | Delivery Consultant- GenAI/ML & Data Science, AWS, Industries | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/3054935/delivery-consultant-genai-ml-data-science-aws-industries) | 3w ago |
+| Delivery Consultant- GenAI/ML & Data Science, Prosessional Services, AWS Industries | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/3054297/delivery-consultant-genai-ml-data-science-prosessional-services-aws-industries) | 3w ago |
+| Delivery Consultant- GenAI/ML, AWS, Industries | Atlanta, GA | [Apply](https://amazon.jobs/en-gb/jobs/3048005/delivery-consultant-genai-ml-aws-industries) | 3w ago |
 | Simulation Scientist, Amazon Logistics | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/jobs/3053706/simulation-scientist-amazon-logistics) | 3w ago |
-| Research Scientist | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/2848227/research-scientist) | 3w ago |
 | Data Scientist II - AMZ9443556 | Santa Monica, CA | [Apply](https://amazon.jobs/en-gb/jobs/3037361/data-scientist-ii-amz9443556) | 3w ago |
-| Applied Scientist, US Prime and Marketing Tech | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3052160/applied-scientist-us-prime-and-marketing-tech) | 3w ago |
+| Research Scientist | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/2848227/research-scientist) | 3w ago |
 | Data Scientist II - AMZ9686759 | North Reading, MA | [Apply](https://amazon.jobs/en-gb/jobs/3047956/data-scientist-ii-amz9686759) | 3w ago |
+| Applied Scientist, US Prime and Marketing Tech | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3052160/applied-scientist-us-prime-and-marketing-tech) | 3w ago |
 | Applied Scientist, SPX AI Lab | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3014934/applied-scientist-spx-ai-lab) | 3w ago |
+| Business Intelligence Engineer, FBA Product Analytics | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/jobs/2950446/business-intelligence-engineer-fba-product-analytics) | 1mo ago |
+| Software Development Engineer II, Advertising Products and Tech | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/jobs/3038377/software-development-engineer-ii-advertising-products-and-tech) | 1mo ago |
 | Data Engineer II, Managed Operations Engineering & Data Science (MOEDS) | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/2981217/data-engineer-ii-managed-operations-engineering-data-science-moeds) | 1mo ago |
 | Business Intelligence Engineer, P2 Science, Data, and Insights | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3010001/business-intelligence-engineer-p2-science-data-and-insights) | 1mo ago |
 | Applied Scientist, Q Developer Code Agent Science | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/2966981/applied-scientist-q-developer-code-agent-science) | 1mo ago |
@@ -3043,24 +3050,22 @@ Either still hiring or useful for research.
 | Data Steward, Re:Cycle Reverse Logistics | Greencastle, PA | [Apply](https://amazon.jobs/en-gb/jobs/2999790/data-steward-re-cycle-reverse-logistics) | 1mo ago |
 | 2026 Operations Research Science Internship - United States, PhD Student Science Recruiting | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3050304/2026-operations-research-science-internship-united-states-phd-student-science-recruiting) | 1mo ago |
 | TIPM, Data Center Network Build, BaND | Herndon, VA | [Apply](https://amazon.jobs/en-gb/jobs/3043641/tipm-data-center-network-build-band) | 1mo ago |
-| Business Intelligence Engineer, FBA Product Analytics | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/jobs/2950446/business-intelligence-engineer-fba-product-analytics) | 1mo ago |
-| Software Development Engineer II, Advertising Products and Tech | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/jobs/3038377/software-development-engineer-ii-advertising-products-and-tech) | 1mo ago |
+| Data Scientist II - AMZ9081268 | Tempe, AZ | [Apply](https://amazon.jobs/en-gb/jobs/3023036/data-scientist-ii-amz9081268) | 2mo ago |
+| Data Scientist II - AMZ9082460 | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3003786/data-scientist-ii-amz9082460) | 2mo ago |
 | Software Development Engineer - Amazon Fulfillment Technologies, Amazon Fulfillment Technologies | Arlington, VA | [Apply](https://amazon.jobs/en-gb/jobs/2950677/software-development-engineer-amazon-fulfillment-technologies-amazon-fulfillment-technologies) | 2mo ago |
 | Applied Scientist, BRP (Buyer Risk Prevention) | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3030919/applied-scientist-brp-buyer-risk-prevention) | 2mo ago |
 | Applied Scientist, BRP (Buyer Risk Prevention) | San Diego, CA | [Apply](https://amazon.jobs/en-gb/jobs/3030894/applied-scientist-brp-buyer-risk-prevention) | 2mo ago |
 | Research Scientist, Amazon Customer Service | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3021082/research-scientist-amazon-customer-service) | 2mo ago |
 | Applied Scientist, BRP Payment Risk ML | San Diego, CA | [Apply](https://amazon.jobs/en-gb/jobs/2934836/applied-scientist-brp-payment-risk-ml) | 2mo ago |
 | Business Analyst II, Selling Partner Services | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/jobs/3019450/business-analyst-ii-selling-partner-services) | 2mo ago |
-| Data Scientist II - AMZ9081268 | Tempe, AZ | [Apply](https://amazon.jobs/en-gb/jobs/3023036/data-scientist-ii-amz9081268) | 2mo ago |
-| Data Scientist II - AMZ9082460 | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/3003786/data-scientist-ii-amz9082460) | 2mo ago |
 | Data Scientist, Elevated Shopping Luxury Science | New York, NY | [Apply](https://amazon.jobs/en-gb/jobs/3006487/data-scientist-elevated-shopping-luxury-science) | 3mo ago |
 | AI Content Expert II (Career Fair), AGI Data Services | Boston, MA | [Apply](https://amazon.jobs/en-gb/jobs/2957330/ai-content-expert-ii-career-fair-agi-data-services) | 3mo ago |
+| Software Development Engineer II, Advertising Products and Tech | New York, NY | [Apply](https://amazon.jobs/en-gb/jobs/2871331/software-development-engineer-ii-advertising-products-and-tech) | 4mo ago |
+| Software Development Engineer II, Advertising Products and Tech | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/2871344/software-development-engineer-ii-advertising-products-and-tech) | 4mo ago |
 | Applied Scientist, Advertising Measurement, Ad Measurements Science | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/2909842/applied-scientist-advertising-measurement-ad-measurements-science) | 4mo ago |
 | Amazon Robotics - Data Scientist (New Grad), Amazon Robotics, Software Research and Science | North Reading, MA | [Apply](https://amazon.jobs/en-gb/jobs/2819280/amazon-robotics-data-scientist-new-grad-amazon-robotics-software-research-and-science) | 4mo ago |
 | Business Intelligence Engineer, DC Security Ops Excellence | Herndon, VA | [Apply](https://amazon.jobs/en-gb/jobs/2960632/business-intelligence-engineer-dc-security-ops-excellence) | 4mo ago |
 | Business Intelligence Engineer II, AWS Solutions | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/2975258/business-intelligence-engineer-ii-aws-solutions) | 4mo ago |
-| Software Development Engineer II, Advertising Products and Tech | New York, NY | [Apply](https://amazon.jobs/en-gb/jobs/2871331/software-development-engineer-ii-advertising-products-and-tech) | 4mo ago |
-| Software Development Engineer II, Advertising Products and Tech | Seattle, WA | [Apply](https://amazon.jobs/en-gb/jobs/2871344/software-development-engineer-ii-advertising-products-and-tech) | 4mo ago |
 | Research Scientist, Artificial General Intelligence - Data Services | Boston, MA | [Apply](https://amazon.jobs/en-gb/jobs/2829142/research-scientist-artificial-general-intelligence-data-services) | 9mo ago |
 
 </details>
@@ -3071,10 +3076,10 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **2507 current opportunities from 36 elite companies.**
+🎯 **2512 current opportunities from 36 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
 *Not affiliated with any companies listed. All applications redirect to official career pages.*
 
-**Last Updated:** August 31, 2025 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** September 1, 2025 • **Next Update:** Daily at 9 AM UTC
