@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Data Scientist - Applied AI and ML [Multiple Positions Available]",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Scientist - Applied AI and ML [Multiple Positions Available] at Jersey City, NJ, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660869/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-data-scientist-applied-ai-and-ml-multiple-positions-available-jersey-city"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Site Reliability Engineer [Multiple Positions Available]",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Site Reliability Engineer [Multiple Positions Available] at Plano, TX, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662558/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-site-reliability-engineer-multiple-positions-available-plano"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Applied Artificial Intelligence / Machine Learning [Multiple Positions Available]",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Applied Artificial Intelligence / Machine Learning [Multiple Positions Available] at Seattle, WA, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659828/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-applied-artificial-intelligence-machine-learning-multiple-positions-available-seattle"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Quantitative Analytics [Multiple Positions Available]",
+    "job_city": "Wilmington",
+    "job_state": "DE",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Quantitative Analytics [Multiple Positions Available] at Wilmington, DE, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660863/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-quantitative-analytics-multiple-positions-available-wilmington"
+  }
+]
