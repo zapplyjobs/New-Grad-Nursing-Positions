@@ -1,22 +1,62 @@
 [
   {
-    "employer_name": "Apple",
-    "job_title": "Hardware Systems Engineer - Data Center HW",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Hardware Systems Engineer - Data Center HW at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200618557-3956/hardware-systems-engineer-data-center-hw?team=HRDWR",
-    "id": "apple-hardware-systems-engineer-data-center-hw-sunnyvale"
+    "employer_name": "Micron",
+    "job_title": "Intern - RnD Process Integration for DRAM",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 2 hours ago",
+    "job_description": "Data Science job for the role Intern - RnD Process Integration for DRAM at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30945529",
+    "id": "micron-intern-rnd-process-integration-for-dram-boise"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Humanoid Robotics",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "3min ago",
+    "job_description": "data science job for the role Senior Software Engineer, Humanoid Robotics at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/159910774-senior-software-engineer-humanoid-robotics",
+    "id": "aijobs-software-engineer-humanoid-robotics-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Network Security Engineer - DGX Cloud",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "3min ago",
+    "job_description": "data science job for the role Senior Network Security Engineer - DGX Cloud at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/159910772-senior-network-security-engineer-dgx-cloud",
+    "id": "aijobs-network-security-engineer-dgx-cloud-santa-clara"
   },
   {
     "employer_name": "GDIT",
-    "job_title": "SCITLS CSSP Sr. Cyber Strategy Advisor",
+    "job_title": "AWS Developer SME",
+    "job_city": "Any Location / Remote",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role AWS Developer SME at Any Location / Remote",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/AWS-Cloud-SME_RQ205304?q=Data+Science",
+    "id": "gdit-aws-developer-sme-any-location-remote"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Operations Engineer-Top Secret",
     "job_city": "USA VA Springfield",
     "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role SCITLS CSSP Sr. Cyber Strategy Advisor at USA VA Springfield",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Network-Engineer-Senior--TS-SCI-with-Polygraph_RQ201543-2?q=Data+Science",
-    "id": "gdit-scitls-cssp-sr-cyber-strategy-advisor-usa-va-springfield"
+    "job_description": "Data Science job for the role Operations Engineer-Top Secret at USA VA Springfield",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Operations-Engineer--Springfield--VA--Top-Secret-clearance_RQ204848?q=Data+Science",
+    "id": "gdit-operations-engineer-top-secret-usa-va-springfield"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Software Engineer Senior",
+    "job_city": "USA VA Springfield",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Software Engineer Senior at USA VA Springfield",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/SharePoint-Developer--Springfield--VA_RQ204736-2?q=Data+Science",
+    "id": "gdit-software-engineer-senior-usa-va-springfield"
   }
 ]
