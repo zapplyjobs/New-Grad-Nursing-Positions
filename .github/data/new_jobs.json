@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern – Fab Equipment Maintenance Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 12 hours ago",
+    "job_description": "Data Science job for the role Intern – Fab Equipment Maintenance Technician at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/37802978",
+    "id": "micron-intern-fab-equipment-maintenance-technician-manassas"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Machine Learning Data Operations",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "10h ago",
+    "job_description": "data science job for the role Senior Data Scientist - Machine Learning Data Operations at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/160215042-senior-data-scientist-machine-learning-data-operations",
+    "id": "aijobs-data-scientist-machine-learning-data-operations-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist (Growth)",
+    "job_city": "US",
+    "job_state": "San Francisco Bay Area",
+    "job_posted_at": "3h ago",
+    "job_description": "data science job for the role Data Scientist (Growth) at San Francisco Bay Area, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/160215044-data-scientist-growth",
+    "id": "aijobs-data-scientist-growth-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI/ML Engineer - $200k + Bonus - Miami",
+    "job_city": "US",
+    "job_state": "FL",
+    "job_posted_at": "3h ago",
+    "job_description": "data science job for the role AI/ML Engineer - $200k + Bonus - Miami at Miami, FL, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/160215043-ai-ml-engineer-$200k-+-bonus-miami",
+    "id": "aijobs-ai-ml-engineer-200k-bonus-miami-us"
+  }
+]
