@@ -98,6 +98,298 @@ function isJobOlderThanWeek(dateString) {
     return diffInDays >= 7;
 }
 
+
+// Job level filtering function for entry to mid-level positions
+function filterJobsByLevel(jobs) {
+  console.log(`🔍 Starting job level filtering for ${jobs.length} jobs...`);
+  
+  // Enhanced keywords that indicate senior/advanced level positions (to EXCLUDE)
+  const seniorKeywords = [
+    'senior', 'sr.', 'sr ', 'lead', 'principal', 'staff', 'architect', 
+    'director', 'manager', 'head of', 'chief', 'vp', 'vice president',
+    'expert', 'specialist', 'consultant', 'advanced', 'executive',
+    'tech lead', 'technical lead', 'team lead', 'team leader',
+    'supervisor', 'coordinator', 'program manager', 'project manager',
+    'engineering manager', 'senior director', 'executive director', 
+    'group leader', 'division head', 'department head', 'fellow', 
+    'guru', 'master', 'senior specialist', 'principal consultant', 
+    'distinguished', 'senior architect', 'lead architect', 'chief architect', 
+    'senior scientist', 'strategy', 'strategic', 'portfolio manager', 
+    'senior advisor', 'principal advisor', 'veteran', 'seasoned', 
+    'senior consultant', 'lead consultant', 'senior lead'
+  ];
+  
+  // Enhanced keywords that indicate entry/junior level positions (to INCLUDE)
+  const juniorKeywords = [
+    'junior', 'jr.', 'jr ', 'entry', 'entry-level', 'entry level',
+    'graduate', 'new grad', 'new graduate', 'recent graduate', 
+    'college graduate', 'university graduate', 'fresh graduate',
+    'intern', 'internship', 'trainee', 'apprentice', 'rotational',
+    'graduate program', 'training program', 'development program',
+    'associate', 'fresh', 'beginner', 'starting', 'early career',
+    'level 1', 'level i', 'grade 1', 'tier 1', '0-2 years'
+  ];
+  
+  // Enhanced experience patterns to check in descriptions
+  const experiencePatterns = [
+    /(\d+)\s*[-+to]\s*(\d+)?\s*years?\s*(?:of\s*)?(?:experience|exp|work)/gi,
+    /(?:minimum|min|at least|require[ds]?|need|must have)\s*(\d+)\s*years?\s*(?:of\s*)?(?:experience|exp)/gi,
+    /(\d+)\s*\+\s*years?\s*(?:of\s*)?(?:experience|exp)/gi,
+    /(\d+)\s*or\s*more\s*years?\s*(?:of\s*)?(?:experience|exp)/gi,
+    /(?:with|having)\s*(\d+)\s*years?\s*(?:of\s*)?(?:experience|exp)/gi,
+    /(\d+)\s*years?\s*(?:of\s*)?(?:professional|relevant|related)\s*(?:experience|exp)/gi,
+    /(?:minimum|at least)\s*(\d+)\s*years?\s*in/gi,
+    /(\d+)\s*years?\s*(?:background|history)/gi,
+    /(?:experience|background|history|track record).*?(\d+)\s*years?/gi,
+    /(?:skilled|experienced|seasoned|veteran).*?(\d+)\s*years?/gi,
+    /(?:portfolio|work|projects).*?(\d+)\s*years?/gi,
+    /(?:must|should|need|require).*?(\d+)\s*years?/gi,
+  ];
+  
+  // Advanced education requirements (to EXCLUDE)
+  const advancedEducation = [
+    'phd', 'ph.d.', 'doctorate', 'doctoral', 'postgraduate required'
+  ];
+
+  // Pattern to detect search query formatted descriptions
+  function isSearchQueryDescription(description) {
+    if (!description) return false;
+    
+    const searchQueryPattern = /\b\w+\s+job\s+for\s+the\s+role\s+\w+/i;
+    const isSearchQuery = searchQueryPattern.test(description);
+    
+    if (isSearchQuery) {
+      console.log(`   🔍 Detected search query format description - will ignore for experience filtering`);
+    }
+    
+    return isSearchQuery;
+  }
+
+  function extractYearsFromDescription(description) {
+    if (!description) return [];
+    
+    if (isSearchQueryDescription(description)) {
+      console.log(`   ⚠️  Skipping experience extraction from search query format description`);
+      return [];
+    }
+    
+    const years = [];
+    const lowerDesc = description.toLowerCase();
+    
+    // Clean description to handle multiple spaces and line breaks
+    const cleanDesc = lowerDesc.replace(/\s+/g, ' ').trim();
+    
+    console.log(`   🔍 Analyzing description for experience patterns...`);
+    
+    experiencePatterns.forEach((pattern, index) => {
+      const matches = [...cleanDesc.matchAll(pattern)];
+      matches.forEach(match => {
+        // Handle different capture groups based on pattern
+        if (match[1] && !isNaN(parseInt(match[1]))) {
+          const year1 = parseInt(match[1]);
+          years.push(year1);
+          console.log(`   📊 Pattern ${index + 1} found: ${year1} years (from: "${match[0].trim()}")`);
+        }
+        
+        if (match[2] && !isNaN(parseInt(match[2]))) {
+          const year2 = parseInt(match[2]);
+          years.push(year2);
+          console.log(`   📊 Pattern ${index + 1} found: ${year2} years (from: "${match[0].trim()}")`);
+        }
+      });
+    });
+    
+    // Additional contextual checks for common phrases that might indicate experience
+    const contextualChecks = [
+      { pattern: /(?:experience|background|history|track record).*?(\d+)\s*years?/gi, context: 'general experience' },
+      { pattern: /(?:skilled|experienced|seasoned|veteran).*?(\d+)\s*years?/gi, context: 'skill level' },
+      { pattern: /(?:portfolio|work|projects).*?(\d+)\s*years?/gi, context: 'work history' },
+      { pattern: /(?:must|should|need|require).*?(\d+)\s*years?/gi, context: 'requirements' }
+    ];
+    
+    contextualChecks.forEach(check => {
+      const matches = [...cleanDesc.matchAll(check.pattern)];
+      matches.forEach(match => {
+        if (match[1] && !isNaN(parseInt(match[1]))) {
+          const contextYears = parseInt(match[1]);
+          if (!years.includes(contextYears)) {
+            years.push(contextYears);
+            console.log(`   🎯 Contextual pattern (${check.context}) found: ${contextYears} years (from: "${match[0].trim()}")`);
+          }
+        }
+      });
+    });
+    
+    // Remove duplicates and sort
+    const uniqueYears = [...new Set(years)].sort((a, b) => a - b);
+    
+    if (uniqueYears.length > 0) {
+      console.log(`   📈 Total years extracted: [${uniqueYears.join(', ')}]`);
+    } else {
+      console.log(`   ℹ️  No experience requirements found in description`);
+    }
+    
+    return uniqueYears;
+  }
+
+  function checkTitleLevel(title) {
+    if (!title) return { level: 'unknown', matchedKeyword: '' };
+    
+    const lowerTitle = title.toLowerCase();
+    
+    // Check for senior-level indicators FIRST (EXCLUDE)
+    for (const keyword of seniorKeywords) {
+      if (lowerTitle.includes(keyword.toLowerCase())) {
+        return { level: 'senior', matchedKeyword: keyword };
+      }
+    }
+    
+    // Check for junior-level indicators SECOND (INCLUDE)
+    for (const keyword of juniorKeywords) {
+      if (lowerTitle.includes(keyword.toLowerCase())) {
+        return { level: 'junior', matchedKeyword: keyword };
+      }
+    }
+    
+    return { level: 'unclear', matchedKeyword: '' };
+  }
+
+  function checkEducationRequirements(description) {
+    if (!description) return { level: 'acceptable', matchedRequirement: '' };
+    
+    if (isSearchQueryDescription(description)) {
+      console.log(`   📚 Skipping education requirement check for search query format description`);
+      return { level: 'acceptable', matchedRequirement: 'search_query_format' };
+    }
+    
+    const lowerDesc = description.toLowerCase();
+    
+    for (const edu of advancedEducation) {
+      if (lowerDesc.includes(edu.toLowerCase())) {
+        if (lowerDesc.includes('preferred') || lowerDesc.includes('nice to have') || 
+            lowerDesc.includes('plus') || lowerDesc.includes('bonus') || 
+            lowerDesc.includes('optional') || lowerDesc.includes('desired')) {
+          continue;
+        }
+        return { level: 'too_advanced', matchedRequirement: edu };
+      }
+    }
+    
+    return { level: 'acceptable', matchedRequirement: '' };
+  }
+
+  // Filter jobs with improved hierarchy
+  const filteredJobs = [];
+  const removedJobs = [];
+  
+  jobs.forEach((job, index) => {
+    let shouldInclude = true;
+    let reason = '';
+    let category = '';
+    
+    const titleAnalysis = checkTitleLevel(job.job_title);
+    const yearsRequired = extractYearsFromDescription(job.job_description);
+    const educationAnalysis = checkEducationRequirements(job.job_description);
+    const isSearchQueryFormat = isSearchQueryDescription(job.job_description);
+    
+    console.log(`\n🔍 Job ${index + 1}/${jobs.length}: "${job.job_title}" at ${job.employer_name}`);
+    
+    // STEP 1: Check senior-level titles FIRST (EXCLUDE immediately)
+    if (titleAnalysis.level === 'senior') {
+      shouldInclude = false;
+      reason = `Senior-level title detected`;
+      category = `EXCLUDED - Title contains "${titleAnalysis.matchedKeyword}"`;
+      console.log(`   ❌ STEP 1 - ${category}`);
+    }
+    
+    // STEP 2: Check junior-level titles SECOND (INCLUDE immediately)
+    else if (titleAnalysis.level === 'junior') {
+      shouldInclude = true;
+      reason = `Junior-level title confirmed`;
+      category = `INCLUDED - Entry-level title contains "${titleAnalysis.matchedKeyword}"`;
+      console.log(`   ✅ STEP 2 - ${category}`);
+    }
+    
+    // STEP 3: Check description for experience requirements THIRD
+    else {
+      if (yearsRequired.length > 0) {
+        const maxYears = Math.max(...yearsRequired);
+        console.log(`   📊 STEP 3 - Experience required: ${yearsRequired.join(', ')} years (max: ${maxYears})`);
+        
+        if (maxYears >= 5) {
+          shouldInclude = false;
+          reason = `Requires ${maxYears}+ years experience`;
+          category = `EXCLUDED - Too much experience required (${maxYears}+ years)`;
+          console.log(`   ❌ STEP 3 - ${category}`);
+        } else {
+          shouldInclude = true;
+          category = `INCLUDED - Acceptable experience requirement (${maxYears} years)`;
+          console.log(`   ✅ STEP 3 - ${category}`);
+        }
+      }
+      
+      // STEP 4: If no clear description or years mentioned, mark as unclear (INCLUDE by default)
+      else {
+        shouldInclude = true;
+        if (isSearchQueryFormat) {
+          category = `INCLUDED - Search query format, no filtering applied`;
+          reason = `Search query generated description`;
+        } else if (titleAnalysis.level === 'unclear') {
+          category = `INCLUDED - Unclear level, no experience requirements (assuming entry-friendly)`;
+          reason = `No clear barriers identified`;
+        }
+        console.log(`   ✅ STEP 4 - ${category}`);
+      }
+    }
+    
+    // STEP 5: Check education requirements (if still included)
+    if (shouldInclude && educationAnalysis.level === 'too_advanced') {
+      shouldInclude = false;
+      reason = `Requires advanced degree (${educationAnalysis.matchedRequirement})`;
+      category = `EXCLUDED - Advanced degree required: ${educationAnalysis.matchedRequirement}`;
+      console.log(`   ❌ STEP 5 - Education: ${category}`);
+    }
+    
+    // Final decision
+    if (shouldInclude) {
+      console.log(`   ✅ FINAL DECISION: INCLUDED`);
+      filteredJobs.push(job);
+    } else {
+      console.log(`   ❌ FINAL DECISION: EXCLUDED - ${reason}`);
+      removedJobs.push({ ...job, removal_reason: reason, category: category });
+    }
+  });
+  
+  // Summary logging
+  console.log(`\n${'='.repeat(50)}`);
+  console.log(`🎯 JOB LEVEL FILTERING SUMMARY`);
+  console.log(`${'='.repeat(50)}`);
+  console.log(`📊 Original jobs: ${jobs.length}`);
+  console.log(`✅ Suitable jobs (entry/mid-level): ${filteredJobs.length} (${((filteredJobs.length/jobs.length)*100).toFixed(1)}%)`);
+  console.log(`❌ Removed jobs (senior/advanced): ${removedJobs.length} (${((removedJobs.length/jobs.length)*100).toFixed(1)}%)`);
+  
+  const searchQueryJobs = jobs.filter(job => isSearchQueryDescription(job.job_description));
+  if (searchQueryJobs.length > 0) {
+    console.log(`🎯 Search query format jobs found: ${searchQueryJobs.length} (protected from description-based filtering)`);
+  }
+  
+  const removalReasons = {};
+  removedJobs.forEach(job => {
+    const reason = job.removal_reason;
+    removalReasons[reason] = (removalReasons[reason] || 0) + 1;
+  });
+  
+  console.log(`\n📈 REMOVAL REASONS BREAKDOWN:`);
+  Object.entries(removalReasons).forEach(([reason, count]) => {
+    const percentage = ((count / removedJobs.length) * 100).toFixed(1);
+    console.log(`   • ${reason}: ${count} jobs (${percentage}%)`);
+  });
+  
+  console.log(`\n${'='.repeat(50)}`);
+  
+  return filteredJobs;
+}
+
 function isUSOnlyJob(job) {
     // Note: There's no job_country field, but country info sometimes appears in job_state
     const state = (job.job_state || '').toLowerCase().trim();
@@ -275,6 +567,7 @@ function isUSOnlyJob(job) {
     return false;
 }
 
+
 function getExperienceLevel(title, description = '') {
     const text = `${title} ${description}`.toLowerCase();
     
@@ -299,10 +592,6 @@ function getExperienceLevel(title, description = '') {
 
 function getJobCategory(title, description = '') {
     const text = `${title} ${description}`.toLowerCase();
-
-    if (text.includes('Data Science') || text.includes('data science') ) {
-        return 'Data Science ';
-    }
 
     if (text.includes('hardware')|| text.includes('Hardware') ) {
         return 'Hardware Engineering';
@@ -361,35 +650,30 @@ async function fetchInternshipData() {
     const internshipSources = [
         {
             name: 'AngelList Internships',
-            emoji: '👼',
             url: 'https://angel.co/jobs#internships',
             type: 'Job Board',
-            description: 'Trending startup internships and entry-level roles'
+            description: 'Startup internships and entry-level positions'
         },
         {
             name: 'LinkedIn Student Jobs',
-            emoji: '🔗',
             url: 'https://linkedin.com/jobs/student-jobs',
             type: 'Platform',
-            description: 'New Jobs and professional networking for students'
+            description: 'Professional network for student opportunities'
         },
         {
             name: 'Indeed Internships',
-            emoji: '🔵',
             url: 'https://indeed.com/q-software-engineering-intern-jobs.html',
             type: 'Job Board',
             description: 'Comprehensive internship search engine'
         },
         {
             name: 'Glassdoor Internships',
-            emoji: '🏢',
             url: 'https://glassdoor.com/Job/software-engineer-intern-jobs-SRCH_KO0,23.htm',
             type: 'Job Board',
             description: 'Internships with company reviews and salary data'
         },
         {
             name: 'University Career Centers',
-            emoji: '🏫',
             url: 'https://nace.org',
             type: 'Resource',
             description: 'National Association of Colleges and Employers'
@@ -437,5 +721,6 @@ module.exports = {
     getExperienceLevel,
     getJobCategory,
     formatLocation,
-    fetchInternshipData
+    fetchInternshipData,
+    filterJobsByLevel
 };
