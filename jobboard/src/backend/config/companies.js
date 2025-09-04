@@ -68,7 +68,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     },
     //  just have to click on each job and use the below selector
 
-    // https://analogdevices.wd1.myworkdayjobs.com/en-US/External/details/Sr-Systems-and-Hardware-Engineer_R251086?q=hardware+engineer&locationCountry=bc33aa3152ec42d4995f4791a106ed09
+    // https://analogdevices.wd1.myworkdayjobs.com/en-US/External/details/Sr-Systems-and-data science-Engineer_R251086?q=data science+engineer&locationCountry=bc33aa3152ec42d4995f4791a106ed09
     // #mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-t7l5ok > ul:nth-child(12) > li
     //done
 
@@ -268,8 +268,8 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       baseUrl: "https://www.aijobs.com",
       url: `https://www.aijobs.com/jobs?q=${encodeURIComponent(searchQuery)}&posted_at=last-7-days&location=United%20States&location_id=168681&order=relevance&page=${pageNum}`,
       selector: selectors.aijobs
-      //"job_apply_link": "https://www.aijobs.com/jobs/156868844-hardware-system-design-electrical-engineer"
-      //https://www.aijobs.com/jobs/156868844-hardware-system-design-electrical-engineer
+      //"job_apply_link": "https://www.aijobs.com/jobs/156868844-data science-system-design-electrical-engineer"
+      //https://www.aijobs.com/jobs/156868844-data science-system-design-electrical-engineer
       // use this selctor #quill-container-with-job-details > div > ul:nth-child(7)
       // done
     },
@@ -315,8 +315,8 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       )}&sort=relevance&location=united-states-USA&page=${pageNum}`,
       selector: selectors.apple,
     },
-    //      "job_apply_link": "https://jobs.apple.com/en-us/details/200607287-0157/hardware-development-engineer-data-center-hardware?team=HRDWR"
-    // https://jobs.apple.com/en-us/details/200607287-0157/hardware-development-engineer-data-center-hardware?team=HRDWR
+    //      "job_apply_link": "https://jobs.apple.com/en-us/details/200607287-0157/data science-development-engineer-data-center-data science?team=HRDWR"
+    // https://jobs.apple.com/en-us/details/200607287-0157/data science-development-engineer-data-center-data science?team=HRDWR
     // selector #jobdetails-minimumqualifications
 
     //dif
@@ -326,8 +326,8 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       url: `https://careers.arm.com/search-jobs/${encodeURIComponent(searchQuery)}/United%20States?orgIds=33099&kt=1&alp=6252001&alt=2&p=${pageNum}`,
       selector: selectors.arm
 
-      // "job_apply_link": "https://careers.arm.com/job/austin/distinguished-engineer-and-architect-hardware-verification/33099/82681565104"
-      //https://careers.arm.com/job/austin/distinguished-engineer-and-architect-hardware-verification/33099/82681565104
+      // "job_apply_link": "https://careers.arm.com/job/austin/distinguished-engineer-and-architect-data science-verification/33099/82681565104"
+      //https://careers.arm.com/job/austin/distinguished-engineer-and-architect-data science-verification/33099/82681565104
       // selctor:#anchor-responsibilities > div.ats-description > ul:nth-child(10)>li
     },
 
@@ -342,8 +342,8 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       )}&location=United+States&locationId=300000000469866&locationLevel=country&mode=location`,
       selector: selectors.honeywell,
 
-      //   //"job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/108065/?keyword=hardware+engineer&location=United+States&locationId=300000000469866&locationLevel=country&mode=location"
-      //   //https://careers.honeywell.com/en/sites/Honeywell/jobs/preview/108065/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location
+      //   //"job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/108065/?keyword=data science+engineer&location=United+States&locationId=300000000469866&locationLevel=country&mode=location"
+      //   //https://careers.honeywell.com/en/sites/Honeywell/jobs/preview/108065/?keyword=data science+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location
       //   //and use this selector #ui-id-30 > div > div.oj-dialog-content.oj-dialog-default-content > div > div.app-dialog__wrapper.app-dialog__wrapper--active.app-dialog__wrapper--align-center.oj-dialog-body > div > job-details-checker > job-details-loader > job-details-page > div > article > job-details-content > div > div.cc-page.cc-page--job-details-modal > div > div > div > div:nth-child(4) > div > div > div > div > div > div > ul:nth-child(2)
       //done
     },
@@ -357,8 +357,8 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       )}&location=United+States&locationId=300000000469866&locationLevel=country&mode=location`,
       selector: selectors.jpmc,
 
-      //      "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210629578/?keyword=hardware+engineer&location=United+States&locationId=300000000469866&locationLevel=country&mode=location"
-      //https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/210656130/?keyword=hardware+engineering&location=United+States&locationId=300000000289738&locationLevel=country&mode=location
+      //      "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210629578/?keyword=data science+engineer&location=United+States&locationId=300000000469866&locationLevel=country&mode=location"
+      //https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/210656130/?keyword=data science+engineering&location=United+States&locationId=300000000289738&locationLevel=country&mode=location
       //use this selector #ui-id-15 > div.oj-dialog-container > div.oj-dialog-content.oj-dialog-default-content > div > div.app-dialog__wrapper.app-dialog__wrapper--active.app-dialog__wrapper--align-center.oj-dialog-body > div > job-details-checker > job-details-loader > job-details-page > div > article > job-details-content > div > div.cc-page.cc-page--job-details-modal > div > div > div > div:nth-child(2) > div > div > div > div > div > div > ul:nth-child(8)
       //done
     },
@@ -369,8 +369,8 @@ function getCompanies(searchQuery = "", pageNum = 1) {
         searchQuery
       )}&location=United+States&locationId=300000000361862&locationLevel=country&mode=location`,
       selector: selectors.ti,
-      //"job_apply_link": "https://careers.ti.com/en/sites/CX/job/25002271/?keyword=hardware+engineer&location=United+States&locationId=300000000361862&locationLevel=country&mode=location"
-      //https://careers.ti.com/en/sites/CX/jobs/preview/25002271/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location
+      //"job_apply_link": "https://careers.ti.com/en/sites/CX/job/25002271/?keyword=data science+engineer&location=United+States&locationId=300000000361862&locationLevel=country&mode=location"
+      //https://careers.ti.com/en/sites/CX/jobs/preview/25002271/?keyword=data science+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location
       //use this selector #ui-id-13 > div > div.oj-dialog-content.oj-dialog-default-content > div > div.app-dialog__wrapper.app-dialog__wrapper--active.app-dialog__wrapper--align-center.oj-dialog-body > div > job-details-checker > job-details-loader > job-details-page > div > article > job-details-content > div > div.cc-page.cc-page--job-details-modal > div > div:nth-child(1) > div > div:nth-child(4) > div > div > div > div > div > div > ul:nth-child(2)
       //done
     },
@@ -389,8 +389,8 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       selector: selectors.waymo
       //done
 
-      //      "job_apply_link": "https://careers.withwaymo.com/jobs/electrical-engineer-compute-hardware-mountain-view-california-united-states"
-      //https://careers.withwaymo.com/jobs/electrical-engineer-compute-hardware-mountain-view-california-united-states
+      //      "job_apply_link": "https://careers.withwaymo.com/jobs/electrical-engineer-compute-data science-mountain-view-california-united-states"
+      //https://careers.withwaymo.com/jobs/electrical-engineer-compute-data science-mountain-view-california-united-states
       // and use the selector #job_description_1_2 > ul:nth-child(9)
     },
 
@@ -432,7 +432,9 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     microsoft: {
       name: "Microsoft",
       baseUrl: "https://jobs.careers.microsoft.com",
-      url: `https://jobs.careers.microsoft.com/global/en/search?q=hardware&lc=United%20States&exp=Students%20and%20graduates&l=en_us&pg=${pageNum}&pgSz=20&o=Relevance&flt=true`
+      url: `https://jobs.careers.microsoft.com/global/en/search?&q=${encodeURIComponent(
+        searchQuery
+      )}&lc=United%20States&exp=Students%20and%20graduates&l=en_us&pg=${pageNum}&pgSz=20&o=Relevance&flt=true`
       ,
       selector: selectors.microsoft,
       // filter applied
