@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Test Quality Engineer",
-    "job_city": "New York",
-    "job_state": "US",
+    "employer_name": "AMD",
+    "job_title": "Strategic Enterprise Account Executive - Southern CA",
+    "job_city": "US",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Test Quality Engineer at ProfessionalNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55528&source=WEB_Search_NA",
-    "id": "ibm-test-quality-engineer-new-york"
+    "job_description": "Data Science job for the role Strategic Enterprise Account Executive - Southern CA at US,CA,Home Office_Area2\nCalifornia\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/66179/login",
+    "id": "amd-strategic-enterprise-account-executive-southern-ca-us"
   },
   {
-    "employer_name": "ILLUMINA",
-    "job_title": "Manager,  IT - SAP Finance",
-    "job_city": "US - California - San Diego - HQ",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Manager,  IT - SAP Finance at US - California - San Diego - HQ",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego---HQ/Senior-Manager---IT---SAP-Finance_40615-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "illumina-manager-it-sap-finance-us-california-san-diego-hq"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Product Manager",
-    "job_city": "Chippewa Falls",
-    "job_state": "Wisconsin",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Product Manager at Chippewa Falls, Wisconsin, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Product-Manager_1190769-1?q=Data+Science",
-    "id": "hewlett-packard-enterprise-product-manager-chippewa-falls"
-  },
-  {
-    "employer_name": "Verizon",
+    "employer_name": "Booz Allen",
     "job_title": "Computer Scientist",
     "job_city": "McLean",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
     "job_description": "Data Science job for the role Computer Scientist at McLean, VA",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Computer-Scientist_R0224558-1?q=Data+Science",
-    "id": "verizon-computer-scientist-mclean"
+    "id": "booz-allen-computer-scientist-mclean"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Vice President, Events Technology and Digital Experiences",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Vice President, Events Technology and Digital Experiences in Product. Available in 3 location(s): California - San Francisco, Washington - Seattle, New York - New York",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309894/vice-president-events-technology-and-digital-experiences/",
+    "id": "salesforce-vice-president-events-technology-and-digital-experiences-california-san-francisco"
   }
 ]
