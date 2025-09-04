@@ -1,32 +1,73 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - Metrology Process Development Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "Data Science job for the role Intern - Metrology Process Development Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/37814552",
-    "id": "micron-intern-metrology-process-development-engineer-boise"
+    "job_title": "AI Content Expert II (Career Fair), AGI Data Services",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Data Science job for the role AI Content Expert II (Career Fair), AGI Data Services at Boston, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2957330/ai-content-expert-ii-career-fair-agi-data-services",
+    "job_posted_at": "2025-09-04T18:06:43.673Z",
+    "job_posted_at_datetime_utc": "2025-09-04T18:06:43.673Z",
+    "id": "amazon-ai-content-expert-ii-career-fair-agi-data-services-boston"
   },
   {
-    "employer_name": "Verizon",
-    "job_title": "Additive Manufacturing Technologist",
-    "job_city": "Warren",
-    "job_state": "MI",
+    "employer_name": "Arm",
+    "job_title": "Manager, High Performance Computing Lab & Data Center",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Manager, High Performance Computing Lab & Data Center at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-manager-high-performance-computing-lab-and-data-center/33099/83658645696",
+    "id": "arm-manager-high-performance-computing-lab-data-center-austin"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Hardware Design Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Additive Manufacturing Technologist at Warren, MI",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warren-MI/Additive-Manufacturing-Technologist_R0225593?q=Data+Science",
-    "id": "verizon-additive-manufacturing-technologist-warren"
+    "job_description": "Data Science job for the role Principal Hardware Design Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Hardware-Design-Engineer_2502089?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-hardware-design-engineer-santa-clara"
   },
   {
-    "employer_name": "Verizon",
-    "job_title": "Python Developer, Mid",
+    "employer_name": "ILLUMINA",
+    "job_title": "Associate Director, Sales Territory Design and Optimization",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Associate Director, Sales Territory Design and Optimization at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Associate-Director--Sales-Territory-Design-and-Optimization_41215-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-associate-director-sales-territory-design-and-optimization-us-california-san-diego"
+  },
+  {
+    "employer_name": "Booz Allen",
+    "job_title": "Cost Analyst",
     "job_city": "Arlington",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Python Developer, Mid at Arlington, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Python-Developer--Mid_R0225570?q=Data+Science",
-    "id": "verizon-python-developer-mid-arlington"
+    "job_description": "Data Science job for the role Cost Analyst at Arlington, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Cost-Analyst_R0225489?q=Data+Science",
+    "id": "booz-allen-cost-analyst-arlington"
+  },
+  {
+    "employer_name": "Booz Allen",
+    "job_title": "Computer Vision Expert",
+    "job_city": "Bethesda",
+    "job_state": "MD",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Computer Vision Expert at Bethesda, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Computer-Vision-Expert_R0225632?q=Data+Science",
+    "id": "booz-allen-computer-vision-expert-bethesda"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Computer Vision Expert",
+    "job_city": "Bethesda",
+    "job_state": "MD",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Computer Vision Expert at Bethesda, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Computer-Vision-Expert_R0225632?q=Data+Science",
+    "id": "verizon-computer-vision-expert-bethesda"
   }
 ]
