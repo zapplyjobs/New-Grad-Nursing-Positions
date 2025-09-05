@@ -1,61 +1,82 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Security Software Engineering MTS",
-    "job_city": "Washington - Bellevue",
+    "employer_name": "IBM",
+    "job_title": "Lithography Tool Owner - i-Line Scanner Owner",
+    "job_city": "Albany",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Security Expertise: Experience in the security domain, with a solid understanding of security principles and practices.\n• Cloud Services: Hands-on experience with major cloud services such as AWS, GCP, or Azure, leveraging their capabilities to build robust solutions.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Observability Tools: Familiarity with observability tools like Prometheus to monitor and improve system health and performance.\n• AI Integration: Exposure to AI tools, such as ChatGPT, to enhance daily workflows and drive innovation.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308571/security-software-engineering-mts/",
-    "id": "salesforce-security-software-engineering-mts-washington-bellevue"
+    "job_description": "data science job for the role Lithography Tool Owner - i-Line Scanner Owner ",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57059&source=WEB_Search_NA",
+    "id": "ibm-lithography-tool-owner-i-line-scanner-owner-albany"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Counterintelligence Cyber Threat Analyst",
-    "job_city": "Springfield",
-    "job_state": "VA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Cyberspace, Space, and Intelligence Requirements AnalystlocationsSpringfield, VAtime typeFull timeposted onPosted 30+ Days Agoend date and time left to applyEnd Date: October 6, 2025 (30+ days left to apply) Master's degree in a Science, Technology, Engineering, or Mathematics (STEM) field preferred.\n• Doctorate degree in a Science, Technology, Engineering, or Mathematics (STEM) field a plus Knowledge of foreign adversaries’ security and intelligence services, threat actors and their organizations, and threats posed to U.\n• Government If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.\n• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30 Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Experience translating government visions into understandable and achievable measures Bachelor’s degree in a Science, Technology, Engineering or Mathematics (STEM) field Experience using supervisory skills to coach teammates to achieve objectives DoD 8570.\n• 01-M Information Assurance IAT Level II Certification.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Counterintelligence-Cyber-Threat-Analyst_R0221063?q=data+science",
-    "id": "bae-systems-counterintelligence-cyber-threat-analyst-springfield"
+    "employer_name": "Micron Technology",
+    "job_title": "Metrology Process Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "8 days",
+    "job_description": "• BS degree in Electrical Engineering, Mechanical Engineering, Physics, Materials Science, or related field, OR 2+ years of hands-on experience in semiconductor metrology, process engineering, or CAD-based recipe development.\n• Experience with scripting or automation tools (Python, MATLAB, etc.\n• Knowledge of semiconductor process flows and critical dimension control Experience with waferless metrology workflows or recipe automation.\n• Excellent communication and collaboration skills.\n• Strong analytical and problem-solving skills.\n• Familiarity with CAD tools (e.\n• , Calibre, AutoCAD) and metrology platforms (e.\n• , SEM, CD-SEM, overlay tools).",
+    "job_apply_link": "https://careers.micron.com/careers/job/30946076",
+    "id": "micron-technology-metrology-process-engineer-boise"
   },
   {
-    "employer_name": "Intel",
-    "job_city": "",
-    "job_state": "US",
+    "employer_name": "Micron Technology",
+    "job_title": "Equipment Technician",
+    "job_city": "Batu Kawan",
+    "job_state": "Pulau Pinang (Penang)",
+    "job_posted_at": "5 months",
+    "job_description": "Same-page description extraction failed",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-equipment-technician-batu-kawan"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "CMP Equipment Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "a month",
+    "job_description": "Same-page description extraction failed",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-cmp-equipment-engineer-manassas"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "SMTS, Memory Design Engineer",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "a month",
+    "job_description": "Same-page description extraction failed",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-smts-memory-design-engineer-richardson"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "HBM Design Engineer",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_posted_at": "3 months",
+    "job_description": "Same-page description extraction failed",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-hbm-design-engineer-atlanta"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Associate Data Scientist",
+    "job_city": "Santa Monica",
+    "job_state": "CA",
+    "job_posted_at": "6d",
+    "job_description": "• Experience with developing machine learning models and statistical analysisDeep understanding of machine learning concepts and statistical methodsAbility to draw insights and conclusions from data to inform model development and business decisionsDesire to collaborate with other data scientists, data analysts, and key business partnersProficient in analyzing data and developing ML models using Python (with ML frameworks like tensorflow, scikit-learn, etc.\n• )Understanding of SQL and distributed data technologies (Hive, Spark) Working knowledge of Bayesian modelingExperience fully integrating data science solutions into the business and operationalizing ML models Bachelor’s degree in Mathematics, Statistics, Data Science or comparable field of study, and/or equivalent work experience Modeling: Apply state of the art machine learning and statistical analysis to develop models related to opportunity sizing, targeting, and optimization.\n• )Capable of reading and writing Object-Oriented code to review and implement modeling pipelines (Airflow, Luigi, etc.\n• Deep analysis: Analyze user behavioral data to identify patterns, uncover opportunities, and create common understanding of how people are interacting with the service and content.\n• Visualization of Insights: Development of prototype solutions, mathematical models, algorithms, and robust analytics leading to impactful insights communicated clearly and visually.\n• Partnership: Partner closely with business stakeholders to identify and unlock opportunities, and with other data teams to improve platform capabilities around data modeling, data visualization, experimentation and data architecture.",
+    "job_apply_link": "https://www.aijobs.com/jobs/158883742-associate-data-scientist",
+    "id": "ai-jobs-associate-data-scientist-santa-monica"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Geo",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "Title element not found",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com",
-    "id": "intel--"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Platform (Reliability/Latency)",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "• Design and execute comprehensive analyses to understand how latency, reliability, errors, and refusal rates affect user engagement, satisfaction, and retention across our platform Identify and prioritize high-impact infrastructure improvements by analyzing user behavior patterns, system performance metrics, and the relationship between technical performance and business outcomes Develop robust methodologies to measure platform reliability and performance, including defining key metrics, establishing baselines, and creating monitoring systems that enable proactive optimization Collaborate with engineering teams to design A/B tests and controlled experiments that measure the impact of platform improvements on user experience and system performance Investigate performance anomalies, conduct root cause analysis of reliability issues, and provide data-driven insights to guide engineering priorities and architectural decisions Work closely with Platform Engineering, Product, and Research teams to translate technical performance data into user experience insights and strategic recommendations Build models to forecast platform capacity needs, predict potential reliability issues, and optimize resource allocation to maintain optimal performance at scale Present complex technical analyses and recommendations to both technical and non-technical stakeholders, including engineering leadership and executive teams Advanced degree in Statistics, Computer Science, Engineering, Mathematics, or related quantitative field, with 5+ years of hands-on data science experience Deep understanding of distributed systems, cloud infrastructure, and performance engineering, with experience analyzing large-scale system metrics Expertise in experimental design, causal inference, statistical modeling, and A/B testing frameworks, particularly in high-scale technical environments Strong skills in Python, SQL, and data analysis tools, with experience working with large datasets and real-time streaming data Experience translating technical performance metrics into user experience insights, including understanding how system performance affects user engagement and satisfaction Proven ability to work effectively with engineering teams and translate complex technical analyses into actionable recommendations for diverse audiences Track record of using data science to drive significant improvements in system performance, user experience, or business outcomes Hands-on experience with observability tools, APM systems, and infrastructure monitoring platforms (e.\n• , Prometheus, Grafana, DataDog) Experience with machine learning infrastructure, model serving, and understanding the unique performance characteristics of AI/ML systems Familiarity with SRE practices, error budgets, SLOs/SLIs, and reliability engineering principles Experience analyzing performance of real-time or near-real-time systems, including understanding of latency distributions and tail behavior Background in user behavior analysis, growth metrics, or product analytics, particularly in understanding how technical performance drives user outcomes Direct experience working with platform or infrastructure teams in high-scale technology environments.",
-    "job_apply_link": "https://www.aijobs.com/jobs/160855667-data-scientist-platform-reliability-latency",
-    "id": "ai-jobs-data-scientist-platform-reliability-latency-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Systems Data Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "• Work closely with a team to learn more about analysis needs and communicate findings with team members.\n• 4+ years of proven experience debugging and analyzing data and building visuals show trends of interest.\n• Strong programming skills, especially in Python and Javascript.\n• Fast and self-learning capabilities with strong analytical and problem-solving skills.\n• Strong teamwork and interpersonal skills.\n• Experience with deep learning frameworks like TensorFlow or PyTorch.\n• Action driven analytical skills with good attention to detail.\n• Experience visualizing high dimensional data problems.",
-    "job_apply_link": "https://www.aijobs.com/jobs/160855981-systems-data-engineer",
-    "id": "ai-jobs-systems-data-engineer-us"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Technical Hardware Sourcer, Consumer Products",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Partnering closely with hiring managers, product designers, and engineering leads to deeply understand role requirements, product milestones (prototyping → pilot → HVM), and refine sourcing approaches.\n• Ensuring a high-quality candidate experience and maintaining accurate, actionable candidate data and metrics in the ATS to inform prioritization and decision-making.\n• 5+ years of technical sourcing experience with a demonstrated focus on consumer hardware, embedded software/firmware, or adjacent product engineering roles.\n• Strong understanding of the consumer product development lifecycle (concept → prototyping → pilot → high-volume manufacturing) and how hiring needs shift across those phases.\n• Ability to translate complex technical requirements into effective sourcing signals and candidate evaluation criteria.\n• Excellent communication and stakeholder management skills.\n• Experience partnering with technical hiring managers and cross-functional product teams.\n• Experience recruiting for global manufacturing and supply-chain roles.",
-    "job_apply_link": "https://www.aijobs.com/jobs/160857933-technical-hardware-sourcer-consumer-products",
-    "id": "ai-jobs-technical-hardware-sourcer-consumer-products-san-francisco"
+    "job_description": "data science job for the role Software Engineer III, Infrastructure, Geo ",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/139316124045976262-software-engineer-iii-infrastructure-geo?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3",
+    "id": "google-software-engineer-iii-infrastructure-geo-new-york"
   }
 ]
