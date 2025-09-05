@@ -5,52 +5,47 @@
     "title": "FAANG+"
   },
   "top_tech": {
-    "companies": ["MARVELL", "SYNOPSYS", "NVIDIA", "INTEL", "AMD", "Salesforce", "ADOBE"],
+    "companies": ["Marvel Technology", "Synopsys", "NVIDIA", "Intel", "AMD", "Salesforce"],
     "emoji": "🏢",
     "title": "Top Tech"
   },
   "enterprise": {
-    "companies": ["IBM", "CISCO", "Hewlett Packard Enterprise", "DELL", "Broadcom", "Verizon", "Workday"],
+    "companies": ["IBM", "Cisco", "Hewlett Packard Enterprise", "Dell", "Broadcom", "Verizon", "Workday"],
     "emoji": "💻",
     "title": "Enterprise Software"
   },
-  "startups": {
-    "companies": ["Booz Allen", "Guide house", "GDIT"],
+  "consulting": {
+    "companies": ["BAE Systems", "Guidehouse", "General Dynamics"],
     "emoji": "🚀",
-    "title": "Startups & Growth"
+    "title": "Consulting & Services"
   },
-  "consumer": {
-    "companies": ["Rivian"],
-    "emoji": "🛒",
-    "title": "Consumer & E-Commerce"
+  "automotive": {
+    "companies": ["RIVIAN", "Magna International"],
+    "emoji": "🚗",
+    "title": "Automotive & Transportation"
   },
   "fintech": {
-    "companies": ["JP Morgan Chase"],
+    "companies": ["JPMorgan Chase"],
     "emoji": "💰",
     "title": "Financial & Fintech"
   },
-  "defense": {
-    "companies": ["WAYMO"],
+  "autonomous": {
+    "companies": ["Waymo"],
     "emoji": "🛡️",
-    "title": "Defense & Aerospace"
+    "title": "Autonomous & Aerospace"
   },
   "healthcare": {
-    "companies": ["ILLUMINA", "10x Genomics"],
+    "companies": ["Illumina", "10x Genomics"],
     "emoji": "🏥",
     "title": "Healthcare & Life Sciences"
   },
   "manufacturing": {
-    "companies": ["APPLIED MATERIALS", "ARM", "Micron", "ABB", "INFINEON", "TEXAS INSTRUMENTS", "SIEMENS", "ANALOG DEVICES", "HONEYWELL", "MAGNA"],
+    "companies": ["Applied Materials", "Arm", "Micron Technology", "ABB", "Infineon Technologies", "Texas Instruments", "Siemens", "Analog Devices", "Honeywell"],
     "emoji": "🏭",
     "title": "Manufacturing & Industrial"
   },
-  "analytics": {
-    "companies": [],
-    "emoji": "📊",
-    "title": "Analytics & EdTech"
-  },
   "ai_emerging": {
-    "companies": ["AiJobs"],
+    "companies": ["AI Jobs"],
     "emoji": "🤖",
     "title": "AI & Emerging Tech"
   }

@@ -14,6 +14,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       selector: selectors.ibm
       //"job_city": "Entry LevelNew York",
       //done
+      
     },
     salesforce: {
       name: "Salesforce",
