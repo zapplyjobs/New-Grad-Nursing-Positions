@@ -115,10 +115,11 @@ function generateJobTable(jobs) {
         companyJobs.forEach((job) => {
           const role = job.job_title;
           const location = formatLocation(job.job_city, job.job_state);
-          const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
+          const posted = job.job_posted_at;
           const level = getExperienceLevel(job.job_title, job.job_description);
           const category = getJobCategory(job.job_title, job.job_description);
           const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+          
 
           let statusIndicator = "";
           const description = (job.job_description || "").toLowerCase();

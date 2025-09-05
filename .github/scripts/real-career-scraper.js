@@ -477,7 +477,7 @@ async function fetchSimplifyJobsData() {
 
 // Fetch jobs from all companies with real career APIs
 
-async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, batchConfig = BATCH_CONFIG) {
+async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 1, batchConfig = BATCH_CONFIG) {
   console.log("🚀 Starting REAL career page scraping...");
 
   let allJobs = [];
@@ -791,13 +791,14 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
   });
 
   console.log(`📊 Total jobs collected after transformation: ${allJobs.length}`);
+  console.log(allJobs);
 
   // Early exit if no jobs found
   if (allJobs.length === 0) {
     console.log(`⚠️ No jobs found. Exiting early.`);
     return [];
   }
-  console.log(allJobs);
+ 
 
   // Filter jobs by level (remove senior-level positions)
   console.log('🎯 Filtering jobs by experience level...');
