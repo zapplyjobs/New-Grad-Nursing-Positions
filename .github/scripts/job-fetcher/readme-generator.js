@@ -11,45 +11,54 @@ const {
   formatLocation,
 } = require("./utils");
 
+
+
 function generateJobTable(jobs) {
-  console.log(`🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`);
-  
+  console.log(
+    `🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`
+  );
+
   if (jobs.length === 0) {
-    return `| Company | Role | Location | Apply | Posted |
-            |---------|------|----------|-------|--------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* | *-* |`;
+    return `| Company | Role | Location | Apply Now | Age |
+|---------|------|----------|-----------|-----|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* |`;
   }
 
   // Create a map of lowercase company names to actual names for case-insensitive matching
   const companyNameMap = new Map();
   Object.entries(companyCategory).forEach(([categoryKey, category]) => {
-    category.companies.forEach(company => {
-      companyNameMap.set(company.toLowerCase(), { 
-        name: company, 
+    category.companies.forEach((company) => {
+      companyNameMap.set(company.toLowerCase(), {
+        name: company,
         category: categoryKey,
-        categoryTitle: category.title 
+        categoryTitle: category.title,
       });
     });
   });
 
   console.log(`🏢 DEBUG: Configured companies by category:`);
   Object.entries(companyCategory).forEach(([categoryKey, category]) => {
-    console.log(`  ${category.emoji} ${category.title}: ${category.companies.join(', ')}`);
+    console.log(
+      `  ${category.emoji} ${category.title}: ${category.companies.join(", ")}`
+    );
   });
 
   // Get unique companies from job data
-  const uniqueJobCompanies = [...new Set(jobs.map(job => job.employer_name))];
-  console.log(`\n📊 DEBUG: Unique companies found in job data (${uniqueJobCompanies.length}):`, uniqueJobCompanies);
+  const uniqueJobCompanies = [...new Set(jobs.map((job) => job.employer_name))];
+  console.log(
+    `\n📊 DEBUG: Unique companies found in job data (${uniqueJobCompanies.length}):`,
+    uniqueJobCompanies
+  );
 
   // Group jobs by company - only include jobs from valid companies
   const jobsByCompany = {};
   const processedCompanies = new Set();
   const skippedCompanies = new Set();
-  
+
   jobs.forEach((job) => {
     const employerNameLower = job.employer_name.toLowerCase();
     const matchedCompany = companyNameMap.get(employerNameLower);
-    
+
     // Only process jobs from companies in our category list
     if (matchedCompany) {
       processedCompanies.add(job.employer_name);
@@ -62,14 +71,22 @@ function generateJobTable(jobs) {
     }
   });
 
-  console.log(`\n✅ DEBUG: Companies INCLUDED (${processedCompanies.size}):`, [...processedCompanies]);
-  console.log(`\n❌ DEBUG: Companies SKIPPED (${skippedCompanies.size}):`, [...skippedCompanies]);
-  
+  console.log(`\n✅ DEBUG: Companies INCLUDED (${processedCompanies.size}):`, [
+    ...processedCompanies,
+  ]);
+  console.log(`\n❌ DEBUG: Companies SKIPPED (${skippedCompanies.size}):`, [
+    ...skippedCompanies,
+  ]);
+
   // Log job counts by company
   console.log(`\n📈 DEBUG: Job counts by company:`);
   Object.entries(jobsByCompany).forEach(([company, jobs]) => {
     const companyInfo = companyNameMap.get(company.toLowerCase());
-    console.log(`  ${company}: ${jobs.length} jobs (Category: ${companyInfo?.categoryTitle || 'Unknown'})`);
+    console.log(
+      `  ${company}: ${jobs.length} jobs (Category: ${
+        companyInfo?.categoryTitle || "Unknown"
+      })`
+    );
   });
 
   let output = "";
@@ -77,53 +94,61 @@ function generateJobTable(jobs) {
   // Handle each category
   Object.entries(companyCategory).forEach(([categoryKey, categoryData]) => {
     // Filter companies that actually have jobs
-    const companiesWithJobs = categoryData.companies.filter(company => 
-      jobsByCompany[company] && jobsByCompany[company].length > 0
+    const companiesWithJobs = categoryData.companies.filter(
+      (company) => jobsByCompany[company] && jobsByCompany[company].length > 0
     );
-    
+
     if (companiesWithJobs.length > 0) {
-      const totalJobs = companiesWithJobs.reduce((sum, company) => 
-        sum + jobsByCompany[company].length, 0
+      const totalJobs = companiesWithJobs.reduce(
+        (sum, company) => sum + jobsByCompany[company].length,
+        0
       );
-      
-      console.log(`\n📝 DEBUG: Processing category "${categoryData.title}" with ${companiesWithJobs.length} companies and ${totalJobs} total jobs:`);
-      companiesWithJobs.forEach(company => {
+
+      console.log(
+        `\n📝 DEBUG: Processing category "${categoryData.title}" with ${companiesWithJobs.length} companies and ${totalJobs} total jobs:`
+      );
+      companiesWithJobs.forEach((company) => {
         console.log(`  - ${company}: ${jobsByCompany[company].length} jobs`);
       });
-      
-      output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} positions)\n\n`;
+
+      // Use singular/plural based on job count
+      const positionText = totalJobs === 1 ? "position" : "positions";
+      output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} ${positionText})\n\n`;
 
       // First handle companies with more than 10 jobs - each gets its own table/section
       const bigCompanies = companiesWithJobs.filter(
-        companyName => jobsByCompany[companyName].length > 10
+        (companyName) => jobsByCompany[companyName].length > 10
       );
 
       bigCompanies.forEach((companyName) => {
         const companyJobs = jobsByCompany[companyName];
         const emoji = getCompanyEmoji(companyName);
-        
-        if (companyJobs.length > 50) {
+        const positionText =
+          companyJobs.length === 1 ? "position" : "positions";
+
+        if (companyJobs.length > 15) {
           output += `<details>\n`;
-          output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h4></summary>\n\n`;
+          output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} ${positionText})</h4></summary>\n\n`;
         } else {
-          output += `#### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
+          output += `#### ${emoji} **${companyName}** (${companyJobs.length} ${positionText})\n\n`;
         }
-        
-        output += `| Role | Location | Apply Now |  Age  |\n`;
-        output += `|------|----------|-----------|-------|\n`;
-        
+
+        output += `| Role | Location | Apply Now | Age |\n`;
+        output += `|------|----------|-----------|-----|\n`;
+
         companyJobs.forEach((job) => {
           const role = job.job_title;
           const location = formatLocation(job.job_city, job.job_state);
-          const posted = job.job_posted_at;
-          const level = getExperienceLevel(job.job_title, job.job_description);
-          const category = getJobCategory(job.job_title, job.job_description);
-          const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
-          
+          const posted = job.job_posted_at ;
+          const applyLink =
+            job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
           let statusIndicator = "";
           const description = (job.job_description || "").toLowerCase();
-          if (description.includes("no sponsorship") || description.includes("us citizen")) {
+          if (
+            description.includes("no sponsorship") ||
+            description.includes("us citizen")
+          ) {
             statusIndicator = " 🇺🇸";
           }
           if (description.includes("remote")) {
@@ -132,8 +157,8 @@ function generateJobTable(jobs) {
 
           output += `| ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
         });
-        
-        if (companyJobs.length > 50) {
+
+        if (companyJobs.length > 15) {
           output += `\n</details>\n\n`;
         } else {
           output += "\n";
@@ -142,28 +167,30 @@ function generateJobTable(jobs) {
 
       // Then combine all companies with 10 or fewer jobs into one table
       const smallCompanies = companiesWithJobs.filter(
-        companyName => jobsByCompany[companyName].length <= 10
+        (companyName) => jobsByCompany[companyName].length <= 10
       );
 
       if (smallCompanies.length > 0) {
-        output += `| Company | Role | Location | Apply Now |  Age  |\n`;
-        output += `|---------|------|----------|-----------|-------|\n`;
+        output += `| Company | Role | Location | Apply Now | Age |\n`;
+        output += `|---------|------|----------|-----------|-----|\n`;
 
         smallCompanies.forEach((companyName) => {
           const companyJobs = jobsByCompany[companyName];
           const emoji = getCompanyEmoji(companyName);
-          
+
           companyJobs.forEach((job) => {
             const role = job.job_title;
             const location = formatLocation(job.job_city, job.job_state);
-            const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-            const level = getExperienceLevel(job.job_title, job.job_description);
-            const category = getJobCategory(job.job_title, job.job_description);
-            const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+            const posted = job.job_posted_at;
+            const applyLink =
+              job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
             let statusIndicator = "";
             const description = (job.job_description || "").toLowerCase();
-            if (description.includes("no sponsorship") || description.includes("us citizen")) {
+            if (
+              description.includes("no sponsorship") ||
+              description.includes("us citizen")
+            ) {
               statusIndicator = " 🇺🇸";
             }
             if (description.includes("remote")) {
@@ -173,13 +200,17 @@ function generateJobTable(jobs) {
             output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
           });
         });
-        
+
         output += "\n";
       }
     }
   });
 
-  console.log(`\n🎉 DEBUG: Finished generating job table with ${Object.keys(jobsByCompany).length} companies processed`);
+  console.log(
+    `\n🎉 DEBUG: Finished generating job table with ${
+      Object.keys(jobsByCompany).length
+    } companies processed`
+  );
   return output;
 }
 function generateInternshipSection(internshipData) {
@@ -189,9 +220,9 @@ function generateInternshipSection(internshipData) {
  return `
 ---
 
-## 🎓 **Data Internships 2025-2026**
+## 🎓 **Healthcare Internships 2025-2026**
 
-Top internships for students in data science, statistics, analytics, and related majors.
+Programs for nursing students, public health majors, and pre-med/biomedical students.
 
 ### 🏢 **FAANG+ Internship Programs**
 
@@ -199,13 +230,13 @@ Top internships for students in data science, statistics, analytics, and related
 |---------|---------|-----------|
 ${internshipData.companyPrograms
   .map((program) => {
-    const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
-    const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `| ${emoji} ${program.company} | ${program.program} |<a href="${program.url}" style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">Apply button</a>|`;
+    // const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
+    // const emoji = companyObj ? companyObj.emoji : "🏢";
+    return `| ${program.emoji} ${program.company} | ${program.program} |<a href="${program.url}" style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">Apply button</a>|`;
   })
   .join("\n")}
 
-### 📚 **Top Data Internship Resources**
+### 📚 **Top Nursing Internship Resources**
 
 | Platform | Description | Visit Now |
 |----------|-------------|-----------|
@@ -263,11 +294,11 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
   const internshipSection = generateInternshipSection(internshipData);
   const archivedSection = generateArchivedSection(archivedJobs, stats);
 
-  return `# 📊 Data Science & Analytics Jobs & Internships 2025-2026 by Zapply
+  return `# 🏥 Healthcare & Nursing Jobs & Internships 2025-2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+  🚀 Real-time nursing, healthcare, and medical job listings from ${totalCompanies}+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.
 
-🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
+🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital.
 
 🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](#contributing-guide).
 
@@ -281,17 +312,16 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 ## ⚡ Apply to 50 jobs in the time it takes to do 5.
 
-Use Zapply's extension to instantly submit applications across Tesla, Amazon, NVIDIA, and 500+ other data-focused employers.
-
+Use Zapply’s extension to instantly submit applications across 500+ hospitals, pharmaceutical companies, and clinics.
 **Zapply extension button**
 
 ---
 
 ## 📊 Live Stats
 
-🔥 **Current Positions:** ${currentJobs.length} hot data-focused jobs
+🔥 **Current Positions:** ${currentJobs.length} hot healthcare and medical jobs
 
-🏢 **Top Companies:** ${totalCompanies} elite tech including Tesla, NVIDIA, Raytheon
+🏢 **Top Companies:** ${totalCompanies} elite tech including Mayo Clinic, CVS Health, Pfizer
 
 ⭐ **FAANG+ Jobs & Internships:** ${faangJobs} premium opportunities
 
@@ -299,7 +329,7 @@ Use Zapply's extension to instantly submit applications across Tesla, Amazon, NV
 
 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
-📁 **Archived Data Jobs:** ${archivedJobs.length} (older than 1 week)
+📁 **Archived Healthcare Jobs:** ${archivedJobs.length} (older than 1 week)
 
 ---
 
@@ -359,29 +389,20 @@ ${stats ? Object.entries(stats.byLocation)
   .map(([location, count]) => `- **${location}**: ${count} positions`)
   .join("\n") : ""}
 
-### 👨‍💻 Top Data Fields
+### 👨‍💻 Top Healthcare Fields
 
 ${stats ? Object.entries(stats.byCategory)
   .sort((a, b) => b[1] - a[1])
   .map(([category, count]) => {
     const icon = {
-      "Data Science & Analytics": "📊",
-      "Machine Learning": "🧠",
-      "Business Intelligence": "📈",
-      "Healthcare Analytics": "🏥",
-      "Marketing & Product Analytics": "📣",
-      "Data Engineering & Pipeline": "🛠️",
-      "Statistical Modeling": "📐",
-      "Mobile Development": "📱",
-      "Frontend Development": "🎨",
-      "Backend Development": "⚙️",
-      "Full Stack Development": "🌐",
-      "DevOps & Infrastructure": "☁️",
-      "Security Engineering": "🛡️",
-      "Product Management": "📋",
-      "Design": "🎨",
-      "Software Engineering": "💻",
-    }[category] || "💻";
+     
+    " Registered Nursing": "🏥",
+    " Pharmaceutical": "💊",
+    " Clinical Assistant & Medical Technician": "🩺",
+    " Public Health & Health Communication": "📣",
+    " Biomedical & Life Sciences Research": "🧪",
+    " Healthcare Administration & Operations": "📋"
+}[category] || "🏥";
 
     const categoryJobs = currentJobs.filter(
       (job) => getJobCategory(job.job_title, job.job_description) === category
@@ -401,19 +422,19 @@ ${topCompanies
 
 ---
 
-## 🔮 Why Data Analysts Choose Our Job Board
+## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** ${currentJobs.length}+ verified roles for data analysts and scientists from ${totalCompanies} elite tech companies.
+✅ **100% Real Jobs:** ${currentJobs.length}+ verified hospital and pharma roles from ${totalCompanies} elite organizations.
 
-✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
+✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
-✅ **Entry-Level Focused:** Smart filtering for internship and entry-level analytics roles.
+✅ **Entry-Level Focused:** Smart filtering for internships and entry-level roles.
 
-✅ **Intern-to-FTE Pipeline:** Track internships that convert to full-time roles.
+✅ **Intern-to-FTE Pipeline:** Track internships that convert into full-time healthcare careers.
 
-✅ **Direct Applications:** Skip recruiters – apply straight to company career pages for Tesla, Amazon, and NVIDIA positions.
+✅ **Direct Applications:** Skip recruiters – apply straight to company career pages.
 
-✅ **Mobile-Optimized:** Perfect mobile experience for students job hunting between classes.
+✅ **Mobile-Optimized:** Perfect mobile experience for students between clinical shifts or class.
 
 ---
 
@@ -427,27 +448,27 @@ Check recent tech decisions: Read their engineering blog for stack changes or ne
 
 Verify visa requirements: Look for 🇺🇸 indicator or "US persons only" in job description.
 
-Use this [100% ATS-compliant and job-targeted resume template](#).
+Use this [100% ATS-compliant and job-targeted resume template](#https://docs.google.com/document/d/1eGqU7E9if-d1VoWWWts79CT-LzbJsfeZ/edit?usp=drive_link&ouid=108189138560979620587&rtpof=true&sd=true).
 
 ### 📄 Resume Best Practices
 
-Mirror their tech stack: Copy exact keywords from job post (SQL, Tableau, Python, R, etc.).
+Mirror their tech stack: Copy exact keywords from job post (RN, medical assistant, health analyst).
 
 Lead with business impact: "Reduced churn by 12% through cohort analysis" > "Used Excel."
 
-Show product familiarity: "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
+Show certifications: "Mention BLS, CNA, or any state licensure prominently."
 
-Read this [informative guide on tweaking your resume](#).
+Read this [informative guide on tweaking your resume](#https://docs.google.com/document/d/12ngAUd7fKO4eV39SBgQdA8nHw_lJIngu/edit?usp=drive_link&ouid=108189138560979620587&rtpof=true&sd=true)..
 
 ### 🎯 Interview Best Practices
 
-Ask domain questions: "How do you ensure model explainability in production?" shows real research.
+Prepare patient care stories: "How do you ensure model explainability in production?" shows real research.
 
-Prepare case stories: "Improved forecast accuracy by 20% using time-series analysis."
+Highlight compliance: "Improved forecast accuracy by 20% using time-series analysis."
 
-Reference their products: "As a daily Slack user, I've noticed..." proves genuine interest.
+Mention tools: "As a daily Slack user, I've noticed..." proves genuine interest.
 
-Review this [comprehensive interview guide on common behavioral, technical, and curveball questions](#).
+Review this [comprehensive interview guide on common behavioral, technical, and curveball questions](#https://docs.google.com/document/d/1LU4kSNRu0JNiWG5CNPRp0kgzAhq27VHy/edit?usp=drive_link&ouid=108189138560979620587&rtpof=true&sd=true).
 
 ---
 
@@ -456,8 +477,6 @@ Review this [comprehensive interview guide on common behavioral, technical, and 
 ⭐ **Star this repo** to bookmark and check daily.
 
 👀 **Watch** to get notified of new data postings.
-
-🔔 **Subscribe to our newsletter** for instant updates.
 
 📱 **Bookmark on your phone** for quick job hunting.
 

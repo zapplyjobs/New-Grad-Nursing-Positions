@@ -1,16 +1,19 @@
 // utils/jobTransformers.js
 
 // Helper function to clean job title
+// Updated cleanJobTitle function to handle pipes and existing logic
 function cleanJobTitle(title) {
   if (!title) return title;
   
-  // Remove common prefixes and suffixes
+  // Remove common prefixes and suffixes AND handle pipe characters
   return title
+    .replace(/\|/g, ' - ')  // Replace pipes with dashes to prevent table breaking
+    .replace(/\n/g, ' ')    // Replace newlines with spaces
     .replace(/\s+(I|II|III|IV|V|\d+)$/, '')
     .replace(/\s*-\s*(Remote|Hybrid|On-site).*$/i, '')
+    .replace(/\s+/g, ' ')   // Replace multiple spaces with single space
     .trim();
 }
-
 // Helper function to parse location
 function parseLocation(locationText) {
   if (!locationText) {
@@ -100,73 +103,115 @@ function parseLocation(locationText) {
 
 // Helper function to convert date string to relative format (without "ago")
 function convertDateToRelative(postedDate) {
-  if (!postedDate) return "Recently";
+  // Ensure postedDate is a string
+  const dateStr = String(postedDate);
   
-  // Check if it's already in the desired format (like "2 months", "1 week", etc.)
-  const desiredFormatRegex = /^\d+\s+(day|days|week|weeks|month|months|hour|hours|minute|minutes)$|^(today|recently)$/i;
-  if (desiredFormatRegex.test(postedDate.trim())) {
-    return postedDate.trim(); // Return as-is if already in correct format
+  // Check if it's already in the desired format (like "1h", "2d", "1w", "1mo")
+  const desiredFormatRegex = /^\d+[hdwmo]+$/i;
+  if (desiredFormatRegex.test(dateStr.trim())) {
+    return dateStr.trim(); // Return as-is if already in correct format
   }
   
-  // If it contains "ago", clean it up by removing "posted" and "ago"
-  if (postedDate.toLowerCase().includes('ago')) {
-    return postedDate
-      .replace(/^posted\s+/i, '') // Remove "posted" from beginning
-      .replace(/\s+ago$/i, '')    // Remove "ago" from end
-      .trim();
+  // Clean and normalize the input
+  let cleanedDate = dateStr
+    .replace(/^posted\s+/i, '') // Remove "posted" from beginning
+    .replace(/\s+ago$/i, '')    // Remove "ago" from end
+    .replace(/^on\s+/i, '')     // Remove "on" from beginning
+    .trim()
+    .toLowerCase();
+  
+  // Handle special cases first
+  if (cleanedDate === 'today') {
+    return "1d";
+  }
+  if (cleanedDate === 'yesterday') {
+    return "1d";
+  }
+  if (cleanedDate.includes('just') || cleanedDate.includes('recently') || cleanedDate.includes('now')) {
+    return "1h";
   }
   
-  // If it contains other relative time words but not "ago", check if we should process it
-  const relativeTimeWords = ['day', 'week', 'month', 'hour', 'minute', 'second', 'just now', 'recently'];
-  if (relativeTimeWords.some(word => postedDate.toLowerCase().includes(word))) {
-    // If it's already a relative format without "ago", return as-is
-    return postedDate.trim();
+  // Handle "30+ days" or similar patterns
+  const daysPlusRegex = /(\d+)\+?\s*days?/i;
+  const daysPlusMatch = cleanedDate.match(daysPlusRegex);
+  if (daysPlusMatch) {
+    const days = parseInt(daysPlusMatch[1]);
+    if (days >= 30) {
+      const months = Math.floor(days / 30);
+      return `${months}mo`;
+    } else if (days >= 7) {
+      const weeks = Math.floor(days / 7);
+      return `${weeks}w`;
+    } else {
+      return `${days}d`;
+    }
   }
   
-  // Try to parse various date formats
-  let parsedDate;
-  
-  // Common date formats from job sites
-  const dateFormats = [
-    'MM/DD/YYYY', 'MM-DD-YYYY', 'YYYY-MM-DD', 
-    'MMMM DD, YYYY', 'MMM DD, YYYY', 'DD MMM YYYY'
-  ];
-  
-  for (const format of dateFormats) {
-    parsedDate = new Date(postedDate);
-    if (!isNaN(parsedDate.getTime())) break;
+  // Handle "X+ weeks", "X+ months" patterns
+  const weeksPlusRegex = /(\d+)\+?\s*weeks?/i;
+  const weeksPlusMatch = cleanedDate.match(weeksPlusRegex);
+  if (weeksPlusMatch) {
+    const weeks = parseInt(weeksPlusMatch[1]);
+    return `${weeks}w`;
   }
   
-  // If we couldn't parse the date, return the original string
+  const monthsPlusRegex = /(\d+)\+?\s*months?/i;
+  const monthsPlusMatch = cleanedDate.match(monthsPlusRegex);
+  if (monthsPlusMatch) {
+    const months = parseInt(monthsPlusMatch[1]);
+    return `${months}mo`;
+  }
+  
+  // Parse relative time expressions and convert to desired format
+  const timeRegex = /(\d+)\s*(hour|hours|h|minute|minutes|min|day|days|d|week|weeks|w|month|months|mo|m)(?:\s|$)/i;
+  const match = cleanedDate.match(timeRegex);
+  
+  if (match) {
+    const number = parseInt(match[1]);
+    const unit = match[2].toLowerCase();
+    
+    // Convert to desired format
+    if (unit.startsWith('h') || unit.includes('hour')) {
+      return `${number}h`;
+    } else if (unit.startsWith('min') || unit.includes('minute')) {
+      // Convert minutes to hours if >= 60, otherwise show as 1h minimum
+      return number >= 60 ? `${Math.floor(number / 60)}h` : "1h";
+    } else if (unit.startsWith('d') || unit.includes('day')) {
+      return `${number}d`;
+    } else if (unit.startsWith('w') || unit.includes('week')) {
+      return `${number}w`;
+    } else if ((unit === 'm' || unit.startsWith('month')) && unit !== 'min') {
+      return `${number}mo`;
+    }
+  }
+  
+  // Try to parse absolute dates as fallback
+  const parsedDate = new Date(dateStr);
+  
+  // If we couldn't parse the date, return default
   if (isNaN(parsedDate.getTime())) {
-    return postedDate;
+    return "1d";
   }
   
-  // Calculate difference in days
+  // Calculate difference
   const now = new Date();
   const diffTime = Math.abs(now - parsedDate);
+  const diffHours = Math.floor(diffTime / (1000 * 60 * 60));
   const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
   
-  // Convert to relative time (without "ago")
-  if (diffDays === 0) {
-    return "Today";
-  } else if (diffDays === 1) {
-    return "1 day";
+  // Convert to desired format
+  if (diffHours < 24) {
+    return diffHours === 0 ? "1h" : `${diffHours}h`;
   } else if (diffDays < 7) {
-    return `${diffDays} days`;
-  } else if (diffDays < 14) {
-    return "1 week";
+    return `${diffDays}d`;
   } else if (diffDays < 30) {
     const weeks = Math.floor(diffDays / 7);
-    return `${weeks} weeks`;
-  } else if (diffDays < 60) {
-    return "1 month";
+    return `${weeks}w`;
   } else {
     const months = Math.floor(diffDays / 30);
-    return `${months} months`;
+    return `${months}mo`;
   }
-}
-
+} // Should return "recently"
 // Main transformation function
 function transformJobs(jobs, searchQuery) {
   return jobs
