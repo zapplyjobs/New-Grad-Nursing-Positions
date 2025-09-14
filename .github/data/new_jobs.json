@@ -1,101 +1,472 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Title element not found",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com",
-    "id": "analog-devices--"
+    "employer_name": "Micron Technology",
+    "job_title": "Quality Technician",
+    "job_city": "Longmont",
+    "job_state": "Colorado",
+    "job_posted_at": "4d",
+    "job_description": "• Basic understanding of tester logs and qualification test flows, along with familiarity using JIRA or similar issue-tracking tools.\n• Associate degree in a STEM related field or 2 years industry experience.\n• Or equivalent military training and experience.\n• Ability to interpret test results, identify faults, and perform effective debugging and troubleshooting as needed.\n• Communicate regularly with engineering teams regarding drive failures, tester issues, software/hardware needs Ensure compliance with Environmental Health & Safety (EHS) and Electrostatic Discharge (ESD) requirements Collaborate with Quality and Reliability Assurance (QRA) and Engineering teams to interpret failure data 2 years of experience in quality assurance or testing involving computer hardware and software.\n• Complete test operations, qualification testing, and pretesting to confirm drive functionality 1 year of experience working with tester hardware and understanding its functionality.\n• Understand and apply PQEAgent software and hardware tools used in reliability testing.",
+    "job_apply_link": "https://careers.micron.com/careers/job/27273578",
+    "id": "micron-technology-quality-technician-longmont"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Snowflake Database Administrator",
-    "job_city": "Any Location /",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Type of Requisition:RegularClearance Level Must Currently Possess:NoneClearance Level Must Be Able to Obtain:NonePublic Trust/Other Required:NACI (T1)Job Family:IT Infrastructure and OperationsJob Qualifications:Skills:Snowflake (Platform), Snowflake Data Warehouse, Snowflake GenAICertifications:NoneExperience:5 + years of related experienceUS Citizenship Required:NoJob Description:General Dynamics Information Technology (GDIT) provides healthcare information technology services and resources to support the Center for Medicare and Medicaid Services (CMS).\n• You will collaborate closely with ETL developers, data architects, security engineers, and business stakeholders to ensure that Snowflake supports enterprise-wide analytics, data integration, and reporting needs.\n• Exercise strong interpersonal and communication skills while working independently and collaboratively within a high-performing agile team.\n• Analyze complex business and technical requirements to design and implement performant and secure Snowflake database solutions.\n• EDUCATION AND EXPERIENCE:BA/BS in Computer Science, Information Systems, or a related technical field, or equivalent combination of education, certifications, and experience.\n• 5+ years of IT experience with deep expertise in database administration, with at least 2 years managing enterprise-scale Snowflake deployments.\n• Proven experience managing petabyte-scale Snowflake environments in production.\n• Experience in cloud-native ETL/ELT development using AWS Services, Databricks, or similar platforms.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Snowflake-Database-Administrator_RQ206509-2?q=data+science",
-    "id": "general-dynamics-snowflake-database-administrator-any-location"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Machine Learning Engineer",
-    "job_city": "Alpharetta",
-    "job_state": "GA",
+    "employer_name": "Siemens",
+    "job_title": "Material Handler",
+    "job_city": "Wendell",
+    "job_state": "North Carolina",
     "job_posted_at": "1d",
-    "job_description": "• A foundational understanding of machine learning concepts and algorithmsSome experience with Python and common ML libraries (e.\n• , scikit-learn, pandas, NumPy)Familiarity with SQL and relational databases (Postgres is a big plus)A strong desire to learn and grow in the fields of machine learning, data engineering, and DevOpsExcellent problem-solving skills and the ability to work effectively in a collaborative team environmentFormal training in Data Science, Statistics, Research Science or a related field (e.\n• , a bachelor's degree, bootcamp, or certificate program), or equivalent practical experienceApplicants must be legally authorized to work in the United States without the need for employer sponsorship, now or in the future.\n• PDI Technologies is unable to offer visa sponsorship for this role Develop and experiment with AI agents to solve complex security challengesDesign, build, train, and deploy machine learning models using Python and AWS SageMakerCollaborate with data engineers to ensure data quality and availability for model developmentWrite clean, maintainable, and efficient Python code for our APIs and services using FastAPIContribute to the team's data management strategy using dbt and SQLStay up-to-date with the latest advancements in AI and machine learning.",
-    "job_apply_link": "https://www.aijobs.com/jobs/160706438-junior-machine-learning-engineer",
-    "id": "ai-jobs-machine-learning-engineer-alpharetta"
+    "job_description": "nursing job for the role Material Handler",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-material-handler-wendell"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Hardware Engineer",
-    "job_city": "Fort Washington",
-    "job_state": "PA",
-    "job_posted_at": "Today",
-    "job_description": "• Information Systems, IT, Cyber Engineer & Data Science - Summer 2026 Intern Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Information Systems, IT, Cyber Engineer & Data Science (Recent Grad/Full Time) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Information Systems, IT, Cyber Engineer & Data Science - Summer 2026 Intern (US Person Required) Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Information Systems, IT, Cyber Engineer & Data Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Artificial Intelligence/Machine Learning - Summer 2026 Intern Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/116090/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-hardware-engineer-fort-washington"
+    "employer_name": "Siemens",
+    "job_title": "eMobility Mechanical Assembler",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "1d",
+    "job_description": "nursing job for the role eMobility Mechanical Assembler",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-emobility-mechanical-assembler-raleigh"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Research Nurse",
+    "job_city": "US - MD",
+    "job_state": "Bethesda",
+    "job_posted_at": "2w",
+    "job_description": "• Research NurselocationsUS - MD, Bethesdaposted onPosted 19 Days Ago30216Research NurselocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31263Research NurselocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31259Registered NurselocationsUS - MD, Baltimoreposted onPosted 3 Days Ago32188Registered NurselocationsUS - MD, Baltimoreposted onPosted Today32187Utilization Management RNlocationsUS - Remote (Any location)posted onPosted 10 Days Ago31769Utilization Management RN - RemotelocationsUS - Remote (Any location)posted onPosted 17 Days Ago31952Advanced Practice Provider (PA, NP)locationsUS - MD, Bethesdaposted onPosted 4 Days Ago32189Director - Clinical & Operational Improvement - Commercial HealthcarelocationsUS - Remote (Any location)posted onPosted 2 Days Ago31306Clinical Documentation Integrity (CDI) Specialist - 2nd Level Reviewer - RemotelocationsUS - Remote (Any location)posted onPosted 5 Days Ago32141Executive Director - Clinical Transformation - Commercial HealthcarelocationsUS - Remote (Any location)posted onPosted 3 Days Ago32238CLS, Quality Assurance SpecialistlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago30913Utilization Management AssistantlocationsUS - Remote (Any location)posted onPosted 10 Days Ago31783MRI Catheterization TechnologistlocationsUS - MD, Bethesdaposted onPosted 23 Days Ago31673Hospital Birth Registrar - Onsite, Full Time, DayslocationsUS - AL, Birminghamposted onPosted 11 Days Ago31846Healthcare Financial Transformation Consulting - Associate Director - FP&AlocationsUS - Remote (Any location)posted onPosted 24 Days Ago29470.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Research-Nurse_30216?q=nursing&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-research-nurse-us-md"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Registered Nurse",
+    "job_city": "US - MD",
+    "job_state": "Baltimore",
+    "job_posted_at": "3d",
+    "job_description": "• Research NurselocationsUS - MD, Bethesdaposted onPosted 19 Days Ago30216Research NurselocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31263Research NurselocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31259Registered NurselocationsUS - MD, Baltimoreposted onPosted 3 Days Ago32188Registered NurselocationsUS - MD, Baltimoreposted onPosted Today32187Utilization Management RNlocationsUS - Remote (Any location)posted onPosted 10 Days Ago31769Utilization Management RN - RemotelocationsUS - Remote (Any location)posted onPosted 17 Days Ago31952Advanced Practice Provider (PA, NP)locationsUS - MD, Bethesdaposted onPosted 4 Days Ago32189Director - Clinical & Operational Improvement - Commercial HealthcarelocationsUS - Remote (Any location)posted onPosted 2 Days Ago31306Clinical Documentation Integrity (CDI) Specialist - 2nd Level Reviewer - RemotelocationsUS - Remote (Any location)posted onPosted 5 Days Ago32141Executive Director - Clinical Transformation - Commercial HealthcarelocationsUS - Remote (Any location)posted onPosted 3 Days Ago32238CLS, Quality Assurance SpecialistlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago30913Utilization Management AssistantlocationsUS - Remote (Any location)posted onPosted 10 Days Ago31783MRI Catheterization TechnologistlocationsUS - MD, Bethesdaposted onPosted 23 Days Ago31673Hospital Birth Registrar - Onsite, Full Time, DayslocationsUS - AL, Birminghamposted onPosted 11 Days Ago31846Healthcare Financial Transformation Consulting - Associate Director - FP&AlocationsUS - Remote (Any location)posted onPosted 24 Days Ago29470.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Baltimore/Registered-Nurse_32188?q=nursing&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-registered-nurse-us-md"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Utilization Management RN",
+    "job_city": "US - (Any location)",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Research NurselocationsUS - MD, Bethesdaposted onPosted 19 Days Ago30216Research NurselocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31263Research NurselocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31259Registered NurselocationsUS - MD, Baltimoreposted onPosted 3 Days Ago32188Registered NurselocationsUS - MD, Baltimoreposted onPosted Today32187Utilization Management RNlocationsUS - Remote (Any location)posted onPosted 10 Days Ago31769Utilization Management RN - RemotelocationsUS - Remote (Any location)posted onPosted 17 Days Ago31952Advanced Practice Provider (PA, NP)locationsUS - MD, Bethesdaposted onPosted 4 Days Ago32189Director - Clinical & Operational Improvement - Commercial HealthcarelocationsUS - Remote (Any location)posted onPosted 2 Days Ago31306Clinical Documentation Integrity (CDI) Specialist - 2nd Level Reviewer - RemotelocationsUS - Remote (Any location)posted onPosted 5 Days Ago32141Executive Director - Clinical Transformation - Commercial HealthcarelocationsUS - Remote (Any location)posted onPosted 3 Days Ago32238CLS, Quality Assurance SpecialistlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago30913Utilization Management AssistantlocationsUS - Remote (Any location)posted onPosted 10 Days Ago31783MRI Catheterization TechnologistlocationsUS - MD, Bethesdaposted onPosted 23 Days Ago31673Hospital Birth Registrar - Onsite, Full Time, DayslocationsUS - AL, Birminghamposted onPosted 11 Days Ago31846Healthcare Financial Transformation Consulting - Associate Director - FP&AlocationsUS - Remote (Any location)posted onPosted 24 Days Ago29470.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Utilization-Management-RN_31769-1?q=nursing&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-utilization-management-rn-us-any-location"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Utilization Management Assistant",
+    "job_city": "US - (Any location)",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Research NurselocationsUS - MD, Bethesdaposted onPosted 19 Days Ago30216Research NurselocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31263Research NurselocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31259Registered NurselocationsUS - MD, Baltimoreposted onPosted 3 Days Ago32188Registered NurselocationsUS - MD, Baltimoreposted onPosted Today32187Utilization Management RNlocationsUS - Remote (Any location)posted onPosted 10 Days Ago31769Utilization Management RN - RemotelocationsUS - Remote (Any location)posted onPosted 17 Days Ago31952Advanced Practice Provider (PA, NP)locationsUS - MD, Bethesdaposted onPosted 4 Days Ago32189Director - Clinical & Operational Improvement - Commercial HealthcarelocationsUS - Remote (Any location)posted onPosted 2 Days Ago31306Clinical Documentation Integrity (CDI) Specialist - 2nd Level Reviewer - RemotelocationsUS - Remote (Any location)posted onPosted 5 Days Ago32141Executive Director - Clinical Transformation - Commercial HealthcarelocationsUS - Remote (Any location)posted onPosted 3 Days Ago32238CLS, Quality Assurance SpecialistlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago30913Utilization Management AssistantlocationsUS - Remote (Any location)posted onPosted 10 Days Ago31783MRI Catheterization TechnologistlocationsUS - MD, Bethesdaposted onPosted 23 Days Ago31673Hospital Birth Registrar - Onsite, Full Time, DayslocationsUS - AL, Birminghamposted onPosted 11 Days Ago31846Healthcare Financial Transformation Consulting - Associate Director - FP&AlocationsUS - Remote (Any location)posted onPosted 24 Days Ago29470.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Utilization-Management-Assistant_31783?q=nursing&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-utilization-management-assistant-us-any-location"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "MRI Catheterization Technologist",
+    "job_city": "US - MD",
+    "job_state": "Bethesda",
+    "job_posted_at": "3w",
+    "job_description": "• Research NurselocationsUS - MD, Bethesdaposted onPosted 19 Days Ago30216Research NurselocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31263Research NurselocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31259Registered NurselocationsUS - MD, Baltimoreposted onPosted 3 Days Ago32188Registered NurselocationsUS - MD, Baltimoreposted onPosted Today32187Utilization Management RNlocationsUS - Remote (Any location)posted onPosted 10 Days Ago31769Utilization Management RN - RemotelocationsUS - Remote (Any location)posted onPosted 17 Days Ago31952Advanced Practice Provider (PA, NP)locationsUS - MD, Bethesdaposted onPosted 4 Days Ago32189Director - Clinical & Operational Improvement - Commercial HealthcarelocationsUS - Remote (Any location)posted onPosted 2 Days Ago31306Clinical Documentation Integrity (CDI) Specialist - 2nd Level Reviewer - RemotelocationsUS - Remote (Any location)posted onPosted 5 Days Ago32141Executive Director - Clinical Transformation - Commercial HealthcarelocationsUS - Remote (Any location)posted onPosted 3 Days Ago32238CLS, Quality Assurance SpecialistlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago30913Utilization Management AssistantlocationsUS - Remote (Any location)posted onPosted 10 Days Ago31783MRI Catheterization TechnologistlocationsUS - MD, Bethesdaposted onPosted 23 Days Ago31673Hospital Birth Registrar - Onsite, Full Time, DayslocationsUS - AL, Birminghamposted onPosted 11 Days Ago31846Healthcare Financial Transformation Consulting - Associate Director - FP&AlocationsUS - Remote (Any location)posted onPosted 24 Days Ago29470.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/MRI-Catheterization-Technologist_31673?q=nursing&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-mri-catheterization-technologist-us-md"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Hospital Birth Registrar - Onsite, Full Time, Days",
+    "job_city": "US - AL",
+    "job_state": "Birmingham",
+    "job_posted_at": "1w",
+    "job_description": "• Research NurselocationsUS - MD, Bethesdaposted onPosted 19 Days Ago30216Research NurselocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31263Research NurselocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31259Registered NurselocationsUS - MD, Baltimoreposted onPosted 3 Days Ago32188Registered NurselocationsUS - MD, Baltimoreposted onPosted Today32187Utilization Management RNlocationsUS - Remote (Any location)posted onPosted 10 Days Ago31769Utilization Management RN - RemotelocationsUS - Remote (Any location)posted onPosted 17 Days Ago31952Advanced Practice Provider (PA, NP)locationsUS - MD, Bethesdaposted onPosted 4 Days Ago32189Director - Clinical & Operational Improvement - Commercial HealthcarelocationsUS - Remote (Any location)posted onPosted 2 Days Ago31306Clinical Documentation Integrity (CDI) Specialist - 2nd Level Reviewer - RemotelocationsUS - Remote (Any location)posted onPosted 5 Days Ago32141Executive Director - Clinical Transformation - Commercial HealthcarelocationsUS - Remote (Any location)posted onPosted 3 Days Ago32238CLS, Quality Assurance SpecialistlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago30913Utilization Management AssistantlocationsUS - Remote (Any location)posted onPosted 10 Days Ago31783MRI Catheterization TechnologistlocationsUS - MD, Bethesdaposted onPosted 23 Days Ago31673Hospital Birth Registrar - Onsite, Full Time, DayslocationsUS - AL, Birminghamposted onPosted 11 Days Ago31846Healthcare Financial Transformation Consulting - Associate Director - FP&AlocationsUS - Remote (Any location)posted onPosted 24 Days Ago29470.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Birmingham/Hospital-Birth-Registrar---Onsite--Full-Time--Days_31846?q=nursing&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-hospital-birth-registrar-onsite-full-time-days-us-al"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Tool & Die Tech - 2nd and 3rd shift",
+    "job_city": "Bowling Green",
+    "job_state": "Kentucky",
+    "job_posted_at": "5d",
+    "job_description": "• Production Team Lead - All ShiftslocationsClinton, Tennessee, USposted onPosted 30+ Days AgoR00171448WCM/Lean ManagerlocationsCarrollton, Georgia, USposted onPosted 30+ Days AgoR00184650Press Team Leader - 3rd ShiftlocationsBowling Green, Kentucky, USposted onPosted 25 Days AgoR00192640Tool & Die Tech - 2nd and 3rd shiftlocationsBowling Green, Kentucky, USposted onPosted 5 Days AgoR00209492Materials Team Leader - 3rd ShiftlocationsBowling Green, Kentucky, USposted onPosted 24 Days AgoR00206627Coatings TechnicianlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00166823Engineering Department LeaderlocationsBowling Green, Kentucky, USposted onPosted 18 Days AgoR00177901Tooling CoordinatorlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00181011Lead, ProductionlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00193194Senior Health and Safety SpecialistlocationsBowling Green, Kentucky, USposted onPosted 30+ Days AgoR00200904MAP Production Team LeaderlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00185109Quality EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR001901913rd Shift Press Production Team LeaderlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00192098ToolmakerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00195737Quality EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199494IoT EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199540Robotics Technician - Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00182405Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00181173Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201549.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Kentucky-US/Tool---Die-Tech---2nd-and-3rd-shift_R00209492?q=nursing&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-tool-die-tech-2nd-and-3rd-shift-bowling-green"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Coatings Technician",
+    "job_city": "Piedmont",
+    "job_state": "South Carolina",
+    "job_posted_at": "1mo",
+    "job_description": "• Production Team Lead - All ShiftslocationsClinton, Tennessee, USposted onPosted 30+ Days AgoR00171448WCM/Lean ManagerlocationsCarrollton, Georgia, USposted onPosted 30+ Days AgoR00184650Press Team Leader - 3rd ShiftlocationsBowling Green, Kentucky, USposted onPosted 25 Days AgoR00192640Tool & Die Tech - 2nd and 3rd shiftlocationsBowling Green, Kentucky, USposted onPosted 5 Days AgoR00209492Materials Team Leader - 3rd ShiftlocationsBowling Green, Kentucky, USposted onPosted 24 Days AgoR00206627Coatings TechnicianlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00166823Engineering Department LeaderlocationsBowling Green, Kentucky, USposted onPosted 18 Days AgoR00177901Tooling CoordinatorlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00181011Lead, ProductionlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00193194Senior Health and Safety SpecialistlocationsBowling Green, Kentucky, USposted onPosted 30+ Days AgoR00200904MAP Production Team LeaderlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00185109Quality EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR001901913rd Shift Press Production Team LeaderlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00192098ToolmakerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00195737Quality EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199494IoT EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199540Robotics Technician - Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00182405Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00181173Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201549.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Coatings-Technician_R00166823?q=nursing&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-coatings-technician-piedmont"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Quality Engineer",
+    "job_city": "Piedmont",
+    "job_state": "South Carolina",
+    "job_posted_at": "1mo",
+    "job_description": "• Production Team Lead - All ShiftslocationsClinton, Tennessee, USposted onPosted 30+ Days AgoR00171448WCM/Lean ManagerlocationsCarrollton, Georgia, USposted onPosted 30+ Days AgoR00184650Press Team Leader - 3rd ShiftlocationsBowling Green, Kentucky, USposted onPosted 25 Days AgoR00192640Tool & Die Tech - 2nd and 3rd shiftlocationsBowling Green, Kentucky, USposted onPosted 5 Days AgoR00209492Materials Team Leader - 3rd ShiftlocationsBowling Green, Kentucky, USposted onPosted 24 Days AgoR00206627Coatings TechnicianlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00166823Engineering Department LeaderlocationsBowling Green, Kentucky, USposted onPosted 18 Days AgoR00177901Tooling CoordinatorlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00181011Lead, ProductionlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00193194Senior Health and Safety SpecialistlocationsBowling Green, Kentucky, USposted onPosted 30+ Days AgoR00200904MAP Production Team LeaderlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00185109Quality EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR001901913rd Shift Press Production Team LeaderlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00192098ToolmakerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00195737Quality EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199494IoT EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199540Robotics Technician - Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00182405Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00181173Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201549.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Quality-Engineer_R00190191?q=nursing&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-quality-engineer-piedmont"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Toolmaker",
+    "job_city": "Piedmont",
+    "job_state": "South Carolina",
+    "job_posted_at": "1mo",
+    "job_description": "• Production Team Lead - All ShiftslocationsClinton, Tennessee, USposted onPosted 30+ Days AgoR00171448WCM/Lean ManagerlocationsCarrollton, Georgia, USposted onPosted 30+ Days AgoR00184650Press Team Leader - 3rd ShiftlocationsBowling Green, Kentucky, USposted onPosted 25 Days AgoR00192640Tool & Die Tech - 2nd and 3rd shiftlocationsBowling Green, Kentucky, USposted onPosted 5 Days AgoR00209492Materials Team Leader - 3rd ShiftlocationsBowling Green, Kentucky, USposted onPosted 24 Days AgoR00206627Coatings TechnicianlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00166823Engineering Department LeaderlocationsBowling Green, Kentucky, USposted onPosted 18 Days AgoR00177901Tooling CoordinatorlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00181011Lead, ProductionlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00193194Senior Health and Safety SpecialistlocationsBowling Green, Kentucky, USposted onPosted 30+ Days AgoR00200904MAP Production Team LeaderlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00185109Quality EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR001901913rd Shift Press Production Team LeaderlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00192098ToolmakerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00195737Quality EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199494IoT EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199540Robotics Technician - Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00182405Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00181173Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201549.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Toolmaker_R00195737-1?q=nursing&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-toolmaker-piedmont"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Robotics Technician - Autonomous Mobile Robots",
+    "job_city": "Lowell",
+    "job_state": "Massachusetts",
+    "job_posted_at": "1mo",
+    "job_description": "• Production Team Lead - All ShiftslocationsClinton, Tennessee, USposted onPosted 30+ Days AgoR00171448WCM/Lean ManagerlocationsCarrollton, Georgia, USposted onPosted 30+ Days AgoR00184650Press Team Leader - 3rd ShiftlocationsBowling Green, Kentucky, USposted onPosted 25 Days AgoR00192640Tool & Die Tech - 2nd and 3rd shiftlocationsBowling Green, Kentucky, USposted onPosted 5 Days AgoR00209492Materials Team Leader - 3rd ShiftlocationsBowling Green, Kentucky, USposted onPosted 24 Days AgoR00206627Coatings TechnicianlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00166823Engineering Department LeaderlocationsBowling Green, Kentucky, USposted onPosted 18 Days AgoR00177901Tooling CoordinatorlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00181011Lead, ProductionlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00193194Senior Health and Safety SpecialistlocationsBowling Green, Kentucky, USposted onPosted 30+ Days AgoR00200904MAP Production Team LeaderlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00185109Quality EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR001901913rd Shift Press Production Team LeaderlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00192098ToolmakerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00195737Quality EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199494IoT EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199540Robotics Technician - Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00182405Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00181173Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201549.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Robotics-Technician---Autonomous-Mobile-Robots_R00182405?q=nursing&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-robotics-technician-autonomous-mobile-robots-lowell"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "QA Engineer",
+    "job_city": "Lowell",
+    "job_state": "Massachusetts",
+    "job_posted_at": "1mo",
+    "job_description": "• Production Team Lead - All ShiftslocationsClinton, Tennessee, USposted onPosted 30+ Days AgoR00171448WCM/Lean ManagerlocationsCarrollton, Georgia, USposted onPosted 30+ Days AgoR00184650Press Team Leader - 3rd ShiftlocationsBowling Green, Kentucky, USposted onPosted 25 Days AgoR00192640Tool & Die Tech - 2nd and 3rd shiftlocationsBowling Green, Kentucky, USposted onPosted 5 Days AgoR00209492Materials Team Leader - 3rd ShiftlocationsBowling Green, Kentucky, USposted onPosted 24 Days AgoR00206627Coatings TechnicianlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00166823Engineering Department LeaderlocationsBowling Green, Kentucky, USposted onPosted 18 Days AgoR00177901Tooling CoordinatorlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00181011Lead, ProductionlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00193194Senior Health and Safety SpecialistlocationsBowling Green, Kentucky, USposted onPosted 30+ Days AgoR00200904MAP Production Team LeaderlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00185109Quality EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR001901913rd Shift Press Production Team LeaderlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00192098ToolmakerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00195737Quality EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199494IoT EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199540Robotics Technician - Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00182405Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00181173Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201549.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/QA-Engineer_R00201549?q=nursing&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-qa-engineer-lowell"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Materials Intern",
+    "job_city": "Troy",
+    "job_state": "Michigan",
+    "job_posted_at": "1mo",
+    "job_description": "• Electrical EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164189Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Solutions Engineer, SoftwarelocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00177592Senior Data ScientistlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164194Senior Systems Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00166619Materials InternlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190209Software Engineer, Industrial IOTlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190451Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135IOT Architectlocations2 Locationsposted onPosted 30+ Days AgoR00197257Application Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00174378Packaging Continuous Improvement InternlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00178789Solutions Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164190Senior Manager, International TaxlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00196100Build TechnicianlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00196814Technical Program ManagerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00201678Lead, Linux DevOps Support Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR00164198Deployment Engineer, Autonomous Mobile RobotslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00164191Lead Software EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00183560Materials CoordinatorlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00189884Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00197256.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Materials-Intern_R00190209?q=nursing&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-materials-intern-troy"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Application Engineer, Autonomous Mobile Robots",
+    "job_city": "Lowell",
+    "job_state": "Massachusetts",
+    "job_posted_at": "1mo",
+    "job_description": "• Electrical EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164189Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Solutions Engineer, SoftwarelocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00177592Senior Data ScientistlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164194Senior Systems Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00166619Materials InternlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190209Software Engineer, Industrial IOTlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190451Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135IOT Architectlocations2 Locationsposted onPosted 30+ Days AgoR00197257Application Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00174378Packaging Continuous Improvement InternlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00178789Solutions Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164190Senior Manager, International TaxlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00196100Build TechnicianlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00196814Technical Program ManagerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00201678Lead, Linux DevOps Support Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR00164198Deployment Engineer, Autonomous Mobile RobotslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00164191Lead Software EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00183560Materials CoordinatorlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00189884Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00197256.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Applications-Engineer--Autonomous-Mobile-Robots_R00174378?q=nursing&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-application-engineer-autonomous-mobile-robots-lowell"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Packaging Continuous Improvement Intern",
+    "job_city": "Troy",
+    "job_state": "Michigan",
+    "job_posted_at": "1mo",
+    "job_description": "• Electrical EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164189Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Solutions Engineer, SoftwarelocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00177592Senior Data ScientistlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164194Senior Systems Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00166619Materials InternlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190209Software Engineer, Industrial IOTlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190451Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135IOT Architectlocations2 Locationsposted onPosted 30+ Days AgoR00197257Application Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00174378Packaging Continuous Improvement InternlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00178789Solutions Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164190Senior Manager, International TaxlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00196100Build TechnicianlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00196814Technical Program ManagerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00201678Lead, Linux DevOps Support Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR00164198Deployment Engineer, Autonomous Mobile RobotslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00164191Lead Software EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00183560Materials CoordinatorlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00189884Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00197256.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Packaging-Continuous-Improvement-Intern_R00178789?q=nursing&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-packaging-continuous-improvement-intern-troy"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Solutions Engineer, Autonomous Mobile Robots",
+    "job_city": "Lowell",
+    "job_state": "Massachusetts",
+    "job_posted_at": "1mo",
+    "job_description": "• Electrical EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164189Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Solutions Engineer, SoftwarelocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00177592Senior Data ScientistlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164194Senior Systems Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00166619Materials InternlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190209Software Engineer, Industrial IOTlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190451Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135IOT Architectlocations2 Locationsposted onPosted 30+ Days AgoR00197257Application Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00174378Packaging Continuous Improvement InternlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00178789Solutions Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164190Senior Manager, International TaxlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00196100Build TechnicianlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00196814Technical Program ManagerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00201678Lead, Linux DevOps Support Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR00164198Deployment Engineer, Autonomous Mobile RobotslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00164191Lead Software EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00183560Materials CoordinatorlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00189884Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00197256.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Solutions-Engineer--Autonomous-Mobile-Robots_R00164190?q=nursing&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-solutions-engineer-autonomous-mobile-robots-lowell"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Build Technician",
+    "job_city": "Troy",
+    "job_state": "Michigan",
+    "job_posted_at": "1mo",
+    "job_description": "• Electrical EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164189Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Solutions Engineer, SoftwarelocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00177592Senior Data ScientistlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164194Senior Systems Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00166619Materials InternlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190209Software Engineer, Industrial IOTlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190451Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135IOT Architectlocations2 Locationsposted onPosted 30+ Days AgoR00197257Application Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00174378Packaging Continuous Improvement InternlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00178789Solutions Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164190Senior Manager, International TaxlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00196100Build TechnicianlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00196814Technical Program ManagerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00201678Lead, Linux DevOps Support Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR00164198Deployment Engineer, Autonomous Mobile RobotslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00164191Lead Software EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00183560Materials CoordinatorlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00189884Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00197256.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Build-Technician_R00196814?q=nursing&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-build-technician-troy"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "UI/UX Developer, Smart Factory Solutions",
+    "job_city": "Troy",
+    "job_state": "Michigan",
+    "job_posted_at": "1mo",
+    "job_description": "• Environmental Health and Safety (EHS) SpecialistlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00106521UI/UX Developer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190129Wellness CoordinatorlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00201083Sr.\n• Workday Functional Analyst, HR SystemslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00192530Senior Analyst, Compliance & Economic Development - Tax FocuslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00186149Senior Category Manager, SemiconductorslocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00170644Account Manager, Autonomous Mobile Robotslocations3 Locationsposted onPosted 30+ Days AgoR00106519Cloud Solutions Architect, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00187092Senior Manager, Special Projects/US TaxlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00177079.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/UI-UX-Developer--Smart-Factory-Solutions_R00190129?q=nursing&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-ui-ux-developer-smart-factory-solutions-troy"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "2026 Quantitative Finance Analyst & Associate Internship",
+    "job_title": "Corporate Health Nurse",
     "job_city": "New York",
     "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Applied AIML Lead Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Develop AI solutions for compliance and risk, enhancing skills in a dynamic data science team.\n• Associate New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Data Scientist Director Brooklyn, NY, United States Data & AnalyticsPredictive Science Seeking a dynamic leader with a strong corporate finance and analytical background.\n• Data Scientist Associate - SQL, Python, Tableau Mumbai, Maharashtra, India and 1 more Data & AnalyticsPredictive Science Drive data-driven solutions to enhance technology efficiency and developer experience at Chase Bank.\n• Vice President Product Manager - Data & AI Platform Adoption Lead Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Associate Data Domain Architect Mumbai, Maharashtra, India and 1 more Data & AnalyticsAnalytics Solutions & Delivery Join the team tasked with delivering Data pipeline automation and visualization to support the multiple Workforce Planning functions.\n• Sr Manager of Software Engineering - Data Engineering Expertise Wilmington, DE, United States TechnologyData Engineering Serve in a leadership role by providing data engineering advisory and anticipate the needs and dependencies of data users at the firm Site Reliability Engineer [Multiple Positions Available] Plano, TX, United States TechnologySoftware Engineering Develop tools and visualizations to gain insights into the customer experience and product interactions.\n• Data Scientist Senior Associate - Fraud Analytics Bengaluru, Karnataka, India Data & AnalyticsPredictive Science We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Senior GenAI Engineering Lead - Private Bank Jersey City, NJ, United States TechnologyPredictive Science Building the next generation technology that combines JPMC unique data and full-service advantage to develop high impact AI application Data Owner Vice President - Credit Card Customer Journey Plano, TX, United States and 1 more Data & AnalyticsAnalytics Solutions & Delivery Join our team to drive data-driven product development and enhance the Chase customer experience in the Credit Card business.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658044/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-2026-quantitative-finance-analyst-associate-internship-new-york"
+    "job_posted_at": "1d",
+    "job_description": "• 1 Open Job Categories 0 Benefits & Employee Services (1) Posting Dates 0 Greater than 30 days (1) Corporate Health Nurse New York, NY, United States Human ResourcesBenefits & Employee Services Want to serve in a critical role in our vibrant community and impact employee well-being and care as a Corporate Health Nurse.\n• Talent Network Didn't find the perfect job.\n• Create a profile so we can help Join the Network Job Identification 210645067 Job Category Benefits & Employee Services Business Unit Corporate Sector Posting Date 08/14/2025, 04:21 PM Locations 277 Park Ave, New York, NY, 10172, US Job Schedule Full time Job Shift Day Base Pay/Salary New York,NY $89,300.\n• 00 Careers Students How we hire Work with us Grow with us.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210645067/?keyword=nursing&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-corporate-health-nurse-new-york"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "2026 Machine Learning Center of Excellence (NLP) - Summer Associate",
+    "employer_name": "Microsoft",
+    "job_title": "Mechanical Engineer Intern",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "4d",
+    "job_description": "nursing job for the role Mechanical Engineer Intern",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-mechanical-engineer-intern-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Data Science: Internship Opportunities – Redmond",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "6d",
+    "job_description": "nursing job for the role Data Science: Internship Opportunities – Redmond",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-data-science-internship-opportunities-redmond-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Post Doc – Natural Language Processing – Microsoft Word Applied Science",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "2d",
+    "job_description": "nursing job for the role Post Doc – Natural Language Processing – Microsoft Word Applied Science",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-post-doc-natural-language-processing-microsoft-word-applied-science-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Research Intern - Multimodal Learning",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "2w",
+    "job_description": "nursing job for the role Research Intern - Multimodal Learning",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-research-intern-multimodal-learning-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Mechanical Engineer: Internship Opportunities - PhD - Redmond",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "11mo",
+    "job_description": "nursing job for the role Mechanical Engineer: Internship Opportunities - PhD - Redmond",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-mechanical-engineer-internship-opportunities-phd-redmond-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Research Intern - Microsoft Research AI Frontiers",
     "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Applied AIML Lead Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Develop AI solutions for compliance and risk, enhancing skills in a dynamic data science team.\n• Associate New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Data Scientist Director Brooklyn, NY, United States Data & AnalyticsPredictive Science Seeking a dynamic leader with a strong corporate finance and analytical background.\n• Data Scientist Associate - SQL, Python, Tableau Mumbai, Maharashtra, India and 1 more Data & AnalyticsPredictive Science Drive data-driven solutions to enhance technology efficiency and developer experience at Chase Bank.\n• Vice President Product Manager - Data & AI Platform Adoption Lead Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Associate Data Domain Architect Mumbai, Maharashtra, India and 1 more Data & AnalyticsAnalytics Solutions & Delivery Join the team tasked with delivering Data pipeline automation and visualization to support the multiple Workforce Planning functions.\n• Sr Manager of Software Engineering - Data Engineering Expertise Wilmington, DE, United States TechnologyData Engineering Serve in a leadership role by providing data engineering advisory and anticipate the needs and dependencies of data users at the firm Site Reliability Engineer [Multiple Positions Available] Plano, TX, United States TechnologySoftware Engineering Develop tools and visualizations to gain insights into the customer experience and product interactions.\n• Data Scientist Senior Associate - Fraud Analytics Bengaluru, Karnataka, India Data & AnalyticsPredictive Science We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Senior GenAI Engineering Lead - Private Bank Jersey City, NJ, United States TechnologyPredictive Science Building the next generation technology that combines JPMC unique data and full-service advantage to develop high impact AI application Data Owner Vice President - Credit Card Customer Journey Plano, TX, United States and 1 more Data & AnalyticsAnalytics Solutions & Delivery Join our team to drive data-driven product development and enhance the Chase customer experience in the Credit Card business.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664608/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-2026-machine-learning-center-of-excellence-nlp-summer-associate-new-york"
+    "job_state": "United States + 1 more",
+    "job_posted_at": "1mo",
+    "job_description": "nursing job for the role Research Intern - Microsoft Research AI Frontiers",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-research-intern-microsoft-research-ai-frontiers-new-york"
   },
   {
-    "employer_name": "Texas Instruments",
-    "job_title": "Information Technology Intern – Data Analysis & Engineering",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Today",
-    "job_description": "• Information Technology Intern – Data Analysis & Engineering Locations Dallas, TX, United States Posting Date09/05/2025 Information Technology Intern – Infrastructure Locations Dallas, TX, United States Posting Date09/05/2025 IT Operations Development Program Locations Dallas, TX, United States Posting Date09/05/2025 Web Marketing Intern - Digital Experience and Analytics Locations Dallas, TX, United States Posting Date09/04/2025 Web Marketing Intern - Web Technology and Platforms Locations Dallas, TX, United States Posting Date09/04/2025 Career Accelerator Program - Test Engineer Locations Dallas, TX, United States Posting Date09/05/2025 Resolution Enhancement Techniques (RET) Process Development Engr Locations Dallas, TX, United States Posting Date07/02/2025 GaN Techology Development Leader Locations Dallas, TX, United States Posting Date07/14/2025 Process Development Engineer Locations Dallas, TX, United States Posting Date07/18/2025 Entry Level Process Technician (Lehi, UT) Locations Lehi, UT, United States Posting Date08/25/2025 DFM Engineer Locations Dallas, TX, United States Posting Date07/02/2025 Principle Architect – Customer Experience & AI Systems Locations Dallas, TX, United States Posting Date07/31/2025 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Our culture Locations North America Europe Asia Pacific Jobs 12 Job search results 12 Events 0 Work Locations 0 Dallas, North Campus - DMOS V South (4) Dallas, South Campus (3) Dallas, North Campus - Kilby East (2) Richardson, Richardson Fab, Renner Rd (2) Dallas, North Campus - Kilby Center (1) Dallas, North Campus - Generic (1) Lehi, Lehi, UT (1) Categories 0 Engineering - Product Dev (5) Information Technology (4) Marketing (2) Manufacturing (1) Experience Level 0 Experienced Professional (5) Interns (4) Recent College Grads (3) Work Locations 0 Dallas, North Campus - DMOS V South (4) Dallas, South Campus (3) Dallas, North Campus - Kilby East (2) Richardson, Richardson Fab, Renner Rd (2) Dallas, North Campus - Kilby Center (1) Dallas, North Campus - Generic (1) Lehi, Lehi, UT (1) Categories 0 Engineering - Product Dev (5) Information Technology (4) Marketing (2) Manufacturing (1) Experience Level 0 Experienced Professional (5) Interns (4) Recent College Grads (3) Job Identification 25007019 Job Category Information Technology Posting Date 09/05/2025, 03:04 PM Degree Level High School Graduate Locations EXKI 13560 N.\n• Renner Road, Richardson, TX, 75080, US ECL/GTC Required Yes Basic understanding of web development, programming (C, C++, Java, Perl, Python, R, SQL) and scriptingBasic understanding of Networks, Operating systems (Windows, Unix) and DatabasesAbility to establish strong relationships with key stakeholders critical to success, both internally and externallyStrong verbal and written communication skillsAbility to quickly ramp on new systems and processesDemonstrated strong interpersonal, analytical and problem-solving skillsAbility to work in teams and collaborate effectively with people in different functionsAbility to take the initiative and drive for resultsStrong time management skills that enable on-time project delivery Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Experienced Professional (5) Interns (4) Recent College Grads (3) Experienced Professional (5) Interns (4) Recent College Grads (3) Currently pursuing a bachelors degree in Computer Science, Computer engineering, Data Science, Data Engineering, AI, Machine Learning, and Software EngineeringCumulative 3.\n• Central Expwy, Dallas, TX, 75243, US RFAB 300 W.\n• We empower our employees to truly own their career and development.\n• Come collaborate with some of the smartest people in the world to shape the future of electronics.\n• We're different by design.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007019/?keyword=data+science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-information-technology-intern-data-analysis-engineering-dallas"
+    "employer_name": "Microsoft",
+    "job_title": "PhD Cloud Network Engineer Intern",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "4d",
+    "job_description": "nursing job for the role PhD Cloud Network Engineer Intern",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-phd-cloud-network-engineer-intern-redmond"
   },
   {
-    "employer_name": "Texas Instruments",
-    "job_title": "Information Technology Intern – Infrastructure",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Today",
-    "job_description": "• Information Technology Intern – Data Analysis & Engineering Locations Dallas, TX, United States Posting Date09/05/2025 Information Technology Intern – Infrastructure Locations Dallas, TX, United States Posting Date09/05/2025 IT Operations Development Program Locations Dallas, TX, United States Posting Date09/05/2025 Web Marketing Intern - Digital Experience and Analytics Locations Dallas, TX, United States Posting Date09/04/2025 Web Marketing Intern - Web Technology and Platforms Locations Dallas, TX, United States Posting Date09/04/2025 Career Accelerator Program - Test Engineer Locations Dallas, TX, United States Posting Date09/05/2025 Resolution Enhancement Techniques (RET) Process Development Engr Locations Dallas, TX, United States Posting Date07/02/2025 GaN Techology Development Leader Locations Dallas, TX, United States Posting Date07/14/2025 Process Development Engineer Locations Dallas, TX, United States Posting Date07/18/2025 Entry Level Process Technician (Lehi, UT) Locations Lehi, UT, United States Posting Date08/25/2025 DFM Engineer Locations Dallas, TX, United States Posting Date07/02/2025 Principle Architect – Customer Experience & AI Systems Locations Dallas, TX, United States Posting Date07/31/2025 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Our culture Locations North America Europe Asia Pacific Jobs 12 Job search results 12 Events 0 Work Locations 0 Dallas, North Campus - DMOS V South (4) Dallas, South Campus (3) Dallas, North Campus - Kilby East (2) Richardson, Richardson Fab, Renner Rd (2) Dallas, North Campus - Kilby Center (1) Dallas, North Campus - Generic (1) Lehi, Lehi, UT (1) Categories 0 Engineering - Product Dev (5) Information Technology (4) Marketing (2) Manufacturing (1) Experience Level 0 Experienced Professional (5) Interns (4) Recent College Grads (3) Work Locations 0 Dallas, North Campus - DMOS V South (4) Dallas, South Campus (3) Dallas, North Campus - Kilby East (2) Richardson, Richardson Fab, Renner Rd (2) Dallas, North Campus - Kilby Center (1) Dallas, North Campus - Generic (1) Lehi, Lehi, UT (1) Categories 0 Engineering - Product Dev (5) Information Technology (4) Marketing (2) Manufacturing (1) Experience Level 0 Experienced Professional (5) Interns (4) Recent College Grads (3) Job Identification 25007020 Job Category Information Technology Posting Date 09/05/2025, 03:04 PM Degree Level High School Graduate Locations EXKI 13560 N.\n• Renner Road, Richardson, TX, 75080, US ECL/GTC Required Yes Basic understanding of web development, programming (C, C++, Java, Perl, Python, R, SQL) and scriptingBasic understanding of Networks, Operating systems (Windows, Unix) and DatabasesAbility to establish strong relationships with key stakeholders critical to success, both internally and externallyStrong verbal and written communication skillsAbility to quickly ramp on new systems and processesDemonstrated strong interpersonal, analytical and problem-solving skillsAbility to work in teams and collaborate effectively with people in different functionsAbility to take the initiative and drive for resultsStrong time management skills that enable on-time project delivery Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Experienced Professional (5) Interns (4) Recent College Grads (3) Experienced Professional (5) Interns (4) Recent College Grads (3) Currently pursuing a bachelors degree in Computer Science, Computer engineering, Data Science, Data Engineering, AI, Machine Learning, and Software EngineeringCumulative 3.\n• Central Expwy, Dallas, TX, 75243, US RFAB 300 W.\n• We empower our employees to truly own their career and development.\n• Come collaborate with some of the smartest people in the world to shape the future of electronics.\n• We're different by design.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007020/?keyword=data+science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-information-technology-intern-infrastructure-dallas"
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Frontend Intern Opportunities for University Students, Redmond",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "1d",
+    "job_description": "nursing job for the role Software Engineer: Frontend Intern Opportunities for University Students, Redmond",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-frontend-intern-opportunities-for-university-students-redmond-redmond"
   },
   {
-    "employer_name": "Texas Instruments",
-    "job_title": "IT Operations Development Program",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Today",
-    "job_description": "• Information Technology Intern – Data Analysis & Engineering Locations Dallas, TX, United States Posting Date09/05/2025 Information Technology Intern – Infrastructure Locations Dallas, TX, United States Posting Date09/05/2025 IT Operations Development Program Locations Dallas, TX, United States Posting Date09/05/2025 Web Marketing Intern - Digital Experience and Analytics Locations Dallas, TX, United States Posting Date09/04/2025 Web Marketing Intern - Web Technology and Platforms Locations Dallas, TX, United States Posting Date09/04/2025 Career Accelerator Program - Test Engineer Locations Dallas, TX, United States Posting Date09/05/2025 Resolution Enhancement Techniques (RET) Process Development Engr Locations Dallas, TX, United States Posting Date07/02/2025 GaN Techology Development Leader Locations Dallas, TX, United States Posting Date07/14/2025 Process Development Engineer Locations Dallas, TX, United States Posting Date07/18/2025 Entry Level Process Technician (Lehi, UT) Locations Lehi, UT, United States Posting Date08/25/2025 DFM Engineer Locations Dallas, TX, United States Posting Date07/02/2025 Principle Architect – Customer Experience & AI Systems Locations Dallas, TX, United States Posting Date07/31/2025 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Our culture Locations North America Europe Asia Pacific Jobs 12 Job search results 12 Events 0 Work Locations 0 Dallas, North Campus - DMOS V South (4) Dallas, South Campus (3) Dallas, North Campus - Kilby East (2) Richardson, Richardson Fab, Renner Rd (2) Dallas, North Campus - Kilby Center (1) Dallas, North Campus - Generic (1) Lehi, Lehi, UT (1) Categories 0 Engineering - Product Dev (5) Information Technology (4) Marketing (2) Manufacturing (1) Experience Level 0 Experienced Professional (5) Interns (4) Recent College Grads (3) Work Locations 0 Dallas, North Campus - DMOS V South (4) Dallas, South Campus (3) Dallas, North Campus - Kilby East (2) Richardson, Richardson Fab, Renner Rd (2) Dallas, North Campus - Kilby Center (1) Dallas, North Campus - Generic (1) Lehi, Lehi, UT (1) Categories 0 Engineering - Product Dev (5) Information Technology (4) Marketing (2) Manufacturing (1) Experience Level 0 Experienced Professional (5) Interns (4) Recent College Grads (3) Basic understanding of web development, programming (C, C++, Java, Perl, Python, R, SQL) and scriptingBasic understanding of Networks, Operating systems (Windows, Unix) and DatabasesDemonstrated strong analytical and problem solving skillsStrong verbal and written communication skillsAbility to work in teams and collaborate effectively with people in different functionsStrong time management skills that enable on-time project deliveryDemonstrated ability to build strong, influential relationshipsAbility to work effectively in a fast-paced and rapidly changing environmentAbility to take the initiative and drive for resultsDemonstrated ability to handle multiple prioritiesAbility to handle ambiguityStrong customer service skillsDemonstrated ability to handle multiple prioritiesAbility to handle ambiguity Job Identification 25007051 Job Category Information Technology Posting Date 09/05/2025, 03:15 PM Degree Level Bachelor's Degree Locations FORE 12500 TI Boulevard, Dallas, TX, 75243, US ECL/GTC Required Yes Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Experienced Professional (5) Interns (4) Recent College Grads (3) Experienced Professional (5) Interns (4) Recent College Grads (3) Currently pursuing a bachelors degree in Computer Science, Computer engineering, Data Science, Data Engineering, AI, Machine Learning, and Software EngineeringCumulative 3.\n• We empower our employees to truly own their career and development.\n• Come collaborate with some of the smartest people in the world to shape the future of electronics.\n• We're different by design.\n• We value each and every voice, and look forward to hearing yours.\n• Meet the people of TI Benefits that benefit you.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007051/?keyword=data+science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-it-operations-development-program-dallas"
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Applied AI/ML Intern Opportunities for University Students, Mountain View",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "2d",
+    "job_description": "nursing job for the role Software Engineer: Applied AI/ML Intern Opportunities for University Students, Mountain View",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-applied-ai-ml-intern-opportunities-for-university-students-mountain-view-mountain-view"
   },
   {
-    "employer_name": "Texas Instruments",
-    "job_title": "Career Accelerator Program - Test Engineer",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Today",
-    "job_description": "• Information Technology Intern – Data Analysis & Engineering Locations Dallas, TX, United States Posting Date09/05/2025 Information Technology Intern – Infrastructure Locations Dallas, TX, United States Posting Date09/05/2025 IT Operations Development Program Locations Dallas, TX, United States Posting Date09/05/2025 Web Marketing Intern - Digital Experience and Analytics Locations Dallas, TX, United States Posting Date09/04/2025 Web Marketing Intern - Web Technology and Platforms Locations Dallas, TX, United States Posting Date09/04/2025 Career Accelerator Program - Test Engineer Locations Dallas, TX, United States Posting Date09/05/2025 Resolution Enhancement Techniques (RET) Process Development Engr Locations Dallas, TX, United States Posting Date07/02/2025 GaN Techology Development Leader Locations Dallas, TX, United States Posting Date07/14/2025 Process Development Engineer Locations Dallas, TX, United States Posting Date07/18/2025 Entry Level Process Technician (Lehi, UT) Locations Lehi, UT, United States Posting Date08/25/2025 DFM Engineer Locations Dallas, TX, United States Posting Date07/02/2025 Principle Architect – Customer Experience & AI Systems Locations Dallas, TX, United States Posting Date07/31/2025 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Our culture Locations North America Europe Asia Pacific Jobs 12 Job search results 12 Events 0 Work Locations 0 Dallas, North Campus - DMOS V South (4) Dallas, South Campus (3) Dallas, North Campus - Kilby East (2) Richardson, Richardson Fab, Renner Rd (2) Dallas, North Campus - Kilby Center (1) Dallas, North Campus - Generic (1) Lehi, Lehi, UT (1) Categories 0 Engineering - Product Dev (5) Information Technology (4) Marketing (2) Manufacturing (1) Experience Level 0 Experienced Professional (5) Interns (4) Recent College Grads (3) Work Locations 0 Dallas, North Campus - DMOS V South (4) Dallas, South Campus (3) Dallas, North Campus - Kilby East (2) Richardson, Richardson Fab, Renner Rd (2) Dallas, North Campus - Kilby Center (1) Dallas, North Campus - Generic (1) Lehi, Lehi, UT (1) Categories 0 Engineering - Product Dev (5) Information Technology (4) Marketing (2) Manufacturing (1) Experience Level 0 Experienced Professional (5) Interns (4) Recent College Grads (3) ATE experience on Teradyne Eagle or equivalent analog ATE (iFlex, LTX, VLCT)Characterization test program and hardware development knowledgeProduction test program and hardware development knowledgeTechnical knowledge of electronic devices and circuits, and Analog test techniquesData analysis skills using Spotfire, dataPower or equivalent tool based on STDFExperienced with various lab equipment such as scopes, power supplies, sourcemeters, loads etc.\n• Experience with product engineering activities such as yield improvement and test time reductionUnderstanding of the IC product development process, from concept to volume productionProficiency in programming/scripting in C++, Python, C#Demonstrated strong analytical and problem solving skillsStrong verbal and written communication skillsAbility to work in teams and collaborate effectively with people in different functionsStrong time management skills that enable on-time project deliveryDemonstrated ability to build strong, influential relationshipsAbility to work effectively in a fast-paced and rapidly changing environmentAbility to take the initiative and drive for results Work with design team to understand design specifications Generate test plan, creating test and char program, designing ATE hardware interface boards Debug characterizing silicon on ATE, correlate results with bench data Analyze silicon results, supporting failure analysis tasks Perform statistical analysis of yield fallout, debugging and fixing yield issues.\n• Optimizing test time Work with production team to release products to volume production Create test strategy definition and implementation for new products Work silicon qualification & characterization including qual hardware development Comprehensive device debugging, design validation and failure analysis Drive for robust and cost effective test solutions while being accountable for product quality Job Identification 25007075 Job Category Engineering - Product Dev Posting Date 09/05/2025, 02:59 PM Degree Level Bachelor's Degree Locations EXGN 13510 N Central Expwy, Dallas, TX, 75243, US ECL/GTC Required Yes Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Experienced Professional (5) Interns (4) Recent College Grads (3) Experienced Professional (5) Interns (4) Recent College Grads (3).\n• We empower our employees to truly own their career and development.\n• Come collaborate with some of the smartest people in the world to shape the future of electronics.\n• We're different by design.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007075/?keyword=data+science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-career-accelerator-program-test-engineer-dallas"
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Fullstack Intern Opportunities for University Students, Redmond",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "2d",
+    "job_description": "nursing job for the role Software Engineer: Fullstack Intern Opportunities for University Students, Redmond",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-fullstack-intern-opportunities-for-university-students-redmond-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Fullstack Intern Opportunities for University Students, Atlanta",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_posted_at": "1d",
+    "job_description": "nursing job for the role Software Engineer: Fullstack Intern Opportunities for University Students, Atlanta",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-fullstack-intern-opportunities-for-university-students-atlanta-atlanta"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Systems Intern Opportunities for University Students, Redmond",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "1d",
+    "job_description": "nursing job for the role Software Engineer: Systems Intern Opportunities for University Students, Redmond",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-systems-intern-opportunities-for-university-students-redmond-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Applied AI/ML Intern Opportunities for University Students, Redmond",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "2d",
+    "job_description": "nursing job for the role Software Engineer: Applied AI/ML Intern Opportunities for University Students, Redmond",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-applied-ai-ml-intern-opportunities-for-university-students-redmond-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Applied Science: Internship Opportunities – Redmond",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "1w",
+    "job_description": "nursing job for the role Applied Science: Internship Opportunities – Redmond",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-applied-science-internship-opportunities-redmond-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer - Fullstack, Redmond",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "1w",
+    "job_description": "nursing job for the role Software Engineer - Fullstack, Redmond",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-fullstack-redmond-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Security Intern Opportunities for University Students, Redmond",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "1d",
+    "job_description": "nursing job for the role Software Engineer: Security Intern Opportunities for University Students, Redmond",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-security-intern-opportunities-for-university-students-redmond-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Fullstack Intern Opportunities for University Students, Mountain View",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "2d",
+    "job_description": "nursing job for the role Software Engineer: Fullstack Intern Opportunities for University Students, Mountain View",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-fullstack-intern-opportunities-for-university-students-mountain-view-mountain-view"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Post Doc Researcher - Artificial Intelligence and Machine Learning (Theoretical) – Microsoft Research",
+    "job_city": "",
+    "job_state": "New York",
+    "job_posted_at": "2d",
+    "job_description": "nursing job for the role Post Doc Researcher - Artificial Intelligence and Machine Learning (Theoretical) – Microsoft Research",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-post-doc-researcher-artificial-intelligence-and-machine-learning-theoretical-microsoft-research-"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Post Doc Researcher - Artificial Intelligence and Machine Learning (Empirical) – Microsoft Research",
+    "job_city": "",
+    "job_state": "New York",
+    "job_posted_at": "2d",
+    "job_description": "nursing job for the role Post Doc Researcher - Artificial Intelligence and Machine Learning (Empirical) – Microsoft Research",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-post-doc-researcher-artificial-intelligence-and-machine-learning-empirical-microsoft-research-"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer - Fullstack, Multiple Locations",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "1w",
+    "job_description": "nursing job for the role Software Engineer - Fullstack, Multiple Locations",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-fullstack-multiple-locations-"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Marketing: MBA Internship Opportunities",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "1w",
+    "job_description": "nursing job for the role Marketing: MBA Internship Opportunities",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-marketing-mba-internship-opportunities-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: AI/ML Intern Opportunities for University Students, Redmond",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "1mo",
+    "job_description": "nursing job for the role Software Engineer: AI/ML Intern Opportunities for University Students, Redmond",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-ai-ml-intern-opportunities-for-university-students-redmond-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Applied Science: PhD Internship Opportunities – Redmond",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "1mo",
+    "job_description": "nursing job for the role Applied Science: PhD Internship Opportunities – Redmond",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-applied-science-phd-internship-opportunities-redmond-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Supply Chain Planner: Internship Opportunities",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "1mo",
+    "job_description": "nursing job for the role Supply Chain Planner: Internship Opportunities",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-supply-chain-planner-internship-opportunities-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Applied Scientist: Microsoft AI – PhD Internship Opportunities – Redmond",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "1mo",
+    "job_description": "nursing job for the role Applied Scientist: Microsoft AI – PhD Internship Opportunities – Redmond",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-applied-scientist-microsoft-ai-phd-internship-opportunities-redmond-redmond"
   }
 ]
