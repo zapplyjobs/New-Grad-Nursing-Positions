@@ -300,7 +300,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital.
 
-🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](#contributing-guide).
+🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](Contributing-guide).
 
 ---
 
