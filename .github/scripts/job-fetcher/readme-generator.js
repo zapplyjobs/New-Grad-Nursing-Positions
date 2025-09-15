@@ -232,7 +232,7 @@ ${internshipData.companyPrograms
   .map((program) => {
     // const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
     // const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `| ${program.emoji} ${program.company} | ${program.program} |<a href="${program.url}" style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">Apply button</a>|`;
+    return `|${program.company} | ${program.program} |<a href="${program.url}" style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">Apply button</a>|`;
   })
   .join("\n")}
 
@@ -300,7 +300,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital.
 
-🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](Contributing-guide).
+🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](Contributing-new.md).
 
 ---
 
@@ -480,46 +480,8 @@ Review this [comprehensive interview guide on common behavioral, technical, and 
 
 📱 **Bookmark on your phone** for quick job hunting.
 
-🤝 **Become a contributor** and add new jobs! Visit our contributing guide [here](#contributing-guide).
+🤝 **Become a contributor** and add new jobs! Visit our contributing guide [here](Contributing-new.md).
 
----
-
-## Contributing Guide
-
-### 🎯 Roles We Accept
-
-- Located in the US, Canada, or Remote.
-- Not already in our database.
-- Currently accepting applications.
-
-### 🚀 How to Add Jobs
-
-**Step 1:** Create a new [issue](#).
-
-**Step 2:** Select "New Job" template.
-
-**Step 3:** Fill out the form and submit.
-
-> Make separate issues for each position, even from the same company.
-
-### ✏️ How to Update Jobs
-
-**Step 1:** Copy the job URL you want to edit.
-
-**Step 2:** Create a new [issue](#).
-
-**Step 3:** Select "Edit Job" template.
-
-**Step 4:** Paste the URL and describe changes needed.
-
-### ⚡ What Happens Next
-
-- Our team reviews within 24-48 hours.
-- Approved jobs get automatically added to the main list.
-- The README updates automatically via script.
-- You'll see your contribution live at next daily refresh (9 AM UTC).
-
-**Questions?** Create a [miscellaneous issue](#) and we'll help out! 🙏
 
 ---
 

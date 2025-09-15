@@ -1328,57 +1328,57 @@ async function fetchInternshipData() {
 
   // Add company-specific internship programs
   const companyInternshipPrograms = [
-    {"emogi": "🟢",
-        "company": "Mayo Clinic",
+    {  
+        "company": "🟢 Mayo Clinic",
         "program": "Summer III Student Nurse Internship",
         "url": "https://jobs.mayoclinic.org/nursinginternexternprograms",
         "deadline": "Various",
         
     },
-    {"emogi": "🟦",
-        "company": "Pfizer",
+    {  
+        "company": "🟦 Pfizer",
         "program": "AMCP Foundation/Pfizer Managed Care Internship",
         "url": "https://www.pfizer.com/about/careers/early-careers",
         "deadline": "Various",
         
     },
-    {"emogi": "🔵",
-        "company": "CVS Health",
+    {  
+        "company": "🔵 CVS Health",
         "program": "Pharmacy Internship",
         "url": "https://jobs.cvshealth.com/us/en/students---pharmacy-opportunities",
         "deadline": "Various",
         
     },
-    {"emogi": "📦",
-        "company": "Johnson & Johnson",
+    {  
+        "company": "📦 Johnson & Johnson",
         "program": "Nursing Internship",
         "url": "https://www.careers.jnj.com/students",
         "deadline": "Various",
         
     },
-    {"emogi": "🍎",
-        "company": "Kaiser Permanente",
+    {  
+        "company": "🍎 Kaiser Permanente",
         "program": "Nurse Extern Program",
         "url": "https://www.kaiserpermanentejobs.org/students",
         "deadline": "Various",
         
     },
-    {"emogi": "🎬 ",
-        "company": "Merck",
+    {  
+        "company": "🎬 Merck",
         "program": "Medical Affairs Internship",
         "url": "https://jobs.merck.com/us/en/students",
         "deadline": "Various",
         
     },
-    {"emogi": "🎮",
-        "company": "Cleveland Clinic",
+    {  
+        "company": "⚡ Cleveland Clinic",
         "program": "Science Summer Internship",
         "url": "https://my.clevelandclinic.org/departments/education/center-for-youth-and-college-education/internships",
         "deadline": "Various",
         
     },
-    {"emogi": "🎮",
-        "company": "UnitedHealth",
+    {  
+        "company": "🎮 UnitedHealth",
         "program": "Nursing Internship",
         "url": "https://www.unitedhealthgroup.com/careers/en/early-careers/programs/clinical.html",
         "deadline": "Various",
