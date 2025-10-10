@@ -22,12 +22,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 0 hot healthcare and medical jobs
-🏢 **Top Companies:** 0 elite tech including Mayo Clinic, CVS Health, Pfizer
-⭐ **FAANG+ Jobs & Internships:** 0 premium opportunities
-📅 **Last Updated:** October 10, 2025
-🤖 **Next Update:** Tomorrow at 9 AM UTC
-📁 **Archived Healthcare Jobs:** 0 (older than 1 week)
+- 🔥 **Current Positions:** 0 hot healthcare and medical jobs
+- 🏢 **Top Companies:** 0 elite tech including Mayo Clinic, CVS Health, Pfizer
+- ⭐ **FAANG+ Jobs & Internships:** 0 premium opportunities
+- 📅 **Last Updated:** October 10, 2025
+- 🤖 **Next Update:** Tomorrow at 9 AM UTC
+- 📁 **Archived Healthcare Jobs:** 0 (older than 1 week)
 
 
 ---
@@ -142,10 +142,10 @@ No companies available
 
 ## 📬 **Stay Updated**
 
--⭐ **Star this repo** to bookmark and check daily.
--👀 **Watch** to get notified of new data postings.
--📱 **Bookmark on your phone** for quick job hunting.
--🤝 **Become a contributor** and add new jobs! Visit our contributing guide [here](CONTRIBUTING-GUIDE.md).
+- ⭐ **Star this repo** to bookmark and check daily.
+- 👀 **Watch** to get notified of new data postings.
+- 📱 **Bookmark on your phone** for quick job hunting.
+- 🤝 **Become a contributor** and add new jobs! Visit our contributing guide [here](CONTRIBUTING-GUIDE.md).
 
 
 ---
