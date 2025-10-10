@@ -220,7 +220,7 @@ function generateInternshipSection(internshipData) {
  return `
 ---
 
-## 🎓 **Healthcare Internships 2025-2026**
+## 🎓 **Healthcare Internships 2026**
 
 Programs for nursing students, public health majors, and pre-med/biomedical students.
 
@@ -294,7 +294,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
   const internshipSection = generateInternshipSection(internshipData);
   const archivedSection = generateArchivedSection(archivedJobs, stats);
 
-  return `# 🏥 Healthcare & Nursing Jobs & Internships 2025-2026 by Zapply
+  return `# 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
   🚀 Real-time nursing, healthcare, and medical job listings from ${totalCompanies}+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.
 
@@ -335,7 +335,7 @@ Use Zapply’s extension to instantly submit applications across 500+ hospitals,
 
 ${internshipSection}
 
-## 🎯 Fresh Software Job Listings 2025-2026 (under 1 week)
+## 🎯 Fresh Software Job Listings 2026 (under 1 week)
 
 ${jobTable}
 
