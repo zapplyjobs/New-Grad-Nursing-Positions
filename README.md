@@ -20,19 +20,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 
 ---
-
 ## 📊 **Live Stats**
 
 🔥 **Current Positions:** 0 hot healthcare and medical jobs
-
 🏢 **Top Companies:** 0 elite tech including Mayo Clinic, CVS Health, Pfizer
-
 ⭐ **FAANG+ Jobs & Internships:** 0 premium opportunities
-
 📅 **Last Updated:** October 10, 2025
-
 🤖 **Next Update:** Tomorrow at 9 AM UTC
-
 📁 **Archived Healthcare Jobs:** 0 (older than 1 week)
 
 
@@ -127,25 +121,22 @@ No companies available
 ## 🚀 Job Hunt Tips That Actually Work
 
 ### 🔍 **Research Before Applying**
-
--**Find the hiring manager**: Search "[Company] [Team] engineering manager" on LinkedIn.
--**Check recent tech decisions**: Read their engineering blog for stack changes or new initiatives.
--**Verify visa requirements**: Look for 🇺🇸 indicator or "US persons only" in job description.
-- [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx).
+- **Find the hiring manager**: Search "[Company] [Team] engineering manager" on LinkedIn.
+- **Check recent tech decisions**: Read their engineering blog for stack changes or new initiatives.
+- **Verify visa requirements**: Look for 🇺🇸 indicator or "US persons only" in job description.
+- [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx)
 
 ### 📄 **Resume Best Practices**
-
--**Mirror their tech stack**: Copy exact keywords from job post (RN, medical assistant, health analyst).
--**Lead with business impact**: "Reduced churn by 12% through cohort analysis" > "Used Excel."
--**Show certifications**: "Mention BLS, CNA, or any state licensure prominently."
-- [Read this informative guide on tweaking your resume](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
+- **Mirror their tech stack**: Copy exact keywords from job post (RN, medical assistant, health analyst)
+- **Lead with business impact**: "Reduced churn by 12% through cohort analysis" > "Used Excel"
+- **Show certifications**: "Mention BLS, CNA, or any state licensure prominently"
+- [Read this informative guide on tweaking your resume](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e)
 
 ### 🎯 **Interview Best Practices**
-
--**Prepare patient care stories**: "How do you ensure model explainability in production?" shows real research.
--**Highlight compliance**: "Improved forecast accuracy by 20% using time-series analysis."
--**Mention tools**: "As a daily Slack user, I've noticed..." proves genuine interest.
-- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
+- **Prepare patient care stories**: "How do you ensure model explainability in production?" shows real research
+- **Highlight compliance**: "Improved forecast accuracy by 20% using time-series analysis"
+- **Mention tools**: "As a daily Slack user, I've noticed..." proves genuine interest
+- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0)
 
 ---
 
