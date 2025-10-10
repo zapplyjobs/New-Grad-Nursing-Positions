@@ -274,12 +274,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** ${currentJobs.length} hot healthcare and medical jobs
-🏢 **Top Companies:** ${totalCompanies} elite tech including Mayo Clinic, CVS Health, Pfizer
-⭐ **FAANG+ Jobs & Internships:** ${faangJobs} premium opportunities
-📅 **Last Updated:** ${currentDate}
-🤖 **Next Update:** Tomorrow at 9 AM UTC
-📁 **Archived Healthcare Jobs:** ${archivedJobs.length} (older than 1 week)
+- 🔥 **Current Positions:** ${currentJobs.length} hot healthcare and medical jobs
+- 🏢 **Top Companies:** ${totalCompanies} elite tech including Mayo Clinic, CVS Health, Pfizer
+- ⭐ **FAANG+ Jobs & Internships:** ${faangJobs} premium opportunities
+- 📅 **Last Updated:** ${currentDate}
+- 🤖 **Next Update:** Tomorrow at 9 AM UTC
+- 📁 **Archived Healthcare Jobs:** ${archivedJobs.length} (older than 1 week)
 
 ${internshipData ? generateInternshipSection(internshipData) : ""}
 
@@ -413,10 +413,10 @@ ${
 
 ## 📬 **Stay Updated**
 
--⭐ **Star this repo** to bookmark and check daily.
--👀 **Watch** to get notified of new data postings.
--📱 **Bookmark on your phone** for quick job hunting.
--🤝 **Become a contributor** and add new jobs! Visit our contributing guide [here](CONTRIBUTING-GUIDE.md).
+- ⭐ **Star this repo** to bookmark and check daily.
+- 👀 **Watch** to get notified of new data postings.
+- 📱 **Bookmark on your phone** for quick job hunting.
+- 🤝 **Become a contributor** and add new jobs! Visit our contributing guide [here](CONTRIBUTING-GUIDE.md).
 
 
 ---
