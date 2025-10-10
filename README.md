@@ -1,4 +1,4 @@
-# 🏥 Healthcare & Nursing Jobs & Internships 2025-2026 by Zapply
+# 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
   🚀 Real-time nursing, healthcare, and medical job listings from 0+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 0+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.
 
@@ -29,7 +29,7 @@ Use Zapply’s extension to instantly submit applications across 500+ hospitals,
 
 ⭐ **FAANG+ Jobs & Internships:** 0 premium opportunities
 
-📅 **Last Updated:** October 9, 2025
+📅 **Last Updated:** October 10, 2025
 
 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
@@ -40,7 +40,7 @@ Use Zapply’s extension to instantly submit applications across 500+ hospitals,
 
 ---
 
-## 🎓 **Healthcare Internships 2025-2026**
+## 🎓 **Healthcare Internships 2026**
 
 Programs for nursing students, public health majors, and pre-med/biomedical students.
 
@@ -69,7 +69,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 
 
-## 🎯 Fresh Software Job Listings 2025-2026 (under 1 week)
+## 🎯 Fresh Software Job Listings 2026 (under 1 week)
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
@@ -200,4 +200,4 @@ Review this [comprehensive interview guide on common behavioral, technical, and 
 
 *Not affiliated with any companies listed. All applications redirect to official career pages.*
 
-**Last Updated:** October 9, 2025 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** October 10, 2025 • **Next Update:** Daily at 9 AM UTC
