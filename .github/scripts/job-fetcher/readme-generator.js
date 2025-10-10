@@ -115,17 +115,14 @@ function generateJobTable(jobs) {
       const positionText = totalJobs === 1 ? "position" : "positions";
       output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} ${positionText})\n\n`;
 
-      // First handle companies with more than 10 jobs - each gets its own table/section
-      const bigCompanies = companiesWithJobs.filter(
-        (companyName) => jobsByCompany[companyName].length > 10
-      );
-
-      bigCompanies.forEach((companyName) => {
+      // Handle ALL companies with their own sections (regardless of job count)
+      companiesWithJobs.forEach((companyName) => {
         const companyJobs = jobsByCompany[companyName];
         const emoji = getCompanyEmoji(companyName);
         const positionText =
           companyJobs.length === 1 ? "position" : "positions";
 
+        // Use collapsible details for companies with more than 15 jobs
         if (companyJobs.length > 15) {
           output += `<details>\n`;
           output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} ${positionText})</h4></summary>\n\n`;
@@ -139,7 +136,7 @@ function generateJobTable(jobs) {
         companyJobs.forEach((job) => {
           const role = job.job_title;
           const location = formatLocation(job.job_city, job.job_state);
-          const posted = job.job_posted_at ;
+          const posted = job.job_posted_at;
           const applyLink =
             job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
@@ -155,7 +152,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | [<img src="./image.png" width="100" alt="Apply">](${applyLink}) | ${posted} |\n`;
         });
 
         if (companyJobs.length > 15) {
@@ -164,45 +161,6 @@ function generateJobTable(jobs) {
           output += "\n";
         }
       });
-
-      // Then combine all companies with 10 or fewer jobs into one table
-      const smallCompanies = companiesWithJobs.filter(
-        (companyName) => jobsByCompany[companyName].length <= 10
-      );
-
-      if (smallCompanies.length > 0) {
-        output += `| Company | Role | Location | Apply Now | Age |\n`;
-        output += `|---------|------|----------|-----------|-----|\n`;
-
-        smallCompanies.forEach((companyName) => {
-          const companyJobs = jobsByCompany[companyName];
-          const emoji = getCompanyEmoji(companyName);
-
-          companyJobs.forEach((job) => {
-            const role = job.job_title;
-            const location = formatLocation(job.job_city, job.job_state);
-            const posted = job.job_posted_at;
-            const applyLink =
-              job.job_apply_link || getCompanyCareerUrl(job.employer_name);
-
-            let statusIndicator = "";
-            const description = (job.job_description || "").toLowerCase();
-            if (
-              description.includes("no sponsorship") ||
-              description.includes("us citizen")
-            ) {
-              statusIndicator = " 🇺🇸";
-            }
-            if (description.includes("remote")) {
-              statusIndicator += " 🏠";
-            }
-
-            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
-          });
-        });
-
-        output += "\n";
-      }
     }
   });
 
@@ -232,7 +190,7 @@ ${internshipData.companyPrograms
   .map((program) => {
     // const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
     // const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `|${program.company} | ${program.program} |<a href="${program.url}" style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">Apply button</a>|`;
+    return `|${program.company} | ${program.program} |<a href="${program.url}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|`;
   })
   .join("\n")}
 
@@ -242,7 +200,7 @@ ${internshipData.companyPrograms
 |----------|-------------|-----------|
 ${internshipData.sources
   .map((source) => {
-    return `| ${source.emoji} ${source.name} | ${source.description} | <a href="${source.url}" style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">Visit Button</a> |`;
+    return `| ${source.emoji} ${source.name} | ${source.description} | <a href="${source.url}"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|`;
   })
   .join("\n")}
 
@@ -268,9 +226,7 @@ Either still hiring or useful for research.
 ### **Archived Job Stats**
 
 📁 **Total Jobs:** ${archivedJobs.length} positions
-
 🏢 **Companies:** ${Object.keys(stats.totalByCompany).length} companies
-
 ⭐ **FAANG+ Jobs & Internships:** ${archivedFaangJobs} roles
 
 ${archivedJobTable}
@@ -296,129 +252,125 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
   return `# 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
-  🚀 Real-time nursing, healthcare, and medical job listings from ${totalCompanies}+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.
+  **🚀 Real-time nursing, healthcare, and medical job listings from ${totalCompanies}+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
-🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital.
+**🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
-🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](Contributing-new.md).
+**🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md)**.
+
+---
+## **Join Community**
+
+Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
+
+
+ <div align="center">
+  <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
+    <img src="./discord-button.png" width="600" alt="Join Discord - Job Finder & Career Hub by Zapply">
+  </a>
+</div>
+
 
 ---
 
-## Join Community button
-
-🤗 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq) – Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join ${stats?.communitySize || '1000+'} (our community of) analytics students and data enthusiasts navigating their career journey together!
-
----
-
-## ⚡ Apply to 50 jobs in the time it takes to do 5.
-
-Use Zapply’s extension to instantly submit applications across 500+ hospitals, pharmaceutical companies, and clinics.
-**Zapply extension button**
-
----
-
-## 📊 Live Stats
+## 📊 **Live Stats**
 
 🔥 **Current Positions:** ${currentJobs.length} hot healthcare and medical jobs
-
 🏢 **Top Companies:** ${totalCompanies} elite tech including Mayo Clinic, CVS Health, Pfizer
-
 ⭐ **FAANG+ Jobs & Internships:** ${faangJobs} premium opportunities
-
 📅 **Last Updated:** ${currentDate}
-
 🤖 **Next Update:** Tomorrow at 9 AM UTC
-
 📁 **Archived Healthcare Jobs:** ${archivedJobs.length} (older than 1 week)
 
----
-
-${internshipSection}
-
-## 🎯 Fresh Software Job Listings 2026 (under 1 week)
-
-${jobTable}
+${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ---
 
-## ✨ Insights on the Repo
+## 🎯 **Fresh Software Job Listings 2026 (under 1 week)**
 
-### 🏢 Top Companies
+${generateJobTable(currentJobs)}
 
-#### ⭐ FAANG+ (${companies.faang_plus.length} companies)
+---
+## **✨ Insights on the Repo**
 
-Updated list of FAANG+ companies.
-${companies.faang_plus.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
+### 🏢 **Top Companies**
 
-#### 🦄 Unicorn Startups (${companies.unicorn_startups.length} companies)
-
-Updated list of startup companies.
-${companies.unicorn_startups.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
-
-#### 💰 Fintech Leaders (${companies.fintech.length} companies)
-
-Updated list of fintech companies.
-${companies.fintech.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
-
-#### 🎮 Gaming & Entertainment (${[...companies.gaming, ...companies.media_entertainment].length} companies)
-
-Updated list of gaming companies.
-${[...companies.gaming, ...companies.media_entertainment].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
-
-#### ☁️ Enterprise & Cloud (${[...companies.top_tech, ...companies.enterprise_saas].length} companies)
-
-Updated list of enterprise companies.
-${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
+#### ⭐ **FAANG+** (${(() => {
+  const count = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
+  return `${count} ${count === 1 ? 'company' : 'companies'}`;
+})()})
+${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+  const jobText = totalJobs === 1 ? 'position' : 'positions';
+  if (index === 0) {
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} ${jobText})`;
+  } else {
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
+  }
+}).join(" • ") || "No companies available"}
 
 
-### 📈 Experience Breakdown
+#### 💰 **Fintech Leaders** (${(() => {
+  const count = companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
+  return `${count} ${count === 1 ? 'company' : 'companies'}`;
+})()})
+${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+  const jobText = totalJobs === 1 ? 'position' : 'positions';
+  if (index === 0) {
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} ${jobText})`;
+  } else {
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
+  }
+}).join(" • ") || "No companies available"}
 
-| Level | Count | Percentage | Top Companies |
-|-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | ${stats?.byLevel["Entry-Level"]} | ${stats ? Math.round((stats.byLevel["Entry-Level"] / currentJobs.length) * 100) : 11}% | No or minimal experience. |
-| 🟡 Beginner & Early Career | ${stats?.byLevel["Mid-Level"]} | ${stats ? Math.round((stats.byLevel["Mid-Level"] / currentJobs.length) * 100) : 41}% | 1-2 years of experience. |
-| 🔴 Manager | ${stats?.byLevel["Senior"]} | ${stats ? Math.round((stats.byLevel["Senior"] / currentJobs.length) * 100) : 48}% | 2+ years of experience. |
 
-### 🌍 Top Locations
+#### ☁️ **Enterprise & Cloud** (${(() => {
+  const count = [...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
+  return `${count} ${count === 1 ? 'company' : 'companies'}`;
+})()})
+${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+  const jobText = totalJobs === 1 ? 'position' : 'positions';
+  if (index === 0) {
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} ${jobText})`;
+  } else {
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
+  }
+}).join(" • ") || "No companies available"}
 
-List of top locations and number of positions.
+---
 
-${stats ? Object.entries(stats.byLocation)
-  .sort((a, b) => b[1] - a[1])
-  .slice(0, 8)
-  .map(([location, count]) => `- **${location}**: ${count} positions`)
-  .join("\n") : ""}
+### 📈 **Experience Breakdown**
 
-### 👨‍💻 Top Healthcare Fields
+| Level               | Count | Percentage | Top Companies                     |
+|---------------------|-------|------------|-----------------------------------|
+| 🟢 Entry Level & New Grad | ${stats?.byLevel["Entry-Level"] || 0} | ${
+    stats
+      ? Math.round((stats.byLevel["Entry-Level"] / currentJobs.length) * 100)
+      : 0
+  }% | No or minimal experience |
+| 🟡 Beginner & Early Career | ${stats?.byLevel["Mid-Level"] || 0} | ${
+    stats
+      ? Math.round((stats.byLevel["Mid-Level"] / currentJobs.length) * 100)
+      : 0
+  }% | 1-2 years of experience |
+| 🔴 Manager         | ${stats?.byLevel["Senior"] || 0} | ${
+    stats ? Math.round((stats.byLevel["Senior"] / currentJobs.length) * 100) : 0
+  }% | 2+ years of experience |
 
-${stats ? Object.entries(stats.byCategory)
-  .sort((a, b) => b[1] - a[1])
-  .map(([category, count]) => {
-    const icon = {
-     
-    " Registered Nursing": "🏥",
-    " Pharmaceutical": "💊",
-    " Clinical Assistant & Medical Technician": "🩺",
-    " Public Health & Health Communication": "📣",
-    " Biomedical & Life Sciences Research": "🧪",
-    " Healthcare Administration & Operations": "📋"
-}[category] || "🏥";
+---
 
-    const categoryJobs = currentJobs.filter(
-      (job) => getJobCategory(job.job_title, job.job_description) === category
-    );
-    const topCompanies = [...new Set(categoryJobs.slice(0, 3).map((j) => j.employer_name))];
-
-    return `#### ${icon} ${category} (${count} positions)
-${topCompanies
-  .map((company) => {
-    const companyObj = ALL_COMPANIES.find((c) => c.name === company);
-    const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `${emoji} ${company}`;
-  })
-  .join(" • ")}`;
-  })
-  .join("\n\n") : ""}
+### 🌍 **Top Locations**
+${
+  stats
+    ? Object.entries(stats.byLocation)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 8)
+        .map(([location, count]) => `- **${location}**: ${count} positions`)
+        .join("\n")
+    : ""
+}
 
 ---
 
@@ -440,47 +392,35 @@ ${topCompanies
 
 ## 🚀 Job Hunt Tips That Actually Work
 
-### 🔍 Research Before Applying
+### 🔍 **Research Before Applying**
 
-Find the hiring manager: Search "[Company] [Team] engineering manager" on LinkedIn.
+-**Find the hiring manager**: Search "[Company] [Team] engineering manager" on LinkedIn.
+-**Check recent tech decisions**: Read their engineering blog for stack changes or new initiatives.
+-**Verify visa requirements**: Look for 🇺🇸 indicator or "US persons only" in job description.
+- [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx).
 
-Check recent tech decisions: Read their engineering blog for stack changes or new initiatives.
+### 📄 **Resume Best Practices**
 
-Verify visa requirements: Look for 🇺🇸 indicator or "US persons only" in job description.
+-**Mirror their tech stack**: Copy exact keywords from job post (RN, medical assistant, health analyst).
+-**Lead with business impact**: "Reduced churn by 12% through cohort analysis" > "Used Excel."
+-**Show certifications**: "Mention BLS, CNA, or any state licensure prominently."
+- [Read this informative guide on tweaking your resume](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
 
-Use this [100% ATS-compliant and job-targeted resume template](#https://docs.google.com/document/d/1eGqU7E9if-d1VoWWWts79CT-LzbJsfeZ/edit?usp=drive_link&ouid=108189138560979620587&rtpof=true&sd=true).
+### 🎯 **Interview Best Practices**
 
-### 📄 Resume Best Practices
-
-Mirror their tech stack: Copy exact keywords from job post (RN, medical assistant, health analyst).
-
-Lead with business impact: "Reduced churn by 12% through cohort analysis" > "Used Excel."
-
-Show certifications: "Mention BLS, CNA, or any state licensure prominently."
-
-Read this [informative guide on tweaking your resume](#https://docs.google.com/document/d/12ngAUd7fKO4eV39SBgQdA8nHw_lJIngu/edit?usp=drive_link&ouid=108189138560979620587&rtpof=true&sd=true)..
-
-### 🎯 Interview Best Practices
-
-Prepare patient care stories: "How do you ensure model explainability in production?" shows real research.
-
-Highlight compliance: "Improved forecast accuracy by 20% using time-series analysis."
-
-Mention tools: "As a daily Slack user, I've noticed..." proves genuine interest.
-
-Review this [comprehensive interview guide on common behavioral, technical, and curveball questions](#https://docs.google.com/document/d/1LU4kSNRu0JNiWG5CNPRp0kgzAhq27VHy/edit?usp=drive_link&ouid=108189138560979620587&rtpof=true&sd=true).
+-**Prepare patient care stories**: "How do you ensure model explainability in production?" shows real research.
+-**Highlight compliance**: "Improved forecast accuracy by 20% using time-series analysis."
+-**Mention tools**: "As a daily Slack user, I've noticed..." proves genuine interest.
+- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
 ---
 
-## 📬 Stay Updated
+## 📬 **Stay Updated**
 
-⭐ **Star this repo** to bookmark and check daily.
-
-👀 **Watch** to get notified of new data postings.
-
-📱 **Bookmark on your phone** for quick job hunting.
-
-🤝 **Become a contributor** and add new jobs! Visit our contributing guide [here](Contributing-new.md).
+-⭐ **Star this repo** to bookmark and check daily.
+-👀 **Watch** to get notified of new data postings.
+-📱 **Bookmark on your phone** for quick job hunting.
+-🤝 **Become a contributor** and add new jobs! Visit our contributing guide [here](CONTRIBUTING-GUIDE.md).
 
 
 ---
