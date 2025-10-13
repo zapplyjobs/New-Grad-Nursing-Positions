@@ -63,7 +63,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ---
 
-## 🎯 **Fresh Software Job Listings 2026 (under 1 week)**
+## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
