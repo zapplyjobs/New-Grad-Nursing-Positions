@@ -285,7 +285,7 @@ ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ---
 
-## 🎯 **Fresh Software Job Listings 2026 (under 1 week)**
+## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
 ${generateJobTable(currentJobs)}
 
