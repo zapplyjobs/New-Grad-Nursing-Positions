@@ -5,7 +5,7 @@
     "title": "FAANG+"
   },
   "top_tech": {
-    "companies": ["Marvel Technology", "Synopsys", "NVIDIA", "Intel", "AMD", "Salesforce"],
+    "companies": ["Marvel Technology" ,"Intermountain Health","Cleaveland Clinic","New York Presbyterian","Vanderbilt Health", "Synopsys", "NVIDIA", "Intel", "AMD", "Salesforce"],
     "emoji": "🏢",
     "title": "Top Tech"
   },

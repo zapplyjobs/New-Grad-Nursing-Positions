@@ -1,4 +1,78 @@
 {
+  "intermountainHealth": {
+    "name": "Intermountain Health",
+    "jobSelector": "li.css-1q2dra3",
+    "titleSelector": "h3",
+    "applyLinkSelector": "a",
+    "linkAttribute": "href",
+    "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
+    "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
+    "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
+    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
+    "descriptionSelector": "ul",
+    "pagination": {
+      "type": "chevron-click",
+      "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
+      "parentButtonSelector": "button",
+      "disabledAttribute": "aria-disabled"
+    }
+  },
+  "cleavelandClinic": {
+    "name": "Cleaveland Clinic",
+    "jobSelector": "li.css-1q2dra3",
+    "titleSelector": "h3",
+    "applyLinkSelector": "a",
+    "linkAttribute": "href",
+    "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
+    "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
+    "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
+    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
+    "descriptionSelector": "ul",
+    "pagination": {
+      "type": "chevron-click",
+      "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
+      "parentButtonSelector": "button",
+      "disabledAttribute": "aria-disabled"
+    }
+  }, "vanderbilt": {
+    "name": "Cleaveland Clinic",
+    "jobSelector": "li.css-1q2dra3",
+    "titleSelector": "h3",
+    "applyLinkSelector": "a",
+    "linkAttribute": "href",
+    "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
+    "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
+    "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
+    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
+    "descriptionSelector": "ul",
+    "pagination": {
+      "type": "chevron-click",
+      "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
+      "parentButtonSelector": "button",
+      "disabledAttribute": "aria-disabled"
+    }
+  }, "presbyterian": {
+    "name": "Cleaveland Clinic",
+    "jobSelector": "li.css-1q2dra3",
+    "titleSelector": "h3",
+    "applyLinkSelector": "a",
+    "linkAttribute": "href",
+    "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
+    "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
+    "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
+    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
+    "descriptionSelector": "ul",
+    "pagination": {
+      "type": "chevron-click",
+      "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
+      "parentButtonSelector": "button",
+      "disabledAttribute": "aria-disabled"
+    }
+  },
+
+
+
+
   "amd": {
     "name": "AMD",
     "jobSelector": "mat-expansion-panel.search-result-item",

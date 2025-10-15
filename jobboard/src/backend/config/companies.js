@@ -7,6 +7,32 @@ const selectors = JSON.parse(fs.readFileSync(selectorsPath, "utf8"));
 
 function getCompanies(searchQuery = "", pageNum = 1) {
   return {
+intermountainHealth: {
+  name: "Intermountain Health",
+  baseUrl: "https://imh.wd108.myworkdayjobs.com/IntermountainCareers",
+  url: `https://imh.wd108.myworkdayjobs.com/IntermountainCareers?q=${encodeURIComponent(searchQuery)}`,
+  selector: selectors.intermountainHealth
+},
+cleavelandClinic: {
+  name: "Cleaveland Clinic",
+  baseUrl: "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers",
+  url: `https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers?q=${encodeURIComponent(searchQuery)}`,
+  selector: selectors.cleavelandClinic
+},
+vanderbilt: {
+  name: "Vanderbilt Health",
+  baseUrl: "https://vumc.wd1.myworkdayjobs.com/vumccareers",
+  url: `https://vumc.wd1.myworkdayjobs.com/vumccareers?q=${encodeURIComponent(searchQuery)}`,
+  selector: selectors.vanderbilt
+},
+presbyterian: {
+  name: "New York Presbyterian",
+  baseUrl: "https://nyp.wd1.myworkdayjobs.com/nypcareers",
+  url: `https://nyp.wd1.myworkdayjobs.com/nypcareers?q=${encodeURIComponent(searchQuery)}`,
+  selector: selectors.presbyterian
+}
+
+    
     // "ibm": {
     //   name: "IBM",
     //   baseUrl: "https://www.ibm.com",
