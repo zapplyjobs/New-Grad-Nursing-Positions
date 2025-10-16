@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
-  **🚀 Real-time nursing, healthcare, and medical job listings from 2+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 166+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+  **🚀 Real-time nursing, healthcare, and medical job listings from 2+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 167+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 166 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 167 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 2 elite tech including Mayo Clinic, CVS Health, Pfizer
 - ⭐ **FAANG+ Jobs & Internships:** 0 premium opportunities
 - 📅 **Last Updated:** October 16, 2025
@@ -65,7 +65,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### 🏢 **Top Tech** (166 positions)
+### 🏢 **Top Tech** (167 positions)
 
 <details>
 <summary><h4>🏢 <strong>Intermountain Health</strong> (47 positions)</h4></summary>
@@ -123,10 +123,12 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 </details>
 
 <details>
-<summary><h4>🏢 <strong>Cleaveland Clinic</strong> (119 positions)</h4></summary>
+<summary><h4>🏢 <strong>Cleaveland Clinic</strong> (120 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| LPN Clinic - Gastroenterology | Tradition Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Tradition-Hospital/LPN-Clinic---Gastroenterology_306311?q=nursing) | 1d |
+| Patient Care Nursing Assistant (PCNA) - Telemetry | Florida Weston Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Florida-Weston-Hospital/Patient-Care-Nursing-Assistant--PCNA----Telemetry_316877-1?q=nursing) | 1d |
 | Clinical Assistant II - Urology | Indian River Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Indian-River-Hospital/Clinical-Assistant-II---Urology_314374?q=nursing) | 1d |
 | RN Ambulatory - Internal Medicine | The Richard Jacobs Health Center, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/The-Richard-Jacobs-Health-Center/RN-Ambulatory---Internal-Medicine_311662?q=nursing) | 1d |
 | RN - Intensive Care Unit | Tradition Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Tradition-Hospital/RN---Intensive-Care-Unit_315804?q=nursing) | 1d |
@@ -162,7 +164,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | RN Ambulatory - Cardiac Diagnostics | Mercy Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Mercy-Hospital/RN-Ambulatory---Cardiac-Diagnostics_317102?q=nursing) | 1d |
 | RN Ambulatory - Primary Care | Newcomerstown Family Medicine Center, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Newcomerstown-Family-Medicine-Center/RN-Ambulatory---Primary-Care_317250?q=nursing) | 1d |
 | Research Nurse - Heart Vascular & Thoracic Institute | Cleveland Clinic Main Campus, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Nurse---Heart-Vascular---Thoracic-Institute_308849?q=nursing) | 1d |
-| EKG Technician | Cleveland Clinic Main Campus, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/EKG-Technician_317470?q=nursing) | 1d |
 | Nurse Residency Program Winter 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Nurse-Residency-Program-Winter-2026_R-44374-1?q=nursing) | 1d |
 | Patient Care Technician PRN (Endoscopy) 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Lebanon-TN/Patient-Care-Technician-PRN_R-47625?q=nursing) | 1d |
 | Registered Nurse, CPOD, Nights- VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--CPOD--Nights--VUH_R-48719-2?q=nursing) | 1d |
@@ -273,16 +274,16 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 40 | 24% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 30 | 18% | No or minimal experience |
 | 🟡 Beginner & Early Career | 14 | 8% | 1-2 years of experience |
-| 🔴 Manager         | 112 | 67% | 2+ years of experience |
+| 🔴 Manager         | 123 | 74% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 38 positions
 - **NYP/Brooklyn Methodist Hospital, US**: 11 positions
-- **Cleveland Clinic Main Campus, US**: 8 positions
+- **Cleveland Clinic Main Campus, US**: 7 positions
 - **NYP/Columbia University Irving Medical Center, US**: 6 positions
 - **Mercy Hospital, US**: 5 positions
 - **Lebanon, TN**: 5 positions
@@ -293,7 +294,7 @@ No companies available
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 166+ verified hospital and pharma roles from 2 elite organizations.
+✅ **100% Real Jobs:** 167+ verified hospital and pharma roles from 2 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -343,7 +344,7 @@ No companies available
 
 ---
 
-🎯 **166 current opportunities from 2 elite companies.**
+🎯 **167 current opportunities from 2 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
