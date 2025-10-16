@@ -68,7 +68,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 ### 🏢 **Top Tech** (166 positions)
 
 <details>
-<summary><h4>🏢 <strong>Intermountain Health</strong> (48 positions)</h4></summary>
+<summary><h4>🏢 <strong>Intermountain Health</strong> (47 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -86,16 +86,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse Newborn ICU | Intermountain Health American Fork Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-American-Fork-Hospital/Registered-Nurse-Newborn-ICU_R145898?q=nursing) | 1d |
 | Patient Care Tech CNA Acuity Adaptable Unit | Intermountain Health Lutheran Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/Patient-Care-Tech-CNA-Acuity-Adaptable-Unit_R153809?q=nursing) | 1d |
 | Medical Assistant OBGYN | Intermountain Health McKay-Dee Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-McKay-Dee-Hospital/Medical-Assistant-OBGYN_R153710?q=nursing) | 1d |
-| Registered Nurse Surgical Trauma | Intermountain Health Lutheran Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/Surgical-Trauma-Registered-Nurse_R153329-1?q=nursing) | 1d |
-| Registered Nurse Acuity Adaptable | Intermountain Health Lutheran Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/Registered-Nurse-Acuity-Adaptable_R153276?q=nursing) | 1d |
-| Registered Nurse Community Crisis Center PRN | Intermountain Health St Vincent Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Registered-Nurse-Community-Crisis-Center_R150126?q=nursing) | 1d |
-| General Surgeon PRN | Holy Rosary Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Holy-Rosary-Hospital/General-Surgeon-PRN_R152686?q=nursing) | 1d |
-| Registered Nurse Cottonwood Family Medicine | Cottonwood Medical Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Cottonwood-Medical-Clinic/Registered-Nurse-Cottonwood-Family-Medicine_R153623?q=nursing) | 1d |
-| Medical Assistant Family Medicine | Budge Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Budge-Clinic/Medical-Assistant-Family-Medicine_R153527?q=nursing) | 1d |
-| Registered Nurse Med Surg 3 west | Platte Valley Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Platte-Valley-Hospital/RN-COFR_R149547?q=nursing) | 1d |
-| Registered Nurse Med Surg | Platte Valley Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Platte-Valley-Hospital/RN-COFR_R149555-1?q=nursing) | 1d |
-| Medical Assistant Family Medicine | Rose Canyon Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Rose-Canyon-Clinic/Medical-Assistant-Family-Medicine_R153441?q=nursing) | 1d |
-| Medical Assistant Family Medicine | Logan Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Logan-Clinic/Medical-Assistant-Family-Medicine_R153219-1?q=nursing) | 1d |
 | Medical Assistant Urology | Intermountain Health St George Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Medical-Assistant-Urology_R151445?q=nursing) | 1d |
 | Patient Care Tech CNA Medical Telemetry | Intermountain Health LDS Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-LDS-Hospital/Patient-Care-Tech-CNA-Medical-Telemetry_R141746?q=nursing) | 1d |
 | Registered Nurse Billings Sleep and Respiratory Care Clinic | Billings Downtown Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Billings-Downtown-Clinic/Registered-Nurse-Billings-Sleep-and-Respiratory-Care-Clinic_R150783?q=nursing) | 1d |
@@ -103,6 +93,15 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Patient Care Tech Critical Care | Intermountain Health Lutheran Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/Patient-Care-Tech-Critical-Care_R138968-1?q=nursing) | 1d |
 | Registered Nurse Expanded Role I Dialysis | Intermountain Health Sevier Valley Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Sevier-Valley-Hospital/RN_R153753-1?q=nursing) | 1d |
 | Patient Care Tech CNA | Holy Rosary Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Holy-Rosary-Hospital/Patient-Care-Tech-CNA_R153397?q=nursing) | 1d |
+| New Graduate RN Peds Surgical | Intermountain Health Primary Childrens Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/New-Graduate-RN-Peds-Surgical_R153767?q=nursing) | 1d |
+| New Grad RN Observation Unit | Primary Childrens at Lehi, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Primary-Childrens-at-Lehi/New-Grad-RN-Observation-Unit_R153755?q=nursing) | 1d |
+| Registered Nurse Maternity | Intermountain Health Intermountain Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Registered-Nurse-Maternity_R151917?q=nursing) | 1d |
+| Patient Safety Monitor Technician | Valley Center Tower, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Valley-Center-Tower/Patient-Safety-Monitor-Technician-1_R93326?q=nursing) | 1d |
+| New Grad RN Med Surg | St. Marys Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/St-Marys-Regional-Hospital/New-Grad-RN-Med-Surg_R105499?q=nursing) | 1d |
+| Registered Nurse Emergency Department | Intermountain Health Cassia Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Cassia-Regional-Hospital/Registered-Nurse-Emergency-Department_R153666?q=nursing) | 1d |
+| Medical Assistant PRN | Gallatin Clinic; Boulder Clinic; Butte Clinic; Butte Flats Clinic; Bozeman Midtown Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Boulder-Clinic/Medical-assistant-Boulder-Butte-Bozeman-Montana-Clinics-PRN_R153163?q=nursing) | 1d |
+| Registered Nurse Emergency Department | Good Samaritan Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Good-Samaritan-Hospital/Registered-Nurse-Emergency-Department_R153497?q=nursing) | 1d |
+| Medical Assistant Family Medicine | Intermountain Health Orem Community Hospital; Central Orem Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Central-Orem-Clinic/Medical-Assistant-Family-Medicine_R153734?q=nursing) | 1d |
 | Medical Assistant Heart Institute 🏠 | Intermountain Health Intermountain Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Medical-Assistant-Heart-Institute_R153172?q=nursing) | 1d |
 | Registered Nurse Cath Lab 🏠 | Good Samaritan Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Good-Samaritan-Hospital/Registered-Nurse-Cath-Lab_R153411?q=nursing) | 1d |
 | Registered Nurse Same Day Surgery PRN 🏠 | Intermountain Health American Fork Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-American-Fork-Hospital/Registered-Nurse-Infusion-Same-Day-Surgery-PRN_R153473?q=nursing) | 1d |
@@ -124,10 +123,12 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 </details>
 
 <details>
-<summary><h4>🏢 <strong>Cleaveland Clinic</strong> (118 positions)</h4></summary>
+<summary><h4>🏢 <strong>Cleaveland Clinic</strong> (119 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Clinical Assistant II - Urology | Indian River Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Indian-River-Hospital/Clinical-Assistant-II---Urology_314374?q=nursing) | 1d |
+| RN Ambulatory - Internal Medicine | The Richard Jacobs Health Center, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/The-Richard-Jacobs-Health-Center/RN-Ambulatory---Internal-Medicine_311662?q=nursing) | 1d |
 | RN - Intensive Care Unit | Tradition Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Tradition-Hospital/RN---Intensive-Care-Unit_315804?q=nursing) | 1d |
 | Case Management Social Worker NE - Care Management | Medina Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Medina-Hospital/Case-Management-Social-Worker-NE---Care-Management_301070?q=nursing) | 1d |
 | Patient Care Assistant Nurse (PCNA) - Medical Renal Unit | Hillcrest Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/Patient-Care-Assistant-Nurse--PCNA----Medical-Renal-Unit_315960?q=nursing) | 1d |
@@ -162,7 +163,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | RN Ambulatory - Primary Care | Newcomerstown Family Medicine Center, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Newcomerstown-Family-Medicine-Center/RN-Ambulatory---Primary-Care_317250?q=nursing) | 1d |
 | Research Nurse - Heart Vascular & Thoracic Institute | Cleveland Clinic Main Campus, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Nurse---Heart-Vascular---Thoracic-Institute_308849?q=nursing) | 1d |
 | EKG Technician | Cleveland Clinic Main Campus, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/EKG-Technician_317470?q=nursing) | 1d |
-| Patient Care Nursing Assistant - Digestive Disease Surgery & Overflow Unit | Cleveland Clinic Main Campus, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nursing-Assistant---Digestive-Disease-Surgery---Overflow-Unit_312267?q=nursing) | 1d |
 | Nurse Residency Program Winter 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Nurse-Residency-Program-Winter-2026_R-44374-1?q=nursing) | 1d |
 | Patient Care Technician PRN (Endoscopy) 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Lebanon-TN/Patient-Care-Technician-PRN_R-47625?q=nursing) | 1d |
 | Registered Nurse, CPOD, Nights- VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--CPOD--Nights--VUH_R-48719-2?q=nursing) | 1d |
@@ -273,20 +273,20 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 39 | 23% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 40 | 24% | No or minimal experience |
 | 🟡 Beginner & Early Career | 14 | 8% | 1-2 years of experience |
-| 🔴 Manager         | 113 | 68% | 2+ years of experience |
+| 🔴 Manager         | 112 | 67% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 38 positions
 - **NYP/Brooklyn Methodist Hospital, US**: 11 positions
-- **Cleveland Clinic Main Campus, US**: 9 positions
-- **Intermountain Health Lutheran Hospital, US**: 6 positions
+- **Cleveland Clinic Main Campus, US**: 8 positions
 - **NYP/Columbia University Irving Medical Center, US**: 6 positions
 - **Mercy Hospital, US**: 5 positions
 - **Lebanon, TN**: 5 positions
+- **Intermountain Health Lutheran Hospital, US**: 4 positions
 - **Hillcrest Hospital, US**: 4 positions
 
 ---
