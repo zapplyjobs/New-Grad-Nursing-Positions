@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
-  **🚀 Real-time nursing, healthcare, and medical job listings from 2+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 167+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+  **🚀 Real-time nursing, healthcare, and medical job listings from 2+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 165+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 167 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 165 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 2 elite tech including Mayo Clinic, CVS Health, Pfizer
 - ⭐ **FAANG+ Jobs & Internships:** 0 premium opportunities
 - 📅 **Last Updated:** October 16, 2025
@@ -65,10 +65,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### 🏢 **Top Tech** (167 positions)
+### 🏢 **Top Tech** (165 positions)
 
 <details>
-<summary><h4>🏢 <strong>Intermountain Health</strong> (48 positions)</h4></summary>
+<summary><h4>🏢 <strong>Intermountain Health</strong> (50 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -88,6 +88,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse Med Surg 3 west | Platte Valley Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Platte-Valley-Hospital/RN-COFR_R149547?q=nursing) | 1d |
 | Registered Nurse Med Surg | Platte Valley Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Platte-Valley-Hospital/RN-COFR_R149555-1?q=nursing) | 1d |
 | Medical Assistant Family Medicine | Rose Canyon Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Rose-Canyon-Clinic/Medical-Assistant-Family-Medicine_R153441?q=nursing) | 1d |
+| Medical Assistant Family Medicine | Logan Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Logan-Clinic/Medical-Assistant-Family-Medicine_R153219-1?q=nursing) | 1d |
 | Clinical Lab Assistant PRN | Intermountain Health Utah Valley Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Utah-Valley-Hospital/Clinical-Lab-Assistant-PRN_R151740?q=nursing) | 1d |
 | Medical Assistant Urology | Intermountain Health St George Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Medical-Assistant-Urology_R151445?q=nursing) | 1d |
 | Patient Care Tech CNA Medical Telemetry | Intermountain Health LDS Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-LDS-Hospital/Patient-Care-Tech-CNA-Medical-Telemetry_R141746?q=nursing) | 1d |
@@ -104,7 +105,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse Emergency Department | Intermountain Health Cassia Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Cassia-Regional-Hospital/Registered-Nurse-Emergency-Department_R153666?q=nursing) | 1d |
 | Medical Assistant PRN | Gallatin Clinic; Boulder Clinic; Butte Clinic; Butte Flats Clinic; Bozeman Midtown Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Boulder-Clinic/Medical-assistant-Boulder-Butte-Bozeman-Montana-Clinics-PRN_R153163?q=nursing) | 1d |
 | Registered Nurse Emergency Department | Good Samaritan Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Good-Samaritan-Hospital/Registered-Nurse-Emergency-Department_R153497?q=nursing) | 1d |
-| Medical Assistant Family Medicine | Intermountain Health Orem Community Hospital; Central Orem Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Central-Orem-Clinic/Medical-Assistant-Family-Medicine_R153734?q=nursing) | 1d |
 | Medical Assistant Heart Institute 🏠 | Intermountain Health Intermountain Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Medical-Assistant-Heart-Institute_R153172?q=nursing) | 1d |
 | Registered Nurse Cath Lab 🏠 | Good Samaritan Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Good-Samaritan-Hospital/Registered-Nurse-Cath-Lab_R153411?q=nursing) | 1d |
 | Registered Nurse Same Day Surgery PRN 🏠 | Intermountain Health American Fork Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-American-Fork-Hospital/Registered-Nurse-Infusion-Same-Day-Surgery-PRN_R153473?q=nursing) | 1d |
@@ -120,14 +120,17 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Medical Assistant Pain Management 🏠 | Intermountain Health St George Regional Hospital; Washington Fields Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Washington-Fields-Clinic/Medical-Assistant-Pain-Management_R153670?q=nursing) | 2d |
 | Medical Assistant OBGYN 🏠 | Centennial Hills Women's Health Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Centennial-Hills-Womens-Health-Clinic/Medical-Assistant-OBGYN_R153087?q=nursing) | 2d |
 | Medical Assistant Psychiatry and Counseling 🏠 | Park City Clinic; Intermountain Health Park City Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Park-City-Clinic/Medical-Assistant-Psychiatry-and-Counseling_R152412?q=nursing) | 2d |
+| Medical Assistant Internal Medicine 🏠 | American Fork Specialty Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/American-Fork-Specialty-Clinic/Medical-Assistant-Internal-Medicine_R152982?q=nursing) | 2d |
+| Medical Assistant Orthopedic Urgent Care 🏠 | Intermountain Health St George Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Medical-Assistant-Orthopedic-Urgent-Care_R153100-1?q=nursing) | 2d |
 
 </details>
 
 <details>
-<summary><h4>🏢 <strong>Cleaveland Clinic</strong> (119 positions)</h4></summary>
+<summary><h4>🏢 <strong>Cleaveland Clinic</strong> (115 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| RN Clinical Adjunct Faculty - Internal Medicine and ENT/Plastics | Cleveland Clinic Main Campus, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Clinical-Adjunct-Faculty---Internal-Medicine-and-ENT-Plastics_295043?q=nursing) | 1d |
 | Sterile Processing Technician Apprentice | Hillcrest Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/Sterile-Processing-Technician-Apprentice_317800?q=nursing) | 1d |
 | Case Management Social Worker | South Pointe Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/South-Pointe-Hospital/Case-Management-Social-Worker_308878?q=nursing) | 1d |
 | RN Ambulatory - Primary Care | Suburban South Primary Care, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Suburban-South-Primary-Care/RN-Ambulatory---Primary-Care_316761?q=nursing) | 1d |
@@ -158,10 +161,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | PRN Radiology Assistant | Stow Health and Wellness, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Stow-Health-and-Wellness/PRN-Radiology-Assistant_317714?q=nursing) | 1d |
 | Clinical Technician - Cardiovascular ICU | Cleveland Clinic Main Campus, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Clinical-Technician---Cardiothoracic-Intensive-Care-Transplant---Device-Unit_314111?q=nursing) | 1d |
 | Pharmacy Technician - Home Infusion | Business Operations Center, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Business-Operations-Center/Pharmacy-Technician---Home-Infusion_317642?q=nursing) | 1d |
-| RN Ambulatory - Urogynecology | Fairview Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Fairview-Hospital/RN-Ambulatory---Urogynecology_316875?q=nursing) | 1d |
-| RN Ambulatory - OBGYN | Fairview Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Fairview-Hospital/RN-Ambulatory---OBGYN_316163?q=nursing) | 1d |
-| Certified Surgical Technician - Surgery Center | Tradition Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Tradition-Hospital/Certified-Surgical-Technician---Surgery-Center_309741?q=nursing) | 1d |
-| Clinical Pharmacist - PRN | Fairview Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Fairview-Hospital/Clinical-Pharmacist---PRN-Weekend_315501?q=nursing) | 1d |
 | Nurse Residency Program Winter 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Nurse-Residency-Program-Winter-2026_R-44374-1?q=nursing) | 1d |
 | Registered Nurse - Home Care - Intermittent 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Registered-Nurse---Home-Care---Intermittent_R-47718-1?q=nursing) | 1d |
 | Pediatric Registered Nurse 2 Cardiac OR- Circulator 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Pediatric-Registered-Nurse-2-Cardiac-OR--Circulator_R-48593-1?q=nursing) | 1d |
@@ -219,8 +218,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Per Diem Registered Nurse - EP/Cath Lab-Days | NYP/Weill Cornell Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Per-Diem-Registered-Nurse---EP-Cath-Lab-Days_00871321?q=nursing) | 1w |
 | Per Diem Registered Nurse - Radiology - Weill Cornell | NYP/Weill Cornell Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Per-Diem-Registered-Nurse---Radiology---Weill-Cornell_00872805?q=nursing) | 1d |
 | Licensed Practical Nurse- Cardiology Medical- Brooklyn | NYP/Brooklyn Medical Group, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Medical-Group/Licensed-Practical-Nurse--Cardiology-Medical--Brooklyn_00871170?q=nursing) | 3w |
-| Nursing Attendant I - HHCCU - PT - Nights | NYP/Columbia University Irving Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Nursing-Attendant-I---HHCCU---PT---Nights_00871855?q=nursing) | 5d |
-| Float Nursing Assistant F/T Evenings | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Float-Nursing-Assistant-F-T-Evenings_00871778-1?q=nursing) | 1w |
 | Nurse Practitioner – Multispecialty- Bay Ridge Brooklyn | NYP/Brooklyn Medical Group, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Medical-Group/Nurse-Practitioner---Multispecialty--Bay-Ridge-Brooklyn_00872625-1?q=nursing) | 3d |
 | Registered Nurse - Hemodialysis - Full Time Day Shift | NYP/Queens, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPQueens/Registered-Nurse---Hemodialysis---Full-Time-Day-Shift_00870800-1?q=nursing) | 1w |
 | Clinical Nurse I - RN - Neuroscience ICU - Nights | NYP/Columbia University Irving Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Neuroscience-ICU---Nights_00872123-1?q=nursing) | 5d |
@@ -234,6 +231,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Float 1:1 Nursing Assistant F/T Days | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Float-1-1-Nursing-Assistant-F-T-Days_00870746-1?q=nursing) | 2d |
 | Clinical Nurse I – RN – Medical Oncology - FT - Nights | NYP/Columbia University Irving Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Medical-Oncology---FT---Nights_00871610?q=nursing) | 4w |
 | Clinical Nurse I - RN - Medical ICU – FT - Nights | NYP/Columbia University Irving Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Medical-ICU---FT---Nights_00870259?q=nursing) | 3w |
+| Registered Nurse - RN - Emergency Department - Per-diem - Days | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Registered-Nurse---RN---Emergency-Department---Per-diem---Days_00870346-1?q=nursing) | 3w |
 | Nurse Administrator - RN - Part Time Day - NYP/Queens | NYP/Queens, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPQueens/Nurse-Administrator---RN---Part-Time-Day---NYP-Queens_00870804-1?q=nursing) | 1w |
 | Nurse Practitioner - Electrophysiology Arrhythmia Services - Queens Medical Group | NYP/Queens Medical Group, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPQueens-Medical-Group/Nurse-Practitioner---Electrophysiology-Arrhythmia-Services---Queens-Medical-Group_00872331?q=nursing) | 1w |
 | Rehab 8 South Nurse Technician P/T Nights | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Rehab-8-South-Nurse-Technician-P-T-Nights_00871661-1?q=nursing) | 1w |
@@ -274,27 +272,27 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 40 | 24% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 41 | 25% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
-| 🔴 Manager         | 127 | 76% | 2+ years of experience |
+| 🔴 Manager         | 124 | 75% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 39 positions
 - **NYP/Brooklyn Methodist Hospital, US**: 11 positions
-- **NYP/Columbia University Irving Medical Center, US**: 7 positions
 - **Intermountain Health Lutheran Hospital, US**: 6 positions
 - **Marymount Hospital, US**: 6 positions
-- **Fairview Hospital, US**: 5 positions
+- **NYP/Columbia University Irving Medical Center, US**: 6 positions
+- **Cleveland Clinic Main Campus, US**: 5 positions
 - **Mercy Hospital, US**: 4 positions
-- **Cleveland Clinic Main Campus, US**: 4 positions
+- **Lebanon, TN**: 4 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 167+ verified hospital and pharma roles from 2 elite organizations.
+✅ **100% Real Jobs:** 165+ verified hospital and pharma roles from 2 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -344,7 +342,7 @@ No companies available
 
 ---
 
-🎯 **167 current opportunities from 2 elite companies.**
+🎯 **165 current opportunities from 2 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
