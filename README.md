@@ -129,6 +129,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Anesthesia Technician | Hillcrest Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/Anesthesia-Technician_317697?q=nursing) | 1d |
 | LPN Ambulatory - Family Medicine | Stow Falls Medical Office Center, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Stow-Falls-Medical-Office-Center/LPN-Ambulatory---Family-Medicine_314564?q=nursing) | 1d |
 | New Grad RN Resident – ICU Stepdown | Mercy Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Mercy-Hospital/New-Grad-RN-Resident---ICU-Stepdown_316757?q=nursing) | 1d |
 | RN Hospital Float | Mercy Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Mercy-Hospital/RN-Hospital-Float_316828?q=nursing) | 1d |
@@ -162,7 +163,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | RN - Alcohol/Drug Rehab Unit | Lutheran Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/RN---Alcohol-Drug-Rehab-Unit_317753?q=nursing) | 1d |
 | Environmental Services Area Cleaner | Hillcrest Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/Environmental-Services-Area-Cleaner_314725?q=nursing) | 1d |
 | Interventional Vascular Technologist, PRN | Fairview Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Fairview-Hospital/Interventional-Vascular-Technologist--PRN_299248?q=nursing) | 1d |
-| CT Technologist - Radiology | Lutheran Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/CT-Technologist_292532?q=nursing) | 1d |
 | Nurse Residency Program Winter 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Nurse-Residency-Program-Winter-2026_R-44374-1?q=nursing) | 1d |
 | Registered Nurse - Home Care - Intermittent 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Registered-Nurse---Home-Care---Intermittent_R-47718-1?q=nursing) | 1d |
 | Pediatric Registered Nurse 2 Cardiac OR- Circulator 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Pediatric-Registered-Nurse-2-Cardiac-OR--Circulator_R-48593-1?q=nursing) | 1d |
@@ -275,9 +275,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 39 | 23% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 40 | 24% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
-| 🔴 Manager         | 129 | 77% | 2+ years of experience |
+| 🔴 Manager         | 128 | 76% | 2+ years of experience |
 
 ---
 
