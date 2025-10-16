@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
-  **🚀 Real-time nursing, healthcare, and medical job listings from 2+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 169+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+  **🚀 Real-time nursing, healthcare, and medical job listings from 2+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 170+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 169 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 170 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 2 elite tech including Mayo Clinic, CVS Health, Pfizer
 - ⭐ **FAANG+ Jobs & Internships:** 0 premium opportunities
 - 📅 **Last Updated:** October 16, 2025
@@ -65,7 +65,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### 🏢 **Top Tech** (169 positions)
+### 🏢 **Top Tech** (170 positions)
 
 <details>
 <summary><h4>🏢 <strong>Intermountain Health</strong> (49 positions)</h4></summary>
@@ -125,10 +125,11 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 </details>
 
 <details>
-<summary><h4>🏢 <strong>Cleaveland Clinic</strong> (120 positions)</h4></summary>
+<summary><h4>🏢 <strong>Cleaveland Clinic</strong> (121 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| LPN Ambulatory - Family Medicine | Stow Falls Medical Office Center, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Stow-Falls-Medical-Office-Center/LPN-Ambulatory---Family-Medicine_314564?q=nursing) | 1d |
 | New Grad RN Resident – ICU Stepdown | Mercy Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Mercy-Hospital/New-Grad-RN-Resident---ICU-Stepdown_316757?q=nursing) | 1d |
 | RN Hospital Float | Mercy Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Mercy-Hospital/RN-Hospital-Float_316828?q=nursing) | 1d |
 | RN Ambulatory - Cardiac Diagnostics | Mercy Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Mercy-Hospital/RN-Ambulatory---Cardiac-Diagnostics_317102?q=nursing) | 1d |
@@ -162,7 +163,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | RN - Alcohol/Drug Rehab Unit | Lutheran Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/RN---Alcohol-Drug-Rehab-Unit_317753?q=nursing) | 1d |
 | Environmental Services Area Cleaner | Hillcrest Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/Environmental-Services-Area-Cleaner_314725?q=nursing) | 1d |
 | Interventional Vascular Technologist, PRN | Fairview Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Fairview-Hospital/Interventional-Vascular-Technologist--PRN_299248?q=nursing) | 1d |
-| CT Technologist - Radiology | Lutheran Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/CT-Technologist_292532?q=nursing) | 1d |
 | Nurse Residency Program Winter 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Nurse-Residency-Program-Winter-2026_R-44374-1?q=nursing) | 1d |
 | Registered Nurse - Home Care - Intermittent 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Registered-Nurse---Home-Care---Intermittent_R-47718-1?q=nursing) | 1d |
 | Pediatric Registered Nurse 2 Cardiac OR- Circulator 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/vumccareers/en-US/vumccareers/job/Nashville-TN/Pediatric-Registered-Nurse-2-Cardiac-OR--Circulator_R-48593-1?q=nursing) | 1d |
@@ -236,7 +236,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Clinical Nurse I – RN – Medical Oncology - FT - Nights | NYP/Columbia University Irving Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Medical-Oncology---FT---Nights_00871610?q=nursing) | 3w |
 | Clinical Nurse I - RN - Medical ICU – FT - Nights | NYP/Columbia University Irving Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Medical-ICU---FT---Nights_00870259?q=nursing) | 3w |
 | Registered Nurse - RN - Emergency Department - Per-diem - Days | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Registered-Nurse---RN---Emergency-Department---Per-diem---Days_00870346-1?q=nursing) | 3w |
-| Nurse Administrator - RN - Part Time Day - NYP/Queens | NYP/Queens, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPQueens/Nurse-Administrator---RN---Part-Time-Day---NYP-Queens_00870804-1?q=nursing) | 1w |
 | Nurse Practitioner - Electrophysiology Arrhythmia Services - Queens Medical Group | NYP/Queens Medical Group, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPQueens-Medical-Group/Nurse-Practitioner---Electrophysiology-Arrhythmia-Services---Queens-Medical-Group_00872331?q=nursing) | 1w |
 | Rehab 8 South Nurse Technician P/T Nights | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Rehab-8-South-Nurse-Technician-P-T-Nights_00871661-1?q=nursing) | 1w |
 | Registered Nurse - RN - Hudson Valley - PACU - Mid Shift | NYP/Hudson Valley, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPHudson-Valley/Registered-Nurse---RN---Hudson-Valley---PACU---Mid-Shift_00871862?q=nursing) | 6d |
@@ -245,10 +244,12 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Nursing Attendant - Progressive Care Unit - Part Time Evening | NYP/Queens, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPQueens/Nursing-Attendant---Progressive-Care-Unit---Part-Time-Evening_00872053?q=nursing) | 2d |
 | Intensive Care Unit Registered Nurse Per Diem Days | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Intensive-Care-Unit-Registered-Nurse-Per-Diem-Days_00871553-1?q=nursing) | 1d |
 | Registered Nurse - RN - Ambulatory Chemotherapy Center - Per Diem | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Registered-Nurse---RN---Ambulatory-Chemotherapy-Center---Per-Diem_00871382-1?q=nursing) | 1d |
-| Registered Nurse - Labor and Delivery - Full Time Nights | NYP/Lower Manhattan Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPLower-Manhattan-Hospital/Registered-Nurse---Labor-and-Delivery---Full-Time-Nights_00871813?q=nursing) | 1d |
 | Registered Nurse - RN - Emergency Department (ED) – Full-time - Swing | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Registered-Nurse---RN---Emergency-Department--ED----Full-time---Swing_00869042?q=nursing) | 1d |
 | Registered Nurse - RN – Infusion Center - Full Time- Hudson Valley | NYP/Hudson Valley, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPHudson-Valley/Registered-Nurse---RN---Infusion-Center---Full-Time--Hudson-Valley_00872185?q=nursing) | 1w |
 | Nurse Practitioner -NP - Cardiothoracic Care - FT- Nights ( and Weekends ) | NYP/Weill Cornell Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Nurse-Practitioner--NP---Cardiothoracic-Care---FT--Nights---and-Weekends--_00872170?q=nursing) | 1w |
+| Nurse Technician - Med/Surg Miner 7 - Full-time - Nights | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Nurse-Technician---Med-Surg-Miner-7---Full-time---Nights_00871597-1?q=nursing) | 1w |
+| Progressive Care -Telemetry Unit Nurse Technician P/T Nights | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Progressive-Care--Telemetry-Unit-Nurse-Technician-P-T-Nights_00871522-1?q=nursing) | 1w |
+| Registered Nurse – RN – OBGYN – Center for Community Health – Days | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Registered-Nurse---RN---OBGYN---Center-for-Community-Health---Days_00871354-1?q=nursing) | 1d |
 
 </details>
 
@@ -276,15 +277,15 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 39 | 23% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 40 | 24% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
-| 🔴 Manager         | 130 | 77% | 2+ years of experience |
+| 🔴 Manager         | 130 | 76% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 38 positions
-- **NYP/Brooklyn Methodist Hospital, US**: 13 positions
+- **NYP/Brooklyn Methodist Hospital, US**: 16 positions
 - **NYP/Columbia University Irving Medical Center, US**: 7 positions
 - **Intermountain Health Lutheran Hospital, US**: 6 positions
 - **Marymount Hospital, US**: 6 positions
@@ -296,7 +297,7 @@ No companies available
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 169+ verified hospital and pharma roles from 2 elite organizations.
+✅ **100% Real Jobs:** 170+ verified hospital and pharma roles from 2 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -346,7 +347,7 @@ No companies available
 
 ---
 
-🎯 **169 current opportunities from 2 elite companies.**
+🎯 **170 current opportunities from 2 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
