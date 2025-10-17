@@ -87,7 +87,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Authorizations Representative 🏠 | Intermountain Health St George Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Authorizations-Representative_R153501?q=nursing) | 1d |
 | Patient Care Tech CNA Ortho Surgical 🏠 | Lutheran Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Lutheran-Medical-Center/Patient-Care-Tech-CNA-Ortho-Surgical_R153872?q=nursing) | 1d |
 | Registered Nurse Primary Care Family Medicine 🏠 | Hurricane Valley Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Hurricane-Valley-Clinic/Registered-Nurse-Primary-Care-Family-Medicine_R153382?q=nursing) | 1d |
-| Registered Nurse Post Procedure | Intermountain Health St Vincent Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Registered-Nurse-Post-Procedure_R153142?q=nursing) | 1d |
+| Registered Nurse Neurology Clinic | Grand Junction Neurology Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Grand-Junction-Neurology-Clinic/Registered-Nurse-Neurology-Clinic_R152174?q=nursing) | 1d |
+| Registered Nurse Urogynecology | Utah Valley Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Utah-Valley-Clinic/Registered-Nurse-Urogynecology_R153848?q=nursing) | 1d |
+| Registered Nurse Same Day Surgery | Intermountain Health Layton Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Layton-Hospital/Registered-Nurse-Same-Day-Surgery_R153600?q=nursing) | 1d |
+| Registered Nurse Post Procedure | Intermountain Health St Vincent Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Registered-Nurse-Post-Procedure_R153145?q=nursing) | 1d |
 | Medical Assistant Heart Institute | Park City Clinic; Heber Valley Specialty Clinic; Intermountain Health Intermountain Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Park-City-Clinic/Medical-Assistant-Heart-Institute_R153159?q=nursing) | 1d |
 | Licensed Practical Nurse Children's Justice Center | Carbon County Children's Justice Center, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Carbon-County-Childrens-Justice-Center/Licensed-Practical-Nurse-Children-s-Justice-Center_R153640?q=nursing) | 2d |
 | Registered Nurse Cardiac Neuro Intermediate Care | Intermountain Health Lutheran Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/Registered-Nurse-Cardiac-Neuro-Intermediate-Care_R152981?q=nursing) | 2d |
@@ -116,9 +119,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse Maternity | Intermountain Health Intermountain Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Registered-Nurse-Maternity_R151917?q=nursing) | 2d |
 | Patient Safety Monitor Technician | Valley Center Tower, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Valley-Center-Tower/Patient-Safety-Monitor-Technician-1_R93326?q=nursing) | 2d |
 | New Grad RN Med Surg | St. Marys Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/St-Marys-Regional-Hospital/New-Grad-RN-Med-Surg_R105499?q=nursing) | 2d |
-| Registered Nurse Emergency Department | Intermountain Health Cassia Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Cassia-Regional-Hospital/Registered-Nurse-Emergency-Department_R153666?q=nursing) | 2d |
-| Medical Assistant PRN | Gallatin Clinic; Boulder Clinic; Butte Clinic; Butte Flats Clinic; Bozeman Midtown Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Boulder-Clinic/Medical-assistant-Boulder-Butte-Bozeman-Montana-Clinics-PRN_R153163?q=nursing) | 2d |
-| Registered Nurse Emergency Department | Good Samaritan Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Good-Samaritan-Hospital/Registered-Nurse-Emergency-Department_R153497?q=nursing) | 2d |
 
 </details>
 
@@ -279,8 +279,8 @@ No companies available
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 16 | 9% | No or minimal experience |
-| 🟡 Beginner & Early Career | 15 | 9% | 1-2 years of experience |
-| 🔴 Manager         | 140 | 82% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 30 | 18% | 1-2 years of experience |
+| 🔴 Manager         | 125 | 73% | 2+ years of experience |
 
 ---
 
