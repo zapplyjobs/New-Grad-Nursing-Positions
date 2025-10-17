@@ -9,6 +9,7 @@ const {
  getExperienceLevel,
  getJobCategory,
  formatLocation,
+ normalizeCompanyName,
 } = require("./utils");
 
 
@@ -59,17 +60,26 @@ function generateJobTable(jobs) {
  const skippedCompanies = new Set();
 
  jobs.forEach((job) => {
-  const employerNameLower = job.employer_name.toLowerCase();
+  // Normalize company name first (e.g., 'HSHS' -> 'Hospital Sisters Health System')
+  const normalizedCompanyName = normalizeCompanyName(job.employer_name);
+  const employerNameLower = normalizedCompanyName.toLowerCase();
   const matchedCompany = companyNameMap.get(employerNameLower);
 
   // Only process jobs from companies in our category list
   if (matchedCompany) {
-   processedCompanies.add(job.employer_name);
+   console.log(
+    `✅ MATCH: "${job.employer_name}" -> "${normalizedCompanyName}" in category "${matchedCompany.categoryTitle}" as "${matchedCompany.name}"`
+   );
+   processedCompanies.add(normalizedCompanyName);
    if (!jobsByCompany[matchedCompany.name]) {
     jobsByCompany[matchedCompany.name] = [];
    }
    jobsByCompany[matchedCompany.name].push(job);
   } else {
+   // Debug: Check if this is a company name normalization issue
+   console.log(`❌ NO MATCH: "${job.employer_name}" -> "${normalizedCompanyName}" (not found in nursing.json categories)`);
+   console.log(`   Looking for: "${employerNameLower}"`);
+   console.log(`   Available companies:`, [...companyNameMap.keys()]);
    skippedCompanies.add(job.employer_name);
   }
  });
@@ -80,6 +90,20 @@ function generateJobTable(jobs) {
  console.log(`\n❌ DEBUG: Companies SKIPPED (${skippedCompanies.size}):`, [
   ...skippedCompanies,
  ]);
+
+ // New: Summarize configured companies that ended up with zero jobs after filtering
+ console.log("\n📋 DEBUG: Category coverage summary (configured vs with jobs vs zero jobs)");
+ Object.entries(companyCategory).forEach(([categoryKey, categoryData]) => {
+  const configured = categoryData.companies || [];
+  const withJobs = configured.filter((c) => jobsByCompany[c] && jobsByCompany[c].length > 0);
+  const zeroJobs = configured.filter((c) => !withJobs.includes(c));
+  console.log(
+   ` 🗂️ ${categoryData.title}: configured=${configured.length}, withJobs=${withJobs.length}, zeroJobs=${zeroJobs.length}`
+  );
+  if (zeroJobs.length > 0) {
+   console.log(`   ↪️ Configured but zero jobs:`, zeroJobs);
+  }
+ });
 
  // Log job counts by company
  console.log(`\n📈 DEBUG: Job counts by company:`);
@@ -99,6 +123,23 @@ function generateJobTable(jobs) {
   // Filter companies that actually have jobs
   const companiesWithJobs = (categoryData.companies || []).filter(
    (company) => jobsByCompany[company] && jobsByCompany[company].length > 0
+  );
+
+  const companiesZeroJobs = (categoryData.companies || []).filter(
+   (company) => !companiesWithJobs.includes(company)
+  );
+
+  console.log(
+   `\n📦 DEBUG: Category "${categoryData.title}" configured companies:`,
+   categoryData.companies || []
+  );
+  console.log(
+   `📥 DEBUG: Category "${categoryData.title}" companies WITH jobs:`,
+   companiesWithJobs
+  );
+  console.log(
+   `📭 DEBUG: Category "${categoryData.title}" companies with ZERO jobs:`,
+   companiesZeroJobs
   );
 
   if (companiesWithJobs.length > 0) {

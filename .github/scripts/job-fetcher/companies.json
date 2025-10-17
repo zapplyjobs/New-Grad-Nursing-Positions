@@ -4,7 +4,7 @@
       "name": "Cleveland Clinic",
       "emoji": "⭐",
       "career_url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers",
-      "api_names": ["cleveland clinic", "ccf"]
+      "api_names": ["cleveland clinic", "ccf", "cleaveland clinic"]
     },
     {
       "name": "New York Presbyterian",
@@ -56,7 +56,7 @@
       "name": "Allina Health",
       "emoji": "💙",
       "career_url": "https://allina.wd5.myworkdayjobs.com/External",
-      "api_names": ["allina health", "allina"]
+      "api_names": ["allina health", "allina", "alina health"]
     },
     {
       "name": "Endeavor Health",

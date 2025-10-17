@@ -1,4 +1,5 @@
 const fs = require("fs");
+const path = require("path");
 const { generateJobId } = require("./job-fetcher/utils");
 const {isUSOnlyJob} = require("./job-fetcher/utils");
 const {filterJobsByLevel} =require("./job-fetcher/utils")
@@ -7,7 +8,7 @@ const { getCompanies } = require('../../jobboard/src/backend/config/companies.js
 const { transformJobs ,convertDateToRelative } = require('../../jobboard/src/backend/output/jobTransformer.js');
 // Load company database
 const companies = JSON.parse(
-  fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
+  fs.readFileSync(path.join(__dirname, "job-fetcher/companies.json"), "utf8")
 );
 const ALL_COMPANIES = Object.values(companies).flat();
 
@@ -54,7 +55,7 @@ function delay(ms) {
 
 
 // Fetch jobs from all companies with real career API
-async function fetchAllRealJobs(searchQuery = 'nursing', maxPages = 3, batchConfig = BATCH_CONFIG) {
+async function fetchAllRealJobs(searchQuery = '', maxPages = 3, batchConfig = BATCH_CONFIG) {
   console.log("🚀 Starting REAL career page scraping...");
 
   let allJobs = [];
@@ -344,7 +345,7 @@ async function fetchAllRealJobs(searchQuery = 'nursing', maxPages = 3, batchConf
 let resultJobs = result.jobs.forEach(job => {
     return job;
 });
-console.log(resultJobs);
+console.log("ressulting the jobs",resultJobs);
 
         // Filter out already processed jobs
         const newJobs = transformedJobs.filter(job => {

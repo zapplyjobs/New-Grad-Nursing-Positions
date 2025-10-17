@@ -14,7 +14,7 @@ intermountainHealth: {
   selector: selectors.intermountainHealth
 },
 cleavelandClinic: {
-  name: "Cleaveland Clinic",
+  name: "Cleveland Clinic",
   baseUrl: "https://ccf.wd1.myworkdayjobs.com",
   url: `https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers?q=${encodeURIComponent(searchQuery)}`,
   selector: selectors.cleavelandClinic
@@ -45,7 +45,7 @@ hshs:{
   selector: selectors.hshs
 },
 AlinaHealth:{
-  name: "Alina Health",
+  name: "Allina Health",
   baseUrl: "https://allina.wd5.myworkdayjobs.com",
   url: `https://allina.wd5.myworkdayjobs.com/External?q=${encodeURIComponent(searchQuery)}`,
   selector: selectors.AlinaHealth

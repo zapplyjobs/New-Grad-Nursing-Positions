@@ -1,6 +1,6 @@
 {
   "elite_medical_centers": {
-    "companies": ["Cleaveland Clinic", "New York Presbyterian", "Stanford Health Care"],
+    "companies": ["Cleveland Clinic", "New York Presbyterian", "Stanford Health Care"],
     "emoji": "⭐",
     "title": "Elite Medical Centers"
   },
@@ -15,7 +15,7 @@
     "title": "Academic Medical Centers"
   },
   "integrated_networks": {
-    "companies": ["Alina Health", "Endeavor Health"],
+    "companies": ["Allina Health", "Endeavor Health"],
     "emoji": "🔗",
     "title": "Integrated Health Networks"
   }
