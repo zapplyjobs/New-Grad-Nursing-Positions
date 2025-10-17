@@ -37,9 +37,7 @@ async function main() {
         console.log(`   • Fresh jobs: ${freshJobs.length}`);
         console.log(`   • Archived jobs: ${archivedJobs.length}`);
         console.log(`   • Companies: ${Object.keys(stats.totalByCompany).length}`);
-        console.log(`   • FAANG+ jobs: ${currentJobs.filter(job => 
-            companies.faang_plus.some(c => c.name === job.employer_name)
-        ).length}`);
+       
         
         if (freshJobs.length > 0) {
             console.log(`\n📬 ${freshJobs.length} new jobs prepared for Discord posting`);
