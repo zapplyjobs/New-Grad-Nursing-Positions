@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 103+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 116+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 103 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 116 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 8 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 17, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -146,10 +146,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Customer Access Assistant - Full Time (08-HR) Days 🏠 | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Customer-Access-Assistant---Full-Time--08-HR--Days_R2550527-1) | 3d |
 | Access Operations Associate (Radiology Scheduling) Full Time (08-HR) Days 🏠 | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Access-Operations-Associate--Radiology-Scheduling--Full-Time--08-HR--Days_R2551042) | 3d |
 
-### ✝️ **Faith-Based Health Systems** (29 positions)
+### ✝️ **Faith-Based Health Systems** (42 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (28 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (40 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -181,14 +181,27 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Medical Laboratory Scientist | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Medical-Laboratory-Technologist_R1032121) | 2d |
 | RN Residency and Nurse Extern II - Winter 2025 grads | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/RN-Residency-and-Nurse-Extern-II---Winter-2025-grads_R1032385) | 2d |
 | Phlebotomist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Phlebotomist-I_R1032616) | 2d |
+| Registered Nurse (RN) - Medical/Surgical (Med/Surg) | Oconto Falls, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Oconto-Falls-WI/Job-Posting-Title-Registered-Nurse--RN----Medical-Surgical--Med-Surg-_R1031681) | 2d |
+| Early Childhood Teacher | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Early-Childhood-Teacher_R1031420) | 2d |
+| Registered Nurse (RN)-Medical/Surgical (Med Surg) | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN--Medical-Surgical--Med-Surg-_R1032859) | 2d |
+| Medical Assistant(MA) - Float | Mt. Zion, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Mt-Zion-IL/Medical-Assistant-MA----Float_R1031107) | 2d |
+| Surgical Technologist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Surgical-Technologist-I_R1031963) | 2d |
+| Multimodality Imaging Technologist-PRN | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Multimodality-Imaging-Technologist-PRN_R1032865) | 2d |
+| 2435 - Sonographer II-Cardiac | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/XMLNAME-2435---Sonographer-II-Cardiac_R1032806) | 2d |
+| LPN or MA | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/LPN-or-MA-II_R1032360) | 1d |
+| Wound Registered Nurse (RN) | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Wound-Registered-Nurse--RN-_R1029965) | 3d |
+| Registered Nurse (RN) HSHS Home Care | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Registered-Nurse--RN--HSHS-Home-Care_R1031428) | 3d |
+| Patient Care Assistant II (PRN) | Litchfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Litchfield-IL/Patient-Care-Assistant-II_R1030213-1) | 3d |
+| Patient Care Assistant | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Patient-Care-Assistant--PRN_R1032608) | 3d |
 
 </details>
 
-#### ⛰️ **Intermountain Health** (1 position)
+#### ⛰️ **Intermountain Health** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Medical Assistant Primary Care 🏠 | Mesquite Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Mesquite-Clinic/Medical-Assistant-Primary-Care_R150560) | 1d |
+| Cardiothoracic Surgery Physician 🏠 | Heart and Vascular Denver | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Heart-and-Vascular---Denver/Cardiothoracic-Surgery-Physician_R141677) | 1d |
+| Medical Assistant Primary Care | Mesquite Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Mesquite-Clinic/Medical-Assistant-Primary-Care_R150560) | 1d |
 
 ### 🎓 **Academic Medical Centers** (6 positions)
 
@@ -231,7 +244,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (4 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (5) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (1)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (4 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (5) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (2)
 
 
 #### 🎓 **Academic Medical Centers** (1 company)
@@ -247,27 +260,27 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 25 | 24% | No or minimal experience |
-| 🟡 Beginner & Early Career | 12 | 12% | 1-2 years of experience |
-| 🔴 Manager     | 66 | 64% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 26 | 22% | No or minimal experience |
+| 🟡 Beginner & Early Career | 26 | 22% | 1-2 years of experience |
+| 🔴 Manager     | 64 | 55% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 39 positions
-- **Springfield, IL**: 7 positions
-- **O'Fallon, IL**: 6 positions
+- **Springfield, IL**: 10 positions
+- **O'Fallon, IL**: 7 positions
+- **Green Bay, WI**: 7 positions
 - **NCH 800 W Central Rd Arlington Heights**: 6 positions
 - **7600 Gateway Blvd NEWARK**: 5 positions
-- **Green Bay, WI**: 5 positions
+- **Decatur, IL**: 5 positions
 - **Richmond, VA**: 5 positions
-- **NYP/Columbia University Irving Medical Center**: 4 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 103+ verified hospital and pharma roles from 8 elite organizations.
+✅ **100% Real Jobs:** 116+ verified hospital and pharma roles from 8 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -359,7 +372,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **103 current opportunities from 8 elite companies.**
+🎯 **116 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
