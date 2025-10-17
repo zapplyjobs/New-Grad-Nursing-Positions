@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 6+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 100+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 6+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 96+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 100 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 96 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 6 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 17, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -54,11 +54,11 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Platform | Description | Visit Now |
 |----------|-------------|-----------|
-| undefined AngelList Internships | Trending startup internships and entry-level roles | <a href="https://wellfound.com/jobs#internships" target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-| undefined LinkedIn Student Jobs | New Jobs and professional networking for students | <a href="https://www.linkedin.com/jobs/search/?currentJobId=4292794755&geoId=103644278&keywords=software%20engineering%20intern&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true" target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-| undefined Indeed Internships | Comprehensive internship search engine | <a href="https://www.indeed.com/jobs?q=software%20engineering%20intern&l=United%20States&from=searchOnDesktopSerp%2Cwhereautocomplete&cf-turnstile-response=0.ZJCZbNXcxcvufJaZndsqVZt_cKlKAHi24tPPk6n9v399nZHXwzLOL8P43R6ir2fKfa6BvndTrPbW_cSnPqQyLnard6MNWqZbqAcRe5Xk6qhevasj90JYORHAWNaztKmx71uUniLoCEo_csEXBvZ8awZ5F6IhXpAJC8gF-R44ir09b9w3x16auEKJdPpnf5UyLmhezEgeMSGRUwbmFNrs5iDWupecoRzbvKgf8EBnzD4k8SJIERx3rCt92k0OksFz7C_X2N4lUEjqiLSb9ZI2J7wUmUMQf2l7keXpf2uMdbIuBkxpUj3cpyiK87Wj5fi-v9yDE9U1Sd8sm-jD6TASVUgF_6KvV3SwMMLErS8fhWNCuiGu3Tk-zk354ovM_cskTBRnaCLVHeUucoHiLJGE61X9NYHCIY4HJMxXlR6BcLdMwSgAIlPqtQVzolpCsrOHWrAD3SAiD7OKFX2rtm3YGTk7pRjDURwg-uia-yoLCWrqOyTI8cfPes4J5VxguGJGqb2A7KVow3x54UjuVBxHPljJ4a_rKTd5qzshvas4FqM35um5CmVTVrQJfuzAZBSp_72nOEwtVpwrfu_Ff39EPAb1c-IVifGhtpPq7ceWOM6_w4s96HAhHiCskNy8BbhcqHCOohxXYWw3o2VFEMdOIUp9SLWv19GpaZAU3rdE--GosWrdamyZ5-nwYRg_FJ3r7cmCCRi8CAKqp4uoTxgYYtSs_eTBleyPOdMU0v0iNskpU5T-hViWduBKcCr5ouXa82fRBt-9zw7aymZdwWVaJRcUiTDrdGtes53XJy2Ub1sAoCEI9UCeEhRJGeO2D1sp2crya84ADsBmSuk4Q0pplaRV_u2fc9gHKfW098qNVxTBcxhXgt8YKoRpVPkMPVLaHePlyHySFqV42xEqjLsMwz7eCb4OyAK-YO22C-V-T1Xg73nDf0fHRT2GAy5TXRdM.5QbZ9QPdwp8M71i25CqN1g.c4b098184b3143ef21e5dad9abb502f3444659952a73cbd8c95694153a14ae72" target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-| undefined Glassdoor Internships | Internships with company reviews and salary data | <a href="https://www.glassdoor.com/Job/united-states-software-engineer-intern-jobs-SRCH_IL.0,13_IN1_KO14,38.htm" target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-| undefined University Career Centers | National Association of Colleges and Employers | <a href="https://www.naceweb.org/tag/internships" target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
+| 👼 AngelList Internships | Trending startup internships and entry-level roles | <a href="https://wellfound.com/jobs#internships" target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
+| 🔗 LinkedIn Student Jobs | New Jobs and professional networking for students | <a href="https://www.linkedin.com/jobs/search/?currentJobId=4292794755&geoId=103644278&keywords=software%20engineering%20intern&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true" target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
+| 🔵 Indeed Internships | Comprehensive internship search engine | <a href="https://www.indeed.com/jobs?q=software%20engineering%20intern&l=United%20States&from=searchOnDesktopSerp%2Cwhereautocomplete&cf-turnstile-response=0.ZJCZbNXcxcvufJaZndsqVZt_cKlKAHi24tPPk6n9v399nZHXwzLOL8P43R6ir2fKfa6BvndTrPbW_cSnPqQyLnard6MNWqZbqAcRe5Xk6qhevasj90JYORHAWNaztKmx71uUniLoCEo_csEXBvZ8awZ5F6IhXpAJC8gF-R44ir09b9w3x16auEKJdPpnf5UyLmhezEgeMSGRUwbmFNrs5iDWupecoRzbvKgf8EBnzD4k8SJIERx3rCt92k0OksFz7C_X2N4lUEjqiLSb9ZI2J7wUmUMQf2l7keXpf2uMdbIuBkxpUj3cpyiK87Wj5fi-v9yDE9U1Sd8sm-jD6TASVUgF_6KvV3SwMMLErS8fhWNCuiGu3Tk-zk354ovM_cskTBRnaCLVHeUucoHiLJGE61X9NYHCIY4HJMxXlR6BcLdMwSgAIlPqtQVzolpCsrOHWrAD3SAiD7OKFX2rtm3YGTk7pRjDURwg-uia-yoLCWrqOyTI8cfPes4J5VxguGJGqb2A7KVow3x54UjuVBxHPljJ4a_rKTd5qzshvas4FqM35um5CmVTVrQJfuzAZBSp_72nOEwtVpwrfu_Ff39EPAb1c-IVifGhtpPq7ceWOM6_w4s96HAhHiCskNy8BbhcqHCOohxXYWw3o2VFEMdOIUp9SLWv19GpaZAU3rdE--GosWrdamyZ5-nwYRg_FJ3r7cmCCRi8CAKqp4uoTxgYYtSs_eTBleyPOdMU0v0iNskpU5T-hViWduBKcCr5ouXa82fRBt-9zw7aymZdwWVaJRcUiTDrdGtes53XJy2Ub1sAoCEI9UCeEhRJGeO2D1sp2crya84ADsBmSuk4Q0pplaRV_u2fc9gHKfW098qNVxTBcxhXgt8YKoRpVPkMPVLaHePlyHySFqV42xEqjLsMwz7eCb4OyAK-YO22C-V-T1Xg73nDf0fHRT2GAy5TXRdM.5QbZ9QPdwp8M71i25CqN1g.c4b098184b3143ef21e5dad9abb502f3444659952a73cbd8c95694153a14ae72" target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
+| 🏢 Glassdoor Internships | Internships with company reviews and salary data | <a href="https://www.glassdoor.com/Job/united-states-software-engineer-intern-jobs-SRCH_IL.0,13_IN1_KO14,38.htm" target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
+| 🏫 University Career Centers | National Association of Colleges and Employers | <a href="https://www.naceweb.org/tag/internships" target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
 
 
 
@@ -66,10 +66,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (59 positions)
+### ⭐ **Elite Medical Centers** (55 positions)
 
 <details>
-<summary><h4>🏢 <strong>Cleaveland Clinic</strong> (54 positions)</h4></summary>
+<summary><h4>🏢 <strong>Cleaveland Clinic</strong> (50 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -92,22 +92,18 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Nurse Practitioner (NP) or Physician Assistant (PA) - Breast Medical Oncology | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/VMG-Nurse-Practitioner--NP--or-Physician-Assistant--PA----Breast-Medical-Oncology_R-48571-1?q=nursing) | 1d |
 | Geriatric Nurse Practitioner (NP) or Physician Assistant (PA) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/VMG-Geriatric-Nurse-Practitioner--NP---or-Physician-Assistant--PA-_R-44756-2?q=nursing) | 1d |
 | Nurse Practitioner (NP) - Surgical Oncology | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/VMG-Nurse-Practitioner--NP----Surgical-Oncology_R-46760-1?q=nursing) | 1d |
-| Patient Care Technician PRN (Endoscopy) 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Patient-Care-Technician-PRN_R-47625?q=nursing) | 1d |
-| Registered Nurse CC (Assessment Nurse) GI Endoscopy - PT 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-CC--Assessment-Nurse--GI-Endoscopy---PT---Hybrid_R-47538-1?q=nursing) | 1d |
-| Patient Care Attendant (24 or 36 Hours per Week) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Patient-Care-Attendant--24-or-36-Hours-per-Week-_R-39720-1?q=nursing) | 1d |
-| Registered Nurse - Home Care - Intermittent 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse---Home-Care---Intermittent_R-47718-1?q=nursing) | 1d |
-| Pediatric Registered Nurse 2 Cardiac OR- Circulator 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-Registered-Nurse-2-Cardiac-OR--Circulator_R-48593-1?q=nursing) | 1d |
-| Certified Registered Nurse Anesthetist - Virtual Town Hall Event 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Registered-Nurse-Anesthetist---Virtual-Town-Hall-Event_R-49195-1?q=nursing) | 1d |
-| Registered Nurse, Trauma ICU, Nights - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Trauma-ICU--Nights---VUH_R-46873-1?q=nursing) | 1d |
-| Physician Assistant/Nurse Practitioner First Assist or Registered Nurse First Assist - Pediatric CVOR 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physician-Assistant-Nurse-Practitioner-First-Assist---Pediatric-CVOR_R-43826?q=nursing) | 1d |
-| Surgical Tech II PRN OR, Nights & Weekends 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Surgical-Tech-II-PRN-OR--Nights---Weekends_R-46277-1?q=nursing) | 1d |
-| Registered Nurse, IV Therapy - Mid-shift - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--IV-Therapy---Mid-shift---VUH_R-49054-1?q=nursing) | 1d |
-| Registered Nurse, Trauma Stepdown, Nights - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Trauma-Stepdown--Nights---VUH_R-47605-1?q=nursing) | 1d |
-| Licensed Practical Nurse - Float 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Licensed-Practical-Nurse---Float_R-45062-1?q=nursing) | 1d |
-| Care Partner - VAD & Heart Transplant (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---VAD---Heart-Transplant--Nights-_R-45161-1?q=nursing) | 1d |
-| Registered Nurse, Adult Emergency Department, Nights, VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Emergency-Services--Nights--VUH_R-44294-1?q=nursing) | 1d |
-| Emergency Medicine Nurse Practitioner (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Emergency-Medicine-Nurse-Practitioner--NP-_R-47641-1?q=nursing) | 1d |
-| Care Partner - 7RW Acute Care of the Elderly FT Nights 18:45 - 07:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---7RW-Acute-Care-of-the-Elderly-FT-Nights-18-45---07-15_R-47134-1?q=nursing) | 1d |
+| Pediatric Registered Nurse 2 Cardiac OR- Circulator | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-Registered-Nurse-2-Cardiac-OR--Circulator_R-48593-1?q=nursing) | 1d |
+| Certified Registered Nurse Anesthetist - Virtual Town Hall Event | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Registered-Nurse-Anesthetist---Virtual-Town-Hall-Event_R-49195-1?q=nursing) | 1d |
+| Registered Nurse, Trauma ICU, Nights - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Trauma-ICU--Nights---VUH_R-46873-1?q=nursing) | 1d |
+| Physician Assistant/Nurse Practitioner First Assist or Registered Nurse First Assist - Pediatric CVOR | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physician-Assistant-Nurse-Practitioner-First-Assist---Pediatric-CVOR_R-43826?q=nursing) | 1d |
+| Surgical Tech II PRN OR, Nights & Weekends | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Surgical-Tech-II-PRN-OR--Nights---Weekends_R-46277-1?q=nursing) | 1d |
+| Registered Nurse, IV Therapy - Mid-shift - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--IV-Therapy---Mid-shift---VUH_R-49054-1?q=nursing) | 1d |
+| Registered Nurse, Trauma Stepdown, Nights - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Trauma-Stepdown--Nights---VUH_R-47605-1?q=nursing) | 1d |
+| Licensed Practical Nurse - Float | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Licensed-Practical-Nurse---Float_R-45062-1?q=nursing) | 1d |
+| Care Partner - VAD & Heart Transplant (Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---VAD---Heart-Transplant--Nights-_R-45161-1?q=nursing) | 1d |
+| Registered Nurse, Adult Emergency Department, Nights, VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Emergency-Services--Nights--VUH_R-44294-1?q=nursing) | 1d |
+| Emergency Medicine Nurse Practitioner (Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Emergency-Medicine-Nurse-Practitioner--NP-_R-47641-1?q=nursing) | 1d |
+| Care Partner - 7RW Acute Care of the Elderly FT Nights 18:45 - 07:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---7RW-Acute-Care-of-the-Elderly-FT-Nights-18-45---07-15_R-47134-1?q=nursing) | 1d |
 | Licensed Practical Nurse - Otolaryngology | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Licensed-Practical-Nurse---Otolaryngology_R-47880-1?q=nursing) | 1d |
 | Patient Transport | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Patient-Transport_R-44286-1?q=nursing) | 1d |
 | Associate Operating Officer – Tullahoma-Harton Hospital | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Associate-Operating-Officer---Tullahoma-Harton-Hospital_R-48197?q=nursing) | 1d |
@@ -227,16 +223,16 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 5 | 5% | No or minimal experience |
-| 🟡 Beginner & Early Career | 18 | 18% | 1-2 years of experience |
-| 🔴 Manager     | 77 | 77% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 18 | 19% | 1-2 years of experience |
+| 🔴 Manager     | 73 | 76% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Nashville, TN**: 44 positions
+- **Nashville, TN**: 41 positions
 - **Richmond, VA**: 21 positions
 - **NYP/Columbia University Irving Medical Center**: 5 positions
-- **Lebanon, TN**: 4 positions
+- **Lebanon, TN**: 3 positions
 - **SRO Corporate Center Warrenville 4201 Winfield Road**: 3 positions
 - **NCH 800 W Central Rd Arlington Heights**: 3 positions
 - **Henrico, VA**: 3 positions
@@ -246,7 +242,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 100+ verified hospital and pharma roles from 6 elite organizations.
+✅ **100% Real Jobs:** 96+ verified hospital and pharma roles from 6 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -340,7 +336,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **100 current opportunities from 6 elite companies.**
+🎯 **96 current opportunities from 6 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
