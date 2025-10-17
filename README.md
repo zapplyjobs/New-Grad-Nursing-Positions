@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 103+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 115+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 103 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 115 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 8 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 17, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,13 +66,14 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (56 positions)
+### ⭐ **Elite Medical Centers** (58 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (48 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (49 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Nurse Technician - Acute Care Cardiac Telemetry and Complex Medical 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Nurse-Technician---Acute-Care-Cardiac-Telemetry-and-Complex-Medical_295774) | 1d |
 | PRN Rehabilitation Services Technician 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-Rehabilitation-Services-Technician_317752-1) | 1d |
 | Software Developer II - Pathology Informatics 🏠 | Remote Location | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Remote-Location/Software-Developer-II---Pathology-Informatics_304649) | 1d |
 | AI Software Engineer 🏠 | Remote Location | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Remote-Location/AI-Software-Engineer_310022) | 1d |
@@ -81,6 +82,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
 | Physical Therapist – Acute Care Inpatient PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Acute-Care-Inpatient-PRN_R-48084-1) | 1d |
 | Nurse Residency Program Winter 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Residency-Program-Winter-2026_R-44374-1) | 1d |
+| Quality Educator - Home Care (Hybrid/Local) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Quality-and-Safety-Advisor_R-47389-1) | 1d |
 | Exercise Physiologist – Pulmonary Rehab (ACSM-CEP) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Exercise-Physiologist---Pulmonary-Rehab--ACSM-CEP-_R-50020-1) | 1d |
 | Standardized Patient 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Standardized-Patient_R-47562) | 1d |
 | Certified Registered Nurse Anesthetist - Virtual Town Hall Event 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Registered-Nurse-Anesthetist---Virtual-Town-Hall-Event_R-49195-1) | 1d |
@@ -120,7 +122,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Surgical Tech II PRN OR, Nights & Weekends 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Surgical-Tech-II-PRN-OR--Nights---Weekends_R-46277-1) | 1d |
 | Pediatric Rehabilitation Tech – PRN Monroe Carell Jr. Children’s Hospital at Vanderbilt 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-Rehabilitation-Tech---PRN-Monroe-Carell-Jr-Children-s-Hospital-at-Vanderbilt_R-48690-1) | 1d |
 | Registered Nurse, Trauma Stepdown, Nights - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Trauma-Stepdown--Nights---VUH_R-47605-1) | 1d |
-| Bilingual Research Assistant II 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Bilingual-Research-Assistant-II---Hybrid_R-46796-1) | 1d |
 
 </details>
 
@@ -133,19 +134,20 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Surgical Technologist Cert | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Surgical-Technologist-Cert_00871181) | 1d |
 | Pharmacy Technician | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Pharmacy-Technician_00869786-2) | 1d |
 
-#### 🎓 **Stanford Health Care** (4 positions)
+#### 🎓 **Stanford Health Care** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Business Systems Analyst - Project Mgmt Team (Enterprise Contact Center) | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Business-Systems-Analyst---Project-Mgmt-Team--Enterprise-Contact-Center-_R2549981) | 1d |
 | Performance Improvement Proj Mgr 🏠 | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Performance-Improvement-Proj-Mgr_R2550356) | 2d |
 | Service Designer 🏠 | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Service-Designer_R2549919) | 2d |
 | Customer Access Assistant - Full Time (08-HR) Days 🏠 | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Customer-Access-Assistant---Full-Time--08-HR--Days_R2550527-1) | 3d |
 | Access Operations Associate (Radiology Scheduling) Full Time (08-HR) Days 🏠 | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Access-Operations-Associate--Radiology-Scheduling--Full-Time--08-HR--Days_R2551042) | 3d |
 
-### ✝️ **Faith-Based Health Systems** (33 positions)
+### ✝️ **Faith-Based Health Systems** (43 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (31 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (41 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -160,6 +162,16 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse (RN), Cath Lab | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---Cath-Lab_R1031324-1) | 1d |
 | LPN or MA | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/LPN-or-MA-II_R1032360) | 1d |
 | Registered Nurse (RN)-Medical/Oncology (Med/Onc) | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN--Medical-Oncology--Med-Onc-_R1032860) | 1d |
+| Registered Nurse (RN), PACU | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---FT--PACU_R1031140) | 1d |
+| Physician - General Surgery | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Physician---General-Surgery_R1032037) | 1d |
+| Medical Laboratory Technician | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Laboratory-Technician_R1032794) | 1d |
+| Infection Preventionist RN | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Infection-Preventionist-RN_R1032861) | 1d |
+| Laundry Associate | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Laundry-Associate-I_R1032826) | 1d |
+| Medical Assistant (MA)-Family Medicine | Fairview Heights, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Fairview-Heights-IL/Medical-Assistant--MA--Family-Medicine--Shiloh_R1031910) | 1d |
+| Respiratory Care Practitioner PRN | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Respiratory-Care-Practitioner-PRN_R1032857) | 1d |
+| Medical Laboratory Technician - Nights | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Medical-Laboratory-Technician---Nights_R1032893) | 1d |
+| Physician - General Surgery | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Physician---General-Surgery_R1030720) | 1d |
+| Physician - General Surgery | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Physician---General-Surgery_R1032043) | 1d |
 | Surgical Technologist | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Surgical-Technologist-I_R1032747) | 1d |
 | Patient Care Assistant (CNA) | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Patient-Care-Assistant--CNA-_R1032885) | 1d |
 | Transporter | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Transporter_R1032786-1) | 1d |
@@ -231,7 +243,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (4 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (4) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (2)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (4 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (5) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (2)
 
 
 #### 🎓 **Academic Medical Centers** (1 company)
@@ -247,27 +259,27 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 28 | 27% | No or minimal experience |
-| 🟡 Beginner & Early Career | 11 | 11% | 1-2 years of experience |
-| 🔴 Manager     | 64 | 62% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 44 | 38% | No or minimal experience |
+| 🟡 Beginner & Early Career | 11 | 10% | 1-2 years of experience |
+| 🔴 Manager     | 60 | 52% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 38 positions
-- **Springfield, IL**: 7 positions
+- **Springfield, IL**: 12 positions
+- **O'Fallon, IL**: 8 positions
 - **Green Bay, WI**: 7 positions
-- **O'Fallon, IL**: 6 positions
 - **NCH 800 W Central Rd Arlington Heights**: 6 positions
+- **7600 Gateway Blvd NEWARK**: 5 positions
+- **Decatur, IL**: 5 positions
 - **Richmond, VA**: 5 positions
-- **NYP/Columbia University Irving Medical Center**: 4 positions
-- **7600 Gateway Blvd NEWARK**: 4 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 103+ verified hospital and pharma roles from 8 elite organizations.
+✅ **100% Real Jobs:** 115+ verified hospital and pharma roles from 8 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -359,7 +371,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **103 current opportunities from 8 elite companies.**
+🎯 **115 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
