@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 6+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 96+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 6+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 97+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 96 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 97 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 6 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 17, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -74,7 +74,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Nurse Technician – Clinical Decision Unit 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Nurse-Technician---Clinical-Decision-Unit_312823?q=nursing) | 1d |
-| LPN Ambulatory - Coumadin Clinic | Lakewood Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lakewood-Family-Health-Center/LPN-Ambulatory---Coumadin-Clinic_310767?q=nursing) | 1d |
+| LPN Ambulatory - Coumadin Clinic 🏠 | Lakewood Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lakewood-Family-Health-Center/LPN-Ambulatory---Coumadin-Clinic_310767?q=nursing) | 1d |
 | Nurse Residency Program Winter | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Residency-Program-Winter-2026_R-44374-1?q=nursing) | 1d |
 | Registered Nurse, CPOD, Nights-VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--CPOD--Nights-VUH_R-49295?q=nursing) | 1d |
 | Care Partner PRN - Med/Surg (Bedford Hospital) | Shelbyville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/Care-Partner-PRN---Med-Surg_R-48203-2?q=nursing) | 1d |
@@ -92,22 +92,22 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Nurse Practitioner (NP) or Physician Assistant (PA) - Breast Medical Oncology | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/VMG-Nurse-Practitioner--NP--or-Physician-Assistant--PA----Breast-Medical-Oncology_R-48571-1?q=nursing) | 1d |
 | Geriatric Nurse Practitioner (NP) or Physician Assistant (PA) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/VMG-Geriatric-Nurse-Practitioner--NP---or-Physician-Assistant--PA-_R-44756-2?q=nursing) | 1d |
 | Nurse Practitioner (NP) - Surgical Oncology | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/VMG-Nurse-Practitioner--NP----Surgical-Oncology_R-46760-1?q=nursing) | 1d |
-| Patient Care Technician PRN (Endoscopy) 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Patient-Care-Technician-PRN_R-47625?q=nursing) | 1d |
-| Registered Nurse CC (Assessment Nurse) GI Endoscopy - PT 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-CC--Assessment-Nurse--GI-Endoscopy---PT---Hybrid_R-47538-1?q=nursing) | 1d |
-| Patient Care Attendant (24 or 36 Hours per Week) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Patient-Care-Attendant--24-or-36-Hours-per-Week-_R-39720-1?q=nursing) | 1d |
-| Registered Nurse - Home Care - Intermittent 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse---Home-Care---Intermittent_R-47718-1?q=nursing) | 1d |
-| Pediatric Registered Nurse 2 Cardiac OR- Circulator 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-Registered-Nurse-2-Cardiac-OR--Circulator_R-48593-1?q=nursing) | 1d |
-| Certified Registered Nurse Anesthetist - Virtual Town Hall Event 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Registered-Nurse-Anesthetist---Virtual-Town-Hall-Event_R-49195-1?q=nursing) | 1d |
-| Registered Nurse, Trauma ICU, Nights - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Trauma-ICU--Nights---VUH_R-46873-1?q=nursing) | 1d |
-| Physician Assistant/Nurse Practitioner First Assist or Registered Nurse First Assist - Pediatric CVOR 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physician-Assistant-Nurse-Practitioner-First-Assist---Pediatric-CVOR_R-43826?q=nursing) | 1d |
-| Surgical Tech II PRN OR, Nights & Weekends 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Surgical-Tech-II-PRN-OR--Nights---Weekends_R-46277-1?q=nursing) | 1d |
-| Registered Nurse, IV Therapy - Mid-shift - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--IV-Therapy---Mid-shift---VUH_R-49054-1?q=nursing) | 1d |
-| Registered Nurse, Trauma Stepdown, Nights - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Trauma-Stepdown--Nights---VUH_R-47605-1?q=nursing) | 1d |
-| Licensed Practical Nurse - Float 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Licensed-Practical-Nurse---Float_R-45062-1?q=nursing) | 1d |
-| Care Partner - VAD & Heart Transplant (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---VAD---Heart-Transplant--Nights-_R-45161-1?q=nursing) | 1d |
-| Registered Nurse, Adult Emergency Department, Nights, VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Emergency-Services--Nights--VUH_R-44294-1?q=nursing) | 1d |
-| Emergency Medicine Nurse Practitioner (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Emergency-Medicine-Nurse-Practitioner--NP-_R-47641-1?q=nursing) | 1d |
-| Care Partner - 7RW Acute Care of the Elderly FT Nights 18:45 - 07:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---7RW-Acute-Care-of-the-Elderly-FT-Nights-18-45---07-15_R-47134-1?q=nursing) | 1d |
+| Pediatric Registered Nurse 2 Cardiac OR- Circulator | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-Registered-Nurse-2-Cardiac-OR--Circulator_R-48593-1?q=nursing) | 1d |
+| Certified Registered Nurse Anesthetist - Virtual Town Hall Event | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Registered-Nurse-Anesthetist---Virtual-Town-Hall-Event_R-49195-1?q=nursing) | 1d |
+| Registered Nurse, Trauma ICU, Nights - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Trauma-ICU--Nights---VUH_R-46873-1?q=nursing) | 1d |
+| Physician Assistant/Nurse Practitioner First Assist or Registered Nurse First Assist - Pediatric CVOR | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physician-Assistant-Nurse-Practitioner-First-Assist---Pediatric-CVOR_R-43826?q=nursing) | 1d |
+| Surgical Tech II PRN OR, Nights & Weekends | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Surgical-Tech-II-PRN-OR--Nights---Weekends_R-46277-1?q=nursing) | 1d |
+| Registered Nurse, IV Therapy - Mid-shift - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--IV-Therapy---Mid-shift---VUH_R-49054-1?q=nursing) | 1d |
+| Registered Nurse, Trauma Stepdown, Nights - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Trauma-Stepdown--Nights---VUH_R-47605-1?q=nursing) | 1d |
+| Licensed Practical Nurse - Float | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Licensed-Practical-Nurse---Float_R-45062-1?q=nursing) | 1d |
+| Care Partner - VAD & Heart Transplant (Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---VAD---Heart-Transplant--Nights-_R-45161-1?q=nursing) | 1d |
+| Registered Nurse, Adult Emergency Department, Nights, VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Emergency-Services--Nights--VUH_R-44294-1?q=nursing) | 1d |
+| Emergency Medicine Nurse Practitioner (Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Emergency-Medicine-Nurse-Practitioner--NP-_R-47641-1?q=nursing) | 1d |
+| Care Partner - 7RW Acute Care of the Elderly FT Nights 18:45 - 07:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---7RW-Acute-Care-of-the-Elderly-FT-Nights-18-45---07-15_R-47134-1?q=nursing) | 1d |
+| Licensed Practical Nurse - Otolaryngology | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Licensed-Practical-Nurse---Otolaryngology_R-47880-1?q=nursing) | 1d |
+| Patient Transport | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Patient-Transport_R-44286-1?q=nursing) | 1d |
+| Associate Operating Officer – Tullahoma-Harton Hospital | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Associate-Operating-Officer---Tullahoma-Harton-Hospital_R-48197?q=nursing) | 1d |
+| Heart Station EKG Tech - FT - Weekday (10 hour shifts) - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Heart-Station-Tech---FT---Mon-Fri---OHO_R-43739-1?q=nursing) | 1d |
 | EEG Tech - FT - Weekday (7a-7p) - Wilson County Hospital | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/EEG-Tech---FT---Weekday--7a-7p----Wilson-County-Hospital_R-47130-1?q=nursing) | 1d |
 | EEG Tech PRN - Days - Wilson County Hospital | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/EEG-Tech-PRN_R-41912?q=nursing) | 1d |
 | Registered Nurse. Medicine Stepdown, Nights (Premium Pay)- VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-Medicine-Stepdown--Nights--Premium-Pay---VUH_R-49129-1?q=nursing) | 1d |
@@ -223,9 +223,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 7 | 7% | No or minimal experience |
-| 🟡 Beginner & Early Career | 17 | 18% | 1-2 years of experience |
-| 🔴 Manager     | 72 | 75% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 6 | 6% | No or minimal experience |
+| 🟡 Beginner & Early Career | 18 | 19% | 1-2 years of experience |
+| 🔴 Manager     | 73 | 75% | 2+ years of experience |
 
 ---
 
@@ -233,8 +233,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 - **Nashville, TN**: 41 positions
 - **Richmond, VA**: 21 positions
 - **NYP/Columbia University Irving Medical Center**: 5 positions
-- **Lebanon, TN**: 4 positions
 - **Henrico, VA**: 4 positions
+- **Lebanon, TN**: 3 positions
 - **SRO Corporate Center Warrenville 4201 Winfield Road**: 3 positions
 - **NCH 800 W Central Rd Arlington Heights**: 3 positions
 - **South Hill, VA**: 2 positions
@@ -243,7 +243,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 96+ verified hospital and pharma roles from 6 elite organizations.
+✅ **100% Real Jobs:** 97+ verified hospital and pharma roles from 6 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -337,7 +337,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **96 current opportunities from 6 elite companies.**
+🎯 **97 current opportunities from 6 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
