@@ -241,7 +241,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
     day: "numeric",
   });
 
-  // const totalCompanies = Object.keys(stats?.totalByCompany || {}).length;
+  const totalCompanies = Object.keys(stats?.totalByCompany || {}).length;
   // const faangJobs = currentJobs.filter((job) =>
   //   companies.faang_plus.some((c) => c.name === job.employer_name)
   // ).length;
