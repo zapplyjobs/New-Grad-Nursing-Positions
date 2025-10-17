@@ -52,7 +52,7 @@
       "disabledAttribute": "aria-disabled"
     }
   }, "presbyterian": {
-    "name": "Cleaveland Clinic",
+    "name": "New York Presbyterian",
     "jobSelector": "li.css-1q2dra3",
     "titleSelector": "h3",
     "applyLinkSelector": "a",
@@ -69,7 +69,114 @@
       "disabledAttribute": "aria-disabled"
     }
   },
-
+  "stanfordhealthcare":{
+    "name": "Stanford Health Care",
+    "jobSelector": "li.css-1q2dra3",
+    "titleSelector": "h3",
+    "applyLinkSelector": "a",
+    "linkAttribute": "href",
+    "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
+    "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
+    "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
+    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
+    "descriptionSelector": "ul",
+    "pagination": {
+      "type": "chevron-click",
+      "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
+      "parentButtonSelector": "button",
+      "disabledAttribute": "aria-disabled"
+    }
+  },
+  "hshs": {
+    "name": "HSHS",
+    "jobSelector": "li.css-1q2dra3",
+    "titleSelector": "h3",
+    "applyLinkSelector": "a",
+    "linkAttribute": "href",
+    "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
+    "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
+    "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
+    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
+    "descriptionSelector": "ul",
+    "pagination": {
+      "type": "chevron-click",
+      "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
+      "parentButtonSelector": "button",
+      "disabledAttribute": "aria-disabled"
+    }
+  },
+  "AlinaHealth": {
+    "name": "Alina Health",
+    "jobSelector": "li.css-1q2dra3",
+    "titleSelector": "h3",
+    "applyLinkSelector": "a",
+    "linkAttribute": "href",
+    "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
+    "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
+    "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
+    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
+    "descriptionSelector": "ul",
+    "pagination": {
+      "type": "chevron-click",
+      "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
+      "parentButtonSelector": "button",
+      "disabledAttribute": "aria-disabled"
+    }
+  },
+  "UniversityofRochesterMedicalCenter": {
+    "name": "University of Rochester Medical Center",
+    "jobSelector": "li.css-1q2dra3",
+    "titleSelector": "h3",
+    "applyLinkSelector": "a",
+    "linkAttribute": "href",
+    "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
+    "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
+    "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
+    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
+    "descriptionSelector": "ul",
+    "pagination": {
+      "type": "chevron-click",
+      "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
+      "parentButtonSelector": "button",
+      "disabledAttribute": "aria-disabled"
+    }
+  },
+"EndeavorHealth": {
+    "name": "Endeavor Health",
+    "jobSelector": "li.css-1q2dra3",
+    "titleSelector": "h3",
+    "applyLinkSelector": "a",
+    "linkAttribute": "href",
+    "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
+    "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
+    "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
+    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
+    "descriptionSelector": "ul",
+    "pagination": {
+      "type": "chevron-click",
+      "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
+      "parentButtonSelector": "button",
+      "disabledAttribute": "aria-disabled"
+    }
+  },
+  "VCUHealth": {
+    "name": "VCU Health",
+    "jobSelector": "li.css-1q2dra3",
+    "titleSelector": "h3",
+    "applyLinkSelector": "a",
+    "linkAttribute": "href",
+    "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
+    "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
+    "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
+    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
+    "descriptionSelector": "ul",
+    "pagination": {
+      "type": "chevron-click",
+      "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
+      "parentButtonSelector": "button",
+      "disabledAttribute": "aria-disabled"
+    }
+  },
 
 
 

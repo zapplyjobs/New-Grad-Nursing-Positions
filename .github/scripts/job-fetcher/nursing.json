@@ -1,0 +1,22 @@
+{
+  "elite_medical_centers": {
+    "companies": ["Cleaveland Clinic", "New York Presbyterian", "Stanford Health Care"],
+    "emoji": "⭐",
+    "title": "Elite Medical Centers"
+  },
+  "faith_based_systems": {
+    "companies": ["Hospital Sisters Health System", "Intermountain Health"],
+    "emoji": "✝️",
+    "title": "Faith-Based Health Systems"
+  },
+  "academic_hospitals": {
+    "companies": ["University of Rochester Medical Center", "VCU Health", "Vanderbilt Health"],
+    "emoji": "🎓",
+    "title": "Academic Medical Centers"
+  },
+  "integrated_networks": {
+    "companies": ["Alina Health", "Endeavor Health"],
+    "emoji": "🔗",
+    "title": "Integrated Health Networks"
+  }
+}

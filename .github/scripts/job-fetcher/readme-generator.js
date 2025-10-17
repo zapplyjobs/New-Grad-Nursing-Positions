@@ -1,5 +1,5 @@
 const fs = require("fs");
-const companyCategory = require("./datascience.json");
+const companyCategory = require("./nursing.json");
 const {
   companies,
   ALL_COMPANIES,

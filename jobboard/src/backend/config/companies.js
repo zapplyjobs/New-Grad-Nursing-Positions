@@ -30,9 +30,45 @@ presbyterian: {
   baseUrl: "https://nyp.wd1.myworkdayjobs.com/nypcareers",
   url: `https://nyp.wd1.myworkdayjobs.com/nypcareers?q=${encodeURIComponent(searchQuery)}`,
   selector: selectors.presbyterian
-}
+},
 
-    
+stanfordhealthcare: {
+  name: "Stanford Health Care",
+  baseUrl: "https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site",
+  url: `https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site?q=${encodeURIComponent(searchQuery)}`,
+  selector: selectors.stanfordhealthcare
+},
+hshs:{
+  name: "Hospital Sisters Health System",
+  baseUrl: "https://hshs.wd1.myworkdayjobs.com/hshscareers",
+  url: `https://hshs.wd1.myworkdayjobs.com/hshscareers?q=${encodeURIComponent(searchQuery)}`,
+  selector: selectors.hshs
+},
+AlinaHealth:{
+  name: "Alina Health",
+  baseUrl: "https://allina.wd5.myworkdayjobs.com/External",
+  url: `https://allina.wd5.myworkdayjobs.com/External?q=${encodeURIComponent(searchQuery)}`,
+  selector: selectors.AlinaHealth
+
+},
+UniversityofRochesterMedicalCenter:{
+  name: "University of Rochester Medical Center",
+  baseUrl: "https://rochester.wd5.myworkdayjobs.com/UR_Nursing",
+  url: `https://rochester.wd5.myworkdayjobs.com/UR_Nursing?q=${encodeURIComponent(searchQuery)}&locationCountry=bc33aa3152ec42d4995f4791a106ed09`,
+  selector: selectors.UniversityofRochesterMedicalCenter
+},
+    EndeavorHealth:{
+      name: "Endeavor Health",
+      baseUrl: "https://nshs.wd1.myworkdayjobs.com/ns-eeh",
+      url: `https://nshs.wd1.myworkdayjobs.com/ns-eeh?q=${encodeURIComponent(searchQuery)}&locationCountry=bc33aa3152ec42d4995f4791a106ed09`,
+      selector: selectors.EndeavorHealth
+    },
+    VCUHealth:{
+      name: "VCU Health",
+      baseUrl: "https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers",
+      url: `https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers?q=${encodeURIComponent(searchQuery)}`,
+      selector: selectors.VCUHealth
+    }
     // "ibm": {
     //   name: "IBM",
     //   baseUrl: "https://www.ibm.com",
