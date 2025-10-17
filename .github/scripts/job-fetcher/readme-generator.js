@@ -212,9 +212,9 @@ function generateArchivedSection(archivedJobs, stats) {
     return "";
   }
 
-  const archivedFaangJobs = archivedJobs.filter((job) =>
-    companies.faang_plus.some((c) => c.name === job.employer_name)
-  ).length;
+  // const archivedFaangJobs = archivedJobs.filter((job) =>
+  //   companies.faang_plus.some((c) => c.name === job.employer_name)
+  // ).length;
 
   const archivedJobTable = generateJobTable(archivedJobs);
 
@@ -227,7 +227,7 @@ Either still hiring or useful for research.
 
 📁 **Total Jobs:** ${archivedJobs.length} positions
 🏢 **Companies:** ${Object.keys(stats.totalByCompany).length} companies
-⭐ **FAANG+ Jobs & Internships:** ${archivedFaangJobs} roles
+
 
 ${archivedJobTable}
 
@@ -276,7 +276,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 - 🔥 **Current Positions:** ${currentJobs.length} hot healthcare and medical jobs
 - 🏢 **Top Companies:** ${totalCompanies} elite tech including Mayo Clinic, CVS Health, Pfizer
-- ⭐ **FAANG+ Jobs & Internships:** ${faangJobs} premium opportunities
 - 📅 **Last Updated:** ${currentDate}
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 - 📁 **Archived Healthcare Jobs:** ${archivedJobs.length} (older than 1 week)
