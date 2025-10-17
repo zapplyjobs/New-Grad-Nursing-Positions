@@ -241,10 +241,10 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
     day: "numeric",
   });
 
-  const totalCompanies = Object.keys(stats?.totalByCompany || {}).length;
-  const faangJobs = currentJobs.filter((job) =>
-    companies.faang_plus.some((c) => c.name === job.employer_name)
-  ).length;
+  // const totalCompanies = Object.keys(stats?.totalByCompany || {}).length;
+  // const faangJobs = currentJobs.filter((job) =>
+  //   companies.faang_plus.some((c) => c.name === job.employer_name)
+  // ).length;
 
   const jobTable = generateJobTable(currentJobs);
   const internshipSection = generateInternshipSection(internshipData);
@@ -294,11 +294,13 @@ ${generateJobTable(currentJobs)}
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (${(() => {
-  const count = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
+#### ⭐ **Top Healthcare Systems** (${(() => {
+  // Access the new category: top_healthcare_systems
+  const companiesList = companies?.top_healthcare_systems || [];
+  const count = companiesList.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
   return `${count} ${count === 1 ? 'company' : 'companies'}`;
 })()})
-${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+${companies?.top_healthcare_systems?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
@@ -309,11 +311,13 @@ ${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name
 }).join(" • ") || "No companies available"}
 
 
-#### 💰 **Fintech Leaders** (${(() => {
-  const count = companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
+#### 🎓 **Academic Medical Centers** (${(() => {
+  // Access the new category: academic_medical_centers
+  const companiesList = companies?.academic_medical_centers || [];
+  const count = companiesList.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
   return `${count} ${count === 1 ? 'company' : 'companies'}`;
 })()})
-${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+${companies?.academic_medical_centers?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
@@ -324,11 +328,13 @@ ${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name ==
 }).join(" • ") || "No companies available"}
 
 
-#### ☁️ **Enterprise & Cloud** (${(() => {
-  const count = [...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
+#### 🔗 **Regional Health Networks** (${(() => {
+  // Access the new category: regional_health_networks (replacing the combined tech section)
+  const companiesList = companies?.regional_health_networks || [];
+  const count = companiesList.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
   return `${count} ${count === 1 ? 'company' : 'companies'}`;
 })()})
-${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+${companies?.regional_health_networks?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
