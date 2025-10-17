@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
-  **🚀 Real-time nursing, healthcare, and medical job listings from 2+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 173+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+  **🚀 Real-time nursing, healthcare, and medical job listings from 2+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 172+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 173 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 172 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 2 elite tech including Mayo Clinic, CVS Health, Pfizer
 - ⭐ **FAANG+ Jobs & Internships:** 0 premium opportunities
 - 📅 **Last Updated:** October 17, 2025
@@ -65,7 +65,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### 🏢 **Top Tech** (173 positions)
+### 🏢 **Top Tech** (172 positions)
 
 <details>
 <summary><h4>🏢 <strong>Intermountain Health</strong> (47 positions)</h4></summary>
@@ -87,7 +87,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Authorizations Representative 🏠 | Intermountain Health St George Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Authorizations-Representative_R153501?q=nursing) | 1d |
 | Patient Care Tech CNA Ortho Surgical 🏠 | Lutheran Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Lutheran-Medical-Center/Patient-Care-Tech-CNA-Ortho-Surgical_R153872?q=nursing) | 1d |
 | Registered Nurse Primary Care Family Medicine 🏠 | Hurricane Valley Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Hurricane-Valley-Clinic/Registered-Nurse-Primary-Care-Family-Medicine_R153382?q=nursing) | 1d |
-| Registered Nurse Post Procedure | Intermountain Health St Vincent Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Registered-Nurse-Post-Procedure_R153142?q=nursing) | 1d |
+| Registered Nurse Neurology Clinic | Grand Junction Neurology Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Grand-Junction-Neurology-Clinic/Registered-Nurse-Neurology-Clinic_R152174?q=nursing) | 1d |
+| Registered Nurse Urogynecology | Utah Valley Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Utah-Valley-Clinic/Registered-Nurse-Urogynecology_R153848?q=nursing) | 1d |
+| Registered Nurse Same Day Surgery | Intermountain Health Layton Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Layton-Hospital/Registered-Nurse-Same-Day-Surgery_R153600?q=nursing) | 1d |
+| Registered Nurse Post Procedure | Intermountain Health St Vincent Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Registered-Nurse-Post-Procedure_R153145?q=nursing) | 1d |
 | Medical Assistant Heart Institute | Park City Clinic; Heber Valley Specialty Clinic; Intermountain Health Intermountain Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Park-City-Clinic/Medical-Assistant-Heart-Institute_R153159?q=nursing) | 1d |
 | Licensed Practical Nurse Children's Justice Center | Carbon County Children's Justice Center, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Carbon-County-Childrens-Justice-Center/Licensed-Practical-Nurse-Children-s-Justice-Center_R153640?q=nursing) | 1d |
 | Registered Nurse Cardiac Neuro Intermediate Care | Intermountain Health Lutheran Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/Registered-Nurse-Cardiac-Neuro-Intermediate-Care_R152981?q=nursing) | 1d |
@@ -99,9 +102,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse Community Crisis Center PRN | Intermountain Health St Vincent Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Registered-Nurse-Community-Crisis-Center_R150126?q=nursing) | 1d |
 | General Surgeon PRN | Holy Rosary Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Holy-Rosary-Hospital/General-Surgeon-PRN_R152686?q=nursing) | 1d |
 | Registered Nurse Cottonwood Family Medicine | Cottonwood Medical Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Cottonwood-Medical-Clinic/Registered-Nurse-Cottonwood-Family-Medicine_R153623?q=nursing) | 1d |
-| Medical Assistant Family Medicine | Budge Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Budge-Clinic/Medical-Assistant-Family-Medicine_R153527?q=nursing) | 1d |
-| Registered Nurse Med Surg 3 west | Platte Valley Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Platte-Valley-Hospital/RN-COFR_R149547?q=nursing) | 1d |
-| Registered Nurse Med Surg | Platte Valley Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Platte-Valley-Hospital/RN-COFR_R149555-1?q=nursing) | 1d |
 | Medical Assistant Family Medicine | Rose Canyon Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Rose-Canyon-Clinic/Medical-Assistant-Family-Medicine_R153441?q=nursing) | 1d |
 | Medical Assistant Family Medicine | Logan Clinic, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Logan-Clinic/Medical-Assistant-Family-Medicine_R153219-1?q=nursing) | 1d |
 | Medical Assistant Urology | Intermountain Health St George Regional Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Medical-Assistant-Urology_R151445?q=nursing) | 1d |
@@ -123,7 +123,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 </details>
 
 <details>
-<summary><h4>🏢 <strong>Cleaveland Clinic</strong> (126 positions)</h4></summary>
+<summary><h4>🏢 <strong>Cleaveland Clinic</strong> (125 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -252,7 +252,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse - RN - Emergency Department (ED) – Full-time - Swing | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Registered-Nurse---RN---Emergency-Department--ED----Full-time---Swing_00869042?q=nursing) | 2d |
 | Registered Nurse - RN – Infusion Center - Full Time- Hudson Valley | NYP/Hudson Valley, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPHudson-Valley/Registered-Nurse---RN---Infusion-Center---Full-Time--Hudson-Valley_00872185?q=nursing) | 2w |
 | Nurse Practitioner -NP - Cardiothoracic Care - FT- Nights ( and Weekends ) | NYP/Weill Cornell Medical Center, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Nurse-Practitioner--NP---Cardiothoracic-Care---FT--Nights---and-Weekends--_00872170?q=nursing) | 1w |
-| Registered Nurse – RN – OBGYN – Center for Community Health – Days | NYP/Brooklyn Methodist Hospital, US | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/nypcareers/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Registered-Nurse---RN---OBGYN---Center-for-Community-Health---Days_00871354-1?q=nursing) | 2d |
 
 </details>
 
@@ -281,14 +280,14 @@ No companies available
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 16 | 9% | No or minimal experience |
-| 🟡 Beginner & Early Career | 15 | 9% | 1-2 years of experience |
-| 🔴 Manager         | 142 | 82% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 30 | 17% | 1-2 years of experience |
+| 🔴 Manager         | 126 | 73% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 36 positions
-- **NYP/Brooklyn Methodist Hospital, US**: 13 positions
+- **NYP/Brooklyn Methodist Hospital, US**: 12 positions
 - **Cleveland Clinic Main Campus, US**: 10 positions
 - **NYP/Columbia University Irving Medical Center, US**: 7 positions
 - **Intermountain Health Lutheran Hospital, US**: 5 positions
@@ -300,7 +299,7 @@ No companies available
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 173+ verified hospital and pharma roles from 2 elite organizations.
+✅ **100% Real Jobs:** 172+ verified hospital and pharma roles from 2 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -350,7 +349,7 @@ No companies available
 
 ---
 
-🎯 **173 current opportunities from 2 elite companies.**
+🎯 **172 current opportunities from 2 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
