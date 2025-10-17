@@ -203,7 +203,7 @@ ${internshipData.companyPrograms
 |----------|-------------|-----------|
 ${internshipData.sources
  .map((source) => {
-  return `| ${source.emoji} ${source.name} | ${source.description} | <a href="${source.url}" target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|`;
+  return `| ${source.emogi} ${source.name} | ${source.description} | <a href="${source.url}" target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|`;
  })
  .join("\n")}
 
