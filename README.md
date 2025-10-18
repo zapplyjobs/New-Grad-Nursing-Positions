@@ -66,10 +66,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (59 positions)
+### ⭐ **Elite Medical Centers** (58 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (49 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (48 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -121,7 +121,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Interventional Technologist PRN - Days - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Interventional-Technologist-PRN-----Days---VUH_R-48170-1) | 1d |
 | Patient Care Technician PRN (Endoscopy) 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Patient-Care-Technician-PRN_R-47625) | 1d |
 | Certified Pharmacy Technician - Inpatient Evening Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Inpatient-Evening-Shift_R-47457-1) | 1d |
-| Certified Pharmacy Technician - Part Time Evening Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Part-Time-Evening-Shift_R-47458-1) | 1d |
 
 </details>
 
@@ -145,10 +144,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Customer Access Assistant - Full Time (08-HR) Days 🏠 | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Customer-Access-Assistant---Full-Time--08-HR--Days_R2550527-1) | 4d |
 | Access Operations Associate (Radiology Scheduling) Full Time (08-HR) Days 🏠 | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Access-Operations-Associate--Radiology-Scheduling--Full-Time--08-HR--Days_R2551042) | 4d |
 
-### ✝️ **Faith-Based Health Systems** (43 positions)
+### ✝️ **Faith-Based Health Systems** (44 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (40 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (41 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -192,6 +191,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Respiratory Care Practitioner | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Certified-Respiratory-Therapist--CRT-_R1032397-1) | 3d |
 | Home Health Aide, HSHS Home Care | Belleville, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Belleville-IL/Licensed-Practical-Nurse--LPN--HSHS-Home-Care_R1031887) | 3d |
 | Sonographer I-Cardiac | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Sonographer-I-Cardiac_R1032936-1) | 3d |
+| Surgical Technologist Extern - CVOR | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Surgical-Technologist-Extern---CVOR_R1032923) | 3d |
 
 </details>
 
@@ -271,14 +271,14 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 ---
 
 ### 🌍 **Top Locations**
-- **Nashville, TN**: 38 positions
+- **Nashville, TN**: 37 positions
 - **Springfield, IL**: 11 positions
 - **O'Fallon, IL**: 10 positions
 - **NCH 800 W Central Rd Arlington Heights**: 9 positions
 - **Decatur, IL**: 6 positions
+- **Green Bay, WI**: 6 positions
 - **NYP/Columbia University Irving Medical Center**: 5 positions
 - **7600 Gateway Blvd NEWARK**: 5 positions
-- **Green Bay, WI**: 5 positions
 
 ---
 
