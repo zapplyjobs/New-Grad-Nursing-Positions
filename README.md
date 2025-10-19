@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 122+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 123+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 122 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 123 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 8 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 19, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -147,10 +147,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Customer Access Assistant - Full Time (08-HR) Days | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Customer-Access-Assistant---Full-Time--08-HR--Days_R2550527-1) | 5d |
 | Access Operations Associate (Radiology Scheduling) Full Time (08-HR) Days | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Access-Operations-Associate--Radiology-Scheduling--Full-Time--08-HR--Days_R2551042) | 5d |
 
-### ✝️ **Faith-Based Health Systems** (43 positions)
+### ✝️ **Faith-Based Health Systems** (44 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (40 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (41 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -194,6 +194,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Respiratory Care Practitioner | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Certified-Respiratory-Therapist--CRT-_R1032397-1) | 4d |
 | Home Health Aide, HSHS Home Care | Belleville, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Belleville-IL/Licensed-Practical-Nurse--LPN--HSHS-Home-Care_R1031887) | 4d |
 | Sonographer I-Cardiac | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Sonographer-I-Cardiac_R1032936-1) | 4d |
+| Surgical Technologist Extern - CVOR | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Surgical-Technologist-Extern---CVOR_R1032923) | 4d |
 
 </details>
 
@@ -268,7 +269,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 45 | 37% | No or minimal experience |
 | 🟡 Beginner & Early Career | 18 | 15% | 1-2 years of experience |
-| 🔴 Manager     | 59 | 48% | 2+ years of experience |
+| 🔴 Manager     | 60 | 49% | 2+ years of experience |
 
 ---
 
@@ -278,15 +279,15 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 - **O'Fallon, IL**: 10 positions
 - **NCH 800 W Central Rd Arlington Heights**: 9 positions
 - **Decatur, IL**: 6 positions
+- **Green Bay, WI**: 6 positions
 - **NYP/Columbia University Irving Medical Center**: 5 positions
 - **7600 Gateway Blvd NEWARK**: 5 positions
-- **Green Bay, WI**: 5 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 122+ verified hospital and pharma roles from 8 elite organizations.
+✅ **100% Real Jobs:** 123+ verified hospital and pharma roles from 8 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -377,7 +378,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **122 current opportunities from 8 elite companies.**
+🎯 **123 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
