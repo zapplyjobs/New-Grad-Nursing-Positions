@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 117+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 114+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 117 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 114 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 8 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 20, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -92,6 +92,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Care Partner - Trauma ICU FT Nights 18:45 - 07:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Trauma-ICU-FT-Nights-18-45---07-15_R-50063-1) | 1d |
 | Echocardiography Tech 3 $10K SIGN-ON BONUS 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Echocardiography-Tech-3--10K-SIGN-ON-BONUS_R-50043-1) | 1d |
 | Inpatient Transfer Registered Nurse, Operations Control Center, Nights - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Inpatient-Transfer-Registered-Nurse--Operations-Control-Center--Nights---VUH_R-50060-1) | 1d |
+| Medical Assistant - Pediatric GI Clinic | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant---Pediatric-GI-Clinic_R-48755-1) | 1d |
 | Medical Assistant - Primary Care Clinic - Brentwood Shoppes | Brentwood, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Brentwood-TN/Medical-Assistant---Primary-Care-Clinic---Brentwood-Shoppes_R-48361-1) | 1d |
 | Medical Assistant - Walk-In Clinic - Brentwood | Brentwood, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Brentwood-TN/Medical-Assistant---Walk-In-Clinic---Brentwood_R-48606-1) | 1d |
 | Occupational Therapist – Acute Care Inpatient | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist---Acute-Care-Inpatient_R-49219) | 1d |
@@ -109,8 +110,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Care Partner - Main OR-PACU (Days) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Main-OR-PACU--Days-_R-47962-1) | 1d |
 | Care Partner - Ortho/Ortho Trauma FT Days 06:45 - 19:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Ortho-Ortho-Trauma-FT-Days-06-45---19-15_R-48439-1) | 1d |
 | Care Partner - Safer Unit | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Safer-Unit_R-47358-1) | 1d |
-| Care Partner, 9 South Surgical Specialties Night Shift 18:45-07:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--9-South-Surgical-Specialties-Night-Shift-18-45-07-15_R-48325-1) | 1d |
-| Care Partner-Adult Medicine Stepdown, NIGHTS, 14MC | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner-Adult-Medicine-Stepdown--NIGHTS--14MC_R-48558-1) | 1d |
+| Care Partner, 9 South Surgical Specialties Night Shift 18:45-07:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--9-South-Surgical-Specialties-Night-Shift-18-45-07-15_R-48325-1) | 1d |
+| Care Partner-Adult Medicine Stepdown, NIGHTS, 14MC 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner-Adult-Medicine-Stepdown--NIGHTS--14MC_R-48558-1) | 1d |
 | Certified Pharmacy Technician - Pediatric Clinic - Day Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Pediatric-Clinic---Day-Shift_R-48680-2) | 1d |
 | Certified Pharmacy Technician - Pediatric Inpatient Pharmacy - Day Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Pediatric-Inpatient-Pharmacy---Day-Shift_R-48683-2) | 1d |
 | Certified Pharmacy Technician - Pediatric Inpatient Pharmacy - Evening Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Pediatric-Inpatient-Pharmacy---Evening-Shift_R-48684-2) | 1d |
@@ -123,7 +124,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Ophthalmic Technician PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Ophthalmic-Technician-PRN_R-45902-1) | 1d |
 | Perfomance Improvement Abstractor 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Perfomance-Improvement-Abstractor_R-48880-1) | 1d |
 | Registered Nurse, Medical CVICU (Cardiac Progressive Care/Step-Down), FT Nights- VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Medical-CVICU--Cardiac-Progressive-Care-Step-Down---FT-Nights--VUH_R-45710-1) | 1d |
-| Bilingual Research Assistant II 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Bilingual-Research-Assistant-II---Hybrid_R-46796-1) | 1d |
 
 </details>
 
@@ -158,6 +158,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 |------|----------|-----------|-----|
 | Medical Assistant or LPN | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Medical-Assistant-or-LPN_R1032547) | 3d |
 | Medical Assistant (MA)-Family Medicine | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Medical-Assistant--MA--Family-Medicine_R1032877) | 4d |
+| Labor & Delivery RN- PRN | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Labor---Delivery-RN--PRN_R1032832-1) | 1d |
 | Medical Sonographer | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Sonographer-I-Medical_R1032871-1) | 1d |
 | Respiratory Care Practitioner | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Respiratory-Care-Practitioner---New--30k-Sign-On-Bonus---_R1031897) | 1d |
 | Registered Respiratory Therapist (RRT) | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Registered-Respiratory-Therapist--RRT--II_R1029883) | 1d |
@@ -192,7 +193,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Patient Care Assistant (CNA) | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Patient-Care-Assistant--CNA-_R1032885) | 4d |
 | Medical Assistant (MA)-Float | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Float_R1032819) | 4d |
 | Sonographer I-Medical | Springfield St. John's Hospital | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield---St-Johns-Hospital/Sonographer-I-Medical_R1032943) | 4d |
-| PRN Respiratory Therapist | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/PRN-Respiratory-Therapist_R1032823) | 4d |
 | Occupational Therapist (OT), Physical Therapy (PT), Speech Language Pathologist (SLP)* | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Occupational-Therapist--OT---Physical-Therapy--PT---Speech-Language-Pathologist--SLP--_R1032935) | 4d |
 
 </details>
@@ -214,16 +214,16 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse (RN) - Ambulatory Surgery Center Short Pump Operating Room - Days | Henrico, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Henrico-VA/Registered-Nurse--RN----Ambulatory-Surgery-Center-Short-Pump-Operating-Room---Days_R39591) | 5d |
 | Registered Nurse (RN) - Surgical Trauma ICU - Rotating 🏠 | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Registered-Nurse--RN----Surgical-Trauma-ICU---Rotating_R38778-1) | 3d |
 
-### 🔗 **Integrated Health Networks** (11 positions)
+### 🔗 **Integrated Health Networks** (8 positions)
 
 #### 💙 **Allina Health** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Clinic Business Representative Associate | ina Health Buffalo Crossroads Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Buffalo-Crossroads-Clinic/Clinic-Business-Representative-Associate_R-0065805) | 6d |
-| Respiratory Therapist 🏠 | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/Respiratory-Therapist_R-0067060) | 3d |
+| Clinic Business Representative Associate 🏠 | ina Health Buffalo Crossroads Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Buffalo-Crossroads-Clinic/Clinic-Business-Representative-Associate_R-0065805) | 6d |
+| Respiratory Therapist | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/Respiratory-Therapist_R-0067060) | 3d |
 
-#### 🏨 **Endeavor Health** (9 positions)
+#### 🏨 **Endeavor Health** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -233,9 +233,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Interventional Procedures Technologist - Cardiac Cath Lab - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Interventional-Procedures-Technologist-II---Days_R20557?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | RN - Emergency Department - Nights - Sign on Bonus offered | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/RN---Emergency-Department---Nights_R33038?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Radiologic Technologist I (Northwestern Suburbs) | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Radiologic-Technologist-I--Northwestern-Suburbs-_R33445?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Patient Care Technician - 4S Ortho/Post Surgical/Cardiac Tele - Nights | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Patient-Care-Technician---4S-Ortho-Post-Surgical-Cardiac-Tele---Nights_R34763?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Neurophysiology Technician - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/EEG-Technician--Respiratory_R33591?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Neurophysiology Technician - Nights | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/EEG-Technician_R22763?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
 
 
@@ -253,7 +250,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 
 #### 🔗 **Regional Health Networks** (1 company)
-🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (9 positions)
+🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (6 positions)
 
 ---
 
@@ -261,9 +258,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 44 | 38% | No or minimal experience |
-| 🟡 Beginner & Early Career | 31 | 26% | 1-2 years of experience |
-| 🔴 Manager     | 42 | 36% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 42 | 37% | No or minimal experience |
+| 🟡 Beginner & Early Career | 29 | 25% | 1-2 years of experience |
+| 🔴 Manager     | 43 | 38% | 2+ years of experience |
 
 ---
 
@@ -272,16 +269,16 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 - **Springfield, IL**: 11 positions
 - **O'Fallon, IL**: 10 positions
 - **NYP/Columbia University Irving Medical Center**: 9 positions
-- **NCH 800 W Central Rd Arlington Heights**: 8 positions
-- **Decatur, IL**: 6 positions
+- **NCH 800 W Central Rd Arlington Heights**: 6 positions
+- **Decatur, IL**: 5 positions
+- **Effingham, IL**: 4 positions
 - **7600 Gateway Blvd NEWARK**: 3 positions
-- **Breese, IL**: 3 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 117+ verified hospital and pharma roles from 8 elite organizations.
+✅ **100% Real Jobs:** 114+ verified hospital and pharma roles from 8 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -373,7 +370,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **117 current opportunities from 8 elite companies.**
+🎯 **114 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
