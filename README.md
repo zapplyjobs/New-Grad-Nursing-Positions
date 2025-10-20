@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 114+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 116+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 114 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 116 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 8 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 20, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,13 +66,14 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (61 positions)
+### ⭐ **Elite Medical Centers** (63 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (49 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (51 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| PRN RN - Epilepsy Monitoring Unit 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-RN---Epilepsy-Monitoring-Unit_316736) | 1d |
 | RN - Acute Care Cardiology and Cardiothoracic Surgery 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Acute-Care-Cardiology-and-Cardiothoracic-Surgery_315386) | 1d |
 | Systems Analyst I – EPIC Billing 🏠 | Remote Location | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Remote-Location/Systems-Analyst-I---EPIC-Billing_307039) | 1d |
 | Occupational Therapist – Acute Care PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist---Acute-Care-PRN_R-48085-1) | 1d |
@@ -122,6 +123,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Bilingual Research Assistant II 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Bilingual-Research-Assistant-II---Hybrid_R-46796-1) | 1d |
 | Regional Operations Inpatient Transfer Nurse, Mid Shift - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Regional-Operations-Inpatient-Transfer-Nurse--Mid-Shift---VUH_R-48176-1) | 1d |
 | Registered Nurse - Medical Center East Recovery -Night Shift - 6p-6a 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse---Medical-Center-East-Recovery--Night-Shift---6p-6a_R-47361-2) | 1d |
+| Medical Assistant - Cardiology Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant---Cardiology-Clinic_R-48891-1) | 1d |
 
 </details>
 
@@ -258,14 +260,14 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 44 | 39% | No or minimal experience |
-| 🟡 Beginner & Early Career | 28 | 25% | 1-2 years of experience |
-| 🔴 Manager     | 42 | 37% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 45 | 39% | No or minimal experience |
+| 🟡 Beginner & Early Career | 28 | 24% | 1-2 years of experience |
+| 🔴 Manager     | 43 | 37% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Nashville, TN**: 43 positions
+- **Nashville, TN**: 44 positions
 - **Springfield, IL**: 11 positions
 - **O'Fallon, IL**: 10 positions
 - **NYP/Columbia University Irving Medical Center**: 9 positions
@@ -278,7 +280,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 114+ verified hospital and pharma roles from 8 elite organizations.
+✅ **100% Real Jobs:** 116+ verified hospital and pharma roles from 8 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -370,7 +372,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **114 current opportunities from 8 elite companies.**
+🎯 **116 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
