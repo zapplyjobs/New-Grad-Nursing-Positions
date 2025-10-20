@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 122+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 125+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 122 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 125 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 8 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 20, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,13 +66,16 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (66 positions)
+### ⭐ **Elite Medical Centers** (68 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (57 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (59 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| RN – Clinical Decision Unit 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Clinical-Decision-Unit_311769) | 1d |
+| RN - Epilepsy Monitoring Unit 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Epilepsy-Monitoring-Unit--7p-7a_299195) | 1d |
+| New Grad RN Resident - Epilepsy Monitoring Unit 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Epilepsy-Monitoring-Unit--7p-7a_304996-1) | 1d |
 | Phlebotomy Technician 🏠 | Independence Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Independence-Family-Health-Center/Phlebotomy-Technician_317874) | 1d |
 | Food Service Aide/Nutrition Assistant 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Food-Service-Aide-Nutrition-Assistant_312048) | 1d |
 | Department Analyst II - Value Based 🏠 | Remote Location | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Remote-Location/Systems-Analyst-I---Provider-Attribution_297450) | 1d |
@@ -112,7 +115,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Occupational Therapist – Acute Care Inpatient 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist---Acute-Care-Inpatient_R-49219) | 1d |
 | Physical Therapist – Acute Care Inpatient 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Acute-Care-Inpatient_R-49220) | 1d |
 | Physician Liaison - 80% travel 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physician-Liaison---80--travel_R-48872-1) | 1d |
-| Research Analyst I - Neurosurgery 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Research-Analyst-I---Neurosurgery_R-47919-1) | 1d |
 | Care Partner - 10S Trauma Stepdown FT Days 06:45 - 19:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---10S-Trauma-Stepdown-FT-Days-06-45---19-15_R-47244-1) | 1d |
 | Care Partner - 10S Trauma Stepdown FT Nights 18:45 - 07:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---10S-Trauma-Stepdown-FT-Nights-18-45---07-15_R-47614-1) | 1d |
 | Care Partner - 8N Pulmonary Stepdown FT Nights 18:45 - 07:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---8N-Pulmonary-Stepdown-FT-Nights-18-45---07-15_R-47559-1) | 1d |
@@ -152,10 +154,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 |------|----------|-----------|-----|
 | Business Systems Analyst - Project Mgmt Team (Enterprise Contact Center) | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Business-Systems-Analyst---Project-Mgmt-Team--Enterprise-Contact-Center-_R2549981) | 3d |
 
-### ✝️ **Faith-Based Health Systems** (39 positions)
+### ✝️ **Faith-Based Health Systems** (40 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (39 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (40 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -183,6 +185,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Speech Language Pathologist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Speech-Language-Pathologist-I_R1029860) | 3d |
 | RN Residency and Nurse Extern II - Winter 2025 grads | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/RN-Residency-and-Nurse-Extern-II---Winter-2025-grads_R1030609) | 3d |
 | RN Residency and Nurse Extern II - Summer 2026 grads | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/RN-Residency-and-Nurse-Extern-II---Summer-2026-grads_R1031303) | 3d |
+| Registered Nurse (RN) -- ICU | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Registered-Nurse--RN-----ICU_R1029819-1) | 3d |
 | Pharmacy Technician | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Pharmacy-Technician_R1032661) | 3d |
 | Registered Nurse (RN) | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Registered-Nurse--RN-_R1031684-1) | 3d |
 | Registered Nurse (RN), Cath Lab | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---Cath-Lab_R1031324-1) | 3d |
@@ -266,27 +269,27 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 59 | 48% | No or minimal experience |
-| 🟡 Beginner & Early Career | 30 | 25% | 1-2 years of experience |
-| 🔴 Manager     | 33 | 27% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 61 | 49% | No or minimal experience |
+| 🟡 Beginner & Early Career | 31 | 25% | 1-2 years of experience |
+| 🔴 Manager     | 33 | 26% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Nashville, TN**: 42 positions
+- **Nashville, TN**: 41 positions
 - **O'Fallon, IL**: 13 positions
 - **NYP/Columbia University Irving Medical Center**: 8 positions
 - **Springfield, IL**: 8 positions
+- **Akron General Medical Center**: 7 positions
 - **NCH 800 W Central Rd Arlington Heights**: 7 positions
 - **Effingham, IL**: 5 positions
-- **Akron General Medical Center**: 4 positions
-- **Green Bay, WI**: 4 positions
+- **Decatur, IL**: 5 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 122+ verified hospital and pharma roles from 8 elite organizations.
+✅ **100% Real Jobs:** 125+ verified hospital and pharma roles from 8 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -377,7 +380,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **122 current opportunities from 8 elite companies.**
+🎯 **125 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
