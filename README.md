@@ -75,7 +75,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 |------|----------|-----------|-----|
 | RN - Progressive Care Unit - Weekend Flex Option 12 - Critical Care Experience Required | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Progressive-Care-Unit---Weekend-Flex-Option-12---Critical-Care-Experience-Required_306889) | 1d |
 | RN - Progressive Care Unit - Step-down or Critical Care Experience Required | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Progressive-Care-Unit---Step-down-or-Critical-Care-Experience-Required_306933) | 1d |
-| Nurse Technician - Acute Care Cardiac Telemetry and Complex Medical | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Nurse-Technician---Acute-Care-Cardiac-Telemetry-and-Complex-Medical_295774) | 2d |
+| Nurse Technician - Acute Care Cardiac Telemetry and Complex Medical 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Nurse-Technician---Acute-Care-Cardiac-Telemetry-and-Complex-Medical_295774) | 2d |
 | PRN Rehabilitation Services Technician 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-Rehabilitation-Services-Technician_317752-1) | 2d |
 | Software Developer II - Pathology Informatics 🏠 | Remote Location | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Remote-Location/Software-Developer-II---Pathology-Informatics_304649) | 2d |
 | AI Software Engineer 🏠 | Remote Location | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Remote-Location/AI-Software-Engineer_310022) | 2d |
@@ -271,9 +271,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 46 | 36% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 47 | 37% | No or minimal experience |
 | 🟡 Beginner & Early Career | 18 | 14% | 1-2 years of experience |
-| 🔴 Manager     | 63 | 50% | 2+ years of experience |
+| 🔴 Manager     | 62 | 49% | 2+ years of experience |
 
 ---
 
