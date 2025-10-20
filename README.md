@@ -239,9 +239,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Interventional Procedures Technologist - Cardiac Cath Lab - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Interventional-Procedures-Technologist-II---Days_R20557?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | RN - Emergency Department - Nights - Sign on Bonus offered | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/RN---Emergency-Department---Nights_R33038?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Radiologic Technologist I (Northwestern Suburbs) | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Radiologic-Technologist-I--Northwestern-Suburbs-_R33445?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Patient Care Technician - 4S Ortho/Post Surgical/Cardiac Tele - Nights | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Patient-Care-Technician---4S-Ortho-Post-Surgical-Cardiac-Tele---Nights_R34763?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Neurophysiology Technician - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/EEG-Tech_R23930?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Neurophysiology Technician - Nights | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/EEG-Technician_R22763?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| RN Triage - Diabetes Center - Days - PT | EDO Naperville 1331 W 75th Street | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Naperville-1331-W-75th-Street/RN-Triage---Diabetes-Center---Days---PT_R32886?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Patient Service Representative and Insurance Verifier, Rehab Services | NCH 900 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-900-W-Central-Rd-Arlington-Heights/Patient-Service-Representative-and-Insurance-Verifier--Rehab-Services_R30828?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Registered Nurse- Cardiac Cath Lab - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Registered-Nurse--Cardiac-Cath-Lab---Days_R33835?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
 
 
@@ -267,19 +267,19 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 62 | 53% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 80 | 68% | No or minimal experience |
 | 🟡 Beginner & Early Career | 22 | 19% | 1-2 years of experience |
-| 🔴 Manager     | 34 | 29% | 2+ years of experience |
+| 🔴 Manager     | 16 | 14% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 41 positions
 - **NYP/Columbia University Irving Medical Center**: 8 positions
-- **NCH 800 W Central Rd Arlington Heights**: 8 positions
 - **Akron General Medical Center**: 7 positions
 - **O'Fallon, IL**: 7 positions
 - **Springfield, IL**: 7 positions
+- **NCH 800 W Central Rd Arlington Heights**: 7 positions
 - **Effingham, IL**: 5 positions
 - **Green Bay, WI**: 4 positions
 
