@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 120+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 119+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 120 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 119 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 21, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,14 +66,16 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (64 positions)
+### ⭐ **Elite Medical Centers** (63 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (55 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (54 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Pharmacy Technician - Inpatient 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Pharmacy-Technician---Inpatient_312683-1) | 1d |
+| Surgical Technologist - 7a-5:30p - vary start | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Surgical-Technologist---7a-5-30p---vary-start_317085-1) | 1d |
+| Outpatient Clinical Care Assistant - Lakewood Medical Outpatient Center | Lakewood Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lakewood-Family-Health-Center/Outpatient-Clinical-Care-Assistant---Lakewood-Medical-Outpatient-Center_318424) | 1d |
+| Pharmacy Technician - Inpatient | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Pharmacy-Technician---Inpatient_312683-1) | 1d |
 | Security Officer 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Security-Officer_315152) | 1d |
 | Behavioral Health Outpatient Therapist 🏠 | Remote Location | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Remote-Location/Behavioral-Health-Outpatient-Therapist_318163) | 1d |
 | RN – Clinical Decision Unit 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Clinical-Decision-Unit_311769) | 1d |
@@ -82,9 +84,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Phlebotomy Technician 🏠 | Independence Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Independence-Family-Health-Center/Phlebotomy-Technician_317874) | 1d |
 | Food Service Aide/Nutrition Assistant 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Food-Service-Aide-Nutrition-Assistant_312048) | 1d |
 | Department Analyst II - Value Based 🏠 | Remote Location | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Remote-Location/Systems-Analyst-I---Provider-Attribution_297450) | 1d |
-| Coding Quality Auditor 🏠 | Remote Location | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Remote-Location/Coding-Quality-Auditor_317027) | 1d |
-| Patient Care Nursing Assistant - Psychiatric Unit - Day Shift 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Patient-Care-Nursing-Assistant---Psychiatric-Unit---Day-Shift_316466-1) | 1d |
-| General Clerk - Surgical Waiting Room - 0.5 FTE - 12p-8:30p 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/General-Clerk---Surgical-Waiting-Room---05-FTE---12p-8-30p---vary-start_313660-1) | 1d |
 | Occupational Therapist – Acute Care PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist---Acute-Care-PRN_R-48085-1) | 1d |
 | Occupational Therapy Assistant – Home Health (Rutherford County) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
@@ -269,7 +268,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 48 | 40% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 47 | 39% | No or minimal experience |
 | 🟡 Beginner & Early Career | 29 | 24% | 1-2 years of experience |
 | 🔴 Manager     | 43 | 36% | 2+ years of experience |
 
@@ -279,8 +278,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 - **Nashville, TN**: 32 positions
 - **O'Fallon, IL**: 12 positions
 - **Springfield, IL**: 9 positions
-- **Akron General Medical Center**: 8 positions
 - **NYP/Columbia University Irving Medical Center**: 8 positions
+- **Akron General Medical Center**: 7 positions
 - **Lebanon, TN**: 6 positions
 - **NCH 800 W Central Rd Arlington Heights**: 6 positions
 - **Effingham, IL**: 5 positions
@@ -289,7 +288,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 120+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 119+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -388,7 +387,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **120 current opportunities from 9 elite companies.**
+🎯 **119 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
