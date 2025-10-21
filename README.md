@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 123+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 125+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 123 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 125 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 21, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,10 +66,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (66 positions)
+### ⭐ **Elite Medical Centers** (65 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (58 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (57 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -85,7 +85,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Patient Care Nursing Assistant - Post-Anesthesia Care Unit - FT - 2p-10:30p - vary start 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Patient-Care-Nursing-Assistant---Post-Anesthesia-Care-Unit---FT---2p-10-30p---vary-start_315924-1) | 1d |
 | Surgical Technologist - 7a-5:30p - vary start | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Surgical-Technologist---7a-5-30p---vary-start_317085-1) | 1d |
 | Outpatient Clinical Care Assistant - Lakewood Medical Outpatient Center | Lakewood Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lakewood-Family-Health-Center/Outpatient-Clinical-Care-Assistant---Lakewood-Medical-Outpatient-Center_318424) | 1d |
-| Pharmacy Technician - Inpatient | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Pharmacy-Technician---Inpatient_312683-1) | 1d |
 | Occupational Therapist – Acute Care PRN | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist---Acute-Care-PRN_R-48085-1) | 1d |
 | Occupational Therapy Assistant – Home Health (Rutherford County) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
@@ -152,15 +151,16 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 |------|----------|-----------|-----|
 | Business Systems Analyst - Project Mgmt Team (Enterprise Contact Center) | 7600 Gateway Blvd NEWARK | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/7600-Gateway-Blvd---NEWARK/Business-Systems-Analyst---Project-Mgmt-Team--Enterprise-Contact-Center-_R2549981) | 4d |
 
-### ✝️ **Faith-Based Health Systems** (42 positions)
+### ✝️ **Faith-Based Health Systems** (43 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (41 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (42 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Medical Assistant or LPN | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Medical-Assistant-or-LPN_R1032547) | 4d |
 | Medical Assistant (MA)-Family Medicine | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Medical-Assistant--MA--Family-Medicine_R1032877) | 5d |
+| Registered Nurse (RN)-Wound/Ostomy Outpatient Clinic | Oconto Falls, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Oconto-Falls-WI/Registered-Nurse--RN--Wound-Ostomy-Outpatient-Clinic_R1032637) | 1d |
 | Radiologic Technologist | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Radiologic-Technologist_R1033046) | 1d |
 | Certified Respiratory Therapist CRT - RCP | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Certified-Respiratory-Therapist-CRT---RCP_R1032969) | 1d |
 | Medical Assistant (MA)II - Walk-in Lab | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Float_R1032819) | 1d |
@@ -223,11 +223,11 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 |------|----------|-----------|-----|
 | Licensed Practical Nurse (LPN) - Internal Medicine - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Internal-Medicine-Specialty-Clinic-LPN_R39738-1) | 4d |
 | Registered Nurse (RN) - Ambulatory Surgery Center Short Pump Operating Room - Days | Henrico, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Henrico-VA/Registered-Nurse--RN----Ambulatory-Surgery-Center-Short-Pump-Operating-Room---Days_R39591) | 6d |
+| Patient Care Technician - Inpatient -Rotating PRN 🏠 | Tappahannock, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Tappahannock-VA/Patient-Care-Technician----Acute-Care--Rotating_R37659-1) | 1d |
 | Business Intelligence Analyst 🏠 | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Business-Intelligence-Analyst-III_R39422-1) | 1d |
 | Certified Medical Assistant CMA - Children's Pavilion Pediatric GI - Part time 🏠 | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Certified-Medical-Assistant-CMA---Children-s-Pavilion-Pediatric-GI---Part-time_R39602-1) | 1d |
-| Clinical Social Worker (CSW)- Care Coordination- Inpatient NICU/Pediatrics - Days 🏠 | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Clinical-Social-Worker--CSW---Care-Coordination--Inpatient-NICU-Pediatrics---Days_R39205-1) | 1d |
 
-### 🔗 **Integrated Health Networks** (9 positions)
+### 🔗 **Integrated Health Networks** (11 positions)
 
 #### 💙 **Allina Health** (2 positions)
 
@@ -236,7 +236,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | CT / Radiologic Technologist 🏠 | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/CT---Radiologic-Technologist_R-0067140) | 1d |
 | Sterile Processing Technician 🏠 | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/Sterile-Processing-Technician_R-0067109) | 1d |
 
-#### 🏨 **Endeavor Health** (7 positions)
+#### 🏨 **Endeavor Health** (9 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -247,6 +247,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Interventional Procedures Technologist - Cardiac Cath Lab - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Interventional-Procedures-Technologist-II---Days_R20557?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | RN - Emergency Department - Nights - Sign on Bonus offered | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/RN---Emergency-Department---Nights_R33038?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Radiologic Technologist I (Northwestern Suburbs) | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Radiologic-Technologist-I--Northwestern-Suburbs-_R33445?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Patient Service Representative and Insurance Verifier, Rehab Services | NCH 900 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-900-W-Central-Rd-Arlington-Heights/Patient-Service-Representative-and-Insurance-Verifier--Rehab-Services_R30828?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| RN Triage - Diabetes Center - Days - PT | EDO Naperville 1331 W 75th Street | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Naperville-1331-W-75th-Street/RN-Triage---Diabetes-Center---Days---PT_R32886?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
 
 
@@ -264,7 +266,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 
 #### 🔗 **Regional Health Networks** (1 company)
-🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (7 positions)
+🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (9 positions)
 
 ---
 
@@ -272,18 +274,18 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 39 | 32% | No or minimal experience |
-| 🟡 Beginner & Early Career | 29 | 24% | 1-2 years of experience |
-| 🔴 Manager     | 55 | 45% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 41 | 33% | No or minimal experience |
+| 🟡 Beginner & Early Career | 32 | 26% | 1-2 years of experience |
+| 🔴 Manager     | 52 | 42% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 29 positions
 - **O'Fallon, IL**: 13 positions
-- **Akron General Medical Center**: 9 positions
 - **Lebanon, TN**: 9 positions
 - **Springfield, IL**: 9 positions
+- **Akron General Medical Center**: 8 positions
 - **NYP/Columbia University Irving Medical Center**: 7 positions
 - **NCH 800 W Central Rd Arlington Heights**: 7 positions
 - **Green Bay, WI**: 5 positions
@@ -292,7 +294,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 123+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 125+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -391,7 +393,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **123 current opportunities from 9 elite companies.**
+🎯 **125 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
