@@ -271,9 +271,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 17 | 14% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 19 | 16% | No or minimal experience |
 | 🟡 Beginner & Early Career | 19 | 16% | 1-2 years of experience |
-| 🔴 Manager     | 86 | 70% | 2+ years of experience |
+| 🔴 Manager     | 84 | 69% | 2+ years of experience |
 
 ---
 
