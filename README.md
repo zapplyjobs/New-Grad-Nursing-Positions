@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 6+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 133+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 6+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 132+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 133 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 132 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 6 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 23, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -192,9 +192,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 </details>
 
-### 🎓 **Academic Medical Centers** (10 positions)
+### 🎓 **Academic Medical Centers** (9 positions)
 
-#### 🏥 **VCU Health** (10 positions)
+#### 🏥 **VCU Health** (9 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -207,7 +207,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Certified Medical Assistant CMA- Multispecialty Clinic- Weekday PRN | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Certified-Medical-Assistant-CMA--Multispecialty-Clinic--Weekday-PRN_R39617-1) | 1d |
 | Dosimetrist - Adult Outpatient Pavilion (AOP) - Radiation Oncology | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Dosimetrist---Adult-Outpatient-Pavilion--AOP----Radiation-Oncology_R39746-1) | 1d |
 | Patient Care Tech - Acute Care Peds 12 - PRN | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Patient-Care-Tech----Acute-Care-Peds-12---PRN_R39327) | 1d |
-| Patient Care Tech- Acute Care Pediatrics- Rotating | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Patient-Care-Tech--Acute-Care-Pediatrics--Rotating_R39335) | 1d |
 
 ### 🔗 **Integrated Health Networks** (22 positions)
 
@@ -258,7 +257,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 
 #### 🎓 **Academic Medical Centers** (1 company)
-🏥 **[VCU Health](https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers)** (10 positions)
+🏥 **[VCU Health](https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers)** (9 positions)
 
 
 #### 🔗 **Regional Health Networks** (1 company)
@@ -272,7 +271,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 30 | 23% | No or minimal experience |
 | 🟡 Beginner & Early Career | 16 | 12% | 1-2 years of experience |
-| 🔴 Manager     | 87 | 65% | 2+ years of experience |
+| 🔴 Manager     | 86 | 65% | 2+ years of experience |
 
 ---
 
@@ -281,7 +280,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 - **EDH Main Hospital Naperville**: 12 positions
 - **Springfield, IL**: 9 positions
 - **O'Fallon, IL**: 9 positions
-- **Richmond, VA**: 9 positions
+- **Richmond, VA**: 8 positions
 - **Cleveland Clinic Main Campus**: 7 positions
 - **NYP/Columbia University Irving Medical Center**: 7 positions
 - **NCH 800 W Central Rd Arlington Heights**: 7 positions
@@ -290,7 +289,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 133+ verified hospital and pharma roles from 6 elite organizations.
+✅ **100% Real Jobs:** 132+ verified hospital and pharma roles from 6 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -376,7 +375,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **133 current opportunities from 6 elite companies.**
+🎯 **132 current opportunities from 6 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
