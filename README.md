@@ -154,7 +154,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Medical Assistant or LPN | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Medical-Assistant-or-LPN_R1032547) | 6d |
-| Surgical Technologist | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Surgical-Technologist_R1032394) | 1d |
+| Patient Care Assistant- (CNA) | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Patient-Care-Assistant---CNA-_R1032770) | 1d |
 | Phlebotomist-PRN | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Phlebotomist-I_R1032625) | 1d |
 | Medical Assistant (MA)II - Walk-in Lab | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Float_R1032819) | 1d |
 | Registered Nurse (RN)- Transfer Center | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Registered-Nurse--RN---Transfer-Center_R1033038) | 1d |
@@ -286,8 +286,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 47 | 34% | No or minimal experience |
-| 🟡 Beginner & Early Career | 15 | 11% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 44 | 32% | No or minimal experience |
+| 🟡 Beginner & Early Career | 18 | 13% | 1-2 years of experience |
 | 🔴 Manager     | 77 | 55% | 2+ years of experience |
 
 ---
@@ -296,8 +296,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 - **Nashville, TN**: 37 positions
 - **EDH Main Hospital Naperville**: 12 positions
 - **Springfield, IL**: 10 positions
-- **O'Fallon, IL**: 9 positions
 - **Richmond, VA**: 9 positions
+- **O'Fallon, IL**: 8 positions
 - **Akron General Medical Center**: 7 positions
 - **NYP/Columbia University Irving Medical Center**: 7 positions
 - **NCH 800 W Central Rd Arlington Heights**: 7 positions
