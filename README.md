@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 142+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 138+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,8 +22,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 142 hot healthcare and medical jobs
-- 🏢 **Top Companies:** 8 elite tech including Mayo Clinic, CVS Health, Pfizer
+- 🔥 **Current Positions:** 138 hot healthcare and medical jobs
+- 🏢 **Top Companies:** 7 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 24, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 - 📁 **Archived Healthcare Jobs:** 7 (older than 1 week)
@@ -66,15 +66,14 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (63 positions)
+### ⭐ **Elite Medical Centers** (62 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (56 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (55 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | RN - Vascular Surgery Stepdown | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Vascular-Surgery-Stepdown_315043-1) | 1d |
-| Material Handler | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Material-Handler_316584) | 1d |
 | RN - Vascular Surgery Stepdown, PRN | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Experienced-RN--PRN----Vascular-Surgery-Stepdown_266308) | 1d |
 | Phlebotomist Technician | Grant Street Akron | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Grant-Street-Akron/Phlebotomist-Technician_315899) | 1d |
 | Phlebotomy Lab Tech | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Phlebotomy-Lab-Tech_317587-1) | 1d |
@@ -144,10 +143,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Clinical Psychologist – CHONY 6 - Outpatient Behavioral Health | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Psychologist---CHONY-6---Outpatient-Behavioral-Health_00873053) | 1d |
 | Clinical Nurse I - RN- Critical Care Float Pool RN FT Night | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN--Critical-Care-Float-Pool-RN-FT-Night_00873080) | 2d |
 
-### ✝️ **Faith-Based Health Systems** (45 positions)
+### ✝️ **Faith-Based Health Systems** (42 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (44 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (42 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -164,8 +163,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Medical Assistant (MA) - Family Practice | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Medical-Assistant--MA--Family-Pracitice_R1030910) | 1d |
 | Medical Assistant(MA) - Float | Mt. Zion, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Mt-Zion-IL/Medical-Assistant-MA----Float_R1031107) | 1d |
 | Medical Assistant (MA)-Family Medicine | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Medical-Assistant--MA--Family-Medicine_R1031708) | 1d |
-| Medical Assistant (MA)-Prairie Cardiovascular-Effingham | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Medical-Assistant--MA--Prairie-Cardiovascular-Effingham_R1031924) | 1d |
-| Medical Assistant (MA) - Priority Care | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Priority-Care_R1032209-1) | 1d |
 | Registered Nurse (RN) - Intensive Care Unit (ICU) | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Registered-Nurse--RN----Intensive-Care-Unit--ICU-_R1033091) | 1d |
 | Medical Assistant (MA)-Psychiatry | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Psychiatry_R1032501) | 1d |
 | Medical Assistant (MA) - Float | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Medical-Assistant--MA----Float_R1032500) | 1d |
@@ -197,12 +194,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse (RN) or Licensed Practical Nurse (LPN) | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Registered-Nurse--RN--Prairie_R1030447-1) | 1d |
 
 </details>
-
-#### ⛰️ **Intermountain Health** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Patient Service Representative Family Medicine | Syracuse Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Syracuse-Clinic/Patient-Service-Representative-Family-Medicine_R153364) | 1d |
 
 ### 🎓 **Academic Medical Centers** (13 positions)
 
@@ -272,8 +263,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **Top Healthcare Systems** (2 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (7 positions) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (1)
+#### ⭐ **Top Healthcare Systems** (1 company)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (7 positions)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -289,19 +280,19 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 33 | 23% | No or minimal experience |
-| 🟡 Beginner & Early Career | 45 | 32% | 1-2 years of experience |
-| 🔴 Manager     | 64 | 45% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 32 | 23% | No or minimal experience |
+| 🟡 Beginner & Early Career | 42 | 30% | 1-2 years of experience |
+| 🔴 Manager     | 64 | 46% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 38 positions
-- **Springfield, IL**: 15 positions
+- **Springfield, IL**: 14 positions
 - **EDH Main Hospital Naperville**: 11 positions
 - **Richmond, VA**: 10 positions
-- **Cleveland Clinic Main Campus**: 8 positions
 - **NCH 800 W Central Rd Arlington Heights**: 8 positions
+- **Cleveland Clinic Main Campus**: 7 positions
 - **NYP/Columbia University Irving Medical Center**: 7 positions
 - **O'Fallon, IL**: 7 positions
 
@@ -309,7 +300,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 142+ verified hospital and pharma roles from 8 elite organizations.
+✅ **100% Real Jobs:** 138+ verified hospital and pharma roles from 7 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -363,7 +354,7 @@ Either still hiring or useful for research.
 ### **Archived Job Stats**
 
 📁 **Total Jobs:** 7 positions
-🏢 **Companies:** 8 companies
+🏢 **Companies:** 7 companies
 
 
 ### ✝️ **Faith-Based Health Systems** (3 positions)
@@ -393,7 +384,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **142 current opportunities from 8 elite companies.**
+🎯 **138 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
