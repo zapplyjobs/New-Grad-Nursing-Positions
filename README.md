@@ -223,11 +223,11 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse - Endoscopy Downtown - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Registered-Nurse---Endoscopy-Downtown---Days_R39421) | 2d |
 | Certified Medical Assistant - Liver Institute - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Certified-Medical-Assistant---Liver-Institute---Days_R39805) | 2d |
 | Registered Nurse (RN) - Urology Clinic - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Registered-Nurse--RN----Urology-Clinic---Days_R38502-1) | 3d |
+| Physical Therapist - Acute Care Pediatrics - PRN | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Physical-Therapist---Acute-Care-Pediatrics---PRN_R39672-1) | 1d |
+| Certified Surgical Technologist (CST) - CHoR Pediatric Operating Room - Days/Evenings Rotating | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Certified-Surgical-Technologist--CST----CHoR-Pediatric-Operating-Room---Days-Evenings-Rotating_R38673) | 1d |
 | Administrative Resident | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Administrative-Resident_R39845) | 1d |
 | Certified Medical Assistant (CMA) - Stony Point Oncology - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Certified-Medical-Assistant--CMA----Stony-Point-Oncology---Days_R39684-1) | 1d |
 | Program Support Assistant - Main Operating Room (OR) - Nights | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Program-Support-Assistant---Main-Operating-Room--OR----Rotating_R39439) | 1d |
-| Licensed Practical Nurse (LPN) - Adult Outpatient Pavilion Family Medicine - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Licensed-Practical-Nurse--LPN----Adult-Outpatient-Pavilion-Family-Medicine---Days_R39774-1) | 1d |
-| Certified Medical Assistant (CMA) - Stony Point Orthopedic Clinic - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Certified-Medical-Assistant--CMA----Stony-Point-Orthopedic-Clinic---Days_R38611-1) | 1d |
 
 ### 🔗 **Integrated Health Networks** (20 positions)
 
@@ -288,9 +288,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 29 | 21% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 30 | 21% | No or minimal experience |
 | 🟡 Beginner & Early Career | 45 | 32% | 1-2 years of experience |
-| 🔴 Manager     | 67 | 48% | 2+ years of experience |
+| 🔴 Manager     | 66 | 47% | 2+ years of experience |
 
 ---
 
