@@ -66,10 +66,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (64 positions)
+### ⭐ **Elite Medical Centers** (62 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (57 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (55 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -128,8 +128,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Care Partner - 8S Cardiology Stepdown (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---8S-Cardiology-Stepdown--Nights-_R-46107) | 1d |
 | Care Partner - VAD & Heart Transplant (Days) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---VAD---Heart-Transplant--Days-_R-48813-1) | 1d |
 | Certified Pharmacy Technician - Oncology Investigational Drug Services 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Oncology-Investigational-Drug-Services_R-48947-2) | 1d |
-| Nurse Practitioner/Physician Assistant - ENT (Inpatient) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-Physician-Assistant---ENT--Inpatient-_R-48807) | 1d |
-| Operating Room Attendent VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Operating-Room-Attendent-VUH_R-48696) | 1d |
 
 </details>
 
@@ -218,13 +216,13 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse - Endoscopy Downtown - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Registered-Nurse---Endoscopy-Downtown---Days_R39421) | 2d |
 | Certified Medical Assistant - Liver Institute - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Certified-Medical-Assistant---Liver-Institute---Days_R39805) | 2d |
 | Registered Nurse (RN) - Urology Clinic - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Registered-Nurse--RN----Urology-Clinic---Days_R38502-1) | 3d |
+| Patient Access Representative - Internal Medicine Pediatrics - Chesterfield Meadows | Chester, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Chester-VA/Patient-Access-Representative---Internal-Medicine-Pediatrics---Chesterfield-Meadows_R38870-1) | 1d |
+| MRI Technologist - Radiology MRI - WIP - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/MRI-Technologist---Radiology-MRI---WIP---Days_R35414) | 1d |
 | Certified Medical Assistant (CMA) - Stony Point Multi-Specialty Clinic - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Certified-Medical-Assistant--CMA----Stony-Point-Multi-Specialty-Clinic---Days_R39674) | 1d |
 | Certified Medical Assistant (CMA) - Stony Point Orthopedic Clinic - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Certified-Medical-Assistant--CMA----Stony-Point-Orthopedic-Clinic---Days_R38611-1) | 1d |
 | Registered Nurse (RN) - Infectious Disease Clinic - PRN | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Registered-Nurse--RN----Infectious-Disease-Clinic---PRN_R38984-1) | 1d |
-| MRI Technologist - Radiology MRI - WIP - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/MRI-Technologist---Radiology-MRI---WIP---Days_R35414) | 1d |
-| Registered Nurse RN - Ambulatory Psychiatry Clinic- Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Registered-Nurse-RN---Ambulatory-Psychiatry-Clinic--Days_R39762-1) | 1d |
 
-### 🔗 **Integrated Health Networks** (22 positions)
+### 🔗 **Integrated Health Networks** (24 positions)
 
 #### 💙 **Allina Health** (2 positions)
 
@@ -234,7 +232,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Sterile Processing Technician | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/Sterile-Processing-Technician_R-0066910) | 2d |
 
 <details>
-<summary><h4>🏨 <strong>Endeavor Health</strong> (20 positions)</h4></summary>
+<summary><h4>🏨 <strong>Endeavor Health</strong> (22 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -255,9 +253,11 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Radiologic Technologist I (Western Suburbs) | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Radiologic-Technologist-II_R894?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Registered Nurse - Multiple Locations | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Registered-Nurse_R852?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | RN - PMU - Nights | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/RN---PMU---Nights_R25036-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Surgical Technologist - Day Surgery Center Operating Room | NCH 675 W Kirchoff Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-675-W-Kirchoff-Rd-Arlington-Heights/Surgical-Technologist---Day-Surgery-Center-Operating-Room_R33441?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Surgical First Assistant - Neurosurgery | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Surgical-First-Assistant---Neurosurgery_R29763?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Insurance Pre-Authorization Rep | O Corporate Center Warrenville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SRO-Corporate-Center-Warrenville-4201-Winfield-Road/Insurance-Pre-Authorization-Rep_R32639-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Medical Office Receptionist, Specialty Suites | NCO 15 S Mchenry Rd Buffalo Grove | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCO-15-S-Mchenry-Rd-Buffalo-Grove/Medical-Office-Receptionist--Specialty-Suites_R34333?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Physician - Hospitalist | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Physician---Hospitalist_R35219?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Pharmacist Retail | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Pharmacist-Retail_R35049?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
 </details>
 
@@ -277,7 +277,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 
 #### 🔗 **Regional Health Networks** (1 company)
-🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (20 positions)
+🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (22 positions)
 
 ---
 
@@ -285,19 +285,19 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 33 | 23% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 47 | 33% | No or minimal experience |
 | 🟡 Beginner & Early Career | 44 | 31% | 1-2 years of experience |
-| 🔴 Manager     | 66 | 46% | 2+ years of experience |
+| 🔴 Manager     | 52 | 36% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Nashville, TN**: 40 positions
+- **Nashville, TN**: 38 positions
 - **Springfield, IL**: 15 positions
 - **Cleveland Clinic Main Campus**: 11 positions
-- **EDH Main Hospital Naperville**: 11 positions
-- **Richmond, VA**: 10 positions
-- **NCH 800 W Central Rd Arlington Heights**: 8 positions
+- **EDH Main Hospital Naperville**: 10 positions
+- **NCH 800 W Central Rd Arlington Heights**: 9 positions
+- **Richmond, VA**: 9 positions
 - **NYP/Columbia University Irving Medical Center**: 7 positions
 - **O'Fallon, IL**: 7 positions
 
