@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 142+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 143+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 142 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 143 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 7 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 24, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,13 +66,14 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (63 positions)
+### ⭐ **Elite Medical Centers** (64 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (56 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (57 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Research Veterinary Technician | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Veterinary-Technician-I---Research-and-Innovations_288686) | 1d |
 | Research Technician II - Chung Lab | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Technician-II---Chung-Lab_287981) | 1d |
 | Research Technician II - Dasarathy Lab | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Technician-II---Dasarathy-Lab_268619) | 1d |
 | ​Department Analyst II—Clinical Engineering | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/XMLNAME--Department-Analyst-II-Clinical-Engineering---_277517) | 1d |
@@ -136,13 +137,13 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Certified Registered Nurse Anesthetist - CRNA - Columbia University Irving Medical Center - SIGN ON BONUS AVAILABLE | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Certified-Registered-Nurse-Anesthetist---CRNA---Columbia-University-Irving-Medical-Center---Days-Flex_00862067-1) | 1d |
 | Clinical Nurse I - RN - Neurology – PT – Nights | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Neurology---PT---Nights_00871526) | 1d |
 | Anesthesia Technician II - Evening Shift- NewYork-Presbyterian/ Columbia Medical Center | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Anesthesia-Technician-II---Evening-Shift--NewYork-Presbyterian--Columbia-Medical-Center_00872194-1) | 1d |
 | Part time Psychologist - Psychiatry - Columbia University Irving Medical Center | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Part-time-Psychologist---Psychiatry---Columbia-University-Irving-Medical-Center_00869252-1) | 1d |
 | Blood Bank Technologist - Transfusion Medicine - Full Time - Nights - Competitive Sign On & Night Bonus Plus Specialty Differential | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Blood-Bank-Technologist---Transfusion-Medicine---Full-Time---Nights---Competitive-Sign-On---Night-Bonus-Plus-Specialty-Differential_00872250) | 1d |
 | Clinical Nurse I - RN - Rehab - PT - Nights | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Rehab---PT---Nights_00872039) | 1d |
 | Clinical Psychologist – CHONY 6 - Outpatient Behavioral Health | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Psychologist---CHONY-6---Outpatient-Behavioral-Health_00873053) | 1d |
-| Clinical Nurse I - RN- Critical Care Float Pool RN FT Night | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN--Critical-Care-Float-Pool-RN-FT-Night_00873080) | 2d |
 
 ### ✝️ **Faith-Based Health Systems** (42 positions)
 
@@ -284,15 +285,15 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 48 | 34% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 52 | 36% | No or minimal experience |
 | 🟡 Beginner & Early Career | 48 | 34% | 1-2 years of experience |
-| 🔴 Manager     | 46 | 32% | 2+ years of experience |
+| 🔴 Manager     | 43 | 30% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 36 positions
-- **Cleveland Clinic Main Campus**: 14 positions
+- **Cleveland Clinic Main Campus**: 15 positions
 - **Springfield, IL**: 14 positions
 - **EDH Main Hospital Naperville**: 10 positions
 - **NCH 800 W Central Rd Arlington Heights**: 8 positions
@@ -304,7 +305,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 142+ verified hospital and pharma roles from 7 elite organizations.
+✅ **100% Real Jobs:** 143+ verified hospital and pharma roles from 7 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -388,7 +389,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **142 current opportunities from 7 elite companies.**
+🎯 **143 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
