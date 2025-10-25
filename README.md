@@ -187,7 +187,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Registered Nurse Pain Management Clinic 🏠 | Washington Fields Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Washington-Fields-Clinic/Registered-Nurse-Pain-Management-Clinic_R154370) | 1d |
+| Patient Service Representative Family Medicine 🏠 | Syracuse Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Syracuse-Clinic/Patient-Service-Representative-Family-Medicine_R153364) | 2d |
 
 ### 🎓 **Academic Medical Centers** (9 positions)
 
@@ -269,8 +269,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 16 | 13% | No or minimal experience |
-| 🟡 Beginner & Early Career | 46 | 38% | 1-2 years of experience |
-| 🔴 Manager     | 59 | 49% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 47 | 39% | 1-2 years of experience |
+| 🔴 Manager     | 58 | 48% | 2+ years of experience |
 
 ---
 
