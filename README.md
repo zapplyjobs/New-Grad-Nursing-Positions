@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 120+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 122+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,8 +22,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 120 hot healthcare and medical jobs
-- 🏢 **Top Companies:** 7 elite tech including Mayo Clinic, CVS Health, Pfizer
+- 🔥 **Current Positions:** 122 hot healthcare and medical jobs
+- 🏢 **Top Companies:** 8 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 25, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 - 📁 **Archived Healthcare Jobs:** 5 (older than 1 week)
@@ -129,7 +129,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Clinical Nurse I - RN - Rehab - PT - Nights | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Rehab---PT---Nights_00872039) | 2d |
 | Clinical Psychologist – CHONY 6 - Outpatient Behavioral Health | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Psychologist---CHONY-6---Outpatient-Behavioral-Health_00873053) | 2d |
 
-### ✝️ **Faith-Based Health Systems** (44 positions)
+### ✝️ **Faith-Based Health Systems** (46 positions)
 
 <details>
 <summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (44 positions)</h4></summary>
@@ -182,6 +182,13 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Main OR Surgical Technologist Part-Time | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Main-OR-Surgical-Technologist_R1029952) | 2d |
 
 </details>
+
+#### ⛰️ **Intermountain Health** (2 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Registered Nurse Pain Management Clinic 🏠 | Washington Fields Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Washington-Fields-Clinic/Registered-Nurse-Pain-Management-Clinic_R154370) | 1d |
+| Patient Service Representative Family Medicine 🏠 | Syracuse Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Syracuse-Clinic/Patient-Service-Representative-Family-Medicine_R153364) | 2d |
 
 ### 🎓 **Academic Medical Centers** (9 positions)
 
@@ -245,8 +252,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **Top Healthcare Systems** (1 company)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (7 positions)
+#### ⭐ **Top Healthcare Systems** (2 companies)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (7 positions) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (2)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -263,8 +270,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 16 | 13% | No or minimal experience |
-| 🟡 Beginner & Early Career | 46 | 38% | 1-2 years of experience |
-| 🔴 Manager     | 58 | 48% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 47 | 39% | 1-2 years of experience |
+| 🔴 Manager     | 59 | 48% | 2+ years of experience |
 
 ---
 
@@ -282,7 +289,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 120+ verified hospital and pharma roles from 7 elite organizations.
+✅ **100% Real Jobs:** 122+ verified hospital and pharma roles from 8 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -336,7 +343,7 @@ Either still hiring or useful for research.
 ### **Archived Job Stats**
 
 📁 **Total Jobs:** 5 positions
-🏢 **Companies:** 7 companies
+🏢 **Companies:** 8 companies
 
 
 ### ✝️ **Faith-Based Health Systems** (2 positions)
@@ -364,7 +371,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **120 current opportunities from 7 elite companies.**
+🎯 **122 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
