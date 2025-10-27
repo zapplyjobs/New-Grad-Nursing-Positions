@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 147+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 145+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 147 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 145 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 27, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,10 +66,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (67 positions)
+### ⭐ **Elite Medical Centers** (65 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (61 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (59 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -78,7 +78,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Clinical Technician - Cardiovascular Surgery ICU 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Clinical-Technician---Cardiovascular-Surgery-ICU_310673) | 1d |
 | Clinical Technician - Cardiovascular Intensive Care Units (CVICU) 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Clinical-Technician---Cardiovascular-Intensive-Care-Units--CVICU-_309893) | 1d |
 | PRN RN - Cardiac Telemetry and Nephrology 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-RN---Cardiac-Telemetry-and-Nephrology_317225) | 1d |
-| LPN - Internal Medicine Unit 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/LPN---Internal-Medicine-Unit_315700) | 1d |
+| LPN - Internal Medicine Unit | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/LPN---Internal-Medicine-Unit_315700) | 1d |
 | Data Analyst | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Data-Analyst_316055-1) | 1d |
 | PCNA | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/PCNA_311067) | 1d |
 | PRN RN - Digestive Disease General Surgery | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-PRN_158177) | 1d |
@@ -91,8 +91,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | RN - Digestive Disease Post-Op | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Colorectal-Surgery_290058) | 1d |
 | RN - Metabolic Disease Care | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Metabolic-Disease-Care_318005) | 1d |
 | RN - Digestive Disease Post-Surgical Unit | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Colorectal-Surgery_271632) | 1d |
-| New Grad RN Resident - Metabolic Surgery Unit | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-New-Grad---Colorectal-Surgery_289359) | 1d |
-| New Grad RN Resident - Digestive Disease Post-Surgical Unit | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Resident----Colorectal-Surgery_293593) | 1d |
 | Physical Therapist Assistant (PTA) – Home Health - $5,000 Sign-On Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist-Assistant--PTA-----5K-Sign-On_R-49319-1) | 1d |
 | Occupational Therapy Assistant – Home Health (Rutherford County) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
@@ -105,11 +103,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Clinic RN, Registered Nurse - Comprehensive Care Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinic-RN--Registered-Nurse---Comprehensive-Care-Clinic_R-48212-1) | 1d |
 | Ophthalmic Assistant 🏠 | Franklin, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/Ophthalmic-Assistant_R-48675) | 1d |
 | Workday BI / Reporting Analyst (Remote Available) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Workday-HCM-Business-Intelligence-Analyst--Remote-Available-_R-47652-1) | 1d |
-| SailPoint / IAM System Developer (Remote) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/SailPoint---IAM-System-Developer--Remote-_R-48092-1) | 1d |
 | Respiratory Therapist Reg PRN - Adults 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-Reg-PRN---Adults_R-49649-1) | 1d |
 | Clinical Lab Assoc/Phlebotomist Trainee 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Lab-Assoc-Phlebotomist-Trainee_R-49648-1) | 1d |
 | Respiratory Therapist 2 Reg - Adult $15K SIGN ON BONUS 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-2-Reg---Adult--15K-SIGN-ON-BONUS_R-49642-1) | 1d |
-| RN, Registered Nurse - Cancer Clinic | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-CC---Cancer-Clinic_R-46481-2) | 1d |
+| RN, Registered Nurse - Cancer Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-CC---Cancer-Clinic_R-46481-2) | 1d |
 | Clinical Lab Associate | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Lab-Associate-3_R-44566) | 1d |
 | Early Learning Associate Teacher | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Early-Learning-Associate-Teacher_R-44620-1) | 1d |
 | Medical Receptionist - Emergency Services FT Days 06:45 - 19:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist---Emergency-Services-FT-Days-06-45---19-15_R-47455-2) | 1d |
@@ -126,7 +123,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Medical Assistant - Hendersonville Pediatric After Hours Clinic (24 Hours per Week) | Hendersonville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Hendersonville-TN/Medical-Assistant---Hendersonville-Pediatric-After-Hours-Clinic--24-Hours-per-Week-_R-48976-2) | 1d |
 | Medical Assistant - Murfreesboro After Hours Clinic | Murfreesboro, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Murfreesboro-TN/Medical-Assistant---Murfreesboro-Pediatric-After-Hours-Clinic_R-48987-1) | 1d |
 | Medical Assistant - Primary Care Clinic - Mt. Juliet | Mount Juliet, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Mount-Juliet-TN/Medical-Assistant---Primary-Care-Clinic---Mt-Juliet_R-48838-2) | 1d |
-| Medical Receptionist - Cardiovascular Progressive Care (Weekday Evenings) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist---Cardiovascular-Progressive-Care--Weekday-Evenings-_R-48507-1) | 1d |
+| Medical Receptionist - Cardiovascular Progressive Care (Weekday Evenings) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist---Cardiovascular-Progressive-Care--Weekday-Evenings-_R-48507-1) | 1d |
 | Nurse Practitioner/Physician Assistant - Pediatric Cleft and Craniofacial 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-Physician-Assistant---Pediatric-Cleft-and-Craniofacial_R-48610-1) | 1d |
 | Pediatric Speech-Language Pathologist (SLP) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-Speech-Language-Pathologist--SLP-_R-49007-1) | 1d |
 | RN PRN - Pediatric After Hours Clinics 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/RN-PRN---Pediatric-After-Hours-Clinics_R-48985-1) | 1d |
@@ -134,6 +131,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Care Partner PRN (Bedford Hospital) 🏠 | Shelbyville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/Care-Partner-PRN-1_R-48904-2) | 1d |
 | Mammography Tech 2 - 100 Oaks Breast Center 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Mammography-Tech-2---100-Oaks-Breast-Center_R-48906-1) | 1d |
 | Medical Receptionist - Cardiology Stepdown (Weekends) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist---Cardiology-Stepdown--Weekends-_R-50008) | 1d |
+| Medical Receptionist 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist_R-48592-1) | 1d |
 
 </details>
 
@@ -299,15 +297,15 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 52 | 35% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 51 | 35% | No or minimal experience |
 | 🟡 Beginner & Early Career | 50 | 34% | 1-2 years of experience |
-| 🔴 Manager     | 45 | 31% | 2+ years of experience |
+| 🔴 Manager     | 44 | 30% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 34 positions
-- **Cleveland Clinic Main Campus**: 19 positions
+- **Cleveland Clinic Main Campus**: 17 positions
 - **Springfield, IL**: 12 positions
 - **NCH 800 W Central Rd Arlington Heights**: 10 positions
 - **EDH Main Hospital Naperville**: 10 positions
@@ -319,7 +317,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 147+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 145+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -400,7 +398,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **147 current opportunities from 9 elite companies.**
+🎯 **145 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
