@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 148+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 149+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 148 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 149 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 27, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,13 +66,14 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (69 positions)
+### ⭐ **Elite Medical Centers** (70 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (63 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (64 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| LPN - Cardiac Telemetry and Nephrology 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/LPN---Cardiac-Telemetry-and-Nephrology_312553) | 1d |
 | Research Nurse - Heart Vascular & Thoracic Institute 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Nurse---Heart-Vascular---Thoracic-Institute_313695) | 1d |
 | Patient Care Nursing Assistant - Acute Care Neurology and Cardiac Telemetry - 0.6 FTE - 7a-3:30p 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Patient-Care-Nursing-Assistant---Acute-Care-Neurology-and-Cardiac-Telemetry---06-FTE---7a-3-30p_311304-1) | 1d |
 | Patient Care Nursing Assistant - Neuroscience Unit - Day Shift - 1.0 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Patient-Care-Nursing-Assistant---Neuroscience-Unit---Day-Shift---10_316749-1) | 1d |
@@ -300,7 +301,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 52 | 35% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 53 | 36% | No or minimal experience |
 | 🟡 Beginner & Early Career | 50 | 34% | 1-2 years of experience |
 | 🔴 Manager     | 46 | 31% | 2+ years of experience |
 
@@ -320,7 +321,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 148+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 149+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -401,7 +402,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **148 current opportunities from 9 elite companies.**
+🎯 **149 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
