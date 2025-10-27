@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 148+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 147+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 148 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 147 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 27, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,10 +66,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (68 positions)
+### ⭐ **Elite Medical Centers** (67 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (63 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (62 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -97,6 +97,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Occupational Therapy Assistant – Home Health (Rutherford County) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
 | Physical Therapist – Acute Care Inpatient PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Acute-Care-Inpatient-PRN_R-48084-1) | 1d |
+| Rep Family/Guest Services 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Rep-Family-Guest-Services_R-49299-1) | 1d |
 | SailPoint / IAM System Developer (Remote) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/SailPoint---IAM-System-Developer--Remote-_R-48092-1) | 1d |
 | Registered Nurse, Acute Dialysis, Days, VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Acute-Dialysis--Days--VUH_R-49652-1) | 1d |
 | Clinic RN, Registered Nurse - Vascular Surgery 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2_R-43429-1) | 1d |
@@ -104,7 +105,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse- Inpatient Virtual Support (Located at Crystal Terrace), ICU experience preferred, FT (6p-330a)- VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Inpatient-Virtual-Support--Located-at-Crystal-Terrace---ICU-experience-preferred--FT--6p-330a---VUH_R-47160-1) | 1d |
 | Certified Pharmacy Technician - Part Time Evening Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Part-Time-Evening-Shift_R-47458-1) | 1d |
 | Pathologist Asst Certified - Up To $15,000 sign on bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pathologist-Asst-Certified---Up-To--15-000-sign-on-bonus_R-43121-1) | 1d |
-| Certified Pharmacy Technician - Oncology Investigational Drug Services 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Oncology-Investigational-Drug-Services_R-48947-2) | 1d |
 | Nurse Practitioner NP / Physician Assistant PA - Electrophysiology (EP) (Inpatient/Outpatient) - Day Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-NP---Physician-Assistant-PA---Electrophysiology--EP---Inpatient-Outpatient----Day-Shift_R-49659-1) | 1d |
 | Job Posting Title Nurse Practitioner NP / Physician Assistant PA Surgical CVICU Night Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Job-Posting-Title-Nurse-Practitioner-NP---Physician-Assistant-PA-Surgical-CVICU-Night-Shift_R-49658-1) | 1d |
 | Nurse Practitioner NP / Physician Assistant PA - Neurosurgery Tumor/Functional/Spine 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-NP---Physician-Assistant-PA---Neurosurgery-Tumor-Functional-Spine_R-49655-2) | 1d |
@@ -135,7 +135,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Nurse Practitioner/Physician Assistant - Pediatric Cleft and Craniofacial 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-Physician-Assistant---Pediatric-Cleft-and-Craniofacial_R-48610-1) | 1d |
 | Pediatric Speech-Language Pathologist (SLP) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-Speech-Language-Pathologist--SLP-_R-49007-1) | 1d |
 | RN PRN - Pediatric After Hours Clinics 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/RN-PRN---Pediatric-After-Hours-Clinics_R-48985-1) | 1d |
-| Registered Nurse, Pre/Post Op, Full time Days, Lebanon 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Registered-Nurse--Pre-Post-Op--Full-time-Days--Lebanon_R-49020-2) | 1d |
 
 </details>
 
@@ -244,7 +243,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Social Worker 🏠 | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/Social-Worker_R-0067258) | 1d |
+| Social Worker | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/Social-Worker_R-0067258) | 1d |
 | CT / Radiologic Technologist - Baylor | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/CT---Radiologic-Technologist---Baylor_R-0067254) | 1d |
 
 <details>
@@ -270,9 +269,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Radiologic Technologist I (Western Suburbs) | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Radiologic-Technologist-II_R894?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Registered Nurse - Multiple Locations | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Registered-Nurse_R852?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | RN - PMU - Nights | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/RN---PMU---Nights_R25036-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Patient Care Technician - Medical Pulmonary Unit - Evenings | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Patient-Care-Technician---Medical-Pulmonary-Unit---Evenings_R31639?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Registered Nurse - Neurology Unit - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Registered-Nurse---Neurology-Unit---Days_R35157?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Registered Nurse - Medical Pulmonary Unit - Nights | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Registered-Nurse---Medical-Pulmonary-Unit---Nights_R31624?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Environmental Services Technician II, Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Environmental-Services-Technician-II--Days_R35097?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Environmental Services Technician II, Evenings | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Environmental-Services-Technician-II--Evenings_R35098?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Environmental Services Technician | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Environmental-Services-Technician-II_R35028?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
 </details>
 
@@ -300,7 +299,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 66 | 45% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 65 | 44% | No or minimal experience |
 | 🟡 Beginner & Early Career | 49 | 33% | 1-2 years of experience |
 | 🔴 Manager     | 33 | 22% | 2+ years of experience |
 
@@ -309,9 +308,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 37 positions
 - **Cleveland Clinic Main Campus**: 17 positions
-- **NCH 800 W Central Rd Arlington Heights**: 10 positions
 - **EDH Main Hospital Naperville**: 10 positions
 - **Springfield, IL**: 9 positions
+- **NCH 800 W Central Rd Arlington Heights**: 9 positions
 - **O'Fallon, IL**: 8 positions
 - **Richmond, VA**: 8 positions
 - **Green Bay, WI**: 7 positions
@@ -320,7 +319,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 148+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 147+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -401,7 +400,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **148 current opportunities from 9 elite companies.**
+🎯 **147 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
