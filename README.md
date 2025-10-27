@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 142+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 144+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 142 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 144 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 8 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 27, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -69,7 +69,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 ### ⭐ **Elite Medical Centers** (65 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (59 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (58 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -90,7 +90,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Research Nurse - Heart Vascular & Thoracic Institute | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Nurse---Heart-Vascular---Thoracic-Institute_313695) | 1d |
 | Surgical Technologist - Cole Eye/Ophthalmology | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Surgical-Technologist---Cole-Eye-OR_315920) | 1d |
 | Patient Care Nurse Assistant - Metabolic Surgery Unit | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant---Metabolic-Surgery-Unit_309334) | 1d |
-| RN - Neuroscience Unit | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Neuroscience-Unit_308062) | 1d |
 | Physical Therapist Assistant (PTA) – Home Health - $5,000 Sign-On Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist-Assistant--PTA-----5K-Sign-On_R-49319-1) | 1d |
 | Occupational Therapy Assistant – Home Health (Rutherford County) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
@@ -135,10 +134,11 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 </details>
 
-#### 🗽 **New York Presbyterian** (5 positions)
+#### 🗽 **New York Presbyterian** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Physician Assistant - Vascular Surgery - Columbia University Medical Center | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Physician-Assistant---Vascular-Surgery---Columbia-University-Medical-Center_00873112) | 1d |
 | Certified Registered Nurse Anesthetist - CRNA - Columbia University Irving Medical Center - SIGN ON BONUS AVAILABLE | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Certified-Registered-Nurse-Anesthetist---CRNA---Columbia-University-Irving-Medical-Center---Days-Flex_00862067-1) | 3d |
 | Clinical Nurse I - RN - Neurology – PT – Nights | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Neurology---PT---Nights_00871526) | 3d |
 | Anesthesia Technician II - Evening Shift- NewYork-Presbyterian/ Columbia Medical Center | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Anesthesia-Technician-II---Evening-Shift--NewYork-Presbyterian--Columbia-Medical-Center_00872194-1) | 3d |
@@ -151,10 +151,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 |------|----------|-----------|-----|
 | Clinical Nurse (RN), BYERS - PRE/PACU - 1.0 FTE (8-HR ROTATING SHIFT) | PALO ALTO, CA | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/2452-Watson-Ct---PALO-ALTO/Clinical-Nurse--RN---BYERS---PRE-PACU---10-FTE--8-HR-ROTATING-SHIFT-_R2550607-1) | 1d |
 
-### ✝️ **Faith-Based Health Systems** (46 positions)
+### ✝️ **Faith-Based Health Systems** (47 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (44 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (45 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -202,6 +202,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Certified Surgical Technologist | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Certified-Surgical-Technologist_R1029795) | 4d |
 | Surgical Tech - First Assist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/OR-Registered-Nurse-RN---First-Assist_R1031168) | 4d |
 | Sterile Processing Technician | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Sterile-Processing-Technician-II_R1033052) | 4d |
+| Main OR Surgical Technologist Part-Time | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Main-OR-Surgical-Technologist_R1029952) | 4d |
 
 </details>
 
@@ -212,7 +213,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Patient Service Representative 🏠 | Denver Midtown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Denver-Midtown-Clinic/Patient-Service-Representative-OBGYN_R146220) | 1d |
 | Registered Nurse Pain Management Clinic 🏠 | Washington Fields Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Washington-Fields-Clinic/Registered-Nurse-Pain-Management-Clinic_R154370) | 3d |
 
-### 🎓 **Academic Medical Centers** (11 positions)
+### 🎓 **Academic Medical Centers** (12 positions)
 
 #### 📚 **University of Rochester Medical Center** (1 position)
 
@@ -220,7 +221,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 |------|----------|-----------|-----|
 | Urology - Sawgrass - Licensed Practical Nurse 2 Outpt | Rochester, NY | [<img src="./image.png" width="100" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Rochester---NY/Urology---Batavia---Licensed-Practical-Nurse-2-Outpt_R242674?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
 
-#### 🏥 **VCU Health** (10 positions)
+#### 🏥 **VCU Health** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -231,6 +232,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Multi Modality Technologist - Tappahannock - WIP - Nights | Tappahannock, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Tappahannock-VA/Multi-Modality-Tech---Nights---Weekend-Program_R22536) | 5d |
 | Registered Nurse - Endoscopy Downtown - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Registered-Nurse---Endoscopy-Downtown---Days_R39421) | 5d |
 | Certified Medical Assistant - Liver Institute - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Certified-Medical-Assistant---Liver-Institute---Days_R39805) | 5d |
+| Unit Secretary - Medicine Specialty Unit - Rotating | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Unit-Secretary---Medicine-Specialty-Unit---Rotating_R39783-1) | 1d |
 | Child Care Teacher - N-Deck - Rotating | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Child-Care-Teacher---N-Deck---Rotating_R38754) | 1d |
 | Child Care Aide - N-Deck - Rotating | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Child-Care-Aide---N-Deck---Rotating_R38755) | 1d |
 | Registered Nurse (RN) - Stony Point Multispecialty Clinic - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Registered-Nurse--RN----Stony-Point-Multispecialty-Clinic---Days_R39842-1) | 1d |
@@ -273,11 +275,11 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (5 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (1) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (2)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (6 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (1) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (2)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
-📚 **[University of Rochester Medical Center](https://rochester.wd5.myworkdayjobs.com/UR_Nursing)** (1 position) • 🏥 **[VCU Health](https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers)** (10)
+📚 **[University of Rochester Medical Center](https://rochester.wd5.myworkdayjobs.com/UR_Nursing)** (1 position) • 🏥 **[VCU Health](https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers)** (11)
 
 
 #### 🔗 **Regional Health Networks** (1 company)
@@ -289,27 +291,27 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 52 | 37% | No or minimal experience |
-| 🟡 Beginner & Early Career | 50 | 35% | 1-2 years of experience |
-| 🔴 Manager     | 40 | 28% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 57 | 40% | No or minimal experience |
+| 🟡 Beginner & Early Career | 53 | 37% | 1-2 years of experience |
+| 🔴 Manager     | 34 | 24% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 32 positions
 - **Cleveland Clinic Main Campus**: 17 positions
-- **Springfield, IL**: 11 positions
+- **Springfield, IL**: 12 positions
 - **NCH 800 W Central Rd Arlington Heights**: 10 positions
 - **EDH Main Hospital Naperville**: 10 positions
+- **Richmond, VA**: 9 positions
 - **O'Fallon, IL**: 8 positions
-- **Richmond, VA**: 8 positions
-- **Decatur, IL**: 6 positions
+- **NYP/Columbia University Irving Medical Center**: 6 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 142+ verified hospital and pharma roles from 8 elite organizations.
+✅ **100% Real Jobs:** 144+ verified hospital and pharma roles from 8 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -390,7 +392,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **142 current opportunities from 8 elite companies.**
+🎯 **144 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
