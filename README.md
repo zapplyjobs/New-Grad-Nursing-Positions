@@ -69,7 +69,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 ### ⭐ **Elite Medical Centers** (66 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (58 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (59 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -97,6 +97,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Occupational Therapy Assistant – Home Health (Rutherford County) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
 | Physical Therapist – Acute Care Inpatient PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Acute-Care-Inpatient-PRN_R-48084-1) | 1d |
+| Clinical Lab Assoc/Phlebotomist Trainee 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Lab-Assoc-Phlebotomist-Trainee_R-49648-1) | 1d |
 | Respiratory Therapist 2 Reg - Adult $15K SIGN ON BONUS 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-2-Reg---Adult--15K-SIGN-ON-BONUS_R-49642-1) | 1d |
 | RN, Registered Nurse - Cancer Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-CC---Cancer-Clinic_R-46481-2) | 1d |
 | Clinical Lab Associate 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Lab-Associate-3_R-44566) | 1d |
@@ -134,7 +135,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 </details>
 
-#### 🗽 **New York Presbyterian** (7 positions)
+#### 🗽 **New York Presbyterian** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -144,7 +145,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Part time Psychologist - Psychiatry - Columbia University Irving Medical Center | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Part-time-Psychologist---Psychiatry---Columbia-University-Irving-Medical-Center_00869252-1) | 4d |
 | Blood Bank Technologist - Transfusion Medicine - Full Time - Nights - Competitive Sign On & Night Bonus Plus Specialty Differential | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Blood-Bank-Technologist---Transfusion-Medicine---Full-Time---Nights---Competitive-Sign-On---Night-Bonus-Plus-Specialty-Differential_00872250) | 4d |
 | Clinical Nurse I - RN - Rehab - PT - Nights | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Rehab---PT---Nights_00872039) | 4d |
-| Clinical Psychologist – CHONY 6 - Outpatient Behavioral Health | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Psychologist---CHONY-6---Outpatient-Behavioral-Health_00873053) | 4d |
 
 #### 🎓 **Stanford Health Care** (1 position)
 
@@ -211,7 +211,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Patient Service Representative 🏠 | Denver Midtown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Denver-Midtown-Clinic/Patient-Service-Representative-OBGYN_R146220) | 1d |
-| Registered Nurse Pain Management Clinic 🏠 | Washington Fields Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Washington-Fields-Clinic/Registered-Nurse-Pain-Management-Clinic_R154370) | 3d |
+| Registered Nurse Pain Management Clinic | Washington Fields Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Washington-Fields-Clinic/Registered-Nurse-Pain-Management-Clinic_R154370) | 3d |
 
 ### 🎓 **Academic Medical Centers** (10 positions)
 
@@ -279,7 +279,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (7 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (1) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (2)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (6 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (1) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (2)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -302,14 +302,14 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 ---
 
 ### 🌍 **Top Locations**
-- **Nashville, TN**: 28 positions
+- **Nashville, TN**: 29 positions
 - **Cleveland Clinic Main Campus**: 19 positions
 - **Springfield, IL**: 12 positions
 - **NCH 800 W Central Rd Arlington Heights**: 10 positions
 - **EDH Main Hospital Naperville**: 10 positions
-- **NYP/Columbia University Irving Medical Center**: 7 positions
 - **O'Fallon, IL**: 7 positions
 - **Richmond, VA**: 7 positions
+- **NYP/Columbia University Irving Medical Center**: 6 positions
 
 ---
 
