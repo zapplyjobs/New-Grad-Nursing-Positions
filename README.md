@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 143+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 145+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 143 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 145 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 27, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,13 +66,15 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (62 positions)
+### ⭐ **Elite Medical Centers** (63 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (57 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (58 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| CRNA - Akron -Sign-on Bonus & Loan Repayment Eligible! | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/CRNA---Akron--Sign-on-Bonus---Loan-Repayment-Eligible-_319438) | 1d |
+| CRNA - Multi-Specialty Anesthesiology- Sign-on Bonus & Loan Repayment Eligible! | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/CRNA---Multi-Specialty-Anesthesiology---Newly-Adjusted-Compensation---Sign-on-Bonus_274410) | 1d |
 | RN - Orthopaedics | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Orthopaedics_298189) | 1d |
 | New Grad RN Resident - Orthopedics | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Resident---Orthopedics_303476) | 1d |
 | PRN RN - Orthopedics | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/PRN-RN---Orthopedics_311811) | 1d |
@@ -81,19 +83,19 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | RN HOPS - Endoscopy | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-HOPS--Procedural_289025) | 1d |
 | RN HOPS - Endoscopy - Digestive Disease Institute | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-HOPS---Endoscopy---Digestive-Disease-Institute_313420) | 1d |
 | Registered Respiratory Therapist - Intensive Care and Resuscitation | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Registered-Respiratory-Therapist---Intensive-Care-and-Resuscitation_301160) | 1d |
-| HVAC Technician | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/HVAC-Technician_315503) | 1d |
-| Clinical Technician - Cardiovascular Surgery ICU | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Clinical-Technician---Cardiovascular-Surgery-ICU_310673) | 1d |
+| HVAC Technician 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/HVAC-Technician_315503) | 1d |
+| Clinical Technician - Cardiovascular Surgery ICU 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Clinical-Technician---Cardiovascular-Surgery-ICU_310673) | 1d |
 | Clinical Technician - Cardiovascular Intensive Care Units (CVICU) 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Clinical-Technician---Cardiovascular-Intensive-Care-Units--CVICU-_309893) | 1d |
 | PRN RN - Cardiac Telemetry and Nephrology 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-RN---Cardiac-Telemetry-and-Nephrology_317225) | 1d |
 | LPN - Internal Medicine Unit 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/LPN---Internal-Medicine-Unit_315700) | 1d |
 | Data Analyst | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Data-Analyst_316055-1) | 1d |
 | PCNA | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/PCNA_311067) | 1d |
 | PRN RN - Digestive Disease General Surgery | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-PRN_158177) | 1d |
-| RN - Specialty Care Transplant Unit | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN--Specialty-Care-Transplant-Unit_265290-1) | 1d |
 | Physical Therapist Assistant (PTA) – Home Health - $5,000 Sign-On Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist-Assistant--PTA-----5K-Sign-On_R-49319-1) | 1d |
 | Occupational Therapy Assistant – Home Health (Rutherford County) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
 | Physical Therapist – Acute Care Inpatient PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Acute-Care-Inpatient-PRN_R-48084-1) | 1d |
+| Registered Nurse- Inpatient Virtual Support (Located at Crystal Terrace), ICU experience preferred, FT (6p-330a)- VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Inpatient-Virtual-Support--Located-at-Crystal-Terrace---ICU-experience-preferred--FT--6p-330a---VUH_R-47160-1) | 1d |
 | Certified Pharmacy Technician - Part Time Evening Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Part-Time-Evening-Shift_R-47458-1) | 1d |
 | Pathologist Asst Certified - Up To $15,000 sign on bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pathologist-Asst-Certified---Up-To--15-000-sign-on-bonus_R-43121-1) | 1d |
 | Certified Pharmacy Technician - Oncology Investigational Drug Services 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Oncology-Investigational-Drug-Services_R-48947-2) | 1d |
@@ -129,7 +131,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | RN PRN - Pediatric After Hours Clinics 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/RN-PRN---Pediatric-After-Hours-Clinics_R-48985-1) | 1d |
 | Registered Nurse, Pre/Post Op, Full time Days, Lebanon 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Registered-Nurse--Pre-Post-Op--Full-time-Days--Lebanon_R-49020-2) | 1d |
 | Care Partner PRN (Bedford Hospital) 🏠 | Shelbyville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/Care-Partner-PRN-1_R-48904-2) | 1d |
-| Mammography Tech 2 - 100 Oaks Breast Center 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Mammography-Tech-2---100-Oaks-Breast-Center_R-48906-1) | 1d |
 
 </details>
 
@@ -148,10 +149,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 |------|----------|-----------|-----|
 | Clinical Nurse (RN), BYERS - PRE/PACU - 1.0 FTE (8-HR ROTATING SHIFT) | PALO ALTO, CA | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/2452-Watson-Ct---PALO-ALTO/Clinical-Nurse--RN---BYERS---PRE-PACU---10-FTE--8-HR-ROTATING-SHIFT-_R2550607-1) | 1d |
 
-### ✝️ **Faith-Based Health Systems** (47 positions)
+### ✝️ **Faith-Based Health Systems** (48 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (45 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (46 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -159,6 +160,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Medical Assistant (MA)-Family Medicine | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Medical-Assistant--MA--Family-Medicine_R1032877) | 4d |
 | Behavioral Health Therapist | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Behavioral-Health-Therapist_R1032100) | 4d |
 | Medical Assistant or LPN-PRN | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Medical-Assistant-or-LPN_R1032547) | 4d |
+| Patient Care Assistant | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Patient-Care-Assistant_R1033097) | 1d |
+| Patient Care Assistant | Litchfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Litchfield-IL/Patient-Care-Assistant-II_R1033000) | 1d |
 | Registered Nurse (RN), Telemetry, WEO | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---Telemetry--WEO_R1032203) | 1d |
 | Medical Laboratory Technician - Nights | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Medical-Laboratory-Technician---Nights_R1032893) | 1d |
 | Registered Nurse (RN), Med/Surg, WEO | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---Med-Surg--WEO_R1030340) | 1d |
@@ -168,9 +171,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Licensed Practical Nurse (LPN)-Multispecialty | Taylorville, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Taylorville-IL/Licensed-Practical-Nurse--LPN--Multispecialty_R1033006) | 3d |
 | Registered Nurse (RN) - Various Units (Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR) | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Registered-Nurse--RN----Various-Units--Med-Surg-Cardiac--ICU--ER--Cath-Lab--PACU--OR-_R1033136) | 3d |
 | Registered Nurse (RN) IL Regional Float | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Registered-Nurse--RN--IL-Regional-Float_R1032677) | 3d |
-| Medical Assistant (MA)II - Walk-in Lab | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Float_R1032819) | 3d |
-| Respiratory Therapist | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Respiratory-Therapist_R1033081) | 3d |
-| Registrar-Float | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Registrar-Float_R1032586) | 3d |
 | Medical Assistant Or Licensed Practical Nurse - Outpatient Medical Oncology | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Medical-Assistant-Or-Licensed-Practical-Nurse---Oncology_R1030934) | 4d |
 | Educator- Outpatient Clinical Documentation Integrity | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Educator--Outpatient-Clinical-Documentation-Integrity_R1031295) | 4d |
 | Medical Assistant (MA) - Family Practice | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Medical-Assistant--Family-Practice_R1030901) | 4d |
@@ -200,6 +200,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Surgical Technologist First Assist | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Surgical-Technologist-First-Assist_R1029800) | 4d |
 | Certified Surgical Technologist | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Certified-Surgical-Technologist_R1029795) | 4d |
 | Surgical Tech - First Assist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/OR-Registered-Nurse-RN---First-Assist_R1031168) | 4d |
+| Sterile Processing Technician | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Sterile-Processing-Technician-II_R1033052) | 4d |
+| Main OR Surgical Technologist Part-Time | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Main-OR-Surgical-Technologist_R1029952) | 4d |
 
 </details>
 
@@ -295,19 +297,19 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 40 | 28% | No or minimal experience |
-| 🟡 Beginner & Early Career | 52 | 36% | 1-2 years of experience |
-| 🔴 Manager     | 51 | 36% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 39 | 27% | No or minimal experience |
+| 🟡 Beginner & Early Career | 51 | 35% | 1-2 years of experience |
+| 🔴 Manager     | 55 | 38% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 33 positions
 - **Cleveland Clinic Main Campus**: 16 positions
-- **Springfield, IL**: 11 positions
+- **O'Fallon, IL**: 10 positions
+- **Springfield, IL**: 10 positions
 - **NCH 800 W Central Rd Arlington Heights**: 10 positions
 - **EDH Main Hospital Naperville**: 10 positions
-- **O'Fallon, IL**: 9 positions
 - **Richmond, VA**: 8 positions
 - **Decatur, IL**: 6 positions
 
@@ -315,7 +317,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 143+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 145+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -396,7 +398,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **143 current opportunities from 9 elite companies.**
+🎯 **145 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
