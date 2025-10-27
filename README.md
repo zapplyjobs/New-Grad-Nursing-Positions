@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 119+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 126+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 119 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 126 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 27, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,10 +66,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (43 positions)
+### ⭐ **Elite Medical Centers** (50 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (35 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (42 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -93,12 +93,19 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Medical Assistant - Hendersonville Pediatric After Hours Clinic (24 Hours per Week) | Hendersonville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Hendersonville-TN/Medical-Assistant---Hendersonville-Pediatric-After-Hours-Clinic--24-Hours-per-Week-_R-48976-2) | 1d |
 | Medical Assistant - Murfreesboro After Hours Clinic | Murfreesboro, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Murfreesboro-TN/Medical-Assistant---Murfreesboro-Pediatric-After-Hours-Clinic_R-48987-1) | 1d |
 | Medical Assistant - Primary Care Clinic - Mt. Juliet | Mount Juliet, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Mount-Juliet-TN/Medical-Assistant---Primary-Care-Clinic---Mt-Juliet_R-48838-2) | 1d |
-| Medical Receptionist - Cardiovascular Progressive Care (Weekday Evenings) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist---Cardiovascular-Progressive-Care--Weekday-Evenings-_R-48507-1) | 1d |
-| Nurse Practitioner/Physician Assistant - Pediatric Cleft and Craniofacial 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-Physician-Assistant---Pediatric-Cleft-and-Craniofacial_R-48610-1) | 1d |
-| Pediatric Speech-Language Pathologist (SLP) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-Speech-Language-Pathologist--SLP-_R-49007-1) | 1d |
-| RN PRN - Pediatric After Hours Clinics 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/RN-PRN---Pediatric-After-Hours-Clinics_R-48985-1) | 1d |
-| Registered Nurse, Pre/Post Op, Full time Days, Lebanon 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Registered-Nurse--Pre-Post-Op--Full-time-Days--Lebanon_R-49020-2) | 1d |
-| Care Partner PRN (Bedford Hospital) 🏠 | Shelbyville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/Care-Partner-PRN-1_R-48904-2) | 1d |
+| Registered Nurse, RN Primary Care Clinic - Clarksville, TN | Clarksville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Clarksville-TN/Registered-Nurse-2_R-48775-1) | 1d |
+| Care Partner - 5RW Palliative Care Unit FT Days 06:45 - 19:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---5RW-Palliative-Care-Unit-FT-Days-06-45---19-15_R-48210-1) | 1d |
+| Care Partner - 5RW Palliative Care Unit FT Nights 18:45 - 07:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---5RW-Palliative-Care-Unit-FT-Nights-18-45---07-15_R-48208-1) | 1d |
+| Clinical Pharmacist – Cardiology Flex - Day Shift | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Pharmacist---Cardiology-Flex---Day-Shift_R-50001-2) | 1d |
+| Clinical Pharmacist - Surgery - Day Shift | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Pharmacist---Surgery---Day-Shift_R-50002-2) | 1d |
+| Genetic Assistant - Undiagnosed Diseases Program | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Genetic-Counselor-Assistant---Undiagnosed-Diseases-Program_R-48222-1) | 1d |
+| MRI Tech 2 - Weekday Overnights - $10k sign on | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/MRI-Tech-2---Weekday-Overnights----10k-sign-on_R-50045-1) | 1d |
+| Medical Assistant - Eskind Diabetes Clinic | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant---Eskind-Diabetes-Clinic_R-49128-1) | 1d |
+| Medical Assistant - Pediatric Specialties Clinic - Hendersonville | Hendersonville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Hendersonville-TN/Medical-Assistant---Pediatric-Specialties-Clinic---Hendersonville_R-45056) | 1d |
+| Medical Assistant - Pleasant View Center for Women's Health | Pleasant View, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Pleasant-View-TN/Medical-Assistant---Pleasant-View-Center-for-Women-s-Health_R-47401-2) | 1d |
+| Medical Assistant PRN – Adult Urology Clinic Green Hills | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant-PRN---Adult-Urology-Clinic-Green-Hills_R-48834-1) | 1d |
+| Medical Assistant | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant_R-48837-1) | 1d |
+| Medical Receptionist - 5RW Palliative Care Unit FT Days 06:45 - 19:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist---5RW-Palliative-Care-Unit-FT-Days-06-45---19-15_R-48211-1) | 1d |
 | Registered Nurse, Acute Care of the Elderly, Days - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Acute-Care-of-the-Elderly--Days---VUH_R-49627-1) | 1d |
 | Inpatient Registered Nurse - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Inpatient-Registered-Nurse---VUH_R-49622-1) | 1d |
 | Nurse Asst (Med/Surg, Bedford) 🏠 | Shelbyville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/Nurse-Asst--Med-Surg--Bedford-_R-49116-2) | 1d |
@@ -271,14 +278,14 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 33 | 28% | No or minimal experience |
-| 🟡 Beginner & Early Career | 50 | 42% | 1-2 years of experience |
-| 🔴 Manager     | 36 | 30% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 33 | 26% | No or minimal experience |
+| 🟡 Beginner & Early Career | 50 | 40% | 1-2 years of experience |
+| 🔴 Manager     | 43 | 34% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Nashville, TN**: 24 positions
+- **Nashville, TN**: 30 positions
 - **Springfield, IL**: 12 positions
 - **NCH 800 W Central Rd Arlington Heights**: 10 positions
 - **EDH Main Hospital Naperville**: 10 positions
@@ -291,7 +298,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 119+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 126+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -373,7 +380,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **119 current opportunities from 9 elite companies.**
+🎯 **126 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
