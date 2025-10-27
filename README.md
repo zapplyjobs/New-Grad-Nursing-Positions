@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 147+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 137+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 147 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 137 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 8 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 27, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,10 +66,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (68 positions)
+### ⭐ **Elite Medical Centers** (67 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (63 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (62 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -93,7 +93,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | LPN - Endoscopy | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/LPN---Endoscopy_313143) | 1d |
 | Physical Therapist / Occupational Therapist Technician | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Physical-Therapist---Occupational-Therapist-Technician_318958) | 1d |
 | RN - Post-Anesthesia Care Unit (PACU) | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Post-Anesthesia-Care-Unit--PACU-_311738) | 1d |
-| RN Surgery Resident - Vascular OR | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Surgery-Resident---Vascular-OR_293319) | 1d |
 | Physical Therapist Assistant (PTA) – Home Health - $5,000 Sign-On Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist-Assistant--PTA-----5K-Sign-On_R-49319-1) | 1d |
 | Occupational Therapy Assistant – Home Health (Rutherford County) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
@@ -149,10 +148,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Clinical Nurse I - RN - Neurology – PT – Nights | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Neurology---PT---Nights_00871526) | 3d |
 | Anesthesia Technician II - Evening Shift- NewYork-Presbyterian/ Columbia Medical Center | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Anesthesia-Technician-II---Evening-Shift--NewYork-Presbyterian--Columbia-Medical-Center_00872194-1) | 3d |
 
-### ✝️ **Faith-Based Health Systems** (44 positions)
+### ✝️ **Faith-Based Health Systems** (35 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (43 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (34 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -169,36 +168,27 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | CV Registered Nurse/ Cath Lab RN | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/EP-RN--Cath-Lab_R1032672) | 1d |
 | Patient Care Assistant | Litchfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Litchfield-IL/Patient-Care-Assistant-II_R1033000) | 1d |
 | Registered Nurse (RN), Telemetry, WEO | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---Telemetry--WEO_R1032203) | 1d |
-| Medical Laboratory Technician - Nights | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Medical-Laboratory-Technician---Nights_R1032893) | 1d |
-| Registered Nurse (RN), Med/Surg, WEO | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---Med-Surg--WEO_R1030340) | 1d |
-| LPN or MA | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/LPN-or-MA-II_R1032360) | 3d |
-| Surgical Technologist | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Surgical-Technologist_R1032394) | 3d |
-| Registrar-Illinois | Shelbyville, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Shelbyville-IL/Registrar-Illinois_R1033005) | 3d |
-| Licensed Practical Nurse (LPN)-Multispecialty | Taylorville, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Taylorville-IL/Licensed-Practical-Nurse--LPN--Multispecialty_R1033006) | 3d |
-| Registered Nurse (RN) - Various Units (Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR) | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Registered-Nurse--RN----Various-Units--Med-Surg-Cardiac--ICU--ER--Cath-Lab--PACU--OR-_R1033136) | 3d |
-| Registered Nurse (RN) IL Regional Float | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Registered-Nurse--RN--IL-Regional-Float_R1032677) | 3d |
-| Medical Assistant (MA)II - Walk-in Lab | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Float_R1032819) | 3d |
-| Respiratory Therapist | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Respiratory-Therapist_R1033081) | 3d |
 | Medical Assistant Or Licensed Practical Nurse - Outpatient Medical Oncology | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Medical-Assistant-Or-Licensed-Practical-Nurse---Oncology_R1030934) | 4d |
 | Educator- Outpatient Clinical Documentation Integrity | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Educator--Outpatient-Clinical-Documentation-Integrity_R1031295) | 4d |
 | Medical Assistant (MA) - Family Practice | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Medical-Assistant--Family-Practice_R1030901) | 4d |
 | Medical Assistant (MA) - Family Practice | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Medical-Assistant--MA--Family-Pracitice_R1030910) | 4d |
 | Medical Assistant(MA) - Float | Mt. Zion, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Mt-Zion-IL/Medical-Assistant-MA----Float_R1031107) | 4d |
 | Medical Assistant (MA)-Family Medicine | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Medical-Assistant--MA--Family-Medicine_R1031708) | 4d |
+| Registered Nurse (RN) - Intensive Care Unit (ICU) | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Registered-Nurse--RN----Intensive-Care-Unit--ICU-_R1033091) | 4d |
+| Medical Assistant (MA)-Psychiatry | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Psychiatry_R1032501) | 4d |
+| Medical Assistant (MA) - Float | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Medical-Assistant--MA----Float_R1032500) | 4d |
+| Medical Assistant (MA)-Foot & Ankle | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Foot---Ankle_R1032629) | 4d |
+| Medical Assistant (MA)-Float-Effingham | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Medical-Assistant--MA--Float-Effingham_R1032905) | 4d |
+| Medical Assistant (MA)-Endocrinology | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Endocrinology_R1032957) | 4d |
+| Registered Nurse (RN), Women and Infant | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---Women-and-Infant_R1032800) | 4d |
+| Surgical Technologist - CVOR | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Surgical-Technologist---CVOR_R1032887) | 4d |
+| Multimodality Imaging Technologist-PRN | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Multimodality-Imaging-Technologist-PRN_R1032865) | 4d |
 | Medical Laboratory Scientist - PRN | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Medical-Laboratory-Scientist-I_R1030171) | 4d |
 | Radiologic Technologist -PRN | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Radiologic-Technologist-I_R1032863-1) | 4d |
 | Surgical Technologist | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Surgical-Technologist_R1031081) | 4d |
 | Surgical Technologist First Assist - CVOR | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Surgical-Technologist-First-Assist---CVOR_R1032772) | 4d |
 | Surgical Technologist Extern - CVOR | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Surgical-Technologist-Extern---CVOR_R1032923) | 4d |
 | Surgical Technologist Extern (PRN) | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Surgical-Technologist-Extern--PRN-_R1030891) | 4d |
-| Surgical Technologist First Assist | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Surgical-Technologist-First-Assist_R1030280) | 4d |
-| 2064 Surgical Tech | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/XMLNAME-2064--Surgical-Tech_R1032242) | 4d |
-| Surgical Technologist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Surgical-Technologist-I_R1031963) | 4d |
-| Surg Tech I PRN position | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Surg-Tech-I-PRN-position_R1031939) | 4d |
-| Surgical Technologist First Assist | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Surgical-Technologist-First-Assist_R1029800) | 4d |
-| Surgical Tech - First Assist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/OR-Registered-Nurse-RN---First-Assist_R1031168) | 4d |
-| Sterile Processing Technician | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Sterile-Processing-Technician-II_R1033052) | 4d |
-| Main OR Surgical Technologist Part-Time | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Main-OR-Surgical-Technologist_R1029952) | 4d |
 
 </details>
 
@@ -294,27 +284,27 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 53 | 36% | No or minimal experience |
-| 🟡 Beginner & Early Career | 49 | 33% | 1-2 years of experience |
-| 🔴 Manager     | 45 | 31% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 52 | 38% | No or minimal experience |
+| 🟡 Beginner & Early Career | 40 | 29% | 1-2 years of experience |
+| 🔴 Manager     | 45 | 33% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 36 positions
-- **Cleveland Clinic Main Campus**: 17 positions
-- **Springfield, IL**: 12 positions
+- **Cleveland Clinic Main Campus**: 16 positions
 - **NCH 800 W Central Rd Arlington Heights**: 10 positions
 - **EDH Main Hospital Naperville**: 10 positions
-- **O'Fallon, IL**: 9 positions
+- **Springfield, IL**: 8 positions
+- **Green Bay, WI**: 7 positions
 - **Richmond, VA**: 7 positions
-- **Green Bay, WI**: 6 positions
+- **NYP/Columbia University Irving Medical Center**: 5 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 147+ verified hospital and pharma roles from 8 elite organizations.
+✅ **100% Real Jobs:** 137+ verified hospital and pharma roles from 8 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -395,7 +385,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **147 current opportunities from 8 elite companies.**
+🎯 **137 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
