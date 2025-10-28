@@ -204,7 +204,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Registered Nurse Pain Management Clinic 🏠 | Washington Fields Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Washington-Fields-Clinic/Registered-Nurse-Pain-Management-Clinic_R154370) | 4d |
+| Registered Radiology Technologist PRN 🏠 | Washington Fields Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Washington-Fields-Clinic/Registered-Radiology-Technologist-PRN_R154372) | 1d |
 
 ### 🎓 **Academic Medical Centers** (11 positions)
 
@@ -291,8 +291,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 51 | 35% | No or minimal experience |
-| 🟡 Beginner & Early Career | 48 | 33% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 52 | 36% | No or minimal experience |
+| 🟡 Beginner & Early Career | 47 | 33% | 1-2 years of experience |
 | 🔴 Manager     | 45 | 31% | 2+ years of experience |
 
 ---
