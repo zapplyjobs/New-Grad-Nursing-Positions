@@ -1,6 +1,4 @@
 [
-  "aijobs-data-scientist-fraud-us",
-  "aijobs-data-scientist-generosity-us",
   "aijobs-data-scientist-givingtuesday-unknown",
   "aijobs-data-scientist-growth-unknown",
   "aijobs-data-scientist-growth-us",
@@ -5546,6 +5544,7 @@
   "hshs-medical-laboratory-technician-springfield",
   "hshs-medical-secretary-prairie-cardiovascular-o-fallon",
   "hshs-medical-sonographer-breese",
+  "hshs-mlt-mls-core-lab-springfield",
   "hshs-multimodality-imaging-tech-l-ct-mri-o-fallon",
   "hshs-multimodality-imaging-technologist-prn-highland",
   "hshs-occupational-therapist-ot-physical-therapy-pt-speech-language-pathologist-slp-springfield",
@@ -9544,6 +9543,7 @@
   "vcu-health-respiratory-therapist-prn-tappahannock-tappahannock",
   "vcu-health-respiratory-therapist-twelve-week-contract-ttwp-chor-brook-rd-pavilion-nights-richmond",
   "vcu-health-schegistrar-adult-and-pediatric-therapy-scheduling-richmond",
+  "vcu-health-sterile-proc-tech-richmond",
   "vcu-health-sterile-processing-asst-richmond",
   "vcu-health-sterile-processing-technician-central-sterile-processing-days-richmond",
   "vcu-health-supply-chain-tech-richmond",
