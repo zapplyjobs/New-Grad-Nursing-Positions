@@ -66,13 +66,14 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (55 positions)
+### ⭐ **Elite Medical Centers** (56 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (51 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (52 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| RN Surgery Resident – Cardiac Surgery | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Surgery-Resident---Cardiac-Surgery_313228-1) | 1d |
 | Medical Assistant - Internal Medicine | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Medical-Assistant---Internal-Medicine_314596-1) | 1d |
 | Medical Assistant — Outpatient Brain Health | Cleveland Clinic Nevada | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Nevada/Medical-Assistant---Outpatient-Brain-Health_317656) | 1d |
 | RN Surgery Resident I - General OR 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Surgery-Resident-I---General-OR_316676) | 1d |
@@ -195,9 +196,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Registered Nurse Pain Management | Washington Fields Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Washington-Fields-Clinic/Registered-Nurse-Pain-Management_R153231) | 1d |
+| Registered Nurse Pain Management 🏠 | Washington Fields Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Washington-Fields-Clinic/Registered-Nurse-Pain-Management_R153231) | 1d |
 
-### 🎓 **Academic Medical Centers** (14 positions)
+### 🎓 **Academic Medical Centers** (13 positions)
 
 #### 📚 **University of Rochester Medical Center** (1 position)
 
@@ -205,7 +206,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 |------|----------|-----------|-----|
 | Urology - Sawgrass - Licensed Practical Nurse 2 Outpt | Rochester, NY | [<img src="./image.png" width="100" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Rochester---NY/Urology---Batavia---Licensed-Practical-Nurse-2-Outpt_R242674?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
 
-#### 🏥 **VCU Health** (13 positions)
+#### 🏥 **VCU Health** (12 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -221,7 +222,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse - Endoscopy Downtown - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Registered-Nurse---Endoscopy-Downtown---Days_R39421) | 6d |
 | Certified Medical Assistant - Liver Institute - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Certified-Medical-Assistant---Liver-Institute---Days_R39805) | 6d |
 | Registered Dietitian I / II - Adult Medicine | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Clinical-Dietician-II---Adult-Medicine_R37187-1) | 1d |
-| Registered Nurse (RN) - Comprehensive Liver Care Unit - Intermediate Care - Rotating | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Registered-Nurse--RN----Comprehensive-Liver-Care-Unit---Intermediate-Care---Rotating_R38408) | 1d |
 
 ### 🔗 **Integrated Health Networks** (24 positions)
 
@@ -274,7 +274,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
-📚 **[University of Rochester Medical Center](https://rochester.wd5.myworkdayjobs.com/UR_Nursing)** (1 position) • 🏥 **[VCU Health](https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers)** (13)
+📚 **[University of Rochester Medical Center](https://rochester.wd5.myworkdayjobs.com/UR_Nursing)** (1 position) • 🏥 **[VCU Health](https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers)** (12)
 
 
 #### 🔗 **Regional Health Networks** (1 company)
@@ -296,11 +296,11 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 - **Nashville, TN**: 35 positions
 - **Springfield, IL**: 11 positions
 - **EDH Main Hospital Naperville**: 10 positions
-- **Richmond, VA**: 9 positions
 - **O'Fallon, IL**: 8 positions
+- **Richmond, VA**: 8 positions
 - **Green Bay, WI**: 7 positions
 - **NCH 800 W Central Rd Arlington Heights**: 7 positions
-- **Cleveland Clinic Main Campus**: 5 positions
+- **Cleveland Clinic Main Campus**: 6 positions
 
 ---
 
