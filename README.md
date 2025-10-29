@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 126+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 127+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 126 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 127 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 7 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 29, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,10 +66,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (49 positions)
+### ⭐ **Elite Medical Centers** (48 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (45 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (44 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -92,7 +92,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Care Partner (PSTAM) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--PSTAM-_R-48036-1) | 1d |
 | Virtual Tech (Telemetry) - Virtual Care ONSITE 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Virtual-Technician--Days-_R-45163-1) | 1d |
 | Care Partner - 8N Pulmonary Stepdown FT Nights 18:45 - 07:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---8N-Pulmonary-Stepdown-FT-Nights-18-45---07-15_R-47559-1) | 1d |
-| Environmental Tech 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Environmental-Tech-II_R-47863) | 1d |
 | Medical Assistant - Concierge Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant---Concierge-Clinic_R-47486-1) | 1d |
 | Care Partner - Trauma ICU FT Days 06:45 - 19:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Trauma-ICU-FT-Days-06-45---19-15_R-49778-1) | 1d |
 | Licensed Practical Nurse - Dermatology Clinic - OHO 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Licensed-Practical-Nurse---Dermatology---Belle-Meade-Clinic---12K-Signing-Bonus_R-39270-1) | 1d |
@@ -206,7 +205,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Patient Schegistrar - Medical Call Center - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Patient-Schegistrar---Medical-Call-Center---Days_R38651-1) | 1d |
 | Patient Care Technician - Pediatric Emergency Department - Rotating | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Patient-Care-Technician---Pediatric-Emergency-Department---Rotating_R39263) | 1d |
 
-### 🔗 **Integrated Health Networks** (23 positions)
+### 🔗 **Integrated Health Networks** (25 positions)
 
 #### 💙 **Allina Health** (4 positions)
 
@@ -218,7 +217,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Administrative Assistant | Courage Kenny Rehabilitation Institute Golden Valley | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Rehabilitation-Institute-Golden-Valley/Administrative-Assistant_R-0067228-1) | 1d |
 
 <details>
-<summary><h4>🏨 <strong>Endeavor Health</strong> (19 positions)</h4></summary>
+<summary><h4>🏨 <strong>Endeavor Health</strong> (21 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -240,7 +239,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Radiologic Technologist I (Western Suburbs) | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Radiologic-Technologist-II_R894?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Registered Nurse - Multiple Locations | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Registered-Nurse_R852?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | RN - PMU - Nights | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/RN---PMU---Nights_R25036-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| General / Headache Neurologist | NCO 1051 W Rand Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCO-1051-W-Rand-Rd-Arlington-Heights/General---Headache-Neurologist_R14939?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Public Safety Officer- Swedish Hospital - Evenings | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Public-Safety-Officer_R35300?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Certified Sterile Processing Tech - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Certified-Sterile-Processing-Tech---Days_R35015-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| RN Triage - Central Triage | O Corporate Center Warrenville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SRO-Corporate-Center-Warrenville-4201-Winfield-Road/RN-Triage---Central-Triage_R35414?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
 </details>
 
@@ -260,7 +261,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 
 #### 🔗 **Regional Health Networks** (1 company)
-🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (19 positions)
+🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (21 positions)
 
 ---
 
@@ -268,27 +269,27 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 31 | 25% | No or minimal experience |
-| 🟡 Beginner & Early Career | 45 | 36% | 1-2 years of experience |
-| 🔴 Manager     | 50 | 40% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 30 | 24% | No or minimal experience |
+| 🟡 Beginner & Early Career | 47 | 37% | 1-2 years of experience |
+| 🔴 Manager     | 50 | 39% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Nashville, TN**: 29 positions
+- **Nashville, TN**: 28 positions
 - **EDH Main Hospital Naperville**: 10 positions
 - **Springfield, IL**: 9 positions
 - **Green Bay, WI**: 8 positions
+- **NCH 800 W Central Rd Arlington Heights**: 8 positions
 - **Richmond, VA**: 8 positions
 - **Cleveland Clinic Main Campus**: 7 positions
 - **O'Fallon, IL**: 7 positions
-- **NCH 800 W Central Rd Arlington Heights**: 7 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 126+ verified hospital and pharma roles from 7 elite organizations.
+✅ **100% Real Jobs:** 127+ verified hospital and pharma roles from 7 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -370,7 +371,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **126 current opportunities from 7 elite companies.**
+🎯 **127 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
