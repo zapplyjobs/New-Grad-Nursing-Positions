@@ -280,9 +280,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 28 | 21% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 29 | 22% | No or minimal experience |
 | 🟡 Beginner & Early Career | 39 | 30% | 1-2 years of experience |
-| 🔴 Manager     | 65 | 49% | 2+ years of experience |
+| 🔴 Manager     | 64 | 48% | 2+ years of experience |
 
 ---
 
