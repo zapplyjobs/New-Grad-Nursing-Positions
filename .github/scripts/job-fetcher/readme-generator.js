@@ -295,7 +295,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 ---
  
- # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
+ # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
  **🚀 Real-time nursing, healthcare, and medical job listings from ${totalCompanies}+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
