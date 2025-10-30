@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 117+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 114+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,7 +22,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 117 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 114 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 7 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 30, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -66,23 +66,20 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (50 positions)
+### ⭐ **Elite Medical Centers** (47 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (47 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (44 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| MRI Technologist | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/MRI-Technologist_298675-1) | 1d |
+| CT Technologist Weekender | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/CT-Technologist-Weekender_287230) | 1d |
 | CT Technologist | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/CT-Technologist_319320) | 1d |
 | PRN CT Technologist | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-CT-TECH_239242) | 1d |
-| Medical Assistant — Outpatient Brain Health | Cleveland Clinic Nevada | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Nevada/Medical-Assistant---Outpatient-Brain-Health_317656) | 1d |
-| Patient Care Nurse Assistant - Gastroenterology/Hepatology | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant---Gastroenterology-Hepatology_306342) | 1d |
+| Medical Assistant — Outpatient Brain Health 🏠 | Cleveland Clinic Nevada | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Nevada/Medical-Assistant---Outpatient-Brain-Health_317656) | 1d |
+| Patient Care Nurse Assistant - Gastroenterology/Hepatology 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant---Gastroenterology-Hepatology_306342) | 1d |
 | Pharmacy Technician - Inpatient 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Pharmacy-Technician---Inpatient_312683-1) | 1d |
-| Dialysis Technician 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Dialysis-Technician-II_318397) | 1d |
-| New Grad RN Resident - Surgical Intensive Care Unit (SICU) 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Surgical-Intensive-Care-Unit--SICU-_314880) | 1d |
-| CT Technologist 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/CT-Technologist_303180) | 1d |
-| RN HOPS - Electrophysiology Lab 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-HOPS---Electrophysiology-Lab_315859) | 1d |
-| Research Data Scientist III - Digestive Disease & Surgery Institute (DDSI) 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Data-Scientist-III---Digestive-Disease---Surgery-Institute--DDSI-_294043) | 1d |
 | Physical Therapist Assistant (PTA) – Home Health - $5,000 Sign-On Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist-Assistant--PTA-----5K-Sign-On_R-49319-1) | 1d |
 | Occupational Therapy Assistant – Home Health (Rutherford County) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
@@ -259,9 +256,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 38 | 32% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 33 | 29% | No or minimal experience |
 | 🟡 Beginner & Early Career | 37 | 32% | 1-2 years of experience |
-| 🔴 Manager     | 42 | 36% | 2+ years of experience |
+| 🔴 Manager     | 44 | 39% | 2+ years of experience |
 
 ---
 
@@ -272,14 +269,14 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 - **Green Bay, WI**: 7 positions
 - **NCH 800 W Central Rd Arlington Heights**: 7 positions
 - **Richmond, VA**: 7 positions
-- **Cleveland Clinic Main Campus**: 6 positions
+- **Akron General Medical Center**: 5 positions
 - **O'Fallon, IL**: 5 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 117+ verified hospital and pharma roles from 7 elite organizations.
+✅ **100% Real Jobs:** 114+ verified hospital and pharma roles from 7 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -379,7 +376,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **117 current opportunities from 7 elite companies.**
+🎯 **114 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
