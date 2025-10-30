@@ -66,19 +66,19 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (67 positions)
+### ⭐ **Elite Medical Centers** (68 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (64 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (65 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Pharmacy Technician - Pediatrics | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Pharmacy-Technician---Pediatrics_319087) | 1d |
-| Pharmacy Technician - Sterile Compounding | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-Pharmacy-Technician---Sterile-Compounding_299312) | 1d |
-| Patient Financial Advocate - Dentistry | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Financial-Advocate---Dentistry_316256) | 1d |
-| New Grad RN Resident - Cardiovascular Telemetry Unit | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Telemetry-Unit_312604) | 1d |
-| RN - Cardiovascular Telemetry Unit | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Cardiovascular-Telemetry-Unit_312596-1) | 1d |
-| Registered Polysomnographic Technician | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Registered-Polysomnographic-Technician_305748) | 1d |
+| Pharmacy Technician - Pediatrics 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Pharmacy-Technician---Pediatrics_319087) | 1d |
+| Pharmacy Technician - Sterile Compounding 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-Pharmacy-Technician---Sterile-Compounding_299312) | 1d |
+| Patient Financial Advocate - Dentistry 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Financial-Advocate---Dentistry_316256) | 1d |
+| New Grad RN Resident - Cardiovascular Telemetry Unit 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Telemetry-Unit_312604) | 1d |
+| RN - Cardiovascular Telemetry Unit 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Cardiovascular-Telemetry-Unit_312596-1) | 1d |
+| Registered Polysomnographic Technician 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Registered-Polysomnographic-Technician_305748) | 1d |
 | New Grad RN Resident – Cardiovascular Surgery Stepdown Unit | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Surgery-Stepdown-Unit_313162) | 1d |
 | RN - Cardiovascular Stepdown | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Cardiovascular-Stepdown_315000) | 1d |
 | RN - Vascular Surgery Stepdown, PRN | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Experienced-RN--PRN----Vascular-Surgery-Stepdown_266308) | 1d |
@@ -103,6 +103,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Physical Therapist Assistant (PTA) – Home Health - $5,000 Sign-On Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist-Assistant--PTA-----5K-Sign-On_R-49319-1) | 1d |
 | Occupational Therapy Assistant – Home Health (Rutherford County) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
+| Registered Nurse - CHOC Rutherford County Clinics 🏠 | Smyrna, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Smyrna-TN/Registered-Nurse---CHOC-Rutherford-County-Clinics_R-43828) | 1d |
 | Registered Nurse, ICU, $20k sign-on bonus, Full-time Nights, Tullahoma 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/RN-ICU--NIGHTS---10k-sign-on-bonus--Tullahoma-Harton-Hospital_R-36550-1) | 1d |
 | Registered Nurse, ICU, $20k sign-on bonus, Nights, Tullahoma 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/RN-ICU--NIGHTS---20k-sign-on-bonus--Tullahoma-Harton-Hospital_R-27819) | 1d |
 | Operating Room Attendant- 2nd Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Perioperative-Support-Tech_R-25348) | 1d |
@@ -212,7 +213,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Rehab Tech - Tappahannock Hospital - PRN | Tappahannock, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Tappahannock-VA/Rehab-Tech---Tappahannock-Hospital---PRN_R39894-1) | 1d |
 | Cert Pharmacy Tech I-PRN | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Cert-Pharmacy-Tech-I_R39239-2) | 1d |
 
-### 🔗 **Integrated Health Networks** (24 positions)
+### 🔗 **Integrated Health Networks** (23 positions)
 
 #### 💙 **Allina Health** (3 positions)
 
@@ -223,7 +224,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Nurse Clinician Cardiology 🏠 | Waconia Ridgeview Medical | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Waconia-Ridgeview-Medical/Nurse-Clinician-Cardiology_R-0067221) | 1d |
 
 <details>
-<summary><h4>🏨 <strong>Endeavor Health</strong> (21 positions)</h4></summary>
+<summary><h4>🏨 <strong>Endeavor Health</strong> (20 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -245,9 +246,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Radiologic Technologist I (Western Suburbs) | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Radiologic-Technologist-II_R894?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Registered Nurse - Multiple Locations | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Registered-Nurse_R852?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | RN - PMU - Nights | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/RN---PMU---Nights_R25036-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Registered Nurse - NICU - Nights - Per Diem | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Registered-Nurse---NICU---Nights---Per-Diem_R35463?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| CT Technologist II - Days/Evenings | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/CT-Technologist-II_R31345?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Ultrasound Technologist II - Per Diem | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Ultrasound-Technologist-II_R30555?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Public Safety Officer- Swedish Hospital - Evenings | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Public-Safety-Officer_R35300?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Certified Sterile Processing Tech - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Certified-Sterile-Processing-Tech---Days_R35015-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
 </details>
 
@@ -267,7 +267,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 
 #### 🔗 **Regional Health Networks** (1 company)
-🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (21 positions)
+🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (20 positions)
 
 ---
 
@@ -275,8 +275,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 55 | 41% | No or minimal experience |
-| 🟡 Beginner & Early Career | 37 | 28% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 56 | 42% | No or minimal experience |
+| 🟡 Beginner & Early Career | 36 | 27% | 1-2 years of experience |
 | 🔴 Manager     | 41 | 31% | 2+ years of experience |
 
 ---
@@ -284,9 +284,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 31 positions
 - **Cleveland Clinic Main Campus**: 19 positions
-- **NCH 800 W Central Rd Arlington Heights**: 10 positions
 - **EDH Main Hospital Naperville**: 10 positions
 - **Springfield, IL**: 8 positions
+- **NCH 800 W Central Rd Arlington Heights**: 8 positions
 - **Akron General Medical Center**: 7 positions
 - **Green Bay, WI**: 7 positions
 - **Richmond, VA**: 6 positions
