@@ -66,13 +66,15 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (64 positions)
+### ⭐ **Elite Medical Centers** (65 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (61 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (62 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| New Grad RN Resident - Cardiovascular Telemetry Unit | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Telemetry-Unit_312604) | 1d |
+| RN - Cardiovascular Telemetry Unit | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Cardiovascular-Telemetry-Unit_312596-1) | 1d |
 | Registered Polysomnographic Technician | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Registered-Polysomnographic-Technician_305748) | 1d |
 | New Grad RN Resident – Cardiovascular Surgery Stepdown Unit | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Surgery-Stepdown-Unit_313162) | 1d |
 | RN - Cardiovascular Stepdown | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Cardiovascular-Stepdown_315000) | 1d |
@@ -96,10 +98,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Special Procedures Technologist - Interventional Radiology | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Special-Procedures-Technologist---Interventional-Radiology_301923) | 1d |
 | Interventional Technologist | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Interventional-Technologist_295519) | 1d |
 | Radiology Technologist | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Technologist-Radiology_284184) | 1d |
-| Registered Radiology Technologist | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Registered-Radiology-Technologist_309077) | 1d |
 | Physical Therapist Assistant (PTA) – Home Health - $5,000 Sign-On Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist-Assistant--PTA-----5K-Sign-On_R-49319-1) | 1d |
 | Occupational Therapy Assistant – Home Health (Rutherford County) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
+| Operating Room Attendant- 2nd Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Perioperative-Support-Tech_R-25348) | 1d |
 | Pediatric Rehabilitation Tech – PRN Monroe Carell Jr. Children’s Hospital at Vanderbilt 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-Rehabilitation-Tech---PRN-Monroe-Carell-Jr-Children-s-Hospital-at-Vanderbilt_R-48690-1) | 1d |
 | Registered Nurse, TVC Obs Stepdown, Days VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--TVC-Obs-Stepdown--Days-VUH_R-49822-1) | 1d |
 | Care Partner PRN (Stepdown Unit - Wilson County) 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Care-Partner-PRN--Stepdown-Unit---Wilson-County-_R-49470-2) | 1d |
@@ -121,7 +123,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse CC - VHVI - Murfreesboro 🏠 | Murfreesboro, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Murfreesboro-TN/Registered-Nurse-CC---VHVI---Murfreesboro_R-44443-2) | 1d |
 | Care Partner - 5RW Palliative Care Unit FT 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---5RW-Palliative-Care-Unit-FT_R-49743-1) | 1d |
 | Care Partner - TVC 2 Obs Stepdown Unit - Full-Time Day Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---TVC-2-Obs-Stepdown-Unit---Full-Time-Day-Shift_R-48441-1) | 1d |
-| VUMC Emergency Department: Cpod PRN Care Partner - Dayshift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/VUMC-Emergency-Department--Cpod-PRN-Care-Partner---Dayshift_R-46421-1) | 1d |
+| VUMC Emergency Department: Cpod PRN Care Partner - Dayshift | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/VUMC-Emergency-Department--Cpod-PRN-Care-Partner---Dayshift_R-46421-1) | 1d |
 | Care Partner - Neurosciences/Epilepsy (Days) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Neurosciences-Epilepsy--Days-_R-48840-1) | 1d |
 | Care Partner - Neurosciences/Epilepsy (Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Neurosciences-Epilepsy--Nights-_R-48839-1) | 1d |
 | Certified Medical Assistant | Clarksville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Clarksville-TN/Certified-Medical-Assistant_R-49481-1) | 1d |
@@ -133,7 +135,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Phlebotomist | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Phlebotomist-2_R-48175-1) | 1d |
 | Medical Assistant - Murfreesboro After Hours Clinic | Murfreesboro, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Murfreesboro-TN/Medical-Assistant---Murfreesboro-Pediatric-After-Hours-Clinic_R-48987-1) | 1d |
 | Care Partner - 5S Cardiology Stepdown (Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---5S-Cardiology-Stepdown--Nights-_R-45369-1) | 1d |
-| Medical Assistant - Hendersonville Pediatric After Hours Clinic (24 Hours per Week) | Hendersonville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Hendersonville-TN/Medical-Assistant---Hendersonville-Pediatric-After-Hours-Clinic--24-Hours-per-Week-_R-48976-2) | 1d |
 
 </details>
 
@@ -193,9 +194,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 </details>
 
-### 🎓 **Academic Medical Centers** (10 positions)
+### 🎓 **Academic Medical Centers** (9 positions)
 
-#### 🏥 **VCU Health** (10 positions)
+#### 🏥 **VCU Health** (9 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -208,7 +209,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Clinical Nurse Administrator (RN) - Tappahannock - Part-Time Varied | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Clinical-Nurse-Administrator--RN----Tappahannock---Part-Time-Varied_R39671) | 3d |
 | Rehab Tech - Tappahannock Hospital - PRN | Tappahannock, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Tappahannock-VA/Rehab-Tech---Tappahannock-Hospital---PRN_R39894-1) | 1d |
 | Cert Pharmacy Tech I-PRN | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Cert-Pharmacy-Tech-I_R39239-2) | 1d |
-| Patient Concierge Representative - Adult Outpatient Pavilion - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Patient-Concierge-Representative---Adult-Outpatient-Pavilion---Days_R38764-1) | 1d |
 
 ### 🔗 **Integrated Health Networks** (24 positions)
 
@@ -261,7 +261,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 
 #### 🎓 **Academic Medical Centers** (1 company)
-🏥 **[VCU Health](https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers)** (10 positions)
+🏥 **[VCU Health](https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers)** (9 positions)
 
 
 #### 🔗 **Regional Health Networks** (1 company)
@@ -273,21 +273,21 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 47 | 36% | No or minimal experience |
-| 🟡 Beginner & Early Career | 42 | 32% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 53 | 40% | No or minimal experience |
+| 🟡 Beginner & Early Career | 36 | 27% | 1-2 years of experience |
 | 🔴 Manager     | 42 | 32% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Nashville, TN**: 30 positions
-- **Cleveland Clinic Main Campus**: 15 positions
+- **Nashville, TN**: 31 positions
+- **Cleveland Clinic Main Campus**: 17 positions
 - **EDH Main Hospital Naperville**: 10 positions
-- **Akron General Medical Center**: 8 positions
 - **Springfield, IL**: 8 positions
 - **NCH 800 W Central Rd Arlington Heights**: 8 positions
+- **Akron General Medical Center**: 7 positions
 - **Green Bay, WI**: 7 positions
-- **Richmond, VA**: 7 positions
+- **Richmond, VA**: 6 positions
 
 ---
 
