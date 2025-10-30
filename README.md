@@ -1,6 +1,6 @@
 # 🏥 Healthcare & Nursing Jobs & Internships 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 108+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 6+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 100+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -22,11 +22,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 108 hot healthcare and medical jobs
-- 🏢 **Top Companies:** 7 elite tech including Mayo Clinic, CVS Health, Pfizer
+- 🔥 **Current Positions:** 100 hot healthcare and medical jobs
+- 🏢 **Top Companies:** 6 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 30, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Healthcare Jobs:** 17 (older than 1 week)
+- 📁 **Archived Healthcare Jobs:** 24 (older than 1 week)
 
 
 ---
@@ -66,7 +66,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (43 positions)
+### ⭐ **Elite Medical Centers** (42 positions)
 
 <details>
 <summary><h4>⭐ <strong>Cleveland Clinic</strong> (40 positions)</h4></summary>
@@ -123,16 +123,10 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Radiology Program Associate - CT - Full Time - Evenings | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Radiology-Program-Associate---CT---Full-Time---Evenings_00871119) | 1d |
 | Clinical Nurse I - RN - Emergency Department - Nights - Columbia University Irving Medical Center | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Emergency-Department---Nights---Columbia-University-Irving-Medical-Center_00847247-1) | 3d |
 
-#### 🎓 **Stanford Health Care** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Audiology Extern | PALO ALTO, CA | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/2452-Watson-Ct---PALO-ALTO/Audiology-Extern_R2551220-1) | 1d |
-
-### ✝️ **Faith-Based Health Systems** (33 positions)
+### ✝️ **Faith-Based Health Systems** (25 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (33 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (25 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -146,14 +140,6 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Registered Nurse (RN)-Medical/Cardiac/Neuro 🏠 | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN--Medical-Cardiac-Neuro_R1033118) | 1d |
 | Cardiovascular Specialty RN-Cardiology 🏠 | Carbondale, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Carbondale-IL/Registered-Nurse--RN--Prairie-Cardiovascular_R1031533) | 1d |
 | Phlebotomist 🏠 | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Phlebotomist-I_R1032917) | 1d |
-| Registered Nurse (RN)- Emergency Room | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN---Emergency-Room_R1033172) | 2d |
-| Early Childhood Teacher | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Early-Childhood-Teacher_R1031420) | 2d |
-| Histology Technician | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Histology-Technician_R1033128) | 2d |
-| Occupational Therapist (OT) | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Occupational-Therapist--OT-_R1030529) | 2d |
-| MLT/MLS - Core Lab | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Laboratory-Technician_R1032794) | 2d |
-| Registered Nurse (RN), Medical/Surgical, WEO | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Registered-Nurse--RN---Weekend-Option_R1030145) | 2d |
-| Orthopedics Registered Nurse (RN) | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Orthopedics-Registered-Nurse--RN-_R1033101) | 3d |
-| Central Service Technician | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Central-Service-Technician_R1033074) | 3d |
 | Registered Nurse (RN) | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Registered-Nurse--RN-_R1033151) | 3d |
 | Patient Care Assistant (PCA)- Medical/Surgical (Med Surg) | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Patient-Care-Assistant--PCA---Medical-Surgical--Med-Surg-_R1033160) | 3d |
 | Surgical Technologist II - Women & Infant Srvc | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Surgical-Technologist-II_R1032482) | 3d |
@@ -188,7 +174,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Patient Schegistrar - Medical Call Center - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Patient-Schegistrar---Medical-Call-Center---Days_R38651-1) | 1d |
 | Patient Care Technician - Pediatric Emergency Department - Rotating | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Patient-Care-Technician---Pediatric-Emergency-Department---Rotating_R39263) | 1d |
 
-### 🔗 **Integrated Health Networks** (23 positions)
+### 🔗 **Integrated Health Networks** (24 positions)
 
 #### 💙 **Allina Health** (4 positions)
 
@@ -200,7 +186,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Administrative Assistant | Courage Kenny Rehabilitation Institute Golden Valley | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Rehabilitation-Institute-Golden-Valley/Administrative-Assistant_R-0067228-1) | 2d |
 
 <details>
-<summary><h4>🏨 <strong>Endeavor Health</strong> (19 positions)</h4></summary>
+<summary><h4>🏨 <strong>Endeavor Health</strong> (20 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -222,7 +208,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 | Radiologic Technologist I (Western Suburbs) | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Radiologic-Technologist-II_R894?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Registered Nurse - Multiple Locations | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Registered-Nurse_R852?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | RN - PMU - Nights | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/RN---PMU---Nights_R25036-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| General / Headache Neurologist | NCO 1051 W Rand Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCO-1051-W-Rand-Rd-Arlington-Heights/General---Headache-Neurologist_R14939?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Public Safety Officer- Swedish Hospital - Evenings | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Public-Safety-Officer_R35300?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Certified Sterile Processing Tech - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Certified-Sterile-Processing-Tech---Days_R35015-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
 </details>
 
@@ -233,8 +220,8 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **Top Healthcare Systems** (2 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (2 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (1)
+#### ⭐ **Top Healthcare Systems** (1 company)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (2 positions)
 
 
 #### 🎓 **Academic Medical Centers** (1 company)
@@ -242,7 +229,7 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 
 #### 🔗 **Regional Health Networks** (1 company)
-🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (19 positions)
+🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (20 positions)
 
 ---
 
@@ -250,9 +237,9 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 45 | 42% | No or minimal experience |
-| 🟡 Beginner & Early Career | 35 | 32% | 1-2 years of experience |
-| 🔴 Manager     | 28 | 26% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 44 | 44% | No or minimal experience |
+| 🟡 Beginner & Early Career | 28 | 28% | 1-2 years of experience |
+| 🔴 Manager     | 28 | 28% | 2+ years of experience |
 
 ---
 
@@ -260,17 +247,17 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 - **Nashville, TN**: 23 positions
 - **EDH Main Hospital Naperville**: 10 positions
 - **Cleveland Clinic Main Campus**: 8 positions
-- **Springfield, IL**: 8 positions
-- **Green Bay, WI**: 7 positions
-- **NCH 800 W Central Rd Arlington Heights**: 7 positions
+- **NCH 800 W Central Rd Arlington Heights**: 8 positions
 - **Richmond, VA**: 7 positions
 - **O'Fallon, IL**: 5 positions
+- **Springfield, IL**: 5 positions
+- **Green Bay, WI**: 4 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 108+ verified hospital and pharma roles from 7 elite organizations.
+✅ **100% Real Jobs:** 100+ verified hospital and pharma roles from 6 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -317,19 +304,20 @@ Programs for nursing students, public health majors, and pre-med/biomedical stud
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 17 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 24 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 17 positions
-🏢 **Companies:** 7 companies
+📁 **Total Jobs:** 24 positions
+🏢 **Companies:** 6 companies
 
 
-### ✝️ **Faith-Based Health Systems** (11 positions)
+### ✝️ **Faith-Based Health Systems** (18 positions)
 
-#### ✝️ **Hospital Sisters Health System** (11 positions)
+<details>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (18 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -344,6 +332,15 @@ Either still hiring or useful for research.
 | Medical Assistant(MA) - Float | Mt. Zion, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Mt-Zion-IL/Medical-Assistant-MA----Float_R1031107) | 1w |
 | Medical Assistant (MA)-Family Medicine | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Medical-Assistant--MA--Family-Medicine_R1031708) | 1w |
 | Registered Nurse (RN) - Intensive Care Unit (ICU) | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Registered-Nurse--RN----Intensive-Care-Unit--ICU-_R1033091) | 1w |
+| Medical Assistant (MA) - Float | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Medical-Assistant--MA----Float_R1032500) | 1w |
+| Medical Assistant (MA)-Foot & Ankle | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Foot---Ankle_R1032629) | 1w |
+| Medical Assistant (MA)-Float-Effingham | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Medical-Assistant--MA--Float-Effingham_R1032905) | 1w |
+| Registered Nurse (RN), Women and Infant | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---Women-and-Infant_R1032800) | 1w |
+| Surgical Technologist - CVOR | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Surgical-Technologist---CVOR_R1032887) | 1w |
+| Multimodality Imaging Technologist-PRN | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Multimodality-Imaging-Technologist-PRN_R1032865) | 1w |
+| Medical Laboratory Scientist - PRN | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Medical-Laboratory-Scientist-I_R1030171) | 1w |
+
+</details>
 
 ### 🎓 **Academic Medical Centers** (6 positions)
 
@@ -364,7 +361,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **108 current opportunities from 7 elite companies.**
+🎯 **100 current opportunities from 6 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
