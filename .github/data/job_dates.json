@@ -592,5 +592,35 @@
     "job_title": "RN - Critical Care - Days",
     "company": "Endeavor Health",
     "first_seen": "2025-10-31T19:18:54.168Z"
+  },
+  "endeavor-health-medical-assistant-multiple-cities": {
+    "assigned_date": "2025-10-31T19:29:05.470Z",
+    "job_title": "Medical Assistant",
+    "company": "Endeavor Health",
+    "first_seen": "2025-10-31T19:29:05.470Z"
+  },
+  "endeavor-health-medical-assistant/patient-support-assistant--lake-bluff,-il-nso-71-waukegan-road-lake-bluff": {
+    "assigned_date": "2025-10-31T19:29:05.470Z",
+    "job_title": "Medical Assistant/Patient Support Assistant- Lake Bluff, IL",
+    "company": "Endeavor Health",
+    "first_seen": "2025-10-31T19:29:05.470Z"
+  },
+  "endeavor-health-phlebotomist-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-10-31T19:29:05.470Z",
+    "job_title": "Phlebotomist",
+    "company": "Endeavor Health",
+    "first_seen": "2025-10-31T19:29:05.470Z"
+  },
+  "endeavor-health-mammography-tech-evh-evanston-hospital": {
+    "assigned_date": "2025-10-31T19:29:05.470Z",
+    "job_title": "Mammography Tech",
+    "company": "Endeavor Health",
+    "first_seen": "2025-10-31T19:29:05.470Z"
+  },
+  "endeavor-health-mammography-technologist--per-diem-evh-evanston-hospital": {
+    "assigned_date": "2025-10-31T19:29:05.470Z",
+    "job_title": "Mammography Technologist- Per Diem",
+    "company": "Endeavor Health",
+    "first_seen": "2025-10-31T19:29:05.470Z"
   }
 }
