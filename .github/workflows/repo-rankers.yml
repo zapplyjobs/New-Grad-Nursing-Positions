@@ -1,0 +1,93 @@
+name: Zapply Jobs Ranking Tracker
+
+on:
+  schedule:
+    # Runs every 10 minutes
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  track-zapplyjobs-rankings:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # Required to push changes
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Fetch all history for proper git operations
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Create package.json if not exists
+        run: |
+          if [ ! -f package.json ]; then
+            echo '{"dependencies":{"puppeteer":"^21.5.0","xlsx":"^0.18.5"}}' > package.json
+          fi
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Create output directory
+        run: mkdir -p rankings-output
+      
+      - name: Run Zapply Jobs ranking tracker
+        run: node github-ranking/track-rankings.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        timeout-minutes: 30
+        continue-on-error: false
+      
+      - name: List generated files
+        run: |
+          echo "Generated files:"
+          ls -lah rankings-output/
+      
+      - name: Configure Git
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+      
+      - name: Commit and push ranking results
+        run: |
+          git add rankings-output/*.xlsx
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S UTC')
+            git commit -m "📊 Update Zapply Jobs rankings - ${TIMESTAMP}"
+            git pull --rebase origin main || git pull --rebase origin master
+            git push
+          fi
+        continue-on-error: true
+      
+      - name: Upload artifacts on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: error-logs-${{ github.run_number }}
+          path: |
+            rankings-output/
+            *.log
+          retention-days: 7
+      
+      - name: Create summary
+        if: success()
+        run: |
+          echo "## 📊 Ranking Tracker Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Successfully tracked rankings for Zapply Jobs repositories" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Files Generated:" >> $GITHUB_STEP_SUMMARY
+          ls -1 rankings-output/*.xlsx | tail -3 | while read file; do
+            echo "- \`$(basename "$file")\`" >> $GITHUB_STEP_SUMMARY
+          done
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "📅 Run completed at: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
