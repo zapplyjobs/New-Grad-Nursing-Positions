@@ -1,6 +1,4 @@
 [
-  "amazon-applied-scientist-ii-data-intelligence-and-governance-seattle",
-  "amazon-applied-scientist-ii-information-retrieval-search-agi-sunnyvale",
   "amazon-applied-scientist-ii-multimodal-information-retrieval-search-agi-level-5-boston",
   "amazon-applied-scientist-ii-prime-video-personalization-and-discovery-science-new-york",
   "amazon-applied-scientist-ii-prime-video-personalization-and-discovery-science-sunnyvale",
@@ -3760,6 +3758,8 @@
   "endeavor-health-rn-weekender-icu-days-edh-main-hospital-naperville",
   "endeavor-health-rn-wound-care-days-swh-swedish-hospital-chicago",
   "endeavor-health-speech-language-pathologist-acute-care-hospital-days-nch-800-w-central-rd-arlington-heights",
+  "endeavor-health-sterile-processing-tech-days-emh-in-hospital-elmhurst",
+  "endeavor-health-sterile-processing-tech-evenings-emh-in-hospital-elmhurst",
   "endeavor-health-sterile-processing-tech-evenings-nch-800-w-central-rd-arlington-heights",
   "endeavor-health-surgical-first-assistant-neurosurgery-nch-800-w-central-rd-arlington-heights",
   "endeavor-health-surgical-technologist-day-surgery-center-operating-room-nch-675-w-kirchoff-rd-arlington-heights",

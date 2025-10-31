@@ -706,5 +706,23 @@
     "job_title": "Registered Nurse - NICU - Nights",
     "company": "Endeavor Health",
     "first_seen": "2025-10-31T21:07:35.415Z"
+  },
+  "endeavor-health-sterile-processing-tech---days-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-10-31T22:55:52.017Z",
+    "job_title": "Sterile Processing Tech - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-10-31T22:55:52.017Z"
+  },
+  "endeavor-health-sterile-processing-tech---evenings-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-10-31T22:55:52.017Z",
+    "job_title": "Sterile Processing Tech - Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2025-10-31T22:55:52.017Z"
+  },
+  "endeavor-health-certified-sterile-processing-tech---evenings-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-10-31T22:55:52.017Z",
+    "job_title": "Certified Sterile Processing Tech - Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2025-10-31T22:55:52.017Z"
   }
 }
