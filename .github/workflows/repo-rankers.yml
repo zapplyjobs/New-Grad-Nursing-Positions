@@ -8,8 +8,8 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'github-ranking/**'
-      - '.github/workflows/ranking-tracker.yml'
+       - 'jobboard/src/github-ranking/**'
+       - '.github/workflows/ranking-tracker.yml'
 
 jobs:
   track-zapplyjobs-rankings:
