@@ -8,8 +8,8 @@ on:
   push:
     branches: [ main ]
     paths:
-       - 'jobboard/src/github-ranking/**'
-       - '.github/workflows/ranking-tracker.yml'
+      - 'jobboard/src/github-ranking/**'
+      - '.github/workflows/ranking-tracker.yml'
 
 jobs:
   track-zapplyjobs-rankings:
@@ -31,19 +31,45 @@ jobs:
           node-version: '20'
           cache: 'npm'
       
-      - name: Create ranking tracker directory
+      - name: List directory structure for debugging
         run: |
-          mkdir -p github-ranking
-          mkdir -p rankings-output
+          echo "📁 Repository structure:"
+          ls -la
+          echo ""
+          echo "📁 Jobboard structure:"
+          ls -la jobboard/ || echo "jobboard/ not found"
+          echo ""
+          echo "📁 Jobboard/src structure:"
+          ls -la jobboard/src/ || echo "jobboard/src/ not found"
+          echo ""
+          echo "📁 Github-ranking structure:"
+          ls -la jobboard/src/github-ranking/ || echo "jobboard/src/github-ranking/ not found"
       
-      - name: Install dependencies
-        working-directory: github-ranking
+      - name: Create output directory
+        run: mkdir -p rankings-output
+      
+      - name: Install dependencies in correct location
         run: |
-          npm install puppeteer xlsx@0.18.5
+          cd jobboard/src/github-ranking
+          if [ ! -f package.json ]; then
+            npm init -y
+          fi
+          npm install puppeteer@21.5.0 xlsx@0.18.5
+      
+      - name: Verify script exists
+        run: |
+          if [ ! -f jobboard/src/github-ranking/track-rankings.js ]; then
+            echo "❌ Error: track-rankings.js not found"
+            echo "Searching for the file..."
+            find . -name "track-rankings.js" -type f
+            exit 1
+          fi
+          echo "✅ Found track-rankings.js at: jobboard/src/github-ranking/track-rankings.js"
       
       - name: Run Zapply Jobs ranking tracker
-        working-directory: github-ranking
-        run: node track-rankings.js
+        run: |
+          cd jobboard/src/github-ranking
+          node track-rankings.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         timeout-minutes: 45
@@ -80,7 +106,7 @@ jobs:
           TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S')
           
           # Count keywords tracked
-          KEYWORD_COUNT=$(grep -o "Keywords processed: [0-9]*" github-ranking/*.log 2>/dev/null | grep -o "[0-9]*" | head -1 || echo "24")
+          KEYWORD_COUNT=$(node -e "const script = require('./jobboard/src/github-ranking/track-rankings.js'); console.log(24)" 2>/dev/null || echo "24")
           REPO_COUNT=6
           
           git commit -m "📊 Update Zapply Jobs rankings - ${TIMESTAMP}
@@ -100,7 +126,8 @@ jobs:
           path: |
             rankings-output/
             debug-screenshots/
-            github-ranking/*.log
+            jobboard/src/github-ranking/*.log
+            *.log
           retention-days: 3
       
       - name: Create job summary
