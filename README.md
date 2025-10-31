@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-136-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-137-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 136+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 137+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 136 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 137 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 7 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 31, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -81,7 +81,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Medical Assistant - Functional Medicine | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Medical-Assistant---Functional-Medicine_319415) | 1d |
 | New Grad RN Resident – Heart Failure ICU | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Heart-Failure-ICU_310157-1) | 1d |
-| Optometric Prescreener | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Optometric-Prescreener-II_315552) | 1d |
+| Optometric Prescreener 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Optometric-Prescreener-II_315552) | 1d |
 | PRN Respiratory Care Limited Permit 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-Respiratory-Care-Limited-Permit_318964) | 1d |
 | Surgical Services Support Technician 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Surgical-Services-Support-Technician-1_315583) | 1d |
 | LPN Ambulatory - Hernia Surgery Team 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/LPN-Ambulatory---Hernia-Surgery-Team_312669) | 1d |
@@ -225,7 +225,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse (RN) - New Kent Emergency Department - Rotating | New Kent, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/New-Kent-VA/Clinical-Nurse-II_R39616-1) | 1d |
 | Patient Care Technician - New Kent Emergency Department - Rotating | New Kent, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/New-Kent-VA/Care-Partner_R39760) | 1d |
 
-### 🔗 **Integrated Health Networks** (20 positions)
+### 🔗 **Integrated Health Networks** (21 positions)
 
 #### 💙 **Allina Health** (1 position)
 
@@ -234,7 +234,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Nursing Assistant-Transitional Rehabilitation Program | Courage Kenny Rehabilitation Institute Golden Valley | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Rehabilitation-Institute-Golden-Valley/Nursing-Assistant-Transitional-Rehabilitation-Program-S_R-0067176) | 1d |
 
 <details>
-<summary><h4>🏨 <strong>Endeavor Health</strong> (19 positions)</h4></summary>
+<summary><h4>🏨 <strong>Endeavor Health</strong> (20 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -256,7 +256,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Radiologic Technologist I (Western Suburbs) | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Radiologic-Technologist-II_R894?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Registered Nurse - Multiple Locations | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Registered-Nurse_R852?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | RN - PMU - Nights | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/RN---PMU---Nights_R25036-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Physician -OBGYN, Naperville | EDO Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Naperville-1220-Hobson-Road/Physician--OBGYN--Naperville_R34560?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| RN - EDW ED - Evenings | EDH Main Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/RN---EDW-ED---Evenings_R33177?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Patient Care Technician - Inpatient Headache Unit - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Patient-Care-Technician---Inpatient-Headache-Unit---Days_R32338?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
 </details>
 
@@ -276,7 +277,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 
 #### 🔗 **Regional Health Networks** (1 company)
-🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (19 positions)
+🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (20 positions)
 
 ---
 
@@ -285,7 +286,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 48 | 35% | No or minimal experience |
-| 🟡 Beginner & Early Career | 40 | 29% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 41 | 30% | 1-2 years of experience |
 | 🔴 Manager     | 48 | 35% | 2+ years of experience |
 
 ---
@@ -294,17 +295,17 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Nashville, TN**: 31 positions
 - **Cleveland Clinic Main Campus**: 15 positions
 - **Springfield, IL**: 14 positions
-- **EDH Main Hospital Naperville**: 10 positions
+- **EDH Main Hospital Naperville**: 11 positions
 - **Green Bay, WI**: 8 positions
+- **NCH 800 W Central Rd Arlington Heights**: 8 positions
 - **Richmond, VA**: 8 positions
-- **NCH 800 W Central Rd Arlington Heights**: 7 positions
 - **Lebanon, TN**: 6 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 136+ verified hospital and pharma roles from 7 elite organizations.
+✅ **100% Real Jobs:** 137+ verified hospital and pharma roles from 7 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -384,7 +385,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **136 current opportunities from 7 elite companies.**
+🎯 **137 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
