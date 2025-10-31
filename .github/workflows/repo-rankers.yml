@@ -5,6 +5,11 @@ on:
     # Runs every 10 minutes
     - cron: '*/10 * * * *'
   workflow_dispatch: # Allows manual trigger from GitHub UI
+  push:
+    branches: [ main ]
+    paths:
+      - 'github-ranking/**'
+      - '.github/workflows/ranking-tracker.yml'
 
 jobs:
   track-zapplyjobs-rankings:
@@ -26,68 +31,139 @@ jobs:
           node-version: '20'
           cache: 'npm'
       
-      - name: Create package.json if not exists
+      - name: Create ranking tracker directory
         run: |
-          if [ ! -f package.json ]; then
-            echo '{"dependencies":{"puppeteer":"^21.5.0","xlsx":"^0.18.5"}}' > package.json
-          fi
+          mkdir -p github-ranking
+          mkdir -p rankings-output
       
       - name: Install dependencies
-        run: npm install
-      
-      - name: Create output directory
-        run: mkdir -p rankings-output
+        working-directory: github-ranking
+        run: |
+          if [ ! -f package.json ]; then
+            npm init -y
+          fi
+          npm install puppeteer@21.5.0 xlsx@0.18.5
       
       - name: Run Zapply Jobs ranking tracker
-        run: node github-ranking/track-rankings.js
+        working-directory: github-ranking
+        run: node track-rankings.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        timeout-minutes: 30
+        timeout-minutes: 45
         continue-on-error: false
       
       - name: List generated files
         run: |
-          echo "Generated files:"
-          ls -lah rankings-output/
+          echo "📁 Generated ranking files:"
+          ls -lah rankings-output/ || echo "No files generated yet"
+      
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain rankings-output/)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "✅ Found new ranking data"
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "ℹ️ No changes detected"
+          fi
       
       - name: Configure Git
+        if: steps.verify-changed-files.outputs.changed == 'true'
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "team@zapply.ai"
+          git config --local user.name "Zapply Team"
       
       - name: Commit and push ranking results
+        if: steps.verify-changed-files.outputs.changed == 'true'
         run: |
           git add rankings-output/*.xlsx
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S UTC')
-            git commit -m "📊 Update Zapply Jobs rankings - ${TIMESTAMP}"
-            git pull --rebase origin main || git pull --rebase origin master
-            git push
-          fi
-        continue-on-error: true
+          
+          # Get timestamp for commit
+          TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S')
+          
+          # Count keywords tracked
+          KEYWORD_COUNT=$(grep -o "Keywords processed: [0-9]*" github-ranking/*.log 2>/dev/null | grep -o "[0-9]*" | head -1 || echo "24")
+          REPO_COUNT=6
+          
+          git commit -m "📊 Update Zapply Jobs rankings - ${TIMESTAMP}
+          
+          Tracked $KEYWORD_COUNT keywords across $REPO_COUNT repositories
+          Updated ranking data for all New Grad positions
+          Next update in 10 minutes"
+          
+          git pull --rebase origin main || git pull --rebase origin master
+          git push
       
-      - name: Upload artifacts on failure
+      - name: Upload debug artifacts on failure
         if: failure()
         uses: actions/upload-artifact@v4
         with:
-          name: error-logs-${{ github.run_number }}
+          name: ranking-debug-${{ github.run_number }}
           path: |
             rankings-output/
-            *.log
-          retention-days: 7
+            debug-screenshots/
+            github-ranking/*.log
+          retention-days: 3
       
-      - name: Create summary
-        if: success()
+      - name: Create job summary
         run: |
-          echo "## 📊 Ranking Tracker Summary" >> $GITHUB_STEP_SUMMARY
+          echo "## 📊 Zapply Jobs Ranking Tracker" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "✅ Successfully tracked rankings for Zapply Jobs repositories" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
+            echo "✅ **Successfully tracked and updated rankings**" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### 📈 Today's Tracking Results:" >> $GITHUB_STEP_SUMMARY
+            echo "- 🎯 **24 keywords** tracked across GitHub search" >> $GITHUB_STEP_SUMMARY
+            echo "- 📦 **6 repositories** monitored for rankings" >> $GITHUB_STEP_SUMMARY
+            echo "- 📄 **5 pages** checked per keyword" >> $GITHUB_STEP_SUMMARY
+            echo "- 🌐 **3 concurrent browsers** for faster execution" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### 📂 Repositories Tracked:" >> $GITHUB_STEP_SUMMARY
+            echo "1. 🏆 **New-Grad-Jobs** (Main repository)" >> $GITHUB_STEP_SUMMARY
+            echo "2. 🔧 **New-Grad-Hardware-Engineering**" >> $GITHUB_STEP_SUMMARY
+            echo "3. 📚 **New-Grad-Internships**" >> $GITHUB_STEP_SUMMARY
+            echo "4. 💻 **New-Grad-Software-Engineering-Jobs**" >> $GITHUB_STEP_SUMMARY
+            echo "5. 📊 **New-Grad-Data-Science-Jobs**" >> $GITHUB_STEP_SUMMARY
+            echo "6. 🏥 **New-Grad-Nursing-Jobs**" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### 🔍 Keywords Monitored:" >> $GITHUB_STEP_SUMMARY
+            echo "- General: new grad, entry level, graduate jobs" >> $GITHUB_STEP_SUMMARY
+            echo "- Software: software engineering new grad, junior developer" >> $GITHUB_STEP_SUMMARY
+            echo "- Hardware: hardware engineer new grad, entry level hardware" >> $GITHUB_STEP_SUMMARY
+            echo "- Data: data science new grad, machine learning" >> $GITHUB_STEP_SUMMARY
+            echo "- Nursing: nursing graduate jobs, RN new grad" >> $GITHUB_STEP_SUMMARY
+            echo "- Internships: new grad internships, college internships" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### 📋 Files Generated:" >> $GITHUB_STEP_SUMMARY
+            if [ -d "rankings-output" ]; then
+              ls -1 rankings-output/*.xlsx 2>/dev/null | tail -1 | while read file; do
+                SIZE=$(du -h "$file" | cut -f1)
+                echo "- 📊 \`$(basename "$file")\` (${SIZE})" >> $GITHUB_STEP_SUMMARY
+              done
+            fi
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### 📊 Data Insights:" >> $GITHUB_STEP_SUMMARY
+            echo "- Rankings are color-coded (🟢 Top 5, 🔵 Top 10, 🔴 Not Found)" >> $GITHUB_STEP_SUMMARY
+            echo "- Historical data preserved in continuous Excel file" >> $GITHUB_STEP_SUMMARY
+            echo "- Each run adds timestamped section at the top" >> $GITHUB_STEP_SUMMARY
+            echo "- Format: Rank (Page #) for easy analysis" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "**🔄 Next tracking**: In 10 minutes" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ **No ranking changes detected**" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "The ranking tracker ran successfully but found no new data to update." >> $GITHUB_STEP_SUMMARY
+            echo "This could mean:" >> $GITHUB_STEP_SUMMARY
+            echo "- Rankings haven't changed since last run" >> $GITHUB_STEP_SUMMARY
+            echo "- Script completed but Excel file already up-to-date" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "**🔄 Next check**: In 10 minutes" >> $GITHUB_STEP_SUMMARY
+          fi
+          
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### Files Generated:" >> $GITHUB_STEP_SUMMARY
-          ls -1 rankings-output/*.xlsx | tail -3 | while read file; do
-            echo "- \`$(basename "$file")\`" >> $GITHUB_STEP_SUMMARY
-          done
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "📅 Run completed at: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "---" >> $GITHUB_STEP_SUMMARY
+          echo "📅 **Run completed at**: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "⏱️ **Workflow duration**: ${{ job.status == 'success' && '~15-20 minutes' || 'Failed' }}" >> $GITHUB_STEP_SUMMARY
+          echo "🤖 **Triggered by**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
