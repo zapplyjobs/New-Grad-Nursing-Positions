@@ -39,9 +39,6 @@ jobs:
       - name: Install dependencies
         working-directory: github-ranking
         run: |
-          if [ ! -f package.json ]; then
-            npm init -y
-          fi
           npm install puppeteer xlsx@0.18.5
       
       - name: Run Zapply Jobs ranking tracker
