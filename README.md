@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-135-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-138-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 135+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 7+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 138+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 135 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 138 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 7 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** October 31, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -72,13 +72,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (59 positions)
+### ⭐ **Elite Medical Centers** (61 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (52 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (54 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| PRN Respiratory Care Limited Permit 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-Respiratory-Care-Limited-Permit_318964) | 1d |
+| Surgical Services Support Technician 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Surgical-Services-Support-Technician-1_315583) | 1d |
+| LPN Ambulatory - Hernia Surgery Team 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/LPN-Ambulatory---Hernia-Surgery-Team_312669) | 1d |
+| RN Ambulatory -- Hematology Oncology 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Ambulatory----Hematology-Oncology_300027) | 1d |
+| RN Ambulatory - Radiation Oncology 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Ambulatory---Radiation-Oncology_295042) | 1d |
 | Clinical Technician – Neurological Intensive Care Unit (ICU) 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Clinical-Technician---Neurological-Intensive-Care-Unit--ICU-_318821) | 1d |
 | Paramedic - Critical Care 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Critical-Care-Transport-Paramedic--Day-Night-Rotation-_297226) | 1d |
 | RN - Acute Care Medical Urology, Gynecology/Oncology & Plastics 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Acute-Care-Medical-Urology--Gynecology-Oncology---Plastics_315166) | 1d |
@@ -89,9 +94,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | RN Resident - Thoracic Surgery Stepdown 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Resident---Thoracic-Surgery-Stepdown_301701) | 1d |
 | New Grad RN Resident - Cardiovascular Stepdown 🏠 | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Stepdown_315938-1) | 1d |
 | CT Technologist 🏠 | Lakewood Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lakewood-Family-Health-Center/CT-Technologist_313044-1) | 1d |
-| Manual Machinist | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Machinist-Mechanic----Millwright_314024) | 1d |
-| Machinist Mechanic -- Millwright | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Machinist-Mechanic----Millwright_318103-1) | 1d |
-| RN - Acute Care Lymphoma Myeloma | Cleveland Clinic Main Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Acute-Care-Lymphoma-Myeloma_234567) | 1d |
 | Physical Therapist Assistant (PTA) – Home Health - $5,000 Sign-On Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist-Assistant--PTA-----5K-Sign-On_R-49319-1) | 1d |
 | Occupational Therapy Assistant – Home Health (Rutherford County) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
@@ -151,10 +153,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Audiology Extern | PALO ALTO, CA | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/2452-Watson-Ct---PALO-ALTO/Audiology-Extern_R2551220-1) | 2d |
 
-### ✝️ **Faith-Based Health Systems** (44 positions)
+### ✝️ **Faith-Based Health Systems** (45 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (44 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (45 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -164,6 +166,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse (RN), Emergency Room | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Registered-Nurse--RN---Emergency-Room_R1032520-1) | 1d |
 | Telemetry Technician | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Telemetry-Technician_R1032441) | 1d |
 | Epic Analyst II-MyChart | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Epic-Analyst-II-MyChart_R1031805) | 1d |
+| Cardiovascular Invasive Technologist III-Dedicated Call | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Cardiovascular-Invasive-Technologist-III-Dedicated-Call_R1029903) | 1d |
 | Cardiovascular Invasive Technologist II - PRN | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Cardiovascular-Invasive-Technologist-II---PRN_R1029899) | 1d |
 | Cardiovascular Invasive Technologist I - EP | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Cardiovascular-Invasive-Technologist-I---EP_R1029896-1) | 1d |
 | Cardiovascular Invasive Technologist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Cardiovascular-Invasive-Technologist-I_R1029895) | 1d |
@@ -283,16 +286,16 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 35 | 26% | No or minimal experience |
-| 🟡 Beginner & Early Career | 49 | 36% | 1-2 years of experience |
-| 🔴 Manager     | 51 | 38% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 38 | 28% | No or minimal experience |
+| 🟡 Beginner & Early Career | 50 | 36% | 1-2 years of experience |
+| 🔴 Manager     | 50 | 36% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 28 positions
-- **Springfield, IL**: 13 positions
-- **Cleveland Clinic Main Campus**: 11 positions
+- **Springfield, IL**: 14 positions
+- **Cleveland Clinic Main Campus**: 12 positions
 - **EDH Main Hospital Naperville**: 11 positions
 - **Green Bay, WI**: 9 positions
 - **O'Fallon, IL**: 8 positions
@@ -303,7 +306,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 135+ verified hospital and pharma roles from 7 elite organizations.
+✅ **100% Real Jobs:** 138+ verified hospital and pharma roles from 7 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -383,7 +386,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **135 current opportunities from 7 elite companies.**
+🎯 **138 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
