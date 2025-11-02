@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-359-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-358-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 359+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 358+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 359 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 358 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** November 2, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -72,10 +72,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (136 positions)
+### ⭐ **Elite Medical Centers** (135 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (75 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (74 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -116,10 +116,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Nurse Residency Program Winter | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nurse-Residency-Program-Winter-2026_R-44374-1) | 1d |
 | Occupational Therapy Assistant – Home Health (Rutherford County) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1d |
 | Occupational Therapist Home Health PRN | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1d |
-| Athletic Trainer PRN – Vanderbilt Health Sports Medicine | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Athletic-Trainer-PRN---Vanderbilt-Health-Sports-Medicine_R-49101-1) | 5h |
-| Care Partner - Medical Cardiovascular Intensive Care Unit (Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Medical-Cardiovascular-Intensive-Care-Unit--Nights-_R-47287-1) | 5h |
-| IR Tech 2 I $10K Sign on I Days I VUH Cath Lab | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/IR-Tech-2-I--10K-Sign-on-I-Days-I-VUH-Cath-Lab_R-49269-1) | 5h |
-| OR Board charge Nurse - Schedule W,T,F 6am-6pm | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/OR-Board-charge-Nurse---Schedule-W-T-F-6am-6pm_R-48151-1) | 5h |
+| Athletic Trainer PRN – Vanderbilt Health Sports Medicine | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Athletic-Trainer-PRN---Vanderbilt-Health-Sports-Medicine_R-49101-1) | 6h |
+| Care Partner - Medical Cardiovascular Intensive Care Unit (Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Medical-Cardiovascular-Intensive-Care-Unit--Nights-_R-47287-1) | 6h |
+| IR Tech 2 I $10K Sign on I Days I VUH Cath Lab | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/IR-Tech-2-I--10K-Sign-on-I-Days-I-VUH-Cath-Lab_R-49269-1) | 6h |
+| OR Board charge Nurse - Schedule W,T,F 6am-6pm | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/OR-Board-charge-Nurse---Schedule-W-T-F-6am-6pm_R-48151-1) | 6h |
 | Clinic RN, Registered Nurse - Palliative Care Clinic | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinic-RN--Registered-Nurse---Palliative-Care-Clinic_R-49382-1) | 1d |
 | LPN, Med/Surg, PRN Nights, Shelbyville | Shelbyville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/LPN--Med-Surg--PRN-Nights--Shelbyville_R-49359-1) | 1d |
 | LifeFlight Critical Care Ground Transport – Critical Care Paramedic 2 CC - Variable Shifts - $10,000 Sign-On Bonus | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/LifeFlight-Critical-Care-Ground-Transport---Critical-Care-Paramedic-2-CC---Variable-Shifts----10-000-Sign-On-Bonus_R-46570-1) | 1d |
@@ -137,7 +137,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Certified Pharmacy Technician - Inpatient Evening Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Inpatient-Evening-Shift_R-35606-2) | 1d |
 | Certified Pharmacy Technician - 7 on/7 off Night Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---7-on-7-off-Night-Shift_R-48422) | 1d |
 | Nurse Practitioner/Physician Assistant - Inpatient/Outpatient 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-Physician-Assistant---Inpatient-Outpatient_R-49871-2) | 1d |
-| Care Partner - Emergency Department: CPOD - Dayshift 06:45 - 19:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Emergency-Department--CPOD---Dayshift-06-45---19-15_R-49867-1) | 1d |
 | Trauma Registrar (Pediatric) (Coding/ICD10 experience required) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Trauma-Registrar--Pediatric-_R-49196-1) | 1d |
 | Nurse Practitioner (NP) - Vanderbilt Comprehensive Care Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/VMG-Nurse-Practitioner--NP----Vanderbilt-Comprehensive-Care-Clinic_R-47600-1) | 1d |
 | MRI Tech PRN - Vanderbilt Children's Hospital 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/MRI-Tech-PRN---Vanderbilt-Children-s-Hospital_R-49424-1) | 1d |
@@ -529,7 +528,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 129 | 36% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 128 | 36% | No or minimal experience |
 | 🟡 Beginner & Early Career | 63 | 18% | 1-2 years of experience |
 | 🔴 Manager     | 167 | 47% | 2+ years of experience |
 
@@ -537,7 +536,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🌍 **Top Locations**
 - **Multiple Cities**: 30 positions
-- **Nashville, TN**: 30 positions
+- **Nashville, TN**: 29 positions
 - **Springfield, IL**: 16 positions
 - **EDH in Hospital Naperville**: 11 positions
 - **O'Fallon, IL**: 10 positions
@@ -549,7 +548,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 359+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 358+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -674,7 +673,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **359 current opportunities from 9 elite companies.**
+🎯 **358 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
