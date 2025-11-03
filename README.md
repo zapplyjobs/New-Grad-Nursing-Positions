@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-365-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-356-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 365+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 356+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 365 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 356 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** November 3, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -72,10 +72,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (141 positions)
+### ⭐ **Elite Medical Centers** (139 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (80 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (78 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -132,19 +132,17 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Athletic Trainer PRN – Vanderbilt Health Sports Medicine 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Athletic-Trainer-PRN---Vanderbilt-Health-Sports-Medicine_R-49101-1) | 1d |
 | Care Partner - Medical Cardiovascular Intensive Care Unit (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Medical-Cardiovascular-Intensive-Care-Unit--Nights-_R-47287-1) | 1d |
 | IR Tech 2 I $10K Sign on I Days I VUH Cath Lab 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/IR-Tech-2-I--10K-Sign-on-I-Days-I-VUH-Cath-Lab_R-49269-1) | 1d |
+| OR Board charge Nurse - Schedule W,T,F 6am-6pm 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/OR-Board-charge-Nurse---Schedule-W-T-F-6am-6pm_R-48151-1) | 1d |
+| Clinic RN, Registered Nurse - Palliative Care Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinic-RN--Registered-Nurse---Palliative-Care-Clinic_R-49382-1) | 2d |
+| LPN, Med/Surg, PRN Nights, Shelbyville 🏠 | Shelbyville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/LPN--Med-Surg--PRN-Nights--Shelbyville_R-49359-1) | 2d |
+| LifeFlight Critical Care Ground Transport – Critical Care Paramedic 2 CC - Variable Shifts - $10,000 Sign-On Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/LifeFlight-Critical-Care-Ground-Transport---Critical-Care-Paramedic-2-CC---Variable-Shifts----10-000-Sign-On-Bonus_R-46570-1) | 2d |
+| Paramedic 2, Event Medicine - Part Time, 12 hours weekly 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Paramedic-2---Event-Medicine--Nashville-_R-32982-1) | 2d |
+| RN, Med/Surg, PRN Nights, Shelbyville 🏠 | Shelbyville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/RN--Med-Surg--PRN-Nights--Shelbyville_R-49346-1) | 2d |
+| Registered Nurse, Stepdown Unit, PRN Nights, Lebanon 🏠 | VANDERBILT WILSON COUNTY HOSPITAL | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/VANDERBILT-WILSON-COUNTY-HOSPITAL-LOC02029/Registered-Nurse--Stepdown-Unit--PRN-Nights--Lebanon_R-49472-1) | 2d |
 | Virtual Tech (Telemetry) - Virtual Care ONSITE (Days) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Virtual-Monitor-Tech---Virtual-Care-ONSITE_R-50021-2) | 2d |
 | Virtual Tech (Telemetry) - Virtual Care ONSITE (Part-Time) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Virtual-Monitor-Tech---Virtual-Care-ONSITE_R-50025-1) | 2d |
 | Respiratory Therapist Reg - Nights $15K SIGN ON BONUS 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Respiratory-Therapist-Reg---Nights--15K-SIGN-ON-BONUS_R-49901-1) | 2d |
 | Clin/Tran Research Coord 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clin-Tran-Research-Coord-II_R-48271-1) | 2d |
-| Mental Health Technician PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Mental-Health-Technician-PRN_R-49569-1) | 2d |
-| NICU VIRTUAL HIRING EVENT - NOVEMBER 17TH SAME DAY OFFERS 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/NICU-VIRTUAL-HIRING-EVENT---NOVEMBER-17TH-SAME-DAY-OFFERS_R-49881-1) | 2d |
-| PRN Registered Nurse, RN - Spine Center 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-PRN_R-46654-1) | 2d |
-| Patient Care Attendant PRN (Tullahoma) 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Patient-Care-Attendant-PRN--Tullahoma-_R-49041-2) | 2d |
-| Certified Pharmacy Technician - Inpatient Evening Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Inpatient-Evening-Shift_R-35606-2) | 2d |
-| Certified Pharmacy Technician - 7 on/7 off Night Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---7-on-7-off-Night-Shift_R-48422) | 2d |
-| Nurse Practitioner/Physician Assistant - Inpatient/Outpatient 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-Physician-Assistant---Inpatient-Outpatient_R-49871-2) | 2d |
-| Trauma Registrar (Pediatric) (Coding/ICD10 experience required) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Trauma-Registrar--Pediatric-_R-49196-1) | 2d |
-| Nurse Practitioner (NP) - Vanderbilt Comprehensive Care Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/VMG-Nurse-Practitioner--NP----Vanderbilt-Comprehensive-Care-Clinic_R-47600-1) | 2d |
 | MRI Tech PRN - Vanderbilt Children's Hospital 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/MRI-Tech-PRN---Vanderbilt-Children-s-Hospital_R-49424-1) | 2d |
 | MRI Tech PRN - Wilson County Hospital 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/MRI-Tech-PRN---Wilson-County-Hospital_R-49312) | 2d |
 | Registered Nurse CC - Cancer Infusion Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-CC---Cancer-Infusion-Clinic_R-47572-1) | 2d |
@@ -239,7 +237,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### ✝️ **Faith-Based Health Systems** (103 positions)
+### ✝️ **Faith-Based Health Systems** (96 positions)
 
 <details>
 <summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (49 positions)</h4></summary>
@@ -299,15 +297,15 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </details>
 
 <details>
-<summary><h4>⛰️ <strong>Intermountain Health</strong> (54 positions)</h4></summary>
+<summary><h4>⛰️ <strong>Intermountain Health</strong> (47 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | EKG Technician | Primary Childrens at Lehi | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Primary-Childrens-at-Lehi/EKG-Technician_R152948) | 1d |
 | Infant Feeding Prep Tech | Intermountain Health Primary Childrens Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/Infant-Feeding-Prep-Tech_R155066) | 1d |
-| Medical Assistant Family Medicine | Layton Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Layton-Clinic/Medical-Assistant-Family-Medicine_R154316) | 1d |
 | Patient Care Technician Float Pool | Intermountain Health McKay-Dee Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Logan-Regional-Hospital/Patient-Care-Technician_R154514) | 1d |
 | Registered Nurse Operating Room Training Program | Good Samaritan Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Good-Samaritan-Hospital/Registered-Nurse-Operating-Room_R155061) | 1d |
+| Medical Assistant Family Medicine | Layton Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Layton-Clinic/Medical-Assistant-Family-Medicine_R154316) | 1d |
 | Medical Assistant Outpatient | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Medical-Assistant-Outpatient_R155121) | 1d |
 | Clinical Lab Assistant | Intermountain Health Utah Valley Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Utah-Valley-Hospital/Clinical-Lab-Assistant_R153252-1) | 1d |
 | Material Handler | Central Laundry | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Central-Laundry/Material-Handler-II_R155048) | 2d |
@@ -317,13 +315,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Scrub Tech (C.N.A) - Labor/Delivery | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Scrub-Tech--CNA----Labor-Delivery_R150397) | 2d |
 | Patient Care Tech 3NE/Children's Med | Intermountain Health Primary Childrens Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/Patient-Care-Tech-3NE-Children-s-Med-2_R154810) | 2d |
 | Patient Service Representative | Denver West Clinic Primary Care | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Denver-West-Clinic-Primary-Care/Patient-Service-Representative_R155204) | 2d |
-| Medical Assistant Candelas Primary Care | Candelas Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Candelas-Clinic/Medical-Assistant-Candelas-Primary-Care_R149572) | 2d |
-| Outpatient Neurologist PRN | St Vincent Regional Neuroscience Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/St-Vincent-Regional-Neuroscience-Center/Outpatient-Neurologist-PRN_R95090) | 2d |
-| Outpatient Neurologist | St Vincent Regional Neuroscience Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/St-Vincent-Regional-Neuroscience-Center/Outpatient-Neurologist_R66882) | 2d |
-| Registered Nurse Peds PICU and NICU PRN | St. rys Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/St-Marys-Regional-Hospital/Registered-Nurse-Peds-PICU-and-NICU-PRN_R155144) | 2d |
-| Outpatient Neurologist | Grand Junction Neurology Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Grand-Junction-Neurology-Clinic/Outpatient-Neurologist_R120745) | 2d |
-| Charge Nurse Wound Care | Intermountain Health Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/Charge-Nurse-Wound-Care_R153998-1) | 2d |
-| Registered Nurse Wound Care PRN | Lutheran Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Lutheran-Clinic/Registered-Nurse-Wound-Care-PRN_R152224) | 2d |
 | Registered Nurse Wound Care | Intermountain Health Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/Registered-Nurse-Wound-Care_R153990) | 2d |
 | Patient Care Tech CNA Surgical Care | Saint Joseph Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Saint-Joseph-Hospital/Patient-Care-Tech-CNA-Surgical-Care_R155158) | 2d |
 | Registered Nurse Mom Baby Postpartum | Platte Valley Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Platte-Valley-Hospital/Registered-Nurse-Mom-Baby-Postpartum_R154920) | 2d |
@@ -504,10 +495,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse-Emergency Department-Nights | HPH Highland Park Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/Registered-Nurse-Emergency-Department-Nights_R28361?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Occupational Therapist I - Inpatient/Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Occupational-Therapist--Inpatient-Outpatient--Multiple-Locations_R23823?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Physical Therapist Assistant- Inpatient and Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Physical-Therapist-Assistant--Inpatient-and-Outpatient--Multiple-Locations_R23769?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
-| Patient Care Technician - Day Surgery Center Para Surgery | NCH 675 W Kirchoff Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-675-W-Kirchoff-Rd-Arlington-Heights/Patient-Care-Technician---Day-Surgery-Center-Para-Surgery_R35407?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2h |
-| RN - Day Surgery Center Para Surgery | NCH 675 W Kirchoff Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-675-W-Kirchoff-Rd-Arlington-Heights/RN---Day-Surgery-Center-Operating-Room_R35214?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2h |
-| RN - ICU - Days and Nights | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Registered-Nurse-ICU-Day-Night_R33919?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2h |
-| RN - Cardiac Neuro ICU - CNICU - Days | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Registered-Nurse---CNICU---Days_R33594?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 11h |
+| Sterile Processing Tech - Days | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Sterile-Processing-Tech---Days_R35527?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
+| Sterile Processing Tech - Evenings | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Sterile-Processing-Tech---Evenings_R35525-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
+| Certified Sterile Processing Tech - Evenings | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Certified-Sterile-Processing-Tech---Evenings_R35010?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
+| Registered Nurse - NICU - Nights | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Registered-Nurse---NICU---Nights_R26759?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 
 </details>
 
@@ -519,7 +510,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (39 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (22) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (54)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (39 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (22) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (47)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -535,15 +526,15 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 82 | 22% | No or minimal experience |
-| 🟡 Beginner & Early Career | 100 | 27% | 1-2 years of experience |
-| 🔴 Manager     | 183 | 50% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 80 | 22% | No or minimal experience |
+| 🟡 Beginner & Early Career | 76 | 21% | 1-2 years of experience |
+| 🔴 Manager     | 200 | 56% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Nashville, TN**: 34 positions
 - **Multiple Cities**: 30 positions
+- **Nashville, TN**: 30 positions
 - **Springfield, IL**: 16 positions
 - **Cleveland Clinic in Campus**: 11 positions
 - **EDH in Hospital Naperville**: 11 positions
@@ -555,7 +546,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 365+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 356+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -680,7 +671,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **365 current opportunities from 9 elite companies.**
+🎯 **356 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
