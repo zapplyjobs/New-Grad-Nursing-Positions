@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-367-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-366-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 367+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 366+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 367 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 366 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** November 3, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -72,13 +72,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (146 positions)
+### ⭐ **Elite Medical Centers** (147 positions)
 
 <details>
 <summary><h4>⭐ <strong>Cleveland Clinic</strong> (85 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Surgery Scheduler - Endoscopy 🏠 | Florida Weston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Florida-Weston-Hospital/Surgery-Scheduler---Endoscopy_317549) | 1d |
 | Patient Transportation Aide 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Patient-Transportation-Aide_314925-1) | 1d |
 | Physical Therapist Home Care - Tuscarawas County 🏠 | Business Operations Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Business-Operations-Center/Physical-Therapist-Home-Care---Tuscarawas-County_319628) | 1d |
 | New Grad RN Resident - Med Surg 🏠 | Hillcrest Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/RN----Medical-Surgical_307335) | 1d |
@@ -89,7 +90,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Community Health Worker Apprentice 🏠 | Community Health and Wellness Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Community-Health-and-Wellness-Center/Community-Health-Worker-Apprentice_319714) | 1d |
 | LPN Clinic - Orthopaedic Surgery 🏠 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Florida-Weston-Hospital/LPN-Clinic---Orthopaedic-Surgery_319297) | 1d |
 | RN Ambulatory - Infusion 🏠 | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Ambulatory---Infusion_317463) | 1d |
-| New Grad RN Resident – Ortho/Neuro/Trauma 🏠 | Hillcrest Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---Ortho-Neuro-Trauma_312751) | 1d |
+| New Grad RN Resident – Ortho/Neuro/Trauma | Hillcrest Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---Ortho-Neuro-Trauma_312751) | 1d |
 | RN -- Emergency Department (ED) | Florida Weston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Florida-Weston-Hospital/RN-----Emergency-Department--ED-_312686) | 1d |
 | Patient Access Representative | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/Patient-Access-Representative_308380) | 1d |
 | RN Ambulatory – Neurosurgery | Florida Weston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Florida-Weston-Hospital/RN-Ambulatory---Neurosurgery_319289) | 1d |
@@ -117,23 +118,22 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Respiratory Therapist | Avon Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Avon-Hospital/Registered-Respiratory-Therapist_313527) | 1d |
 | RN - Transitional Care and Discharge Unit | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Mercy-Hospital/RN-Medical-Surgical-Telemetry-Unit_183418-1) | 1d |
 | RN - Cardiac Telemetry and Nephrology | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Cardiac-Telemetry-and-Nephrology_308936) | 1d |
-| Respiratory Care Limited Permit Holder - PRN | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-Respiratory-Care-Limited-Permit_318964) | 1d |
 | Physical Therapist Assistant (PTA) – Home Health - $5,000 Sign-On Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist-Assistant--PTA-----5K-Sign-On_R-49319-1) | 2d |
 | Nurse Residency Program Winter 🏠 | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nurse-Residency-Program-Winter-2026_R-44374-1) | 2d |
 | Occupational Therapy Assistant – Home Health (Rutherford County) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 2d |
 | Occupational Therapist Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 2d |
 | Care Partner - Adult Float Pool FT Nights 18:45 - 07:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner-FT---Adult-Float-Pool_R-44619-1) | 1h |
-| Audiologist – Adult Otology & Vestibular Focus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Audiologist---Adult-Otology---Vestibular-Focus_R-49890-1) | 9h |
-| Care Partner - Surgical ICU - FT Days 06:45 - 19:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Surgical-ICU---FT-Days-06-45---19-15_R-48701-2) | 9h |
-| Certified Pharmacy Technician System Support - Pediatrics Inpatient Pharmacy 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician-System-Support---Pediatrics-Inpatient-Pharmacy_R-49475-2) | 9h |
-| RN, Med/Surg, full time nights, Shelbyville 🏠 | Shelbyville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/RN--Med-Surg--full-time-nights--Shelbyville_R-49360-1) | 9h |
-| Registered Nurse - Hendersonville Pediatric After-Hours Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse---Hendersonville-Pediatric-After-Hours-Clinic_R-48979-1) | 9h |
-| Registered Nurse 2- Franklin Center for Women's Health 🏠 | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/4155-CAROTHERS-PKWY-LOC00643/Registered-Nurse-2--Franklin-Center-for-Women-s-Health_R-48975-2) | 9h |
-| Registered Nurse 2 Float PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-Float-PRN_R-46971-1) | 9h |
-| Registered Nurse 2 Float 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-Float_R-49044-1) | 9h |
-| Research Assistant 1 - GI Medicine (Term Position) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Research-Assistant-1---GI-Medicine--Term-Position-_R-49553-1) | 9h |
-| Research Assistant I - Allergy, Pulmonary & Critical Care Medicine 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Research-Assistant-I---Allergy--Pulmonary---Critical-Care-Medicine_R-49549-1) | 9h |
-| Speech-Language Pathologist – Neuro Rehabilitation (Outpatient) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Speech-Language-Pathologist---Neuro-Rehabilitation--Outpatient-_R-49374-1) | 9h |
+| Audiologist – Adult Otology & Vestibular Focus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Audiologist---Adult-Otology---Vestibular-Focus_R-49890-1) | 10h |
+| Care Partner - Surgical ICU - FT Days 06:45 - 19:15 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Surgical-ICU---FT-Days-06-45---19-15_R-48701-2) | 10h |
+| Certified Pharmacy Technician System Support - Pediatrics Inpatient Pharmacy 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician-System-Support---Pediatrics-Inpatient-Pharmacy_R-49475-2) | 10h |
+| RN, Med/Surg, full time nights, Shelbyville 🏠 | Shelbyville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/RN--Med-Surg--full-time-nights--Shelbyville_R-49360-1) | 10h |
+| Registered Nurse - Hendersonville Pediatric After-Hours Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse---Hendersonville-Pediatric-After-Hours-Clinic_R-48979-1) | 10h |
+| Registered Nurse 2- Franklin Center for Women's Health 🏠 | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/4155-CAROTHERS-PKWY-LOC00643/Registered-Nurse-2--Franklin-Center-for-Women-s-Health_R-48975-2) | 10h |
+| Registered Nurse 2 Float PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-Float-PRN_R-46971-1) | 10h |
+| Registered Nurse 2 Float 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-Float_R-49044-1) | 10h |
+| Research Assistant 1 - GI Medicine (Term Position) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Research-Assistant-1---GI-Medicine--Term-Position-_R-49553-1) | 10h |
+| Research Assistant I - Allergy, Pulmonary & Critical Care Medicine 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Research-Assistant-I---Allergy--Pulmonary---Critical-Care-Medicine_R-49549-1) | 10h |
+| Speech-Language Pathologist – Neuro Rehabilitation (Outpatient) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Speech-Language-Pathologist---Neuro-Rehabilitation--Outpatient-_R-49374-1) | 10h |
 | Athletic Trainer PRN – Vanderbilt Health Sports Medicine 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Athletic-Trainer-PRN---Vanderbilt-Health-Sports-Medicine_R-49101-1) | 1d |
 | Care Partner - Medical Cardiovascular Intensive Care Unit (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Medical-Cardiovascular-Intensive-Care-Unit--Nights-_R-47287-1) | 1d |
 | IR Tech 2 I $10K Sign on I Days I VUH Cath Lab | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/IR-Tech-2-I--10K-Sign-on-I-Days-I-VUH-Cath-Lab_R-49269-1) | 1d |
@@ -168,10 +168,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </details>
 
 <details>
-<summary><h4>🗽 <strong>New York Presbyterian</strong> (40 positions)</h4></summary>
+<summary><h4>🗽 <strong>New York Presbyterian</strong> (41 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Per Diem-Physical Therapist - NYP-CUIMC and Allen Hospital | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Per-Diem-Physical-Therapist---NYP-CUIMC-and-Allen-Hospital_00873113-1) | 1d |
 | Nursing Assistant - Labor and Delivery (L&D) - Full-time - Nights | NYP/Brooklyn Methodist Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Nursing-Assistant---Labor-and-Delivery--L-D----Full-time---Evenings_00870470-1) | 1d |
 | Environmental Services Aide- Hudson Valley | NYP/Hudson Valley | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPHudson-Valley/Environmental-Services-Aide--Hudson-Valley_00873294) | 1d |
 | Nurses Aide - Medical Surgical - Nights | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Nurses-Aide---Medical-Surgical---Nights_00873254) | 2d |
@@ -244,10 +245,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### ✝️ **Faith-Based Health Systems** (101 positions)
+### ✝️ **Faith-Based Health Systems** (98 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (52 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (49 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -287,22 +288,19 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Multimodality Imaging Tech l (CT/MRI)-PRN | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Multimodality-Imaging-Tech-l--CT-MRI-_R1032867) | 3d |
 | Cardiovascular Invasive Technologist | O'Fallon - St. Elizabeth's Hospital | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon---St-Elizabeths-Hospital/Cardiovascular-Invasive-Technologist-I_R1033024) | 3d |
 | Occupational Therapist (OT), Physical Therapy (PT), Speech Language Pathologist (SLP)* | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Occupational-Therapist--OT---Physical-Therapy--PT---Speech-Language-Pathologist--SLP--_R1032935) | 3d |
-| Physician Assistant / Nurse Practitioner General Cardiology 🏠 | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Physician-Assistant---Nurse-Practitioner-General-Cardiology_R1033269) | 4d |
-| Patient Care Assistant (CNA) 🏠 | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Patient-Care-Assistant--CNA-_R1033215) | 4d |
-| Physician Assistant / Nurse Practitioner General Cardiology 🏠 | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Advanced-Practice-RN---D-_R1030426-1) | 4d |
-| Athletic Trainer Industrial-Caterpillar 🏠 | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Athletic-Trainer-Industrial-CAT_R1032212) | 4d |
-| CT Technologist--Full-time 🏠 | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/CT-Technologist--Full-time_R1032445) | 4d |
-| Central Service Technician 🏠 | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Central-Service-Technician_R1033074) | 4d |
-| Dosimetrist 🏠 | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Dosimetrist---Remote_R1033112) | 4d |
-| CV Registered Nurse/ Cath Lab RN 🏠 | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/EP-RN--Cath-Lab_R1032672) | 4d |
-| Early Childhood Teacher 🏠 | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Early-Childhood-Teacher_R1031420) | 4d |
-| Educator- Outpatient Clinical Documentation Integrity 🏠 | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Educator--Outpatient-Clinical-Documentation-Integrity_R1031295) | 4d |
-| Histology Technician 🏠 | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Histology-Technician_R1033128) | 4d |
-| Job Posting Title Registered Nurse (RN) Critical Care - Cath Lab 🏠 | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Job-Posting-Title-Registered-Nurse--RN--Critical-Care---Cath-Lab_R1032705) | 4d |
-| Medical Assistant (MA)-Family Medicine 🏠 | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Medical-Assistant--MA--Family-Medicine_R1031708) | 4d |
-| Medical Assistant (MA) - Family Practice 🏠 | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Medical-Assistant--MA--Family-Pracitice_R1030910) | 4d |
-| Medical Assistant (MA)II - Walk-in Lab 🏠 | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Float_R1032819) | 4d |
-| Medical Assistant (MA)-Foot & Ankle 🏠 | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Foot---Ankle_R1032629) | 4d |
+| Winter Nursing Student Internship - St. John's | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Winter-Nursing-Student-Internship---St-John-s_R1033285-1) | 3d |
+| Registered Nurse (RN)/ Nurse Extern II – May/Summer 2026 New Graduates | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Registered-Nurse--RN---Nurse-Extern-II---May-Summer-2026-New-Graduates_R1033281) | 3d |
+| Patient Care Assistant (PCA)- Medical/Surgical (Med Surg) | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Patient-Care-Assistant--PCA---Medical-Surgical--Med-Surg-_R1033160) | 3d |
+| Cardiovascular Invasive Technologist I - EP | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Cardiovascular-Invasive-Technologist-I---EP_R1029896-1) | 3d |
+| Cardiovascular Invasive Technologist III-Dedicated Call | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Cardiovascular-Invasive-Technologist-III-Dedicated-Call_R1029903) | 3d |
+| Cardiovascular Invasive Technologist II - PRN | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Cardiovascular-Invasive-Technologist-II---PRN_R1029899) | 3d |
+| Pharmacy Technician, PRN | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Pharmacy-Technician--PRN_R1033201) | 4d |
+| Physician Assistant / Nurse Practitioner General Cardiology | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Physician-Assistant---Nurse-Practitioner-General-Cardiology_R1033270) | 4d |
+| Patient Care Assistant | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Patient-Care-Assistant-I_R1033130) | 4d |
+| Patient Care Assistant (CNA) | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Patient-Care-Assistant--CNA-_R1033215) | 4d |
+| Physician Assistant / Nurse Practitioner General Cardiology | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Advanced-Practice-RN---D-_R1030426-1) | 4d |
+| Athletic Trainer Industrial-Caterpillar | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Athletic-Trainer-Industrial-CAT_R1032212) | 4d |
+| CT Technologist--Full-time | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/CT-Technologist--Full-time_R1032445) | 4d |
 
 </details>
 
@@ -398,41 +396,44 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Athletic Training Clinical Educator | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Athletic-Training-Clinical-Educator_R39905-1) | 1d |
 | Dietary Aide - Food and Nutrition - Days PT | South Hill, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/South-Hill-VA/Dietary-Aide---Food-and-Nutrition---Days-PT_R39080-1) | 1d |
 
-### 🔗 **Integrated Health Networks** (97 positions)
+### 🔗 **Integrated Health Networks** (98 positions)
 
 <details>
-<summary><h4>💙 <strong>Allina Health</strong> (42 positions)</h4></summary>
+<summary><h4>💙 <strong>Allina Health</strong> (43 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Summer 2026 Nurse Internship | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Summer-2026-Nurse-Internship_R-0067086) | 2d |
-| Nursing Assistant Neuro | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Nursing-Assistant-Neuro_R-0066022) | 6d |
-| Pharmacy Intern | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/Pharmacy-Intern_R-0067370) | 1d |
-| Emergency Department Medical Technician | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/Emergency-Department-Medical-Technician_R-0066879) | 1d |
-| Cardiologist- Non-Invasive | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Cardiologist--Non-Invasive_R-0065624) | 1d |
-| Medical Assistant Primary Care | Allina Health ndana Square Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Bandana-Square-Clinic/Medical-Assistant-Primary-Care_R-0067375) | 1d |
-| Hospitalist- Internal Medicine (Medical Oncology) | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Cancer-Institute-Abbott-Northwestern-Minneapolis/Hospitalist--Internal-Medicine--Medical-Oncology-_R-0066214) | 1d |
-| Hospitalist- Internal Medicine (Hematology) | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Cancer-Institute-Abbott-Northwestern-Minneapolis/Hospitalist--Internal-Medicine--Hematology-_R-0066222) | 1d |
-| MRI Technologist | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/MRI-Technologist_R-0067352) | 1d |
-| RN Medical Surgical | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/RN-Medical-Surgical_R-0067374-1) | 1d |
-| Neuro Occupational Therapist | Courage Kenny Rehabilitation Institute Golden Valley | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Rehabilitation-Institute-Golden-Valley/Neuro-Occupational-Therapist_R-0067372) | 1d |
-| RN Critical Care Float Pool | St Francis Regional Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/St-Francis-Regional-Medical-Center/RN-Critical-Care-Float-Pool_R-0067241) | 1d |
-| Holter and Stress Test Technician | Waconia Ridgeview Medical | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Waconia-Ridgeview-Medical/Holter-and-Stress-Test-Technician_R-0066697) | 1d |
-| Home Care Visit RN | Allina Commons | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Commons/Home-Care-Visit-RN_R-0067369) | 3d |
+| Summer 2026 Nurse Internship 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Summer-2026-Nurse-Internship_R-0067086) | 2d |
+| Nursing Assistant Neuro 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Nursing-Assistant-Neuro_R-0066022) | 6d |
+| Retail Pharmacy Intern 🏠 | Allina Health Pharmacy St Paul United OP | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Pharmacy-St-Paul-United-OP/Pharmacy-Intern---Outpatient_R-0051510) | 1d |
+| OB/GYN Hospitalist 🏠 | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/OBGYN-Hospitalist_R-0059300) | 1d |
+| Pharmacy Intern 🏠 | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/Pharmacy-Intern_R-0067370) | 1d |
+| Emergency Department Medical Technician 🏠 | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/Emergency-Department-Medical-Technician_R-0066879) | 1d |
+| Cardiologist- Non-Invasive 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Cardiologist--Non-Invasive_R-0065624) | 1d |
+| Medical Assistant Primary Care 🏠 | Allina Health ndana Square Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Bandana-Square-Clinic/Medical-Assistant-Primary-Care_R-0067375) | 1d |
+| Patient Safety and Quality Advisor - Primary Care 🏠 | Allina Commons | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Commons/Patient-Safety-and-Quality-Advisor-Primary-care_R-0067265) | 1d |
+| Hospitalist- Internal Medicine (Medical Oncology) 🏠 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Cancer-Institute-Abbott-Northwestern-Minneapolis/Hospitalist--Internal-Medicine--Medical-Oncology-_R-0066214) | 1d |
+| Hospitalist- Internal Medicine (Hematology) 🏠 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Cancer-Institute-Abbott-Northwestern-Minneapolis/Hospitalist--Internal-Medicine--Hematology-_R-0066222) | 1d |
+| MRI Technologist 🏠 | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/MRI-Technologist_R-0067352) | 1d |
+| RN Medical Surgical 🏠 | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/RN-Medical-Surgical_R-0067374-1) | 1d |
+| Neuro Occupational Therapist 🏠 | Courage Kenny Rehabilitation Institute Golden Valley | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Rehabilitation-Institute-Golden-Valley/Neuro-Occupational-Therapist_R-0067372) | 1d |
+| RN Critical Care Float Pool 🏠 | St Francis Regional Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/St-Francis-Regional-Medical-Center/RN-Critical-Care-Float-Pool_R-0067241) | 1d |
+| Holter and Stress Test Technician 🏠 | Waconia Ridgeview Medical | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Waconia-Ridgeview-Medical/Holter-and-Stress-Test-Technician_R-0066697) | 1d |
 | Pharmacy Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Pharmacy-Heart-Hospital/Pharmacy-Intern_R-0067367) | 3d |
-| Inpatient Pharmacist - Casual 🏠 | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/Inpatient-Pharmacist---Casual_R-0067366) | 3d |
-| Certified Nurse Midwife - Casual 🏠 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Certified-Nurse-Midwife---Casual_R-0067308) | 3d |
-| APP (NP or PA) -Podiatry Limb Salvage 🏠 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/APP--NP-or-PA---Podiatry-Limb-Salvage_R-0067286) | 3d |
-| Diagnostic Imaging Assistant 🏠 | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/Diagnostic-Imaging-Assistant_R-0067364) | 3d |
-| Diagnostic Sonographer- Piper Breast Center 🏠 | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/Diagnostic-Sonographer--Piper-Breast-Center_R-0067365) | 3d |
-| Speech Language Pathologist 🏠 | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/Speech-Language-Pathologist_R-0067272) | 3d |
-| RN Emergency Department - Casual 🏠 | United Hospital - Hastings Regina Campus | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital---Hastings-Regina-Campus/RN-Emergency-Department_R-0067361-1) | 3d |
-| Medical Assistant - Specialties 🏠 | New Ulm Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/New-Ulm-Medical-Center/Medical-Assistant---Specialties_R-0067363) | 3d |
-| Nursing Assistant Cardiac Tele 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Nursing-Assistant-Cardiac-Tele_R-0067351) | 3d |
-| Registered Nurse Critical Care 🏠 | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/Registered-Nurse-Critical-Care_R-0067350) | 3d |
-| Hematology Oncology Physician Minneapolis / St. Paul, MN 🏠 | Allina Health Cancer Institute Abbott Northwestern Minneapolis | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Cancer-Institute-Abbott-Northwestern-Minneapolis/Hematologist-Oncologist_R-0065870) | 3d |
-| LPN Float Pool - Southeast Region 🏠 | Allina Health Woodbury Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Woodbury-Clinic/LPN-Float-Pool---Southeast-Region_R-0067262) | 3d |
-| Registered Nurse Perianesthesia 🏠 | Mercy Hospital Unity Campus | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital-Unity-Campus/Registered-Nurse-Perianesthesia_R-0067345) | 3d |
+| Inpatient Pharmacist - Casual | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/Inpatient-Pharmacist---Casual_R-0067366) | 3d |
+| Certified Nurse Midwife - Casual | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Certified-Nurse-Midwife---Casual_R-0067308) | 3d |
+| APP (NP or PA) -Podiatry Limb Salvage | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/APP--NP-or-PA---Podiatry-Limb-Salvage_R-0067286) | 3d |
+| Diagnostic Imaging Assistant | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/Diagnostic-Imaging-Assistant_R-0067364) | 3d |
+| Diagnostic Sonographer- Piper Breast Center | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/Diagnostic-Sonographer--Piper-Breast-Center_R-0067365) | 3d |
+| Speech Language Pathologist | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/Speech-Language-Pathologist_R-0067272) | 3d |
+| RN Emergency Department - Casual | United Hospital - Hastings Regina Campus | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital---Hastings-Regina-Campus/RN-Emergency-Department_R-0067361-1) | 3d |
+| Medical Assistant - Specialties | New Ulm Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/New-Ulm-Medical-Center/Medical-Assistant---Specialties_R-0067363) | 3d |
+| Home Care Visit RN | Allina Commons | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Commons/Home-Care-Visit-RN_R-0067353) | 3d |
+| Nursing Assistant Cardiac Tele | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Nursing-Assistant-Cardiac-Tele_R-0067351) | 3d |
+| Registered Nurse Critical Care | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/Registered-Nurse-Critical-Care_R-0067350) | 3d |
+| Hematology Oncology Physician Minneapolis / St. Paul, MN | Allina Health Cancer Institute Abbott Northwestern Minneapolis | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Cancer-Institute-Abbott-Northwestern-Minneapolis/Hematologist-Oncologist_R-0065870) | 3d |
+| LPN Float Pool - Southeast Region | Allina Health Woodbury Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Woodbury-Clinic/LPN-Float-Pool---Southeast-Region_R-0067262) | 3d |
+| Registered Nurse Perianesthesia | Mercy Hospital Unity Campus | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital-Unity-Campus/Registered-Nurse-Perianesthesia_R-0067345) | 3d |
 | RN Float Pool 🏠 | Mercy Hospital Unity Campus | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital-Unity-Campus/RN-Float-Pool_R-0067344-1) | 3d |
 | Inpatient Pharmacy Technician 🏠 | St Francis Regional Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/St-Francis-Regional-Medical-Center/Inpatient-Pharmacy-Technician_R-0067342) | 3d |
 | Cook 🏠 | New Ulm Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/New-Ulm-Medical-Center/Cook_R-0067339-1) | 3d |
@@ -445,8 +446,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Medical Assistant Primary Care 🏠 | AH Plymouth Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Plymouth-Clinic/Medical-Assistant-Primary-Care_R-0067321) | 4d |
 | OB/GYN Hospitalist 🏠 | Owatonna Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Owatonna-Hospital/OB-GYN-Hospitalist_R-0067311-1) | 4d |
 | RN Float Pool 🏠 | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/RN-Float-Pool_R-0066784) | 4d |
-| Holter and Stress Test Technician 🏠 | AHMHI xter | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AHMHI-Baxter/Holter-and-Stress-Test-Technician_R-0066456) | 4d |
-| RN Mental Health 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/RN-Mental-Health_R-0067318) | 4d |
 
 </details>
 
@@ -505,11 +504,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse-Emergency Department-Nights | HPH Highland Park Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/Registered-Nurse-Emergency-Department-Nights_R28361?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Occupational Therapist I - Inpatient/Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Occupational-Therapist--Inpatient-Outpatient--Multiple-Locations_R23823?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Physical Therapist Assistant- Inpatient and Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Physical-Therapist-Assistant--Inpatient-and-Outpatient--Multiple-Locations_R23769?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
+| Orthopedics-Spine Physician Assistant | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMO-Elmhurst-755-N-York-Street/Orthopedics-Spine-Physician-Assistant_R34673?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
+| RN - EDW PEDS ED - Evenings | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/RN---EDW-PEDS-ED---Evenings_R32677?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
 | Registered Nurse - GI Lab | HPH Highland Park Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/Registered-Nurse---Evanston_R17862?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
 | Medical Assistant - Float - Western Suburbs | EMO Addison 303 W Lake Street | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMO-Addison-303-W-Lake-Street/Medical-Assistant----Float---Western-Suburbs_R35491?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
 | Patient Service Rep - Family Practice | EDO Naperville 1331 W 75th Street | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Naperville-1331-W-75th-Street/Patient-Service-Rep---Family-Practice_R33546-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
-| Patient Care Technician - Day Surgery Center Para Surgery | NCH 675 W Kirchoff Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-675-W-Kirchoff-Rd-Arlington-Heights/Patient-Care-Technician---Day-Surgery-Center-Para-Surgery_R35407?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 11h |
-| RN - Day Surgery Center Para Surgery | NCH 675 W Kirchoff Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-675-W-Kirchoff-Rd-Arlington-Heights/RN---Day-Surgery-Center-Operating-Room_R35214?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 11h |
 
 </details>
 
@@ -521,7 +520,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (40 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (21) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (49)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (41 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (21) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (49)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -537,27 +536,27 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 128 | 35% | No or minimal experience |
-| 🟡 Beginner & Early Career | 82 | 22% | 1-2 years of experience |
-| 🔴 Manager     | 157 | 43% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 127 | 35% | No or minimal experience |
+| 🟡 Beginner & Early Career | 66 | 18% | 1-2 years of experience |
+| 🔴 Manager     | 173 | 47% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
+- **Multiple Cities**: 34 positions
 - **Nashville, TN**: 34 positions
-- **Multiple Cities**: 33 positions
-- **Springfield, IL**: 17 positions
-- **Mercy Hospital**: 14 positions
+- **Springfield, IL**: 16 positions
+- **Mercy Hospital**: 15 positions
 - **O'Fallon, IL**: 11 positions
-- **EDH in Hospital Naperville**: 10 positions
+- **EDH in Hospital Naperville**: 11 positions
+- **NYP/Columbia University Irving Medical Center**: 9 positions
 - **500P Hospital - J/K/L/M Patient - PALO ALTO**: 9 positions
-- **Akron General Medical Center**: 8 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 367+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 366+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -685,7 +684,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **367 current opportunities from 9 elite companies.**
+🎯 **366 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
