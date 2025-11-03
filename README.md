@@ -499,10 +499,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse-Emergency Department-Nights | HPH Highland Park Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/Registered-Nurse-Emergency-Department-Nights_R28361?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Occupational Therapist I - Inpatient/Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Occupational-Therapist--Inpatient-Outpatient--Multiple-Locations_R23823?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Physical Therapist Assistant- Inpatient and Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Physical-Therapist-Assistant--Inpatient-and-Outpatient--Multiple-Locations_R23769?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
-| Sterile Processing Tech - Days | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Sterile-Processing-Tech---Days_R35527?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
-| Sterile Processing Tech - Evenings | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Sterile-Processing-Tech---Evenings_R35525-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
-| Certified Sterile Processing Tech - Evenings | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Certified-Sterile-Processing-Tech---Evenings_R35010?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
-| Registered Nurse - NICU - Nights | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Registered-Nurse---NICU---Nights_R26759?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
+| Patient Care Technician - Day Surgery Center Para Surgery | NCH 675 W Kirchoff Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-675-W-Kirchoff-Rd-Arlington-Heights/Patient-Care-Technician---Day-Surgery-Center-Para-Surgery_R35407?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
+| RN - Day Surgery Center Para Surgery | NCH 675 W Kirchoff Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-675-W-Kirchoff-Rd-Arlington-Heights/RN---Day-Surgery-Center-Operating-Room_R35214?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
+| RN - ICU - Days and Nights | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Registered-Nurse-ICU-Day-Night_R33919?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
+| RN - Cardiac Neuro ICU - CNICU - Days | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Registered-Nurse---CNICU---Days_R33594?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 9h |
 
 </details>
 
@@ -531,8 +531,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 129 | 36% | No or minimal experience |
-| 🟡 Beginner & Early Career | 63 | 18% | 1-2 years of experience |
-| 🔴 Manager     | 168 | 47% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 80 | 22% | 1-2 years of experience |
+| 🔴 Manager     | 151 | 42% | 2+ years of experience |
 
 ---
 
