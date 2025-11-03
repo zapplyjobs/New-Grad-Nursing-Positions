@@ -982,5 +982,35 @@
     "job_title": "Registered Nurse-Emergency Department-Night",
     "company": "Endeavor Health",
     "first_seen": "2025-11-03T19:07:21.032Z"
+  },
+  "cleaveland-clinic-registered-nurse--inpatient-virtual-support-(located-at-crystal-terrace),-icu-experience-preferred,-ft-(noon--930p)--vuh-nashville": {
+    "assigned_date": "2025-11-03T19:38:34.947Z",
+    "job_title": "Registered Nurse- Inpatient Virtual Support (Located at Crystal Terrace), ICU experience preferred, FT (Noon- 930p)- VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-03T19:38:34.947Z"
+  },
+  "cleaveland-clinic-registered-nurse--neuro-icu--ft-nights--vuh-nashville": {
+    "assigned_date": "2025-11-03T19:38:34.947Z",
+    "job_title": "Registered Nurse- Neuro ICU- FT Nights- VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-03T19:38:34.947Z"
+  },
+  "cleaveland-clinic-registered-nurse,-surgical-cvicu,-ft-nights--vuh-nashville": {
+    "assigned_date": "2025-11-03T19:38:34.947Z",
+    "job_title": "Registered Nurse, Surgical CVICU, FT Nights- VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-03T19:38:34.947Z"
+  },
+  "cleaveland-clinic-registered-nurse,-medical-cvicu-(cardiac-progressive-care/step-down),-ft-nights--vuh-nashville": {
+    "assigned_date": "2025-11-03T19:38:34.947Z",
+    "job_title": "Registered Nurse, Medical CVICU (Cardiac Progressive Care/Step-Down), FT Nights- VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-03T19:38:34.947Z"
+  },
+  "cleaveland-clinic-registered-nurse,-medical-cvicu,-ft-nights--vuh-nashville": {
+    "assigned_date": "2025-11-03T19:38:34.947Z",
+    "job_title": "Registered Nurse, Medical CVICU, FT Nights- VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-03T19:38:34.947Z"
   }
 }
