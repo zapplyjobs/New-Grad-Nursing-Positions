@@ -808,5 +808,23 @@
     "job_title": "RN - Cardiac Neuro ICU - CNICU - Days",
     "company": "Endeavor Health",
     "first_seen": "2025-11-02T20:08:27.039Z"
+  },
+  "endeavor-health-patient-care-technician---day-surgery-center-para-surgery-nch-675-w-kirchoff-rd-arlington-heights": {
+    "assigned_date": "2025-11-03T04:49:54.694Z",
+    "job_title": "Patient Care Technician - Day Surgery Center Para Surgery",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-03T04:49:54.694Z"
+  },
+  "endeavor-health-rn---day-surgery-center-para-surgery-nch-675-w-kirchoff-rd-arlington-heights": {
+    "assigned_date": "2025-11-03T04:49:54.694Z",
+    "job_title": "RN - Day Surgery Center Para Surgery",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-03T04:49:54.694Z"
+  },
+  "endeavor-health-rn---icu---days-and-nights-evh-evanston-hospital": {
+    "assigned_date": "2025-11-03T04:49:54.694Z",
+    "job_title": "RN - ICU - Days and Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-03T04:49:54.694Z"
   }
 }
