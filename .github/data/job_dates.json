@@ -1162,5 +1162,23 @@
     "job_title": "RN - Pre Admission Testing - Per Diem - Days",
     "company": "Endeavor Health",
     "first_seen": "2025-11-04T02:19:21.123Z"
+  },
+  "cleaveland-clinic-licensed-practical-nurse-float-nashville": {
+    "assigned_date": "2025-11-04T02:54:28.001Z",
+    "job_title": "Licensed Practical Nurse Float",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-04T02:54:28.001Z"
+  },
+  "cleaveland-clinic-licensed-practical-nurse---spine-clinic-nashville": {
+    "assigned_date": "2025-11-04T02:54:28.001Z",
+    "job_title": "Licensed Practical Nurse - Spine Clinic",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-04T02:54:28.001Z"
+  },
+  "endeavor-health-gap-year-patient-care-technician---critical-care---days-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-04T02:54:28.001Z",
+    "job_title": "Gap Year Patient Care Technician - Critical Care - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-04T02:54:28.001Z"
   }
 }
