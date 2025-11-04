@@ -1438,5 +1438,17 @@
     "job_title": "Rep Family/Guest Services",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-04T20:09:18.549Z"
+  },
+  "cleaveland-clinic-medical-assistant-float-nashville": {
+    "assigned_date": "2025-11-04T20:40:14.446Z",
+    "job_title": "Medical Assistant Float",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-04T20:40:14.446Z"
+  },
+  "cleaveland-clinic-nurse-practitioner/physician-assistant---ortho-(inpatient)-nashville": {
+    "assigned_date": "2025-11-04T20:40:14.446Z",
+    "job_title": "Nurse Practitioner/Physician Assistant - Ortho (Inpatient)",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-04T20:40:14.446Z"
   }
 }
