@@ -1120,5 +1120,23 @@
     "job_title": "Patient Service Representative",
     "company": "Endeavor Health",
     "first_seen": "2025-11-04T00:27:48.833Z"
+  },
+  "endeavor-health-rn---critical-care---nights-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-04T01:36:18.052Z",
+    "job_title": "RN - Critical Care - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-04T01:36:18.052Z"
+  },
+  "endeavor-health-rn---icu---nights-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-04T01:36:18.052Z",
+    "job_title": "RN - ICU - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-04T01:36:18.052Z"
+  },
+  "endeavor-health-rn---critical-care-unit---days-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-04T01:36:18.052Z",
+    "job_title": "RN - Critical Care Unit - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-04T01:36:18.052Z"
   }
 }
