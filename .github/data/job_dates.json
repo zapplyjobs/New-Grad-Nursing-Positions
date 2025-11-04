@@ -1486,5 +1486,17 @@
     "job_title": "Registered Nurse - NICU - Nights -Per Diem",
     "company": "Endeavor Health",
     "first_seen": "2025-11-04T22:34:12.890Z"
+  },
+  "cleaveland-clinic-infection-preventionist-nashville": {
+    "assigned_date": "2025-11-04T22:47:10.817Z",
+    "job_title": "Infection Preventionist",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-04T22:47:10.817Z"
+  },
+  "cleaveland-clinic-heart-station-tech-nashville": {
+    "assigned_date": "2025-11-04T22:47:10.817Z",
+    "job_title": "Heart Station Tech",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-04T22:47:10.817Z"
   }
 }
