@@ -1138,5 +1138,29 @@
     "job_title": "RN - Critical Care Unit - Days",
     "company": "Endeavor Health",
     "first_seen": "2025-11-04T01:36:18.052Z"
+  },
+  "endeavor-health-patient-care-technician---3es-med-surgical---days-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-04T02:19:21.123Z",
+    "job_title": "Patient Care Technician - 3ES Med Surgical - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-04T02:19:21.123Z"
+  },
+  "endeavor-health-rn---pre-admission-testing---days-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-04T02:19:21.123Z",
+    "job_title": "RN - Pre Admission Testing - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-04T02:19:21.123Z"
+  },
+  "endeavor-health-rn---peri-anesthesia---per-diem---days-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-04T02:19:21.123Z",
+    "job_title": "RN - Peri Anesthesia - Per Diem - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-04T02:19:21.123Z"
+  },
+  "endeavor-health-rn---pre-admission-testing---per-diem---days-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-04T02:19:21.123Z",
+    "job_title": "RN - Pre Admission Testing - Per Diem - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-04T02:19:21.123Z"
   }
 }
