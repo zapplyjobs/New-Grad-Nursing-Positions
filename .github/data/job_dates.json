@@ -1402,5 +1402,17 @@
     "job_title": "CYTOTECHNOLOGIST",
     "company": "Endeavor Health",
     "first_seen": "2025-11-04T19:07:44.210Z"
+  },
+  "endeavor-health-radiologic-technologist-ii---per-diem-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-04T19:20:28.181Z",
+    "job_title": "Radiologic Technologist II - Per Diem",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-04T19:20:28.181Z"
+  },
+  "endeavor-health-radiologic-technologist-ii---nights-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-04T19:20:28.181Z",
+    "job_title": "Radiologic Technologist II - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-04T19:20:28.181Z"
   }
 }
