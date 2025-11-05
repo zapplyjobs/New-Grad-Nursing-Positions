@@ -1624,5 +1624,29 @@
     "job_title": "Respiratory Therapist RRT - Nights",
     "company": "Endeavor Health",
     "first_seen": "2025-11-05T14:11:02.434Z"
+  },
+  "cleaveland-clinic-phlebotomist-nashville": {
+    "assigned_date": "2025-11-05T14:41:05.876Z",
+    "job_title": "Phlebotomist",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-05T14:41:05.876Z"
+  },
+  "endeavor-health-phlebotomist---outpatient-multiple-cities": {
+    "assigned_date": "2025-11-05T14:41:05.876Z",
+    "job_title": "Phlebotomist - Outpatient",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-05T14:41:05.876Z"
+  },
+  "endeavor-health-mri-technologist-ii---nights-edh-in-hospital-naperville": {
+    "assigned_date": "2025-11-05T14:41:05.876Z",
+    "job_title": "MRI Technologist II - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-05T14:41:05.876Z"
+  },
+  "endeavor-health-registered-nurse---gi---days-edh-in-hospital-naperville": {
+    "assigned_date": "2025-11-05T14:41:05.876Z",
+    "job_title": "Registered Nurse - GI - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-05T14:41:05.876Z"
   }
 }
