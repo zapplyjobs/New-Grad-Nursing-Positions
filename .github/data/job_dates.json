@@ -1582,5 +1582,29 @@
     "job_title": "VIP PRN Registered Nurse",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-05T06:11:39.666Z"
+  },
+  "cleaveland-clinic-lab-associate-2-clinical-nashville": {
+    "assigned_date": "2025-11-05T13:52:01.534Z",
+    "job_title": "Lab Associate 2 Clinical",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-05T13:52:01.534Z"
+  },
+  "cleaveland-clinic-histotechnologist-2-clinical-nashville": {
+    "assigned_date": "2025-11-05T13:52:01.534Z",
+    "job_title": "Histotechnologist 2 Clinical",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-05T13:52:01.534Z"
+  },
+  "endeavor-health-patient-care-technician---ambulatory-surgery-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-11-05T13:52:01.535Z",
+    "job_title": "Patient Care Technician - Ambulatory Surgery",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-05T13:52:01.535Z"
+  },
+  "endeavor-health-unit-secretary,-ambulatory-surgery-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-11-05T13:52:01.535Z",
+    "job_title": "Unit Secretary, Ambulatory Surgery",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-05T13:52:01.535Z"
   }
 }
