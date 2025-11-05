@@ -1,6 +1,4 @@
 [
-  "amd-client-group-senior-platform-program-manager-us",
-  "amd-client-ml-performance-lead-us",
   "amd-cloud-administrator-us",
   "amd-compiler-engineer-runtime-c-frameworks-us",
   "amd-corp-vice-president-product-management-data-center-gpu-us",
@@ -2454,6 +2452,7 @@
   "cleaveland-clinic-rn-surgery-resident-cardiac-surgery-cleveland-clinic-main-campus",
   "cleaveland-clinic-rn-surgery-resident-i-general-or-cleveland-clinic-main-campus",
   "cleaveland-clinic-rn-surgery-resident-or-gynecology-cleveland-clinic-in-campus",
+  "cleaveland-clinic-rn-surgery-resident-vascular-or-cleveland-clinic-in-campus",
   "cleaveland-clinic-rn-surgery-resident-vascular-or-cleveland-clinic-main-campus",
   "cleaveland-clinic-rn-surgery-weekender-flex-liver-transplant-team-cleveland-clinic-main-campus",
   "cleaveland-clinic-rn-surgery-weekender-flex-or-cardiac-nights-cleveland-clinic-main-campus",
@@ -9463,6 +9462,7 @@
   "vcu-health-patient-care-technician-pediatric-emergency-department-rotating-richmond",
   "vcu-health-patient-concierge-representative-adult-outpatient-pavilion-days-richmond",
   "vcu-health-patient-concierge-representative-liver-transplant-days-richmond",
+  "vcu-health-patient-concierge-representative-transplant-days-richmond",
   "vcu-health-patient-financial-clearance-representative-adult-outpatient-pavilion-richmond",
   "vcu-health-patient-financial-clearance-representative-one-capital-square-richmond",
   "vcu-health-patient-safety-associate-acute-care-nights-south-hill",
