@@ -1648,5 +1648,17 @@
     "job_title": "Registered Nurse - GI - Days",
     "company": "Endeavor Health",
     "first_seen": "2025-11-05T14:41:05.876Z"
+  },
+  "endeavor-health-patient-support-assistant---cancer-center---days-evh-kellogg-cancer-center-evanston": {
+    "assigned_date": "2025-11-05T15:12:13.512Z",
+    "job_title": "Patient Support Assistant - Cancer Center - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-05T15:12:13.512Z"
+  },
+  "endeavor-health-registered-nurse---endoscopy---days-edh-in-hospital-naperville": {
+    "assigned_date": "2025-11-05T15:12:13.512Z",
+    "job_title": "Registered Nurse - Endoscopy - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-05T15:12:13.512Z"
   }
 }
