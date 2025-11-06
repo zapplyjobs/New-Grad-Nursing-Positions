@@ -1918,5 +1918,17 @@
     "job_title": "Licensed Practical Nurse - Surgical Clinic",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-06T01:36:19.903Z"
+  },
+  "cleaveland-clinic-licensed-practical-nurse---primary-care-clinic---vav-nashville": {
+    "assigned_date": "2025-11-06T02:21:00.856Z",
+    "job_title": "Licensed Practical Nurse - Primary Care Clinic - VAV",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-06T02:21:00.856Z"
+  },
+  "cleaveland-clinic-hc-licensed-practical-nurse---boot-camp---private-duty-nashville": {
+    "assigned_date": "2025-11-06T02:21:00.856Z",
+    "job_title": "HC Licensed Practical Nurse - Boot Camp - Private Duty",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-06T02:21:00.856Z"
   }
 }
