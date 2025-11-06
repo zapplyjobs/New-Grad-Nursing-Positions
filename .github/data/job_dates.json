@@ -2140,5 +2140,59 @@
     "job_title": "Safety Officer",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-06T22:47:00.401Z"
+  },
+  "endeavor-health-patient-care-technician---short-stay/obv---days-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-06T23:32:09.262Z",
+    "job_title": "Patient Care Technician - Short Stay/OBV - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-06T23:32:09.262Z"
+  },
+  "endeavor-health-medical-assistant-/-patient-service-representative---dermatology-multiple-cities": {
+    "assigned_date": "2025-11-06T23:32:09.262Z",
+    "job_title": "Medical Assistant / Patient Service Representative - Dermatology",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-06T23:32:09.262Z"
+  },
+  "endeavor-health-patient-care-technician-emergency-department-evening-evh-evanston-hospital": {
+    "assigned_date": "2025-11-06T23:32:09.262Z",
+    "job_title": "Patient Care Technician-Emergency Department-Evening",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-06T23:32:09.262Z"
+  },
+  "endeavor-health-rn---short-stay/obv---days-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-06T23:32:09.262Z",
+    "job_title": "RN - Short Stay/OBV - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-06T23:32:09.262Z"
+  },
+  "endeavor-health-rn---short-stay/obv---nights-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-06T23:32:09.262Z",
+    "job_title": "RN - Short Stay/OBV - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-06T23:32:09.262Z"
+  },
+  "endeavor-health-behavioral-health-integration-clinician-ii--medical-group,-behavioral-health-integration--days-swh-foster-medical-pavilion-chicago": {
+    "assigned_date": "2025-11-06T23:32:09.262Z",
+    "job_title": "Behavioral Health Integration Clinician II- Medical Group, Behavioral Health Integration- Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-06T23:32:09.262Z"
+  },
+  "endeavor-health-rn---ap5-med/surg/tele/oncology/obv---nights-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-06T23:32:09.262Z",
+    "job_title": "RN - AP5 Med/Surg/Tele/Oncology/OBV - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-06T23:32:09.262Z"
+  },
+  "endeavor-health-rn---ap5-med/surg/tele/oncology/obv---days-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-06T23:32:09.262Z",
+    "job_title": "RN - AP5 Med/Surg/Tele/Oncology/OBV - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-06T23:32:09.262Z"
+  },
+  "endeavor-health-rn---5e-neuro/stroke/tele---days-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-06T23:32:09.262Z",
+    "job_title": "RN - 5E Neuro/Stroke/Tele - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-06T23:32:09.262Z"
   }
 }
