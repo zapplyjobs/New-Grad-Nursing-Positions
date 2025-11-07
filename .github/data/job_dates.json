@@ -2452,5 +2452,35 @@
     "job_title": "Registered Nurse-Surgical Stepdown-Day/NOC",
     "company": "Endeavor Health",
     "first_seen": "2025-11-07T21:28:50.743Z"
+  },
+  "cleaveland-clinic-er-medical-receptionist-prn-shelbyville": {
+    "assigned_date": "2025-11-07T21:46:23.431Z",
+    "job_title": "ER Medical Receptionist PRN",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-07T21:46:23.431Z"
+  },
+  "cleaveland-clinic-care-partner---emergency-services-(nights)-(wilson-county)-lebanon": {
+    "assigned_date": "2025-11-07T21:46:23.431Z",
+    "job_title": "Care Partner - Emergency Services (Nights) (Wilson County)",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-07T21:46:23.431Z"
+  },
+  "cleaveland-clinic-care-partner---emergency-services-(prn)-(wilson-county)-lebanon": {
+    "assigned_date": "2025-11-07T21:46:23.431Z",
+    "job_title": "Care Partner - Emergency Services (PRN) (Wilson County)",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-07T21:46:23.431Z"
+  },
+  "endeavor-health-environmental-services-technician-ii,-swedish-hospital,-evenings-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-07T21:46:23.431Z",
+    "job_title": "Environmental Services Technician II, Swedish Hospital, Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-07T21:46:23.431Z"
+  },
+  "endeavor-health-registered-nurse---radiation-oncology---days-multiple-cities": {
+    "assigned_date": "2025-11-07T21:46:23.431Z",
+    "job_title": "Registered Nurse - Radiation Oncology - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-07T21:46:23.431Z"
   }
 }
