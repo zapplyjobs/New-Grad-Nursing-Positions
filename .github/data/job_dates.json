@@ -2260,5 +2260,23 @@
     "job_title": "Cashier",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-07T16:52:06.962Z"
+  },
+  "endeavor-health-radiologist-physician--swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-07T17:00:16.623Z",
+    "job_title": "Radiologist-Physician-",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-07T17:00:16.623Z"
+  },
+  "endeavor-health-radiologist--physician-9-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-07T17:00:16.623Z",
+    "job_title": "Radiologist- Physician-9",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-07T17:00:16.623Z"
+  },
+  "endeavor-health-registered-nurse-plainfield-emergency-department-evening-edo-plainfield-w-127th-street": {
+    "assigned_date": "2025-11-07T17:00:16.623Z",
+    "job_title": "Registered Nurse-Plainfield Emergency Department-Evening",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-07T17:00:16.623Z"
   }
 }
