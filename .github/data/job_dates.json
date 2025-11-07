@@ -2290,5 +2290,23 @@
     "job_title": "Medical Assistant - Immediate Care",
     "company": "Endeavor Health",
     "first_seen": "2025-11-07T17:38:20.999Z"
+  },
+  "endeavor-health-ct-technologist-iii---days/evenings-nch-880-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-07T18:25:23.996Z",
+    "job_title": "CT Technologist III - Days/Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-07T18:25:23.996Z"
+  },
+  "endeavor-health-radiologic-technologist-iii---days-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-07T18:25:23.996Z",
+    "job_title": "Radiologic Technologist III - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-07T18:25:23.996Z"
+  },
+  "endeavor-health-anesthesiologist-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-07T18:25:23.996Z",
+    "job_title": "Anesthesiologist",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-07T18:25:23.996Z"
   }
 }
