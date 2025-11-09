@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-289-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-292-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 289+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 292+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 289 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 292 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** November 9, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -372,7 +372,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Pharmacy Technician PRN - Hope Pharmacy | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Pharmacy-Technician-PRN---Hope-Pharmacy_R39401-2) | 1d |
 | Pediatric Infusion Registered Nurse (RN) - Children's Outpatient - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Pediatric-Infusion-Registered-Nurse--RN----Children-s-Outpatient---Days_R39826) | 1d |
 
-### 🔗 **Integrated Health Networks** (45 positions)
+### 🔗 **Integrated Health Networks** (48 positions)
 
 <details>
 <summary><h4>💙 <strong>Allina Health</strong> (36 positions)</h4></summary>
@@ -418,19 +418,22 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-#### 🏨 **Endeavor Health** (9 positions)
+#### 🏨 **Endeavor Health** (12 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Registered Nurse - GI Lab | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/Registered-Nurse---GI-Lab_R35834?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | CYTOTECHNOLOGIST | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/CYTOTECHNOLOGIST_R23293?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
+| Patient Access Representative - Emergency - Days | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Patient-Access-Rep---Emergency---Days_R34471?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
+| Patient Access Representative- Bolingbrook, IL - (20 hours) | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Bolingbrook-130-N-Weber-Road/Patient-Access-Representative_R28860?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
+| Patient Access Representative-North Naperville, IL (Part Time- 20 hours) | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Naperville-2007-95th-Street/Patient-Access-Representative-North-Naperville--IL--Part-Time--20-hours-_R34617?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
+| Patient Access Representative- Naperville, IL (Part-Time) | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Naperville-1331-W-75th-Street/Patient-Access-Representative--Naperville--IL--Part-Time-_R33149?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
 | RN - Short Stay/OBV - Nights | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/RN---Short-Stay-OBV---Nights_R35322?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Registered Nurse | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Registered-Nurse_R35301?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
 | Physical Therapist I - Outpatient - Days/Evenings | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-1000-Central-St-Evanston/Physical-Therapist-II---Outpatient---Days-Evenings_R29245?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Administrative Assistant | SKH Skokie Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SKH-Skokie-Hospital/Administrative-Assistant-III_R34229?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Medical Assistant - Neuroscience | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-MOB-2-Naperville-120-Spalding-Drive/Medical-Assistant---Neuroscience_R35781?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Patient Care Technician-Naperville Emergency Department - Night Shift | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Patient-Care-Technician_R35354?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Environmental Services Technician II, Swedish Hospital, Evenings | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Environmental-Services-Technician-II--Swedish-Hospital--Evenings_R35863?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
 
 
@@ -448,7 +451,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 
 #### 🔗 **Regional Health Networks** (1 company)
-🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (9 positions)
+🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (12 positions)
 
 ---
 
@@ -456,16 +459,16 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 103 | 36% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 103 | 35% | No or minimal experience |
 | 🟡 Beginner & Early Career | 40 | 14% | 1-2 years of experience |
-| 🔴 Manager     | 146 | 51% | 2+ years of experience |
+| 🔴 Manager     | 149 | 51% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 30 positions
+- **Multiple Cities**: 16 positions
 - **Lutheran Hospital**: 14 positions
-- **Multiple Cities**: 13 positions
 - **Green Bay, WI**: 12 positions
 - **NYP/Weill Cornell Medical Center**: 10 positions
 - **O'Fallon, IL**: 9 positions
@@ -476,7 +479,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 289+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 292+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -692,7 +695,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **289 current opportunities from 9 elite companies.**
+🎯 **292 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
