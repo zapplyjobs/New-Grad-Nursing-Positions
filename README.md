@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-286-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-287-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 286+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 287+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,11 +61,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 286 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 287 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** November 9, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Healthcare Jobs:** 102 (older than 1 week)
+- 📁 **Archived Healthcare Jobs:** 101 (older than 1 week)
 
 
 ---
@@ -159,6 +159,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Barista - NYP-CUIMC - Part-Time - Rotating Shifts (Evening and Overnight) w/Weekends and Holidays Schedules | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Barista---NYP-CUIMC---Part-Time---Rotating-Shifts--Evening-and-Overnight--w-Weekends-and-Holidays-Schedules_00871108-2) | 1d |
 | Psychiatric Intensive Care Unit - 6N Registered Nurse F/T Nights | NYP/Brooklyn Methodist Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Psychiatric-Intensive-Care-Unit---6N-Registered-Nurse-F-T-Nights_00873146-1) | 1d |
 | Clinical Nurse - Neonatal ICU - Part Time- Nights | NYP/Morgan Stanley Children's Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPMorgan-Stanley-Childrens-Hospital/Clinical-Nurse---Neonatal-ICU---Part-Time--Nights_00871327) | 2d |
 | Nutrition Assistant - Cornell - Part Time - Rotating Shifts | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Nutrition-Assistant---Cornell---Part-Time---Rotating-Shifts_00873354) | 2d |
@@ -201,7 +202,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Dietitian - Clinical Nutritionist - Columbia - Outpatient - Full Time | Ambulatory NYP/CU | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/Ambulatory-NYPCU/Registered-Dietitian---Clinical-Nutritionist---Columbia---Outpatient---Full-Time_00872948-1) | 4d |
 | Attending Psychiatrist - Occupational Psychiatry | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Attending-Psychiatrist---Occupational-Psychiatry_00871290) | 4d |
 | Certified MRI Technologist - Per Diem - NYP/CNYPAI | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Certified-MRI-Technologist---Per-Diem---NYP-CNYPAI_00873639) | 4d |
-| Community Health Social Worker – Health4Life Program – Part-Time - Queens | NYP/Queens | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPQueens/Community-Health-Social-Worker---NYP-Health4Life-Program---Part-Time---Queens_00873516) | 4d |
 
 </details>
 
@@ -337,7 +337,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### 🎓 **Academic Medical Centers** (17 positions)
+### 🎓 **Academic Medical Centers** (18 positions)
 
 #### 📚 **University of Rochester Medical Center** (11 positions)
 
@@ -355,7 +355,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Pediatric Emergency Department - Registered Nurse, Level | Strong Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Pediatric-Emergency-Department---Registered-Nurse--Level-1_R266029?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
 | Regional Medical Oncology located at Myers Cancer Center, Dansville, NY - Nurse Practitioner/Physician Assistant | Strong Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Regional-Medical-Oncology-located-at-Myers-Cancer-Center--Dansville--NY---Nurse-Practitioner-Physician-Assistant_R266009?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
 
-#### 🏥 **VCU Health** (6 positions)
+#### 🏥 **VCU Health** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -365,6 +365,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Security Officer - Security - Nights | South Hill, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/South-Hill-VA/Security-Officer---Security---Nights_R40112) | 2d |
 | Patient Access Representative - Revenue Cycle | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Patient-Access-Representative---Revenue-Cycle_R39508-1) | 2d |
 | Pharmacy Technician PRN - Hope Pharmacy | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Pharmacy-Technician-PRN---Hope-Pharmacy_R39401-2) | 2d |
+| Pediatric Infusion Registered Nurse (RN) - Children's Outpatient - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Pediatric-Infusion-Registered-Nurse--RN----Children-s-Outpatient---Days_R39826) | 2d |
 
 ### 🔗 **Integrated Health Networks** (48 positions)
 
@@ -418,9 +419,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Registered Nurse - GI Lab | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/Registered-Nurse---GI-Lab_R35834?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | CYTOTECHNOLOGIST | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/CYTOTECHNOLOGIST_R23293?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
-| Patient Access Representative - Emergency - Days | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Patient-Access-Rep---Emergency---Days_R34471?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 17h |
-| Patient Access Representative- Bolingbrook, IL - (20 hours) | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Bolingbrook-130-N-Weber-Road/Patient-Access-Representative_R28860?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 17h |
-| Patient Access Representative-North Naperville, IL (Part Time- 20 hours) | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Naperville-2007-95th-Street/Patient-Access-Representative-North-Naperville--IL--Part-Time--20-hours-_R34617?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 17h |
+| Patient Access Representative - Emergency - Days | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Patient-Access-Rep---Emergency---Days_R34471?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 18h |
+| Patient Access Representative- Bolingbrook, IL - (20 hours) | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Bolingbrook-130-N-Weber-Road/Patient-Access-Representative_R28860?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 18h |
+| Patient Access Representative-North Naperville, IL (Part Time- 20 hours) | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Naperville-2007-95th-Street/Patient-Access-Representative-North-Naperville--IL--Part-Time--20-hours-_R34617?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 18h |
 | Patient Access Representative- Naperville, IL (Part-Time) | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Naperville-1331-W-75th-Street/Patient-Access-Representative--Naperville--IL--Part-Time-_R33149?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
 | RN - Short Stay/OBV - Nights | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/RN---Short-Stay-OBV---Nights_R35322?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Registered Nurse | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Registered-Nurse_R35301?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
@@ -441,7 +442,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
-📚 **[University of Rochester Medical Center](https://rochester.wd5.myworkdayjobs.com/UR_Nursing)** (11 positions) • 🏥 **[VCU Health](https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers)** (6)
+📚 **[University of Rochester Medical Center](https://rochester.wd5.myworkdayjobs.com/UR_Nursing)** (11 positions) • 🏥 **[VCU Health](https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers)** (7)
 
 
 #### 🔗 **Regional Health Networks** (1 company)
@@ -453,9 +454,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 93 | 33% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 93 | 32% | No or minimal experience |
 | 🟡 Beginner & Early Career | 40 | 14% | 1-2 years of experience |
-| 🔴 Manager     | 153 | 53% | 2+ years of experience |
+| 🔴 Manager     | 154 | 54% | 2+ years of experience |
 
 ---
 
@@ -473,7 +474,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 286+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 287+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -520,13 +521,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 102 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 101 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 102 positions
+📁 **Total Jobs:** 101 positions
 🏢 **Companies:** 9 companies
 
 
@@ -562,7 +563,7 @@ Either still hiring or useful for research.
 | Telemetry Technician | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Telemetry-Technician_R1032441) | 1w |
 | Epic Analyst II-MyChart | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Epic-Analyst-II-MyChart_R1031805) | 1w |
 
-### 🎓 **Academic Medical Centers** (43 positions)
+### 🎓 **Academic Medical Centers** (42 positions)
 
 <details>
 <summary><h4>📚 <strong>University of Rochester Medical Center</strong> (35 positions)</h4></summary>
@@ -607,13 +608,12 @@ Either still hiring or useful for research.
 
 </details>
 
-#### 🏥 **VCU Health** (8 positions)
+#### 🏥 **VCU Health** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Oncology Nurse Patient Navigator - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Oncology-Nurse-Patient-Navigator---Days_R38892-2) | 1w |
 | Licensed Practical Nurse (LPN) - Pre-admission Testing - PACE Clinic - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Licensed-Practical-Nurse--LPN----Pre-admission-Testing---PACE-Clinic---Days_R39626) | 1w |
-| Sterile Processing Technician – Central Sterile Processing – Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Sterile-Processing-Technician---Central-Sterile-Processing---Days_R28475-1) | 1w |
 | Nurse Clinician (RN) - Operating Room - Days | South Hill, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/South-Hill-VA/Nurse-Clinician--RN--CMH-Perioperative-Services---Days_R24490-1) | 1w |
 | Clinical Nurse Administrator (RN) - Tappahannock - Part-Time Varied | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Clinical-Nurse-Administrator--RN----Tappahannock---Part-Time-Varied_R39671) | 1w |
 | Laboratory Scientist/MLS/CLS/MT – New Kent ED – Evenings | New Kent, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/New-Kent-VA/Laboratory-Scientist-MLS-CLS-MT---New-Kent-ED---Evenings_R39717-1) | 2w |
@@ -687,7 +687,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **286 current opportunities from 9 elite companies.**
+🎯 **287 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
