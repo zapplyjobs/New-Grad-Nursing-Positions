@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-287-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-289-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 287+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 289+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 287 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 289 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** November 10, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -72,13 +72,20 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (139 positions)
+### ⭐ **Elite Medical Centers** (141 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (78 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (80 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| CT Technologist | Euclid Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Euclid-Hospital/CT-Technologist_320643) | 1d |
+| Diagnostic Medical Sonographer | Euclid Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Euclid-Hospital/Diagnostic-Medical-Sonographer_319564) | 1d |
+| RN – ICU | South Pointe Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/South-Pointe-Hospital/RN---ICU_314032) | 1d |
+| Registered Radiology Technologist | Twinsburg Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Twinsburg-Family-Health-Center/Registered-Radiology-Technologist_313951) | 1d |
+| MRI Technologist | Twinsburg Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Twinsburg-Family-Health-Center/MRI-Technologist_320183-1) | 1d |
+| Registered Radiology Technologist | Solon Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Solon-Family-Health-Center/Registered-Radiology-Technologist_320368-1) | 1d |
+| Mammography Technologist | Hillcrest Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/Mammography-Technologist_320377) | 1d |
 | Registered Radiology Technologist - 7 On/7 Off (Open) | Euclid Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Euclid-Hospital/Registered-Radiology-Technologist---7-On-7-Off--Open-_295975) | 1d |
 | Clinical Speech Pathologist - Pediatrics - Center for Autism, | Childrens Center for Autism Rocky River | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Childrens-Center-for-Autism-Rocky-River/Clinical-Speech-Pathologist---Pediatrics---Center-for-Autism-_310973) | 1d |
 | PRN RN – Emergency Department (ED) | Green Health and Wellness | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Green-Health-and-Wellness/PRN-RN---Emergency-Department--ED-_319396) | 1d |
@@ -113,11 +120,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | New Grad RN Resident - Medical/Surgical | Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/RN-Resident---Medical-Surgical_303750) | 3d |
 | RN - Pre-OP/PACU (part time) | Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/RN-Pre-OP--PACU_299942) | 3d |
 | RN - Geriatric Psychiatry | Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/RN-geriatric-psych-PRN_295703) | 3d |
-| RN - Orthopaedic and Spine | Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/PRN-RN---Orthopaedic-and-Spine_294802) | 3d |
-| New Grad RN Resident - Orthopedic and Spine | Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/RN-Resident-Post-Surgical-Orthopedic-and-Spine_293803) | 3d |
-| RN - Geriatric Psych | Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/RN-Geriatric-Psych---Part-Time_292473) | 3d |
-| RN - Orthopedic and Spine | Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/RN-Orthopedic-and-Spine_288924) | 3d |
-| Physical Therapist - Outpatient - Ortho | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Physical-Therapist---Outpatient---Ortho_319467) | 3d |
 | Care Partner - 9N Surgical Stepdown Unit - Full Time 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---9N-Surgical-Stepdown-Unit---Full-Time_R-50196-1) | 7h |
 | Certified Surgical First Assist, L&D - $20k Bonus 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Certified-Surgical-First-Assist--L-D----20k-Bonus_R-49384) | 7h |
 | Clinical Pharmacist - Specialty Pharmacy 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Pharmacist---Specialty-Pharmacy_R-49326) | 7h |
@@ -165,6 +167,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Psychologist – Adult Behavioral Health Outpatient - Columbia - Spanish speaking preferred | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Psychologist---Adult-Behavioral-Health-Outpatient---Columbia_00871295) | 1d |
 | Barista - NYP-CUIMC - Part-Time - Rotating Shifts (Evening and Overnight) w/Weekends and Holidays Schedules | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Barista---NYP-CUIMC---Part-Time---Rotating-Shifts--Evening-and-Overnight--w-Weekends-and-Holidays-Schedules_00871108-2) | 1d |
 | Psychiatric Intensive Care Unit - 6N Registered Nurse F/T Nights | NYP/Brooklyn Methodist Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Psychiatric-Intensive-Care-Unit---6N-Registered-Nurse-F-T-Nights_00873146-1) | 1d |
 | Clinical Nurse - Neonatal ICU - Part Time- Nights | NYP/Morgan Stanley Children's Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPMorgan-Stanley-Childrens-Hospital/Clinical-Nurse---Neonatal-ICU---Part-Time--Nights_00871327) | 3d |
@@ -204,7 +207,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Technician Medical Surgical - Float Pool- Brooklyn | NYP/Brooklyn Medical Group | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Medical-Group/Medical-Assistant---Float-Pool--Brooklyn_00873461) | 4d |
 | Social Worker - Ambulatory Services - Per-Diem | NYP/Westchester Behavioral Health Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWestchester-Behavioral-Health-Center/Social-Worker---Ambulatory-Services---Per-Diem_00873565-1) | 5d |
 | Social Worker - Emergency Department - Full Time Night - NYP/Queens | NYP/Queens | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPQueens/Social-Worker---Emergency-Department---Full-Time-Day---NYP-Queens_00866895-1) | 5d |
-| Registered Dietitian - Clinical Nutritionist - Columbia - Outpatient - Full Time | Ambulatory NYP/CU | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/Ambulatory-NYPCU/Registered-Dietitian---Clinical-Nutritionist---Columbia---Outpatient---Full-Time_00872948-1) | 5d |
 
 </details>
 
@@ -419,7 +421,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Registered Nurse - GI Lab | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/Registered-Nurse---GI-Lab_R35834?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | CYTOTECHNOLOGIST | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/CYTOTECHNOLOGIST_R23293?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
-| RN Patient Care Navigator - Neuroscieces | NCH 880 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-880-W-Central-Rd-Arlington-Heights/RN-Patient-Care-Navigator---Neuroscieces_R35428-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 12h |
+| RN Patient Care Navigator - Neuroscieces | NCH 880 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-880-W-Central-Rd-Arlington-Heights/RN-Patient-Care-Navigator---Neuroscieces_R35428-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
 | Patient Access Representative - Emergency - Days | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Patient-Access-Rep---Emergency---Days_R34471?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Patient Access Representative- Bolingbrook, IL - (20 hours) | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Bolingbrook-130-N-Weber-Road/Patient-Access-Representative_R28860?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Patient Access Representative-North Naperville, IL (Part Time- 20 hours) | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Naperville-2007-95th-Street/Patient-Access-Representative-North-Naperville--IL--Part-Time--20-hours-_R34617?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
@@ -454,17 +456,17 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 96 | 33% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 87 | 30% | No or minimal experience |
 | 🟡 Beginner & Early Career | 41 | 14% | 1-2 years of experience |
-| 🔴 Manager     | 150 | 52% | 2+ years of experience |
+| 🔴 Manager     | 161 | 56% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Nashville, TN**: 23 positions
 - **Multiple Cities**: 14 positions
-- **Lutheran Hospital**: 14 positions
 - **Green Bay, WI**: 12 positions
+- **Lutheran Hospital**: 10 positions
 - **O'Fallon, IL**: 9 positions
 - **Abbott Northwestern Hospital**: 9 positions
 - **NYP/Brooklyn Methodist Hospital**: 8 positions
@@ -474,7 +476,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 287+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 289+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -692,7 +694,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **287 current opportunities from 9 elite companies.**
+🎯 **289 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
