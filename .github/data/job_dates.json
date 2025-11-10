@@ -2998,5 +2998,77 @@
     "job_title": "Registered Nurse Med Surg Stepdown Float Pool - PRN Nights - VUH",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-10T22:09:16.584Z"
+  },
+  "cleaveland-clinic-monitored-transport-registered-nurse---float-pool---ft-nights---vuh-nashville": {
+    "assigned_date": "2025-11-10T22:39:27.372Z",
+    "job_title": "Monitored Transport Registered Nurse - Float Pool - FT Nights - VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-10T22:39:27.372Z"
+  },
+  "endeavor-health-registered-nurse---intermediate-care-unit/sicu---skokie-hospital---days-skh-skokie-hospital": {
+    "assigned_date": "2025-11-10T22:39:27.373Z",
+    "job_title": "Registered Nurse - Intermediate Care Unit/SICU - Skokie Hospital - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T22:39:27.373Z"
+  },
+  "endeavor-health-patient-care-technician---postpartum---night-shift-evh-evanston-hospital": {
+    "assigned_date": "2025-11-10T22:39:27.373Z",
+    "job_title": "Patient Care Technician - Postpartum - Night Shift",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T22:39:27.373Z"
+  },
+  "endeavor-health-rn-residency-program--highland-park-hospital-hph-highland-park-hospital": {
+    "assigned_date": "2025-11-10T22:39:27.373Z",
+    "job_title": "RN Residency Program- Highland Park Hospital",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T22:39:27.373Z"
+  },
+  "endeavor-health-rn-residency-program--glenbrook-hospital-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-11-10T22:39:27.373Z",
+    "job_title": "RN Residency Program- Glenbrook Hospital",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T22:39:27.373Z"
+  },
+  "endeavor-health-patient-care-tech/telemetry-tech---cardiovascular-unit---nights-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-10T22:39:27.373Z",
+    "job_title": "Patient Care Tech/Telemetry Tech - Cardiovascular Unit - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T22:39:27.373Z"
+  },
+  "endeavor-health-critical-care-app-edh-in-hospital-naperville": {
+    "assigned_date": "2025-11-10T22:39:27.373Z",
+    "job_title": "Critical Care APP",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T22:39:27.373Z"
+  },
+  "endeavor-health-registered-nurse-surgical-stepdown-day/pm-evh-evanston-hospital": {
+    "assigned_date": "2025-11-10T22:39:27.373Z",
+    "job_title": "Registered Nurse-Surgical Stepdown-Day/PM",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T22:39:27.373Z"
+  },
+  "endeavor-health-nail-technician---reflections-spa-nch-900-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-10T22:39:27.373Z",
+    "job_title": "Nail Technician - Reflections Spa",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T22:39:27.373Z"
+  },
+  "endeavor-health-patient-care-technician---5s-cardiac-care-unit-(ccu)---nights-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-10T22:39:27.373Z",
+    "job_title": "Patient Care Technician - 5S Cardiac Care Unit (CCU) - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T22:39:27.373Z"
+  },
+  "endeavor-health-crna-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-10T22:39:27.373Z",
+    "job_title": "CRNA",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T22:39:27.373Z"
+  },
+  "endeavor-health-patient-care-technician---unit-secretary---pacu---days-multiple-cities": {
+    "assigned_date": "2025-11-10T22:39:27.373Z",
+    "job_title": "Patient Care Technician - Unit Secretary - PACU - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T22:39:27.373Z"
   }
 }
