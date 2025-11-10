@@ -2788,5 +2788,23 @@
     "job_title": "Registered Nurse-Neurology/Urology/Overflow-Nights",
     "company": "Endeavor Health",
     "first_seen": "2025-11-10T14:59:51.027Z"
+  },
+  "cleaveland-clinic-dietitian-nashville": {
+    "assigned_date": "2025-11-10T15:12:14.583Z",
+    "job_title": "Dietitian",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-10T15:12:14.583Z"
+  },
+  "endeavor-health-crna---northwest-community-hospital-nch-880-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-10T15:12:14.584Z",
+    "job_title": "CRNA - Northwest Community Hospital",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T15:12:14.584Z"
+  },
+  "endeavor-health-crna-evh-evanston-hospital": {
+    "assigned_date": "2025-11-10T15:12:14.584Z",
+    "job_title": "CRNA",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T15:12:14.584Z"
   }
 }
