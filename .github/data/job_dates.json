@@ -2884,5 +2884,17 @@
     "job_title": "Licensed Practical Nurse - Neuroscience Outpatient Clinic - OHO",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-10T19:07:34.029Z"
+  },
+  "cleaveland-clinic-clinic-rn,-registered-nurse---comprehensive-care-clinic-nashville": {
+    "assigned_date": "2025-11-10T19:29:30.270Z",
+    "job_title": "Clinic RN, Registered Nurse - Comprehensive Care Clinic",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-10T19:29:30.270Z"
+  },
+  "cleaveland-clinic-charge-rn---ear,-nose-&-throat-clinic-nashville": {
+    "assigned_date": "2025-11-10T19:29:30.270Z",
+    "job_title": "Charge RN - Ear, Nose & Throat Clinic",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-10T19:29:30.270Z"
   }
 }
