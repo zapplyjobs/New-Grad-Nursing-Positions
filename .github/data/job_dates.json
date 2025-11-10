@@ -2806,5 +2806,17 @@
     "job_title": "CRNA",
     "company": "Endeavor Health",
     "first_seen": "2025-11-10T15:12:14.584Z"
+  },
+  "endeavor-health-anesthesiologist-(ns/sw)-evh-evanston-hospital": {
+    "assigned_date": "2025-11-10T15:47:37.915Z",
+    "job_title": "Anesthesiologist (NS/SW)",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T15:47:37.915Z"
+  },
+  "endeavor-health-anesthesiologist---northwest-community-hospital-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-10T15:47:37.915Z",
+    "job_title": "Anesthesiologist - Northwest Community Hospital",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-10T15:47:37.915Z"
   }
 }
