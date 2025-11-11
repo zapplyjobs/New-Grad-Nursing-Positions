@@ -3442,5 +3442,35 @@
     "job_title": "Ultrasound Technologist",
     "company": "Endeavor Health",
     "first_seen": "2025-11-11T21:07:38.277Z"
+  },
+  "cleaveland-clinic-physician-assistant---emergency-medicine-tullahoma": {
+    "assigned_date": "2025-11-11T21:31:45.642Z",
+    "job_title": "Physician Assistant - Emergency Medicine",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-11T21:31:45.642Z"
+  },
+  "endeavor-health-behavioral-health-integration-ii_-loh-bhi-lombard-multiple-cities": {
+    "assigned_date": "2025-11-11T21:31:45.642Z",
+    "job_title": "Behavioral Health Integration II_ LOH BHI-Lombard",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T21:31:45.642Z"
+  },
+  "endeavor-health-behavioral-health-integration-clinician-ii-days-loh-bhi-schiller-emo-elmhurst": {
+    "assigned_date": "2025-11-11T21:31:45.642Z",
+    "job_title": "Behavioral Health Integration Clinician II-Days-LOH BHI Schiller",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T21:31:45.642Z"
+  },
+  "endeavor-health-neurophysiology-technician---nights-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-11T21:31:45.642Z",
+    "job_title": "Neurophysiology Technician - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T21:31:45.642Z"
+  },
+  "endeavor-health-neurophysiology-technician---days-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-11-11T21:31:45.642Z",
+    "job_title": "Neurophysiology Technician - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T21:31:45.642Z"
   }
 }
