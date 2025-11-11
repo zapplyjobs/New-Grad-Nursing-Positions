@@ -3502,5 +3502,23 @@
     "job_title": "Medical Assistant/Patient Support Associate (MA/PSA) - Medical Group Urology, Highland Park",
     "company": "Endeavor Health",
     "first_seen": "2025-11-11T22:22:15.401Z"
+  },
+  "endeavor-health-radiologist--physician--swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-11T22:47:56.282Z",
+    "job_title": "Radiologist- Physician-",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T22:47:56.282Z"
+  },
+  "endeavor-health-endo-tech---days-skh-skokie-hospital": {
+    "assigned_date": "2025-11-11T22:47:56.282Z",
+    "job_title": "Endo Tech - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T22:47:56.282Z"
+  },
+  "endeavor-health-radiologic-technologist-skh-skokie-hospital": {
+    "assigned_date": "2025-11-11T22:47:56.282Z",
+    "job_title": "Radiologic Technologist",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T22:47:56.282Z"
   }
 }
