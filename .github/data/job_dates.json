@@ -3088,5 +3088,35 @@
     "job_title": "Patient Transport",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-10T23:22:24.726Z"
+  },
+  "cleaveland-clinic-audiologist-prn-nashville": {
+    "assigned_date": "2025-11-11T06:12:18.657Z",
+    "job_title": "Audiologist PRN",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-11T06:12:18.657Z"
+  },
+  "cleaveland-clinic-central-sterile-processing-tech--prn--vuh-nashville": {
+    "assigned_date": "2025-11-11T06:12:18.657Z",
+    "job_title": "Central Sterile Processing Tech- PRN- VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-11T06:12:18.657Z"
+  },
+  "cleaveland-clinic-central-sterile-processing-technician-2---2nd-shift-nashville": {
+    "assigned_date": "2025-11-11T06:12:18.657Z",
+    "job_title": "Central Sterile Processing Technician 2 - 2nd shift",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-11T06:12:18.657Z"
+  },
+  "cleaveland-clinic-operating-room-attendant--1st-shift--vuh-nashville": {
+    "assigned_date": "2025-11-11T06:12:18.657Z",
+    "job_title": "Operating Room Attendant- 1st Shift- VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-11T06:12:18.657Z"
+  },
+  "cleaveland-clinic-sterile-processing-tech-(endo)--vuh--$5,000-sign-on-bonus-nashville": {
+    "assigned_date": "2025-11-11T06:12:18.657Z",
+    "job_title": "Sterile Processing Tech (Endo)- VUH- $5,000 Sign-On Bonus",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-11T06:12:18.657Z"
   }
 }
