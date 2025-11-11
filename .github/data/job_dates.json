@@ -3478,5 +3478,29 @@
     "job_title": "FT Sonographer - Outpatient - Bellevue",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-11T22:09:15.459Z"
+  },
+  "cleaveland-clinic-medical-assistant---cancer-clinic-nashville": {
+    "assigned_date": "2025-11-11T22:22:15.400Z",
+    "job_title": "Medical Assistant - Cancer Clinic",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-11T22:22:15.400Z"
+  },
+  "endeavor-health-collaborative-registered-nurse---gu-oncology---days-evh-evanston-hospital": {
+    "assigned_date": "2025-11-11T22:22:15.401Z",
+    "job_title": "Collaborative Registered Nurse - GU Oncology - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T22:22:15.401Z"
+  },
+  "endeavor-health-medical-assistant/patient-support-associate-(ma/psa)---medical-group-urology,-glenbrook-multiple-cities": {
+    "assigned_date": "2025-11-11T22:22:15.401Z",
+    "job_title": "Medical Assistant/Patient Support Associate (MA/PSA) - Medical Group Urology, Glenbrook",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T22:22:15.401Z"
+  },
+  "endeavor-health-medical-assistant/patient-support-associate-(ma/psa)---medical-group-urology,-highland-park-multiple-cities": {
+    "assigned_date": "2025-11-11T22:22:15.401Z",
+    "job_title": "Medical Assistant/Patient Support Associate (MA/PSA) - Medical Group Urology, Highland Park",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T22:22:15.401Z"
   }
 }
