@@ -3550,5 +3550,35 @@
     "job_title": "Care Partner PRN (Bedford Hospital)",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-11T23:21:10.184Z"
+  },
+  "endeavor-health-medical-assistant/patient-support-assistant-(ma/psa)---medical-group-ortho-joint,-skokie-skh-skokie-ambulatory-care-center": {
+    "assigned_date": "2025-11-11T23:32:04.433Z",
+    "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Medical Group Ortho Joint, Skokie",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T23:32:04.433Z"
+  },
+  "endeavor-health-medical-assistant/patient-support-assistant-(ma/psa)---medical-group-ortho-sports-medicine,-glenbrook-gbh-ambulatory-care-center-glenview": {
+    "assigned_date": "2025-11-11T23:32:04.433Z",
+    "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Medical Group Ortho Sports Medicine, Glenbrook",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T23:32:04.433Z"
+  },
+  "endeavor-health-patient-support-assistant---medical-group-allergy,-glenbrook-gbh-south-medical-office-building-glenview": {
+    "assigned_date": "2025-11-11T23:32:04.433Z",
+    "job_title": "Patient Support Assistant - Medical Group Allergy, Glenbrook",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T23:32:04.433Z"
+  },
+  "endeavor-health-medical-assistant/patient-support-assistant-(ma/psa)---medical-group-infectious-diseases,-glenbrook-gbh-north-medical-office-building-glenview": {
+    "assigned_date": "2025-11-11T23:32:04.433Z",
+    "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Medical Group Infectious Diseases, Glenbrook",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T23:32:04.433Z"
+  },
+  "endeavor-health-physician--radiologist--elmhurst-4-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-11T23:32:04.433Z",
+    "job_title": "Physician- Radiologist- Elmhurst-4",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T23:32:04.433Z"
   }
 }
