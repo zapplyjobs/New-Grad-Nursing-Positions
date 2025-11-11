@@ -3292,5 +3292,23 @@
     "job_title": "Laboratory Assistant I - DAYS",
     "company": "Endeavor Health",
     "first_seen": "2025-11-11T17:48:17.540Z"
+  },
+  "endeavor-health-patient-care-tech---surgical/oncology-unit---days-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-11T18:10:38.713Z",
+    "job_title": "Patient Care Tech - Surgical/Oncology Unit - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T18:10:38.713Z"
+  },
+  "endeavor-health-patient-care-tech---surgical/oncology-unit---nights-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-11T18:10:38.714Z",
+    "job_title": "Patient Care Tech - Surgical/Oncology Unit - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T18:10:38.714Z"
+  },
+  "endeavor-health-pharmacy-technician-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-11T18:10:38.714Z",
+    "job_title": "Pharmacy Technician",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T18:10:38.714Z"
   }
 }
