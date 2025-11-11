@@ -3160,5 +3160,23 @@
     "job_title": "Environmental Tech",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-11T15:39:46.254Z"
+  },
+  "endeavor-health-registered-nurse-weekender---nicu---days-edh-in-hospital-naperville": {
+    "assigned_date": "2025-11-11T15:49:47.374Z",
+    "job_title": "Registered Nurse Weekender - NICU - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T15:49:47.374Z"
+  },
+  "endeavor-health-department-support-assistant---mother-baby---nights-edh-in-hospital-naperville": {
+    "assigned_date": "2025-11-11T15:49:47.374Z",
+    "job_title": "Department Support Assistant - Mother Baby - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T15:49:47.374Z"
+  },
+  "endeavor-health-registered-nurse---mother-baby---nights---per-diem-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-11T15:49:47.374Z",
+    "job_title": "Registered Nurse - Mother Baby - Nights - Per Diem",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T15:49:47.374Z"
   }
 }
