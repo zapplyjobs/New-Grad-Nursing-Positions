@@ -1,6 +1,4 @@
 [
-  "booz-allen-language-enabled-analyst-dayton",
-  "booz-allen-language-enabled-analyst-wright-patterson-afb",
   "booz-allen-linux-systems-administrator-fort-meade",
   "booz-allen-machine-learning-engineer-washington",
   "booz-allen-manufacturing-engineer-huntsville",
@@ -9545,6 +9543,8 @@
   "vcu-health-surgical-tech-scrub-tech-tappahannock-hospital-prn-tappahannock",
   "vcu-health-surgical-technologist-operating-room-pt-days-tappahannock",
   "vcu-health-unit-secretary-burn-icu-nights-richmond",
+  "vcu-health-unit-secretary-clinical-decision-unit-and-adult-ed-prn-nights-richmond",
+  "vcu-health-unit-secretary-clinical-decision-unit-and-adult-ed-prn-richmond",
   "vcu-health-unit-secretary-comprehensive-liver-care-unit-intermediate-care-rotating-richmond",
   "vcu-health-unit-secretary-inpatient-pediatric-psychiatry-vtcc-days-richmond",
   "vcu-health-unit-secretary-inpatient-pediatric-psychiatry-vtcc-prn-richmond",
