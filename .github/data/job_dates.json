@@ -3520,5 +3520,11 @@
     "job_title": "Radiologic Technologist",
     "company": "Endeavor Health",
     "first_seen": "2025-11-11T22:47:56.282Z"
+  },
+  "endeavor-health-breast-radiologist-physician--swh-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-11T22:56:35.359Z",
+    "job_title": "Breast Radiologist-Physician- SWH",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-11T22:56:35.359Z"
   }
 }
