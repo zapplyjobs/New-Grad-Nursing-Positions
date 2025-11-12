@@ -3706,5 +3706,29 @@
     "job_title": "Patient Access Representative",
     "company": "Endeavor Health",
     "first_seen": "2025-11-12T17:01:33.790Z"
+  },
+  "endeavor-health-housekeeper,-evenings,-per-diem-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-12T19:19:58.635Z",
+    "job_title": "Housekeeper, Evenings, Per Diem",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-12T19:19:58.635Z"
+  },
+  "endeavor-health-pain-anesthesiologist-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-12T19:19:58.635Z",
+    "job_title": "Pain Anesthesiologist",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-12T19:19:58.635Z"
+  },
+  "endeavor-health-physician-hospitalist-resource-1-evh-evanston-hospital": {
+    "assigned_date": "2025-11-12T19:19:58.635Z",
+    "job_title": "Physician Hospitalist Resource-1",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-12T19:19:58.635Z"
+  },
+  "endeavor-health-radiation-therapist-evh-evanston-hospital": {
+    "assigned_date": "2025-11-12T19:19:58.635Z",
+    "job_title": "Radiation Therapist",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-12T19:19:58.635Z"
   }
 }
