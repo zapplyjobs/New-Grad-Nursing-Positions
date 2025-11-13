@@ -3964,5 +3964,17 @@
     "job_title": "Patient Care Technician - Cardiac Medical Telemetry - Days",
     "company": "Endeavor Health",
     "first_seen": "2025-11-13T19:55:50.206Z"
+  },
+  "cleaveland-clinic-registered-nurse,-medical-pulmonary-icu,-night-shift---vuh-nashville": {
+    "assigned_date": "2025-11-13T20:23:25.898Z",
+    "job_title": "Registered Nurse, Medical Pulmonary ICU, Night Shift - VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-13T20:23:25.898Z"
+  },
+  "cleaveland-clinic-departmental-trainer-nashville": {
+    "assigned_date": "2025-11-13T20:23:25.898Z",
+    "job_title": "Departmental Trainer",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-13T20:23:25.898Z"
   }
 }
