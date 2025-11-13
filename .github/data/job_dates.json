@@ -3796,5 +3796,35 @@
     "job_title": "Registrar ER - Day Shift",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-12T23:08:36.010Z"
+  },
+  "endeavor-health-pharmacy-technician-ii---per-diem-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-13T03:30:43.416Z",
+    "job_title": "Pharmacy Technician II - Per Diem",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-13T03:30:43.416Z"
+  },
+  "endeavor-health-customer-service-representative-ii--lab-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-11-13T03:30:43.416Z",
+    "job_title": "Customer Service Representative II -LAB",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-13T03:30:43.416Z"
+  },
+  "endeavor-health-part-time---housekeeper,-swedish-hospital,-evenings-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-13T03:30:43.416Z",
+    "job_title": "Part time - Housekeeper, Swedish Hospital, Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-13T03:30:43.416Z"
+  },
+  "endeavor-health-rn---ambulatory-surgery-pacu---days-multiple-cities": {
+    "assigned_date": "2025-11-13T03:30:43.416Z",
+    "job_title": "RN - Ambulatory Surgery PACU - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-13T03:30:43.416Z"
+  },
+  "endeavor-health-physical-therapist-ii--outpatient--days/evenings-nso-gurnee": {
+    "assigned_date": "2025-11-13T03:30:43.416Z",
+    "job_title": "Physical Therapist II--Outpatient- Days/Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-13T03:30:43.416Z"
   }
 }
