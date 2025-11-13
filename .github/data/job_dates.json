@@ -3904,5 +3904,29 @@
     "job_title": "Registered Nurse - Surgery - Days",
     "company": "Endeavor Health",
     "first_seen": "2025-11-13T17:57:47.696Z"
+  },
+  "cleaveland-clinic-registered-nurse,-nicu,-night-shift,-temp-force---tullahoma-tullahoma": {
+    "assigned_date": "2025-11-13T18:57:49.138Z",
+    "job_title": "Registered Nurse, NICU, Night Shift, Temp Force - Tullahoma",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-13T18:57:49.138Z"
+  },
+  "cleaveland-clinic-registered-nurse,-women's-services-(l&d,-post-partum),-night-shift,-temp-force---tullahoma-tullahoma": {
+    "assigned_date": "2025-11-13T18:57:49.138Z",
+    "job_title": "Registered Nurse, Women's Services (L&D, Post Partum), Night Shift, Temp Force - Tullahoma",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-13T18:57:49.138Z"
+  },
+  "cleaveland-clinic-registered-nurse,-cardiac-stepdown,-night-shift---vuh-nashville": {
+    "assigned_date": "2025-11-13T18:57:49.138Z",
+    "job_title": "Registered Nurse, Cardiac Stepdown, Night Shift - VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-13T18:57:49.138Z"
+  },
+  "cleaveland-clinic-registered-nurse,-cardiac-stepdown,-rotating-days/nights---vuh-nashville": {
+    "assigned_date": "2025-11-13T18:57:49.138Z",
+    "job_title": "Registered Nurse, Cardiac Stepdown, Rotating Days/Nights - VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-13T18:57:49.138Z"
   }
 }
