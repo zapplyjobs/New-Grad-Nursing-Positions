@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-287-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-293-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 287+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 293+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,21 +61,21 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 287 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 293 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** November 15, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Healthcare Jobs:** 99 (older than 1 week)
+- 📁 **Archived Healthcare Jobs:** 98 (older than 1 week)
 
 
 ---
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (127 positions)
+### ⭐ **Elite Medical Centers** (129 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (69 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (71 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -115,13 +115,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | RN Hospice Care Center - PRN 🏠 | Justin Rogers Hosp Care Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Justin-Rogers-Hosp-Care-Center/RN-Hospice-Care-Center---PRN_320152) | 1d |
 | Phlebotomist 🏠 | Florida Weston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Florida-Weston-Hospital/Phlebotomist_315453) | 1d |
 | CT Technologist 🏠 | Wooster Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Wooster-Family-Health-Center/CT-Technologist_321005) | 1d |
-| Central Sterile Processing Technician - $5,000 Sign on Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Central-Sterile-Processing-Technician-2---2nd-shift_R-48590) | 7h |
+| CT Tech PRN - Tullahoma Hospital 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/CT-Tech-PRN---Tullahoma-Hospital_R-50366-1) | 1h |
+| Interventional Pain Clinic - Procedural Nurse, RN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinic-RN--Registered-Nurse---Interventional-Pain-Clinic_R-49524-2) | 1h |
+| Medical Assistant - Ear, Nose, and Throat Clinic - Hendersonville 🏠 | Hendersonville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Hendersonville-TN/Medical-Assistant---Ear--Nose--and-Throat-Clinic---Hendersonville_R-50171-1) | 1h |
+| Medical Assistant - Neurology Clinic 🏠 | ONE HUNDRED OAKS | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/ONE-HUNDRED-OAKS-LOC00400/Medical-Assistant---Neurology-Clinic_R-49794-1) | 1h |
+| Rad Tech PRN Tullahoma Harton Hospital 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Rad-Tech-PRN-Tullahoma-Harton-Hospital_R-50376-1) | 1h |
+| Central Sterile Processing Technician - $5,000 Sign on Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Central-Sterile-Processing-Technician-2---2nd-shift_R-48590) | 8h |
 | Diabetes Educator - The Center for Health Behavior and Health Education (Remote Part Time Opportunity) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Diabetes-Educator---The-Center-for-Health-Behavior-and-Health-Education--Remote-Part-Time-Opportunity-_R-49833-1) | 5d |
-| Anesthesia Technician, FT Days 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Anesthesia-Technician--FT-Days_R-50591-1) | 10h |
+| Anesthesia Technician, FT Days 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Anesthesia-Technician--FT-Days_R-50591-1) | 11h |
 | Certified Anesthesia Technologist, Cer.A.T.T. - $10k Signing Bonus & Relocation 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Anesthesia-Technologist--CerATT----10k-Signing-Bonus---Relocation_R-50589-1) | 11h |
-| CT Tech PRN - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/CT-Tech-PRN---VUH_R-50575-1) | 12h |
-| Registered Nurse, Ortho/Spine, FT Days, VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Ortho-Spine--FT-Days--VUH_R-50567-1) | 13h |
-| Speech-Language Pathologist (SLP) – PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Speech-Language-Pathologist--SLP----PRN_R-50343-1) | 14h |
+| CT Tech PRN - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/CT-Tech-PRN---VUH_R-50575-1) | 13h |
+| Registered Nurse, Ortho/Spine, FT Days, VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Ortho-Spine--FT-Days--VUH_R-50567-1) | 14h |
+| Speech-Language Pathologist (SLP) – PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Speech-Language-Pathologist--SLP----PRN_R-50343-1) | 15h |
 | Early Learning Teacher 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Early-Learning-Teacher_R-46470-1) | 16h |
 | Mammography Tech I Wilson County Hosp. I Days 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Mammography-Tech-I-Wilson-County-Hosp-I-Days_R-49942-1) | 23h |
 | Registered Nurse, Acute Surgical Care Stepdown, Night (Set Schedule) - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Acute-Surgical-Care-Stepdown--Night--Set-Days----VPH_R-48761) | 23h |
@@ -131,11 +136,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Echocardiography Technologist PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Echocardiography-Technologist-PRN_R-47804) | 1d |
 | EchoVascular Technologist $10K SIGN ON BONUS 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/EchoVascular-Technologis--10K-SIGN-ON-BONUS_R-47928-1) | 1d |
 | Resp Therapist Reg PRN 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Resp-Therapist-Reg-PRN_R-38800-1) | 1d |
-| Respiratory Therapist Reg 2 Neonatal/Peds Transport - Nights $15K SIGN ON BONUS 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-Reg-2-Neonatal-Peds-Transport---Nights--15K-SIGN-ON-BONUS_R-22826-1) | 1d |
-| Aux Security Personnel PRN 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Aux-Security-Personnel-PRN_R-41367-1) | 1d |
-| Family/Guest Srvcs Transporter 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Family-Guest-Srvcs-Transporter_R-49711-1) | 1d |
-| Paramedic 2 - Pediatric Emergency Dept. $10,000 Sign-on Bonus! 4 PM - 2 AM 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Paramedic-2---Pediatric-Emergency-Dept---10-000-Sign-on-Bonus-_R-47316-1) | 1d |
-| Registered Nurse, Medical Pulmonary ICU, Night Shift - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Medical-Pulmonary-ICU--Night-Shift---VUH_R-48966) | 1d |
+| Respiratory Therapist Reg 2 Neonatal/Peds Transport - Nights $15K SIGN ON BONUS | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-Reg-2-Neonatal-Peds-Transport---Nights--15K-SIGN-ON-BONUS_R-22826-1) | 1d |
+| Aux Security Personnel PRN | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Aux-Security-Personnel-PRN_R-41367-1) | 1d |
+| Family/Guest Srvcs Transporter | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Family-Guest-Srvcs-Transporter_R-49711-1) | 1d |
+| Paramedic 2 - Pediatric Emergency Dept. $10,000 Sign-on Bonus! 4 PM - 2 AM | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Paramedic-2---Pediatric-Emergency-Dept---10-000-Sign-on-Bonus-_R-47316-1) | 1d |
+| Registered Nurse, Medical Pulmonary ICU, Night Shift - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Medical-Pulmonary-ICU--Night-Shift---VUH_R-48966) | 1d |
 | Departmental Trainer | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Departmental-Trainer-II_R-49288) | 1d |
 | Licensed Practical Nurse – Belcourt Walk In Clinic | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Licensed-Practical-Nurse---Belcourt-Walk-In-Clinic_R-41530-1) | 1d |
 | Respiratory Therapist 2 Reg - Pediatric $15K SIGN ON BONUS | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-2-Reg---Pediatric--15K-SIGN-ON-BONUS_R-46355-1) | 1d |
@@ -145,9 +150,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse, Women's Services (L&D, Post Partum), Night Shift, Temp Force - Tullahoma | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Registered-Nurse--Women-s-Services--L-D--Post-Partum---Night-Shift--Temp-Force---Tullahoma_R-48205-1) | 1d |
 | Registered Nurse, Cardiac Stepdown, Night Shift - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Cardiac-Stepdown--Night-Shift---VUH_R-47765-1) | 1d |
 | Registered Nurse, Cardiac Stepdown, Rotating Days/Nights - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Cardiac-Stepdown--Rotating-Days-Nights---VUH_R-44743) | 1d |
-| Registered Nurse, Neuro, FT Nights, VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Neuro--FT-Nights--VUH_R-41348) | 1d |
-| Registered Nurse, Pediatric ED, Resource Pool - MCJCHV | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-ED-RN-Resource-Pool_R-38030-1) | 1d |
-| Registered Nurse, Neuro, FT, Days, VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Neuro--FT--Days--VUH_R-41347-1) | 1d |
 
 </details>
 
@@ -222,10 +224,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Scientist AI/ML 🏠 | Embarcadero - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/1830-Embarcadero---PALO-ALTO/Data-Scientist--AI-ML_R2551451) | 1d |
 | Security Officer II USAU 🏠 | 300P Hospital - G/H Patient East Pavilion - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/300P-Hospital---GH-Patient-East-Pavilion---PALO-ALTO/Security-Officer-II-USAU_R2551369) | 2d |
 
-### ✝️ **Faith-Based Health Systems** (91 positions)
+### ✝️ **Faith-Based Health Systems** (95 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (46 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (50 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -242,39 +244,43 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Physician - Gynecology | Shiloh, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Shiloh-IL/Physician---Gynecology_R1033520) | 1d |
 | Registered Nurse (RN)- Physician Practice-Prairie | Carbondale, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Carbondale-IL/Registered-Nurse--RN---Physician-Practice-Prairie_R1033317) | 1d |
 | Physician - Non-invasive General Cardiologist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Physician---General-Cardiologist_R1030449) | 1d |
+| Physician-Electrophysiologist (EP) | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Job-Posting-Title-Physician-Electrophysiologist_R1030448) | 1d |
+| Physician Assistant / Nurse Practitioner General Cardiology- General Cardiology | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Job-Posting-Title-Physician-Assistant---Nurse-Practitioner--General-Cardiology_R1030436) | 1d |
+| Patient Care Assistant (PCA) - Medical/Surgical (Med/Surg) | Oconto Falls, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Oconto-Falls-WI/Patient-Care-Assistant--PCA----Medical-Surgical--Med-Surg-_R1033338) | 1d |
+| CT Technologist | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/CT-Technologist_R1032791) | 1d |
+| Radiologic Technologist | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Radiologic-Technologist-I_R1032668) | 1d |
+| CT Tech-Weekend Option; Days, Evenings or Nights | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/CT-Technologist--Full-time_R1032445) | 1d |
+| CT Technologist - PRN | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/CT-Technologist-I_R1031794) | 1d |
+| Multimodality Technologist - Float | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Multimodality-Technologist---Float_R1032818-1) | 1d |
+| EMS Internship , Emergency Department | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/EMS-Internship---Emergency-Department_R1032241) | 1d |
+| Registered Nurse (RN) - Interventional Radiology | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN----Interventional-Radiology_R1033362) | 1d |
+| Sterile Processing Technician | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Sterile-Processing-Technician-I_R1033316) | 1d |
+| Registered Nurse (RN)/ Nurse Extern II – May/Summer 2026 New Graduates | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN---Nurse-Extern-II---May-Summer-2026-New-Graduates_R1033094) | 1d |
+| Cardiovascular Invasive Technologist II (Dedicated Call for Cath Lab) | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Cardiovascular-Invasive-Technologist-II--Dedicated-Call-for-Cath-Lab-_R1032613) | 1d |
+| Accountable Care Operations Analyst | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Accountable-Care-Operations-Analyst_R1033176) | 1d |
+| Medical Assistant (MA)II - Walk-in Lab | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA--Float_R1032819) | 1d |
+| Radiologic Technologist -PRN | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Radiologic-Technologist-I_R1032863-1) | 1d |
+| Sonographer I-Cardiac | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Sonographer-I-Cardiac_R1030370) | 1d |
+| Radiologic Technologist I (PRN) | Litchfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Litchfield-IL/Radiologic-Technologist-I--PRN-_R1030199-1) | 1d |
+| Social Worker, LSW | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Social-Worker--LSW_R1033394) | 1d |
+| Epic Analyst-Anesthesia/Optime | Springfield - Information Services Center | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield---Information-Services-Center/Epic-Analyst-Anesthesia-Optime_R1033041) | 1d |
+| Registered Nurse- IMCU | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--IMCU_R1033502) | 1d |
+| Network Engineer | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Network-Engineer_R1030857-1) | 1d |
+| Registered Nurse (RN), ICU, PRN | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---ICU--PRN_R1032702) | 1d |
+| Registered Nurse (RN), Regional Float | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---Regional-Float_R1033501) | 1d |
+| Radiation Therapist I (PRN) | Litchfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Litchfield-IL/Radiation-Therapist-I_R1030124) | 1d |
+| Physician Assistant / Nurse Practitioner General Cardiology | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Physician-Assistant---Nurse-Practitioner-General-Cardiology_R1033492) | 1d |
+| Registered Nurse (RN) - Medical/Surgical (Med/Surg) | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Registered-Nurse--RN----Intensive-Care-Unit--ICU-_R1032049) | 1d |
+| Registered Nurse (RN)/ Nurse Extern II – May/Summer 2026 New Graduates | Oconto Falls, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Oconto-Falls-WI/Registered-Nurse--RN---Nurse-Extern-II---May-Summer-2026-New-Graduates_R1033486) | 1d |
 | Physician - Orthopedic Surgery | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Physician---Orthopedic-Surgery_R1031382) | 1d |
 | Physician - Plastic Surgeon | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Physician---Plastic-Surgeon_R1033484) | 1d |
 | Pharmacist PRN | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Pharmacist-PRN_R1033227) | 1d |
 | OR Registered Nurse RN | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/OR-Facilitator---Registered-Nurse-RN_R1029957) | 2d |
 | Physician - General Surgery | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Physician---General-Surgery_R1032037) | 2d |
-| CT Tech-Weekend Option; Days, Evenings or Nights | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/CT-Technologist--Full-time_R1032445) | 1d |
 | Physician - Endocrinologist | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Physician---Endocrinologist_R1031527) | 2d |
 | Physician - Pulmonologist | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Physician---Pulmonologist_R1030480-1) | 2d |
 | Physician- Neurology | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Physician--Neurology_R1033290) | 2d |
 | Lab Assistant | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Lab-Assistant_R1033240) | 2d |
-| Patient Care Assistant | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Patient-Care-Assistant_R1033366) | 2d |
-| Patient Care Assistant (PCA)- Medical/Surgical (Med Surg) | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Patient-Care-Assistant--PCA---Medical-Surgical--Med-Surg-_R1033146) | 2d |
-| Physician-Electrophysiologist (EP) | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Job-Posting-Title-Physician-Electrophysiologist_R1030448) | 1d |
-| Cardiovascular Invasive Technologist | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Cardiovascular-Invasive-Technologist-I_R1029790-1) | 2d |
-| Registered Nurse (RN)-Prairie Cardiovascular | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Registered-Nurse--RN--Prairie-Cardiovascular_R1033375) | 2d |
-| Outpatient Radiologic Technologist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Outpatient-Radiologic-Technologist_R1033369) | 2d |
-| Patient Care Assistant | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Patient-Care-Assistant-II_R1033392) | 3d |
-| Occupational Therapist-Home Health | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Occupational-Therapist-Home-Health_R1032436-1) | 3d |
-| Speech Language Pathologist II-Home Care | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Speech-Language-Pathologist-II-Home-Care_R1033387-1) | 3d |
-| Registered (RN) or LPN-Occupational Health-CAT | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Registered--RN--or-LPN-Occupational-Health-CAT_R1033418) | 3d |
-| Respiratory Care Practitioner | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Respiratory-Care-Practitioner_R1033344) | 3d |
-| Registered Nurse (RN) - Medical/Surgical Unit | Shelbyville, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Shelbyville-IL/Registered-Nurse--RN----Medical-Surgical-Unit_R1030546) | 3d |
-| Registered Nurse (RN)-WI Regional Float - ED Weekend only program | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN--WI-Regional-Float---ED-Weekend-only-program_R1033430) | 3d |
-| Registered Nurse (RN)-WI Regional Float - ED | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN--WI-Regional-Float---ED_R1033426) | 3d |
-| Multimodality Imaging Technologist - Weekends Only | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Multimodality-Imaging-Technologist_R1031793) | 3d |
-| Security Officer | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Security-Officer-I_R1030766) | 3d |
-| Emergency ED Registered Nurse-Critical Care | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Emergency-ED-Registered-Nurse-Critical-Care_R1029969) | 4d |
-| Emergency Department Registered Nurse-Critical Care - W | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Emergency-Department-Registered-Nurse-Critical-Care---W_R1029971) | 4d |
-| Physician - Orthopedic Surgery - Sports Medicine Focus | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Physician---Orthopedic-Surgery_R1030512-1) | 4d |
-| MRI Technologist | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/CT-Technologist-I_R1032689) | 4d |
-| Cardiac Cath Lab Tech, Imaging Tech | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Cardiac-Cath-Lab-Tech--Imaging-Tech_R1032983) | 4d |
-| Cardiac Specialty RN, Registered Nurse - Clinic - Prairie Cardiovascular | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Cardiac-Specialty-RN--Registered-Nurse---Clinic---Prairie-Cardiovascular_R1032974) | 4d |
-| Cardiovascular Invasive Tech (EP Focus in Cath Lab) | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Cardiovascular-Invasive-Tech--EP-Focus-in-Cath-Lab-_R1031893) | 4d |
 
 </details>
 
@@ -451,27 +457,27 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 143 | 50% | No or minimal experience |
-| 🟡 Beginner & Early Career | 53 | 18% | 1-2 years of experience |
-| 🔴 Manager     | 91 | 32% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 163 | 56% | No or minimal experience |
+| 🟡 Beginner & Early Career | 35 | 12% | 1-2 years of experience |
+| 🔴 Manager     | 95 | 32% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Nashville, TN**: 27 positions
-- **Springfield, IL**: 11 positions
+- **Nashville, TN**: 25 positions
+- **Multiple Cities**: 13 positions
+- **O'Fallon, IL**: 11 positions
 - **Abbott Northwestern Hospital**: 11 positions
 - **NYP/Brooklyn Methodist Hospital**: 10 positions
-- **Multiple Cities**: 10 positions
-- **O'Fallon, IL**: 10 positions
+- **Springfield, IL**: 9 positions
 - **NYP/Columbia University Irving Medical Center**: 8 positions
-- **Green Bay, WI**: 7 positions
+- **Richmond, VA**: 7 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 287+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 293+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -518,19 +524,19 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 99 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 98 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 99 positions
+📁 **Total Jobs:** 98 positions
 🏢 **Companies:** 9 companies
 
 
-### ⭐ **Elite Medical Centers** (14 positions)
+### ⭐ **Elite Medical Centers** (13 positions)
 
-#### ⭐ **Cleveland Clinic** (12 positions)
+#### ⭐ **Cleveland Clinic** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -545,7 +551,6 @@ Either still hiring or useful for research.
 | Student Vascular Tech PRN - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Student-Vascular-Tech-PRN---VUH_R-49309-1) | 1w |
 | Medical Receptionist - NICU (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist_R-48533-1) | 1w |
 | Registered Nurse, ICU, $20k sign-on bonus, Full-time Nights, Tullahoma | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/RN-ICU--NIGHTS---10k-sign-on-bonus--Tullahoma-Harton-Hospital_R-36550-1) | 1w |
-| Medical Assistant - Cardiology Clinic | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant---Cardiology-Clinic_R-49753-1) | 1w |
 
 #### 🎓 **Stanford Health Care** (2 positions)
 
@@ -677,7 +682,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **287 current opportunities from 9 elite companies.**
+🎯 **293 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
