@@ -102,8 +102,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | RN - Pre- and Post-Operative Care Unit (PACU) | rtin Health North | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Martin-Health-North/RN---Pre--and-Post-Operative-Care-Unit--PACU-_320785) | 3d |
 | Ambulatory Surgery Assistant - Twinsburg ASC | Twinsburg Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Twinsburg-Family-Health-Center/Ambulatory-Surgery-Assistant---Twinsburg-ASC_317636) | 3d |
 | RN - AMET/Rapid Response | Florida Weston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Florida-Weston-Hospital/RN---AMET-Rapid-Response_304614-1) | 3d |
-| Patient Care Nurse Assistant- Marymount | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/Patient-Care-Nurse-Assistant--Marymount_319825) | 3d |
-| Patient Nursing Support- Marymount | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/Patient-Nursing-Support--Marymount_319820) | 3d |
+| Patient Care Nurse Assistant- Marymount 🏠 | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/Patient-Care-Nurse-Assistant--Marymount_319825) | 3d |
+| Patient Nursing Support- Marymount 🏠 | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/Patient-Nursing-Support--Marymount_319820) | 3d |
 | PRN Patient Care Nurse Assistant – Marymount 🏠 | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/PRN-Patient-Care-Nurse-Assistant---Marymount_319828) | 3d |
 | RN – Intermediate Care Unit (IMCU) 🏠 | Florida Weston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Florida-Weston-Hospital/RN---Intermediate-Care-Unit--IMCU-_311206) | 3d |
 | RN Ambulatory - Radiation Oncology 🏠 | Saint Lucie West Med Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Saint-Lucie-West-Med-Center/RN-Ambulatory---Radiation-Oncology_315609-1) | 3d |
@@ -113,7 +113,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Virtual Patient Companion 🏠 | Cleveland Clinic Administrative Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Administrative-Campus/Virtual-Patient-Companion_320894) | 3d |
 | RN -- Med/Surg Orthopaedics 🏠 | Medina Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Medina-Hospital/RN----Med-Surg_304989) | 3d |
 | Medical Assistant - Neurology 🏠 | Florida Weston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Florida-Weston-Hospital/Medical-Assistant---Neurology_296871) | 3d |
-| Physical Therapist - PRN 🏠 | rtin Health North | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Martin-Health-North/Physical-Therapist---PRN_320915) | 3d |
+| Care Partner - TVC 2 Observation Unit - Part-time - One Day Shift per week 06:45 - 19:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---TVC-2-Observation-Unit---Part-time---One-Day-Shift-per-week-06-45---19-15_R-46978-1) | 1h |
 | Care Partner - Ortho/Ortho Trauma FT Day Shift 06:45 - 19:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Ortho-Ortho-Trauma-FT-Day-Shift-06-45---19-15_R-49878-1) | 6h |
 | Care Partner (PICU - Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--PICU---Nights-_R-49207-1) | 6h |
 | Care Partner (Progressive Care Unit) | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Care-Partner--Progressive-Care-Unit-_R-49688-1) | 6h |
@@ -126,7 +126,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse, Burn (Premium Pay) - Nights - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Burn--Premium-Pay----Nights---VUH_R-49334) | 6h |
 | Registered Nurse (RN) – Pediatric Pulmonary Clinic | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--RN----Pediatric-Pulmonary-Clinic_R-49533-1) | 6h |
 | Registered Nurse, Trauma Stepdown - Days - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Trauma-Stepdown---Days---VUH_R-50467-1) | 6h |
-| Registered Nurse 2 CC Inpatient - Pediatric Intensive Care Unit | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-CC-Inpatient---Pediatric-Intensive-Care-Unit_R-49815-1) | 6h |
+| Registered Nurse 2 CC Inpatient - Pediatric Intensive Care Unit 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-CC-Inpatient---Pediatric-Intensive-Care-Unit_R-49815-1) | 6h |
 | Registered Nurse Inpatient - VUH - Night Shift - Fri. Sat. Sun 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-Inpatient---VUH---Night-Shift---Fri-Sat-Sun_R-47613-1) | 6h |
 | PRN Sonographer - Outpatient - Flexible Schedule - Cool Springs 🏠 | Franklin, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/Sonographer-PRN--Outpatient_R-46006) | 6h |
 | Purchasing Agent 🏠 | Mount Juliet, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Mount-Juliet-TN/Purchasing-Agent_R-44249-2) | 4d |
@@ -290,8 +290,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Registered Nurse Endoscopy PRN 🏠 | McKay-Dee Medical Building | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/McKay-Dee-Medical-Building/Registered-Nurse-Endoscopy-PRN_R156120) | 1d |
 | Security Officer PRN 🏠 | Intermountain Health Garfield Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Garfield-Memorial-Hospital/Security-Officer-PRN_R152435-1) | 1d |
+| Registered Nurse Endoscopy PRN 🏠 | McKay-Dee Medical Building | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/McKay-Dee-Medical-Building/Registered-Nurse-Endoscopy-PRN_R156120) | 1d |
 | Medical Assistant Family Medicine 🏠 | Rose Canyon Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Rose-Canyon-Clinic/Medical-Assistant-Family-Medicine_R156438) | 1d |
 | Medical Assistant Pediatrics 🏠 | Budge Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Budge-Clinic/Medical-Assistant-Pediatrics_R156130) | 1d |
 | Medical Assistant Family Medicine 🏠 | Bear River Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Bear-River-Clinic/Medical-Assistant-Family-Medicine_R156004) | 1d |
@@ -450,14 +450,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 143 | 51% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 141 | 50% | No or minimal experience |
 | 🟡 Beginner & Early Career | 37 | 13% | 1-2 years of experience |
-| 🔴 Manager     | 103 | 36% | 2+ years of experience |
+| 🔴 Manager     | 105 | 37% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Nashville, TN**: 22 positions
+- **Nashville, TN**: 23 positions
 - **Multiple Cities**: 13 positions
 - **O'Fallon, IL**: 11 positions
 - **Abbott Northwestern Hospital**: 11 positions
