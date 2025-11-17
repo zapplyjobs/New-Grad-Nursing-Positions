@@ -4486,5 +4486,17 @@
     "job_title": "Registered Nurse 2 Clinic Float PRN",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-17T19:47:41.653Z"
+  },
+  "endeavor-health-registered-nurse-cardiac/stroke-days-evh-evanston-hospital": {
+    "assigned_date": "2025-11-17T20:23:09.563Z",
+    "job_title": "Registered Nurse-Cardiac/Stroke-Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-17T20:23:09.563Z"
+  },
+  "endeavor-health-registered-nurse-cardiac/stroke-nights-evh-evanston-hospital": {
+    "assigned_date": "2025-11-17T20:23:09.563Z",
+    "job_title": "Registered Nurse-Cardiac/Stroke-Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-17T20:23:09.563Z"
   }
 }
