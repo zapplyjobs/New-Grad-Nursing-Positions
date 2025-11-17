@@ -1,6 +1,4 @@
 [
-  "cleaveland-clinic-lpn-cardiac-telemetry-and-nephrology-akron-general-medical-center",
-  "cleaveland-clinic-lpn-central-admissions-center-for-connected-care-business-operations-center",
   "cleaveland-clinic-lpn-clinic-family-care-rtin-health-at-tiffany",
   "cleaveland-clinic-lpn-clinic-family-medicine-saint-lucie-west-med-center",
   "cleaveland-clinic-lpn-clinic-gastroenterology-tradition-hospital",
@@ -970,6 +968,7 @@
   "cleaveland-clinic-research-nurse-obstetrics-gynecology-cleveland-clinic-in-campus",
   "cleaveland-clinic-research-nurse-oncology-brain-team-cleveland-clinic-in-campus",
   "cleaveland-clinic-research-nurse-oncology-multiple-cities",
+  "cleaveland-clinic-research-nurse-radiation-oncology-cleveland-clinic-in-campus",
   "cleaveland-clinic-research-student-i-bme-apte-lab-cleveland-clinic-in-campus",
   "cleaveland-clinic-research-technician-ii-chung-lab-cleveland-clinic-main-campus",
   "cleaveland-clinic-research-technician-ii-dasarathy-lab-cleveland-clinic-main-campus",
@@ -4207,6 +4206,7 @@
   "hshs-registered-nurse-rn-or-circulator-or-scrub-prn-o-fallon",
   "hshs-registered-nurse-rn-or-licensed-practical-nurse-lpn-springfield",
   "hshs-registered-nurse-rn-pacu-o-fallon",
+  "hshs-registered-nurse-rn-pacu-post-anesthesia-o-fallon",
   "hshs-registered-nurse-rn-physician-practice-prairie-carbondale",
   "hshs-registered-nurse-rn-prairie-cardiovascular-springfield",
   "hshs-registered-nurse-rn-pre-post-op-o-fallon",
