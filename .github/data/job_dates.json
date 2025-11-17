@@ -4408,5 +4408,29 @@
     "job_title": "Nurse Practitioner/Physician Assistant - Surgical ICU",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-17T13:39:05.470Z"
+  },
+  "endeavor-health-rn---7e-cardiac-tele---days-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-17T15:12:12.930Z",
+    "job_title": "RN - 7E Cardiac Tele - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-17T15:12:12.930Z"
+  },
+  "endeavor-health-rn---4e-med/surg/tele---days-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-17T15:12:12.930Z",
+    "job_title": "RN - 4E Med/Surg/Tele - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-17T15:12:12.930Z"
+  },
+  "endeavor-health-patient-care-technician---4e-med/surg/tele---days-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-17T15:12:12.930Z",
+    "job_title": "Patient Care Technician - 4E Med/Surg/Tele - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-17T15:12:12.930Z"
+  },
+  "endeavor-health-patient-care-technician---4s-ortho/post-surgical/cardiac-tele---days-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-17T15:12:12.930Z",
+    "job_title": "Patient Care Technician - 4S Ortho/Post Surgical/Cardiac Tele - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-17T15:12:12.930Z"
   }
 }
