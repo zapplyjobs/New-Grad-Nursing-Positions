@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-284-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-278-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 284+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 278+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 284 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 278 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** November 17, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -72,7 +72,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (124 positions)
+### ⭐ **Elite Medical Centers** (118 positions)
 
 <details>
 <summary><h4>⭐ <strong>Cleveland Clinic</strong> (66 positions)</h4></summary>
@@ -114,11 +114,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Medical Assistant - Neurology | Florida Weston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Florida-Weston-Hospital/Medical-Assistant---Neurology_296871) | 2d |
 | Physical Therapist - PRN | rtin Health North | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Martin-Health-North/Physical-Therapist---PRN_320915) | 2d |
 | Purchasing Agent 🏠 | Mount Juliet, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Mount-Juliet-TN/Purchasing-Agent_R-44249-2) | 4d |
-| Medical Receptionist - Labor & Delivery (Days) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist---Labor---Delivery--Days-_R-49528-1) | 20h |
-| Medical Receptionist (Dayshift) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist--Dayshift-_R-48944-1) | 20h |
-| Pharmacy Intern - Retail Support Group 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pharmacy-Intern---Retail-Support-Group_R-49332-2) | 20h |
-| Respiratory Therapist 2 Reg 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-2-Reg_R-49826-2) | 20h |
-| VIS Full Time Sonographer, Vanderbilt Imaging Services--Evenings 🏠 | Franklin, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/VIS-Full-Time-Sonographer--Vanderbilt-Imaging-Services--Evenings_R-50332-1) | 20h |
+| Medical Receptionist - Labor & Delivery (Days) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist---Labor---Delivery--Days-_R-49528-1) | 21h |
+| Medical Receptionist (Dayshift) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist--Dayshift-_R-48944-1) | 21h |
+| Pharmacy Intern - Retail Support Group 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pharmacy-Intern---Retail-Support-Group_R-49332-2) | 21h |
+| Respiratory Therapist 2 Reg 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-2-Reg_R-49826-2) | 21h |
+| VIS Full Time Sonographer, Vanderbilt Imaging Services--Evenings 🏠 | Franklin, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/VIS-Full-Time-Sonographer--Vanderbilt-Imaging-Services--Evenings_R-50332-1) | 21h |
 | CT Tech PRN - Tullahoma Hospital 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/CT-Tech-PRN---Tullahoma-Hospital_R-50366-1) | 1d |
 | Interventional Pain Clinic - Procedural Nurse, RN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinic-RN--Registered-Nurse---Interventional-Pain-Clinic_R-49524-2) | 1d |
 | Medical Assistant - Ear, Nose, and Throat Clinic - Hendersonville 🏠 | Hendersonville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Hendersonville-TN/Medical-Assistant---Ear--Nose--and-Throat-Clinic---Hendersonville_R-50171-1) | 1d |
@@ -149,7 +149,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </details>
 
 <details>
-<summary><h4>🗽 <strong>New York Presbyterian</strong> (43 positions)</h4></summary>
+<summary><h4>🗽 <strong>New York Presbyterian</strong> (37 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -182,12 +182,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | X-Ray / Radiology Technologist - Full Time - Days | NYP/Lower nhattan Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPLower-Manhattan-Hospital/X-Ray---Radiology-Technologist---Full-Time---Nights_00871220-2) | 3d |
 | Pharmacist - Inpatient Pharmacy - Full-Time, Nights | NYP/Queens | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPQueens/Pharmacist---Inpatient-Pharmacy---Full-Time--Rotating-Shifts_00873764) | 3d |
 | Social Worker - Ambulatory Care Network - Days | Ambulatory NYP/CU | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/Ambulatory-NYPCU/Social-Worker----Ambulatory-Care-Network---Days_00872023) | 3d |
-| Part-Time PT Aide/Receptionist- Hudson Valley | NYP/Hudson Valley | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPHudson-Valley/Part-Time-PT-Aide-Receptionist--Hudson-Valley_00873114) | 3d |
-| Physician Assistant - Rehabilitation Medicine - Days - Queens Medical Group | NYP/Queens Medical Group | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPQueens-Medical-Group/Physician-Assistant---Rehabilitation-Medicine---Days---Queens-Medical-Group_00873265) | 3d |
-| Physician Assistant – DHK Ambulatory Surgery – Per Diem - Cornell Campus | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Physician-Assistant---DHK-Ambulatory-Surgery---Per-Diem---Cornell-Campus_00871883) | 3d |
-| Certified MRI Technologist - Per Diem - Columbia (CNYPAI) | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Certified-MRI-Technologist---Per-Diem---NYP-CNYPAI_00873639) | 3d |
-| Registered Nurse - RN – Post Anesthesia Care Unit (PACU) – Nights (8PM-8AM) | NYP/Brooklyn Methodist Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Registered-Nurse---RN---Post-Anesthesia-Care-Unit--PACU----Nights--8PM-8AM-_00871684-1) | 3d |
-| Certified MRI Technologist - Full Time - Days - Columbia (CNYPAI) - *Offering Sign-on Bonus!* | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Certified-MRI-Technologist---Full-Time---Days---NYP-CNYPAI----Now-offering-competitive-sign-on-bonus-up-to--10-000--_00870417-1) | 3d |
 | Registered Nurse – RN – Perioperative Services - Center for Community Health (CCH) - Full Time – Days (6:45AM-5:15PM) | NYP/Brooklyn Methodist Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Registered-Nurse---RN---Perioperative-Services---Center-for-Community-Health--CCH----Full-Time---Days--6-45AM-5-15PM-_00870397-1) | 3d |
 | Registered Nurse - Labor & Delivery - Full Time Night | NYP/Queens | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPQueens/Registered-Nurse---Labor---Delivery---Full-Time-Night_00872368-2) | 3d |
 | Surgical Technician - Perioperative Services – Full-time – 11:00AM-9:30PM | NYP/Brooklyn Methodist Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Surgical-Technician---Perioperative-Services---Full-time---Days--7AM-5-30PM-_00870266-1) | 3d |
@@ -432,7 +426,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (43 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (15) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (45)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (37 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (15) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (45)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -448,8 +442,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 159 | 56% | No or minimal experience |
-| 🟡 Beginner & Early Career | 32 | 11% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 153 | 55% | No or minimal experience |
+| 🟡 Beginner & Early Career | 32 | 12% | 1-2 years of experience |
 | 🔴 Manager     | 93 | 33% | 2+ years of experience |
 
 ---
@@ -459,16 +453,16 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Multiple Cities**: 13 positions
 - **O'Fallon, IL**: 11 positions
 - **Abbott Northwestern Hospital**: 11 positions
-- **NYP/Brooklyn Methodist Hospital**: 10 positions
-- **NYP/Columbia University Irving Medical Center**: 9 positions
+- **NYP/Brooklyn Methodist Hospital**: 9 positions
 - **Springfield, IL**: 8 positions
+- **NYP/Columbia University Irving Medical Center**: 7 positions
 - **Richmond, VA**: 7 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 284+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 278+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -679,7 +673,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **284 current opportunities from 9 elite companies.**
+🎯 **278 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
