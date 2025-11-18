@@ -4858,5 +4858,17 @@
     "job_title": "Occupational Therapist II - Per Diem",
     "company": "Endeavor Health",
     "first_seen": "2025-11-18T21:49:05.772Z"
+  },
+  "cleaveland-clinic-nurse-practitioner/physician-assistant---interventional-pain-nashville": {
+    "assigned_date": "2025-11-18T22:08:53.926Z",
+    "job_title": "Nurse Practitioner/Physician Assistant - Interventional Pain",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-18T22:08:53.926Z"
+  },
+  "cleaveland-clinic-data-scientist-assistant-nashville": {
+    "assigned_date": "2025-11-18T22:08:53.926Z",
+    "job_title": "Data Scientist Assistant",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-18T22:08:53.926Z"
   }
 }
