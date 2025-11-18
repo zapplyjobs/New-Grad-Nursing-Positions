@@ -1,6 +1,4 @@
 [
-  "cleaveland-clinic-medical-technologist-mlt-lab-technician-general-lab-florida-weston-hospital",
-  "cleaveland-clinic-medical-technologist-mlt-lab-technician-iv-molecular-micro-cleveland-clinic-in-campus",
   "cleaveland-clinic-medical-technologist-mlt-lab-technician-molecular-diagnostic-lab-cleveland-clinic-in-campus",
   "cleaveland-clinic-medical-technologist-mlt-lab-technician-special-chemistry-cleveland-clinic-main-campus",
   "cleaveland-clinic-mental-health-technician-prn-nashville",
@@ -327,6 +325,7 @@
   "cleaveland-clinic-patient-care-nurse-assistant-pcna-med-surg-avon-hospital",
   "cleaveland-clinic-patient-care-nurse-assistant-pcna-med-surg-medina-hospital",
   "cleaveland-clinic-patient-care-nurse-assistant-pcna-medical-telemetry-mercy-hospital",
+  "cleaveland-clinic-patient-care-nurse-assistant-pcna-progressive-coronary-care-unit-fairview-hospital",
   "cleaveland-clinic-patient-care-nurse-assistant-pcna-rapid-observation-unit-avon-hospital",
   "cleaveland-clinic-patient-care-nurse-assistant-pcna-stepdown-unit-avon-hospital",
   "cleaveland-clinic-patient-care-nurse-assistant-pcna-surgical-intensive-care-unit-sicu-indian-river-hospital",
@@ -1264,6 +1263,7 @@
   "cleaveland-clinic-ultrasound-technologist-vero-radiology-associates",
   "cleaveland-clinic-unarmed-security-officer-florida-weston-hospital",
   "cleaveland-clinic-unarmed-security-officer-indian-river-hospital",
+  "cleaveland-clinic-unit-support-assistant-birthing-center-fairview-hospital",
   "cleaveland-clinic-vascular-sonographer-10k-sign-on-nashville",
   "cleaveland-clinic-vip-prn-registered-nurse-clarksville",
   "cleaveland-clinic-vip-sonographer-oho-outpatient-nashville",
