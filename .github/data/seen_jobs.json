@@ -1,6 +1,4 @@
 [
-  "cleaveland-clinic-patient-care-nurse-assistant-cardiac-vip-cleveland-clinic-main-campus",
-  "cleaveland-clinic-patient-care-nurse-assistant-cardiology-stepdown-unit-cleveland-clinic-main-campus",
   "cleaveland-clinic-patient-care-nurse-assistant-cardiovascular-surgery-stepdown-cleveland-clinic-in-campus",
   "cleaveland-clinic-patient-care-nurse-assistant-cleveland-clinic-in-campus",
   "cleaveland-clinic-patient-care-nurse-assistant-colorectal-surgery-cleveland-clinic-in-campus",
@@ -4597,6 +4595,7 @@
   "intermountain-health-anesthesia-technician-platte-valley-hospital",
   "intermountain-health-anesthesia-technician-saint-joseph-hospital",
   "intermountain-health-anesthesia-technician-st-rys-regional-hospital",
+  "intermountain-health-app-children-s-justice-center-grand-carbon-counties-childrens-justice-center-grand",
   "intermountain-health-app-pediatric-outpatient-bmt-intermountain-health-primary-childrens-hospital",
   "intermountain-health-app-prn-pediatric-hematology-intermountain-health-primary-childrens-hospital",
   "intermountain-health-application-analyst-lake-park-building",
@@ -9300,6 +9299,7 @@
   "vcu-health-inpatient-pharmacy-technician-richmond",
   "vcu-health-laboratory-scientist-mls-cls-mt-blood-bank-days-richmond",
   "vcu-health-laboratory-scientist-mls-cls-mt-chemistry-days-richmond",
+  "vcu-health-laboratory-scientist-mls-cls-mt-hematology-days-richmond",
   "vcu-health-laboratory-scientist-mls-cls-mt-new-kent-ed-evenings-new-kent",
   "vcu-health-laboratory-scientist-mls-cls-mt-supr-new-kent-ed-days-new-kent",
   "vcu-health-licensed-practical-nurse-lpn-acute-care-rotating-tappahannock",
