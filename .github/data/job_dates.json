@@ -5188,5 +5188,23 @@
     "job_title": "Patient Care Technician-Emergency Department - Nights",
     "company": "Endeavor Health",
     "first_seen": "2025-11-19T21:47:28.614Z"
+  },
+  "cleaveland-clinic-mammo-tech-2---breast-center---weekdays-nashville": {
+    "assigned_date": "2025-11-19T22:34:14.437Z",
+    "job_title": "Mammo Tech 2 - Breast Center - Weekdays",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-19T22:34:14.437Z"
+  },
+  "cleaveland-clinic-ct-tech-training-program---arrt-required---vuh-nashville": {
+    "assigned_date": "2025-11-19T22:34:14.437Z",
+    "job_title": "CT Tech Training Program - ARRT Required - VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-19T22:34:14.437Z"
+  },
+  "endeavor-health-patient-care-tech---postpartum---nights-evh-womens-hospital-evanston": {
+    "assigned_date": "2025-11-19T22:34:14.437Z",
+    "job_title": "Patient Care Tech - Postpartum - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-19T22:34:14.437Z"
   }
 }
