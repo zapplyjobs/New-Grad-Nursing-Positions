@@ -1,6 +1,4 @@
 [
-  "cleaveland-clinic-pcna-cleveland-clinic-main-campus",
-  "cleaveland-clinic-pcna-for-5-north-full-time-days-indian-river-hospital",
   "cleaveland-clinic-pcna-general-medicine-medina-hospital",
   "cleaveland-clinic-pcna-internal-medicine-telemetry-cleveland-clinic-in-campus",
   "cleaveland-clinic-pcna-neuro-medical-surgical-cleveland-clinic-in-campus",
@@ -4604,6 +4602,7 @@
   "intermountain-health-cook-intermountain-health-intermountain-medical-center",
   "intermountain-health-cook-intermountain-health-lutheran-hospital",
   "intermountain-health-cook-intermountain-health-sevier-valley-hospital",
+  "intermountain-health-cook-intermountain-health-st-vincent-regional-hospital",
   "intermountain-health-cook-intermountain-health-utah-valley-hospital",
   "intermountain-health-cook-on-call-intermountain-health-utah-valley-hospital",
   "intermountain-health-cook-prn-intermountain-health-cassia-regional-hospital",
@@ -9349,6 +9348,7 @@
   "vcu-health-patient-care-tech-acute-care-medicine-days-richmond",
   "vcu-health-patient-care-tech-acute-care-pediatrics-rotating-richmond",
   "vcu-health-patient-care-tech-acute-care-peds-12-prn-richmond",
+  "vcu-health-patient-care-tech-acute-care-surgery-rotating-prn-richmond",
   "vcu-health-patient-care-tech-acute-care-surgery-rotating-richmond",
   "vcu-health-patient-care-tech-burn-icu-progressive-care-nights-richmond",
   "vcu-health-patient-care-tech-burn-icu-progressive-care-rotating-prn-richmond",
