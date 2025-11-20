@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-307-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-308-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 307+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 308+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 307 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 308 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** November 20, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -387,26 +387,27 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### 🔗 **Integrated Health Networks** (51 positions)
+### 🔗 **Integrated Health Networks** (52 positions)
 
 <details>
-<summary><h4>💙 <strong>Allina Health</strong> (39 positions)</h4></summary>
+<summary><h4>💙 <strong>Allina Health</strong> (40 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Family Medicine Physician Brooklyn Park | Allina Health Brooklyn Park Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Brooklyn-Park-Clinic/Family-Medicine-Physician-Brooklyn-Park_R-0067721) | 1d |
-| Respiratory Therapist | New Ulm Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/New-Ulm-Medical-Center/Respiratory-Therapist_R-0067720) | 1d |
-| RN Triage | Allina Commons | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Commons/RN-Triage_R-0067714) | 1d |
-| Clinic RN | Allina Health Woodbury Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Woodbury-Clinic/Clinic-RN_R-0067710) | 1d |
-| Patient Care Technician | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Patient-Care-Technician_R-0067711) | 1d |
-| Dietary Aide | AH Faribault Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Faribault-Medical-Center/Dietary-Aide_R-0067708) | 1d |
-| Cook | AH Faribault Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Faribault-Medical-Center/Cook_R-0067707) | 1d |
-| Mental Health Licensed Therapist - LMFT / LICSW / LPCC | AH Faribault Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Faribault-Medical-Center/Mental-Health-Licensed-Therapist---LMFT---LICSW---LPCC_R-0067293-1) | 1d |
-| RN Primary Care | Allina Health Shakopee Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Shakopee-Clinic/RN-Primary-Care_R-0067706) | 1d |
-| RN Clinic - Primary Care | AH Plymouth Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Plymouth-Clinic/RN-Clinic---Primary-Care_R-0067698) | 1d |
-| Licensed Practical Nurse - Urgent Care | St Francis Urgent Care Shakopee Southbridge | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/St-Francis-Urgent-Care-Shakopee-Southbridge/Licensed-Practical-Nurse---Urgent-Care_R-0067705) | 1d |
-| Licensed Practical Nurse Primary Care | Allina Health Buffalo Crossroads Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Buffalo-Crossroads-Clinic/Licensed-Practical-Nurse-Primary-Care_R-0067704) | 1d |
-| CT Technologist | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/CT-Technologist_R-0067703) | 1d |
+| Observation Assistant 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Observation-Assistant_R-0067716) | 1d |
+| Family Medicine Physician Brooklyn Park 🏠 | Allina Health Brooklyn Park Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Brooklyn-Park-Clinic/Family-Medicine-Physician-Brooklyn-Park_R-0067721) | 1d |
+| Respiratory Therapist 🏠 | New Ulm Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/New-Ulm-Medical-Center/Respiratory-Therapist_R-0067720) | 1d |
+| RN Triage 🏠 | Allina Commons | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Commons/RN-Triage_R-0067714) | 1d |
+| Clinic RN 🏠 | Allina Health Woodbury Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Woodbury-Clinic/Clinic-RN_R-0067710) | 1d |
+| Patient Care Technician 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Patient-Care-Technician_R-0067711) | 1d |
+| Dietary Aide 🏠 | AH Faribault Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Faribault-Medical-Center/Dietary-Aide_R-0067708) | 1d |
+| Cook 🏠 | AH Faribault Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Faribault-Medical-Center/Cook_R-0067707) | 1d |
+| Mental Health Licensed Therapist - LMFT / LICSW / LPCC 🏠 | AH Faribault Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Faribault-Medical-Center/Mental-Health-Licensed-Therapist---LMFT---LICSW---LPCC_R-0067293-1) | 1d |
+| RN Primary Care 🏠 | Allina Health Shakopee Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Shakopee-Clinic/RN-Primary-Care_R-0067706) | 1d |
+| RN Clinic - Primary Care 🏠 | AH Plymouth Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Plymouth-Clinic/RN-Clinic---Primary-Care_R-0067698) | 1d |
+| Licensed Practical Nurse - Urgent Care 🏠 | St Francis Urgent Care Shakopee Southbridge | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/St-Francis-Urgent-Care-Shakopee-Southbridge/Licensed-Practical-Nurse---Urgent-Care_R-0067705) | 1d |
+| Licensed Practical Nurse Primary Care 🏠 | Allina Health Buffalo Crossroads Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Buffalo-Crossroads-Clinic/Licensed-Practical-Nurse-Primary-Care_R-0067704) | 1d |
+| CT Technologist 🏠 | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/CT-Technologist_R-0067703) | 1d |
 | Surgical Support Aide | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Surgical-Support-Aide_R-0067377) | 1d |
 | Medical Assistant Primary Care | Allina Health Hastings Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Hastings-Clinic/Medical-Assistant-Urgent-Care_R-0065604-1) | 1d |
 | Emergency Department Medical Technician | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Emergency-Department-Medical-Technician_R-0067694) | 1d |
@@ -417,7 +418,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Nursing Assistant Medical Surgical | St Francis Regional Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/St-Francis-Regional-Medical-Center/Nursing-Assistant-Medical-Surgical_R-0067691) | 1d |
 | RN Medical Surgical | Cambridge Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Cambridge-Medical-Center/RN-Medical-Surgical_R-0067548) | 1d |
 | Patient Access Representative Associate | Owatonna Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Owatonna-Hospital/Patient-Access-Representative-Associate_R-0067690) | 1d |
-| RN Medical Surgical | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/RN-Medical-Surgical_R-0067687) | 1d |
+| RN Medical Surgical 🏠 | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/RN-Medical-Surgical_R-0067687) | 1d |
 | Diagnostic Imaging Assistant 🏠 | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/Diagnostic-Imaging-Assistant_R-0067686) | 1d |
 | Cook 🏠 | Owatonna Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Owatonna-Hospital/Cook_R-0067155-1) | 1d |
 | Oncology Infusion RN 🏠 | Allina Health Cancer Institute Abbott Northwestern Minneapolis | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Cancer-Institute-Abbott-Northwestern-Minneapolis/Oncology-Infusion-RN_R-0067667-1) | 1d |
@@ -477,9 +478,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 123 | 40% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 137 | 44% | No or minimal experience |
 | 🟡 Beginner & Early Career | 34 | 11% | 1-2 years of experience |
-| 🔴 Manager     | 150 | 49% | 2+ years of experience |
+| 🔴 Manager     | 137 | 44% | 2+ years of experience |
 
 ---
 
@@ -497,7 +498,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 307+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 308+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -647,7 +648,7 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Summer 2026 Nurse Internship | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Summer-2026-Nurse-Internship_R-0067086) | 1w |
+| Summer 2026 Nurse Internship 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Summer-2026-Nurse-Internship_R-0067086) | 1w |
 
 <details>
 <summary><h4>🏨 <strong>Endeavor Health</strong> (44 positions)</h4></summary>
@@ -707,7 +708,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **307 current opportunities from 9 elite companies.**
+🎯 **308 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
