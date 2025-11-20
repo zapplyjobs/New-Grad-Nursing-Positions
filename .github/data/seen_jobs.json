@@ -1,6 +1,4 @@
 [
-  "cleaveland-clinic-patient-care-nurse-assistant-med-surg-hillcrest-hospital",
-  "cleaveland-clinic-patient-care-nurse-assistant-med-surg-observation-south-pointe-hospital",
   "cleaveland-clinic-patient-care-nurse-assistant-med-surg-south-pointe-hospital",
   "cleaveland-clinic-patient-care-nurse-assistant-med-surg-telemetry-euclid-hospital",
   "cleaveland-clinic-patient-care-nurse-assistant-med-surg-telemetry-mercy-hospital",
@@ -590,6 +588,7 @@
   "cleaveland-clinic-rn-ambulatory-gynecology-cleveland-clinic-in-campus",
   "cleaveland-clinic-rn-ambulatory-hematology-oncology-cleveland-clinic-main-campus",
   "cleaveland-clinic-rn-ambulatory-infusion-cleveland-clinic-in-campus",
+  "cleaveland-clinic-rn-ambulatory-infusion-indian-river-hospital",
   "cleaveland-clinic-rn-ambulatory-infusion-lodi-community-hospital",
   "cleaveland-clinic-rn-ambulatory-internal-medicine-austintown-medical-outpatient-center-a-b-c",
   "cleaveland-clinic-rn-ambulatory-internal-medicine-the-richard-jacobs-health-center",
@@ -640,6 +639,7 @@
   "cleaveland-clinic-rn-cardiac-step-down-mercy-hospital",
   "cleaveland-clinic-rn-cardiac-stepdown-indian-river-hospital",
   "cleaveland-clinic-rn-cardiac-stepdown-prn-nights-indian-river-hospital",
+  "cleaveland-clinic-rn-cardiac-stepdown-unit-indian-river-hospital",
   "cleaveland-clinic-rn-cardiac-telemetry-and-nephrology-akron-general-medical-center",
   "cleaveland-clinic-rn-cardiac-telemetry-and-renal-unit-akron-general-medical-center",
   "cleaveland-clinic-rn-cardiology-stepdown-cleveland-clinic-in-campus",
