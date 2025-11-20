@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-311-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-303-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 311+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 303+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 311 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 303 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** November 20, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -137,7 +137,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Surgical Tech II, Cardiac Team - $20k Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Surgical-Tech-II--CVOR----20k-Sign-On-Bonus_R-37372-1) | 6h |
 | Mammo Tech 2 - Breast Center - Weekdays 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Mammography-Tech-2---100-Oaks-Breast-Center_R-48906-1) | 21h |
 | CT Tech Training Program - ARRT Required - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/CT-Tech-Training-Program---ARRT-Required---VUH_R-50794-1) | 21h |
-| Phlebotomist 2- Franklin 🏠 | Franklin, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/Phlebotomist-2--Franklin_R-50344-1) | 22h |
+| Phlebotomist 2- Franklin 🏠 | Franklin, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/Phlebotomist-2--Franklin_R-50344-1) | 23h |
 | Charge Nurse, RN - Ear, Nose & Throat Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-Charge_R-47578) | 1d |
 | Nurse Assist PRN (Wilson County Med/Surg) 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Nurse-Assist-PRN_R-47094) | 1d |
 | Certified Medical Assistant 🏠 | Franklin, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/Certified-Medical-Assistant_R-49875) | 1d |
@@ -227,10 +227,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### ✝️ **Faith-Based Health Systems** (88 positions)
+### ✝️ **Faith-Based Health Systems** (80 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (45 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (40 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -246,11 +246,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | CVICU RN PRN | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/CVICU-RN-PRN_R1033599) | 1d |
 | Resident-Pharmacist | O'Fallon - St. Elizabeth's Hospital | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon---St-Elizabeths-Hospital/Resident-Pharmacist_R1033431) | 1d |
 | Nurse Extern | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Nurse-Extern-I_R1033500) | 1d |
-| Patient Care Assistant (CNA) | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Patient-Care-Assistant--CNA-_R1033536-1) | 1d |
-| Patient Care Assistant | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Patient-Care-Assistant-II_R1033537) | 1d |
-| Pharmacy Tech, PRN | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Pharmacy-Tech--PRN_R1033196) | 1d |
-| Medical Assistant (MA) I - Family Internal Medicine | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Medical-Assistant--MA--Family-Internal-Medicine_R1031202) | 1d |
-| Telemetry Technician | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Telemetry-Technician_R1032970) | 1d |
 | Registered Nurse(RN)- Children's Ministry Float | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse-RN---Children-s-Ministry-Float_R1031218) | 1d |
 | Cardiovascular Technician | Litchfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Litchfield-IL/Cardiovascular-Technician_R1032989-1) | 1d |
 | Medical Assistant (MA) - Multispecialty Mattoon | Mattoon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Mattoon-IL/Medical-Assistant--MA----Multispecialty-Mattoon_R1033429) | 1d |
@@ -283,10 +278,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </details>
 
 <details>
-<summary><h4>⛰️ <strong>Intermountain Health</strong> (43 positions)</h4></summary>
+<summary><h4>⛰️ <strong>Intermountain Health</strong> (40 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Surgical Technologist Certified | Good Samaritan Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Good-Samaritan-Hospital/Surgical-Technologist-Certified_R156728) | 1d |
+| Patient Transporter | St. rys Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/St-Marys-Regional-Hospital/Patient-Transporter_R156187) | 1d |
 | Home Medical Equipment Representative | Home Services - Mount Pleasant | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Home-Services---Mount-Pleasant/Home-Medical-Equipment-Representative_R156869) | 1d |
 | Patient Service Representative | Butte Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Butte-Clinic/Patient-Service-Representative_R155680-1) | 1d |
 | Grill Cook | Intermountain Health St Vincent Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Grill-Cook_R143047) | 1d |
@@ -298,9 +295,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Mammography Technologist $2500. Sign-on Bonus | Intermountain Health Riverton Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/Mammography-Technologist_R151299) | 1d |
 | Electrophysiologist Las Vegas NV | Warm Springs Cardiology | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Warm-Springs-Cardiology/Electrophysiologist-Las-Vegas-NV_R155762) | 1d |
 | Medical Lab Scientist | Intermountain Health Sanpete Valley Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Sanpete-Valley-Hospital/Medical-Lab-Scientist_R148481) | 1d |
-| Cook PRN | Intermountain Health Riverton Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/Cook_R149794) | 1d |
-| Medical Assistant Bozeman Midtown Clinic | Bozeman Midtown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Bozeman-Midtown-Clinic/Medical-Assistant-Bozeman-Midtown-Clinic_R152899) | 1d |
-| Patient Care Technician CNA Intermediate Neuro | Intermountain Health St George Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Patient-Care-Technician-CNA-Intermediate-Neuro_R156435-1) | 1d |
+| Medical Assistant Bozeman Midtown Clinic 🏠 | Bozeman Midtown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Bozeman-Midtown-Clinic/Medical-Assistant-Bozeman-Midtown-Clinic_R152899) | 1d |
+| Patient Care Technician CNA Intermediate Neuro 🏠 | Intermountain Health St George Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Patient-Care-Technician-CNA-Intermediate-Neuro_R156435-1) | 1d |
 | Nutrition Care Associate 🏠 | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Nutrition-Care-Associate_R156694) | 1d |
 | Registered Nurse Allergy 🏠 | Intermountain Health St George Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Registered-Nurse-Rheumatology_R156517) | 1d |
 | Epic MyChart Application Analyst 🏠 | Peaks Regional Office | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Peaks-Regional-Office/Epic-MyChart-Application-Analyst_R154992) | 1d |
@@ -312,9 +308,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Patient Care Tech CNA Medical Oncology 🏠 | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Patient-Care-Tech-CNA-Medical-Oncology_R135629) | 1d |
 | Orderly 🏠 | Intermountain Health LDS Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-LDS-Hospital/Orderly_R155027) | 1d |
 | Registered Nurse Labor and Delivery 🏠 | Intermountain Health Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/Registered-Nurse-Labor-and-Delivery_R155946) | 1d |
-| Medical Assistant 🏠 | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Medical-Assistant_R153354) | 1d |
-| CV Critical Care Physician 🏠 | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/CV-Critical-Care-Physician_R155980) | 1d |
-| Training Medical Assistant Resident Patterson Primary Care 🏠 | Patterson Primary Care Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Patterson-Primary-Care-Clinic/Medical-Assistant-Resident-Patterson-Primary-Care_R152964) | 1d |
+| Medical Assistant | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Medical-Assistant_R153354) | 1d |
+| CV Critical Care Physician | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/CV-Critical-Care-Physician_R155980) | 1d |
+| Training Medical Assistant Resident Patterson Primary Care | Patterson Primary Care Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Patterson-Primary-Care-Clinic/Medical-Assistant-Resident-Patterson-Primary-Care_R152964) | 1d |
 | Registered Nurse Rheumatology | Utah Valley Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Utah-Valley-Clinic/Registered-Nurse-Rheumatology_R155160) | 1d |
 | Registered Nurse Labor and Delivery | St. rys Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/St-Marys-Regional-Hospital/Registered-Nurse-Labor-and-Delivery_R156327) | 1d |
 | Surgical Technologist | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Surgical-Technologist_R156458) | 1d |
@@ -326,10 +322,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Mammography Technologist $1,500 Sign on Bonus | Intermountain Health Park City Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Park-City-Hospital/Mammography-Technologist_R123016) | 1d |
 | Sterile Processing Technician | Intermountain Health Utah Valley Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Utah-Valley-Hospital/Sterile-Processing-Technician_R156740-1) | 1d |
 | Fixed Wing Pilot in Command | Cortez Air se | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Classic-Aviation/Fixed-Wing-Pilot-in-Command_R143503-1) | 1d |
-| Rotor Wing Pilot in Command | Cortez Air se | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Valley-Center-Tower/Rotor-Wing-Pilot-in-Command_R143641-1) | 1d |
-| Medical Assistant OBGYN Clinics | Wellington OB-GYN Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Patterson-OB-GYN-and-Midwifery-Clinic/Medical-Assistant-OBGYN-Clinics_R155695) | 1d |
-| Nutrition Care Associate | Intermountain Health Primary Childrens Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/Nutrition-Care-Associate_R156861) | 1d |
-| EVS Technician | Intermountain Health Riverton Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/EVS-Technician_R156864) | 1d |
 
 </details>
 
@@ -449,7 +441,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse - Emergency Department- Nights | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/RN---Elmhurst-ED---Nights_R13022?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 23h |
 | Registered Nurse-Emergency Departement - Nights | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/RN---EDW-ED---Days_R23464?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 23h |
 | Respiratory Therapist - Nights | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Respiratory-Therapist---Nights_R36107-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
-| Patient Care Technician, Cardiac Medical Telemetry -Nights | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Patient-Care-Technician--Cardiac-Medical-Telemetry--Nights_R34805-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 14h |
+| Patient Care Technician, Cardiac Medical Telemetry -Nights | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Patient-Care-Technician--Cardiac-Medical-Telemetry--Nights_R34805-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 15h |
 | Patient Care Technician, Medical Surgical Telemetry- Nights | HPH Highland Park Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/Patient-Care-Technician--Medical-Surgical-Telemetry--Nights_R36078?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 17h |
 | Medical Assistant - Immediate Care | EDO Oswego 6701 US HIGHWAY | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDO-Oswego-6701-US-HIGHWAY-34/Medical-Assistant---Immediate-Care_R36265?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 18h |
 | Medical Assistant - Immediate Care | EMO Lombard 130 S in Street | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMO-Lombard-130-S-Main-Street/Medical-Assistant---Immediate-Care_R36259?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 18h |
@@ -468,7 +460,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (39 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (16) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (43)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (39 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (16) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (40)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -484,9 +476,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 131 | 42% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 131 | 43% | No or minimal experience |
 | 🟡 Beginner & Early Career | 49 | 16% | 1-2 years of experience |
-| 🔴 Manager     | 131 | 42% | 2+ years of experience |
+| 🔴 Manager     | 123 | 41% | 2+ years of experience |
 
 ---
 
@@ -494,17 +486,17 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Nashville, TN**: 19 positions
 - **Richmond, VA**: 16 positions
 - **Strong Memorial Hospital**: 15 positions
-- **Green Bay, WI**: 13 positions
 - **NYP/Columbia University Irving Medical Center**: 12 positions
 - **Multiple Cities**: 11 positions
-- **Springfield, IL**: 11 positions
+- **Green Bay, WI**: 11 positions
 - **Cleveland Clinic in Campus**: 10 positions
+- **Springfield, IL**: 10 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 311+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 303+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -714,7 +706,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **311 current opportunities from 9 elite companies.**
+🎯 **303 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
