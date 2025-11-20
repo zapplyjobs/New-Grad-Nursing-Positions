@@ -1,6 +1,4 @@
 [
-  "cleaveland-clinic-pharmacy-technician-medication-access-cleveland-clinic-main-campus",
-  "cleaveland-clinic-pharmacy-technician-medication-access-multiple-cities",
   "cleaveland-clinic-pharmacy-technician-oncology-cleveland-clinic-main-campus",
   "cleaveland-clinic-pharmacy-technician-operating-room-cleveland-clinic-main-campus",
   "cleaveland-clinic-pharmacy-technician-pediatrics-cleveland-clinic-in-campus",
@@ -3589,6 +3587,7 @@
   "hshs-educator-outpatient-clinical-documentation-integrity-springfield",
   "hshs-emergency-department-registered-nurse-critical-care-w-springfield",
   "hshs-emergency-ed-registered-nurse-critical-care-springfield",
+  "hshs-emergency-technician-springfield",
   "hshs-ems-internship-emergency-department-o-fallon",
   "hshs-epic-analyst-anesthesia-optime-springfield-information-services-center",
   "hshs-epic-analyst-ii-mychart-springfield",
@@ -3598,6 +3597,7 @@
   "hshs-health-clerk-icu-o-fallon",
   "hshs-health-clerk-o-fallon-st-elizabeth-s-hospital",
   "hshs-health-clerk-patient-care-assistant-cna-er-green-bay",
+  "hshs-health-clerk-springfield",
   "hshs-histology-technician-green-bay",
   "hshs-home-health-aide-hshs-home-care-belleville",
   "hshs-hr-service-center-rep-springfield",
