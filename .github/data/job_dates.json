@@ -5590,5 +5590,17 @@
     "job_title": "Patient Care Tech - Mother Baby - Days - Per Diem",
     "company": "Endeavor Health",
     "first_seen": "2025-11-21T16:09:13.323Z"
+  },
+  "cleaveland-clinic-registered-nurse,-cardiovascular-progressive-care,-night-shift---vuh-nashville": {
+    "assigned_date": "2025-11-21T16:40:58.762Z",
+    "job_title": "Registered Nurse, Cardiovascular Progressive Care, Night Shift - VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-21T16:40:58.762Z"
+  },
+  "cleaveland-clinic-np-nurse-practitioner-or-pa-physician-assistant-surgical-icu-nights-nashville": {
+    "assigned_date": "2025-11-21T16:40:58.762Z",
+    "job_title": "NP Nurse Practitioner or PA Physician Assistant Surgical ICU Nights",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-21T16:40:58.762Z"
   }
 }
