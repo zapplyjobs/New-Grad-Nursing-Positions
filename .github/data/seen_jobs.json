@@ -1,6 +1,4 @@
 [
-  "cleaveland-clinic-prn-nurse-technician-micu-sicu-akron-general-medical-center",
-  "cleaveland-clinic-prn-patient-care-nurse-assistant-marymount-rymount-hospital",
   "cleaveland-clinic-prn-patient-care-nursing-assistant-cardiovascular-surgical-care-mercy-hospital",
   "cleaveland-clinic-prn-patient-care-nursing-assistant-epilepsy-monitoring-unit-akron-general-medical-center",
   "cleaveland-clinic-prn-patient-care-nursing-assistant-med-surg-telemetry-mercy-hospital",
@@ -1693,6 +1691,7 @@
   "endeavor-health-patient-service-rep-internal-medicine-edo-naperville-1331-w-75th-street",
   "endeavor-health-patient-service-rep-medical-assistant-primary-care-edo-bolingbrook-130-n-weber-road",
   "endeavor-health-patient-service-rep-obgyn-emo-addison-303-w-lake-street",
+  "endeavor-health-patient-service-rep-primary-care-emo-lombard-130-s-in-street",
   "endeavor-health-patient-service-representative-and-insurance-verifier-rehab-services-edo-naperville-1331-w-75th-street",
   "endeavor-health-patient-service-representative-and-insurance-verifier-rehab-services-nch-900-w-central-rd-arlington-heights",
   "endeavor-health-patient-service-representative-edo-naperville",
@@ -9211,6 +9210,7 @@
   "vcu-health-certified-medical-assistant-cma-infectious-disease-clinic-days-richmond",
   "vcu-health-certified-medical-assistant-cma-infectious-disease-clinic-prn-richmond",
   "vcu-health-certified-medical-assistant-cma-massey-cancer-center-days-richmond",
+  "vcu-health-certified-medical-assistant-cma-massey-cancer-center-prn-richmond",
   "vcu-health-certified-medical-assistant-cma-multispecialty-clinic-weekday-prn-richmond",
   "vcu-health-certified-medical-assistant-cma-short-pump-pavilion-multispecialty-clinic-days-henrico",
   "vcu-health-certified-medical-assistant-cma-stony-point-multi-specialty-clinic-days-richmond",
