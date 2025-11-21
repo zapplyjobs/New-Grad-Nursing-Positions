@@ -5722,5 +5722,41 @@
     "job_title": "Registered Nurse - Cath Lab",
     "company": "Endeavor Health",
     "first_seen": "2025-11-21T20:09:24.131Z"
+  },
+  "endeavor-health-rn---cath-&-ep-lab-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-21T20:48:54.712Z",
+    "job_title": "RN - Cath & EP Lab",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-21T20:48:54.712Z"
+  },
+  "endeavor-health-interventional-procedures-tech---cath-lab-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-11-21T20:48:54.712Z",
+    "job_title": "Interventional Procedures Tech - Cath Lab",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-21T20:48:54.712Z"
+  },
+  "endeavor-health-medical-assistant---gi-multiple-cities": {
+    "assigned_date": "2025-11-21T20:48:54.712Z",
+    "job_title": "Medical Assistant - GI",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-21T20:48:54.712Z"
+  },
+  "endeavor-health-patient-care-technician-emergency-department-night-edh-in-hospital-naperville": {
+    "assigned_date": "2025-11-21T20:48:54.712Z",
+    "job_title": "Patient Care Technician-Emergency Department-Night",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-21T20:48:54.712Z"
+  },
+  "endeavor-health-patient-care-technician,-general-medical-telemetry--evening-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-11-21T20:48:54.712Z",
+    "job_title": "Patient Care Technician, General Medical Telemetry- Evening",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-21T20:48:54.712Z"
+  },
+  "endeavor-health-patient-care-technician,-general-medical-telemetry,-days-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-11-21T20:48:54.712Z",
+    "job_title": "Patient Care Technician, General Medical Telemetry, Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-21T20:48:54.712Z"
   }
 }
