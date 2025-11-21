@@ -5686,5 +5686,17 @@
     "job_title": "Department Support Assistant I - Mother Baby - Days",
     "company": "Endeavor Health",
     "first_seen": "2025-11-21T19:07:25.498Z"
+  },
+  "cleaveland-clinic-standardized-patient-nashville": {
+    "assigned_date": "2025-11-21T19:19:44.612Z",
+    "job_title": "Standardized Patient",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-21T19:19:44.612Z"
+  },
+  "endeavor-health-medical-office-receptionist-nco-15-s-mchenry-rd-buffalo-grove": {
+    "assigned_date": "2025-11-21T19:19:44.613Z",
+    "job_title": "Medical Office Receptionist",
+    "company": "Endeavor Health",
+    "first_seen": "2025-11-21T19:19:44.613Z"
   }
 }
