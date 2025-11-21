@@ -1,6 +1,4 @@
 [
-  "cleaveland-clinic-phlebotomist-technician-lakewood-family-health-center",
-  "cleaveland-clinic-phlebotomy-lab-tech-akron-general-medical-center",
   "cleaveland-clinic-phlebotomy-technician-avon-hospital",
   "cleaveland-clinic-phlebotomy-technician-beachwood-family-health-and-surgery-center",
   "cleaveland-clinic-phlebotomy-technician-cleveland-clinic-in-campus",
@@ -7467,6 +7465,7 @@
   "new-york-presbyterian-part-time-pt-aide-receptionist-hudson-valley-nyp-hudson-valley",
   "new-york-presbyterian-patient-assistant-dhk-endoscopy-full-time-days-nyp-weill-cornell-medical-center",
   "new-york-presbyterian-patient-assistant-labor-and-delivery-evening-nyp-weill-cornell-medical-center",
+  "new-york-presbyterian-patient-assistant-labor-and-delivery-part-time-evening-nyp-weill-cornell-medical-center",
   "new-york-presbyterian-patient-assistant-wc-ambulatory-surgery-recovery-full-time-evenings-nyp-weill-cornell-medical-center",
   "new-york-presbyterian-patient-care-partner-3-north-telemetry-full-time-nights-nyp-westchester",
   "new-york-presbyterian-patient-care-technician-dhk9-practice-weill-cornell-medical-center-nyp-weill-cornell-medical-center",
@@ -9269,6 +9268,7 @@
   "vcu-health-enteral-nutrition-tech-clinical-nutrition-services-part-time-days-loc100064-west-hospital",
   "vcu-health-environmental-services-aide-children-s-pavilion-on-brook-road-days-richmond",
   "vcu-health-environmental-services-aide-evenings-part-time-south-hill",
+  "vcu-health-environmental-services-aide-south-hill",
   "vcu-health-environmental-services-aide-tappahannock-days-tappahannock",
   "vcu-health-environmental-services-aide-tappahannock-hospital-days-tappahannock",
   "vcu-health-guest-services-information-assistant-prn-richmond",
